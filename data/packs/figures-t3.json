@@ -1,0 +1,452 @@
+{
+  "pack": "figures-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "fig-t3-0001",
+      "concept": "fig.califes.amir",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel calife fut le premier à porter le titre d'« Amīr al-Muʾminīn » (Commandeur des croyants) ?",
+      "choices": [
+        "Abū Bakr aṣ-Ṣiddīq",
+        "ʿUmar ibn al-Khaṭṭāb",
+        "ʿUthmān ibn ʿAffān",
+        "Muʿāwiya"
+      ],
+      "answer": 1,
+      "expl": "Abū Bakr était appelé « Khalīfat Rasūl Allāh », le successeur du Messager d'Allah. Pour ʿUmar, dire « successeur du successeur » devenait lourd : on adopta « Commandeur des croyants », titre que porte encore aujourd'hui le roi du Maroc."
+    },
+    {
+      "id": "fig-t3-0002",
+      "concept": "fig.califes.peste",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel principe, encore appliqué aujourd'hui, ʿUmar suivit-il lors de la peste d'ʿAmwās en Syrie (639) ?",
+      "choices": [
+        "Brûler les maisons des malades pour arrêter le mal",
+        "Fuir la région au plus vite",
+        "Ni entrer dans la terre touchée, ni en sortir",
+        "Prier sans jamais se soigner"
+      ],
+      "answer": 2,
+      "expl": "Alors qu'il se rendait en Syrie, ʿUmar hésita ; ʿAbd ar-Raḥmān ibn ʿAwf lui rapporta le hadith : « Si vous entendez parler d'une épidémie dans une terre, n'y entrez pas ; si elle survient là où vous êtes, n'en sortez pas. » Une règle de quarantaine avant l'heure.",
+      "src": [
+        "Hadith d'ʿAbd ar-Raḥmān ibn ʿAwf — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fig-t3-0003",
+      "concept": "fig.califes.ali-armure",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que raconte le récit célèbre du procès entre le calife ʿAlī et un juif au sujet d'une armure, devant le juge Shurayḥ ?",
+      "choices": [
+        "Le calife gagna, et le juif fut puni pour vol devant tous",
+        "Le juge refusa de juger un calife",
+        "Le procès fut annulé, faute de témoins",
+        "Sans preuve, le juge donna tort au calife ; le juif se convertit"
+      ],
+      "answer": 3,
+      "expl": "Ce récit de la tradition illustre l'idéal de justice : le calife, plaignant comme un autre, n'obtint pas gain de cause sans preuve. Il montre que la loi s'applique à tous, gouvernants compris."
+    },
+    {
+      "id": "fig-t3-0004",
+      "concept": "fig.ahl-al-bayt.ibn-mashish",
+      "domain": "figures",
+      "sub": "ahl-al-bayt",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui était Moulay ʿAbd as-Salām ibn Mashīsh, dont le tombeau se trouve au Jabal ʿAlam, dans le nord du Maroc ?",
+      "choices": [
+        "Un saint chérif du XIIIe siècle, maître spirituel d'Abū l-Ḥasan ash-Shādhilī, auteur d'une célèbre prière sur le Prophète ﷺ",
+        "Un sultan almohade",
+        "Un Compagnon du Prophète ﷺ",
+        "Un général de Ṭāriq"
+      ],
+      "answer": 0,
+      "expl": "Ibn Mashīsh, descendant d'al-Ḥasan, vivait retiré dans les montagnes des Jbala. Sa prière sur le Prophète ﷺ (aṣ-ṣalāt al-mashīshiyya) est récitée dans les confréries. Son tombeau est un lieu de visite important au Maroc.",
+      "retired": true
+    },
+    {
+      "id": "fig-t3-0005",
+      "concept": "fig.ahl-al-bayt.alaouites-origine",
+      "domain": "figures",
+      "sub": "ahl-al-bayt",
+      "tier": 3,
+      "type": "qcm",
+      "q": "D'où venaient, selon la tradition, les ancêtres chorfa de la dynastie alaouite avant de s'installer au Tafilalet ?",
+      "choices": [
+        "De Bagdad, en Irak",
+        "De Yanbuʿ, en Arabie",
+        "De Cordoue, en al-Andalus",
+        "Du Caire, en Égypte"
+      ],
+      "answer": 1,
+      "expl": "La tradition rapporte qu'un descendant d'al-Ḥasan, al-Ḥasan ad-Dākhil, fut invité de Yanbuʿ par les habitants de Sijilmāsa, qui espéraient la bénédiction (baraka) d'un descendant du Prophète ﷺ pour leurs palmeraies. Ses descendants fondèrent la dynastie au XVIIe siècle."
+    },
+    {
+      "id": "fig-t3-0006",
+      "concept": "fig.compagnons.ibn-umar",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pour quoi ʿAbd Allāh ibn ʿUmar était-il particulièrement connu ?",
+      "choices": [
+        "Sa richesse",
+        "Sa poésie",
+        "Son attachement scrupuleux à imiter le Prophète ﷺ jusque dans les moindres gestes",
+        "Ses conquêtes militaires"
+      ],
+      "answer": 2,
+      "expl": "Ibn ʿUmar s'arrêtait là où le Prophète ﷺ s'était arrêté et priait là où il avait prié. Il a transmis un grand nombre de hadiths et vécut jusqu'en 693. L'imam Mālik accordait une grande valeur à ses avis, transmis par son affranchi Nāfiʿ.",
+      "retired": true
+    },
+    {
+      "id": "fig-t3-0007",
+      "concept": "fig.compagnons.zayd-langues",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle prouesse réalisa Zayd ibn Thābit à la demande du Prophète ﷺ ?",
+      "choices": [
+        "Il construisit un navire",
+        "Il conquit une ville",
+        "Il mémorisa le Coran en une nuit",
+        "Il apprit l'écriture des juifs (l'hébreu ou le syriaque) en environ dix-sept jours pour lire et écrire les lettres"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ avait besoin d'un secrétaire de confiance pour sa correspondance. Zayd, jeune Médinois brillant, apprit cette écriture en quelques semaines. Il deviendra le principal artisan de la compilation du Coran.",
+      "src": [
+        "Hadith de Zayd ibn Thābit — Abu Dawud & Tirmidhi"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fig-t3-0008",
+      "concept": "fig.compagnons.hudhayfa",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pourquoi Ḥudhayfa ibn al-Yamān était-il appelé « le gardien du secret » du Prophète ﷺ ?",
+      "choices": [
+        "Le Prophète ﷺ lui avait confié les noms des hypocrites de Médine",
+        "Il gardait le trésor",
+        "Il gardait la porte de la mosquée",
+        "Il gardait le Coran écrit"
+      ],
+      "answer": 0,
+      "expl": "ʿUmar lui demandait même s'il figurait parmi les hypocrites, tant il craignait pour lui-même. Ḥudhayfa interrogeait aussi le Prophète ﷺ sur le mal, « de peur qu'il ne m'atteigne », alors que les autres l'interrogeaient sur le bien.",
+      "src": [
+        "Hadith de Ḥudhayfa — Bukhari & Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fig-t3-0009",
+      "concept": "fig.compagnons.abu-ayyub-istanbul",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Où se trouve le tombeau du Compagnon Abū Ayyūb al-Anṣārī, qui avait accueilli le Prophète ﷺ à Médine ?",
+      "choices": [
+        "À Damas",
+        "À Istanbul, au pied des anciennes murailles de Constantinople, quartier d'Eyüp",
+        "À Médine",
+        "Au Caire"
+      ],
+      "answer": 1,
+      "expl": "Très âgé, Abū Ayyūb participa à une expédition contre Constantinople vers 674 et y mourut, demandant à être enterré au plus près des murailles. Après la conquête de 1453, les Ottomans bâtirent une mosquée sur son tombeau, l'un des lieux les plus visités d'Istanbul.",
+      "retired": true
+    },
+    {
+      "id": "fig-t3-0010",
+      "concept": "fig.compagnons.dernier",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui est considéré comme le dernier Compagnon du Prophète ﷺ mort, vers l'an 110 de l'Hégire ?",
+      "choices": [
+        "Anas ibn Mālik",
+        "ʿAbdallāh ibn ʿUmar ibn al-Khaṭṭāb",
+        "Abū ṭ-Ṭufayl ʿĀmir ibn Wāthila",
+        "Abū Hurayra"
+      ],
+      "answer": 2,
+      "expl": "Abū ṭ-Ṭufayl, qui avait vu le Prophète ﷺ enfant, mourut à La Mecque vers 110 de l'Hégire (vers 728). Anas ibn Mālik, mort vers 93 à Baṣra, fut l'un des derniers. Avec eux s'acheva la génération des Compagnons."
+    },
+    {
+      "id": "fig-t3-0011",
+      "concept": "fig.compagnons.adieu",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 3,
+      "type": "nombre",
+      "q": "Combien de personnes environ, selon les historiens, accompagnaient le Prophète ﷺ lors du pèlerinage d'adieu ?",
+      "answer": 100000,
+      "tolerance": 30000,
+      "expl": "Les estimations parlent d'environ cent mille personnes ou plus. Beaucoup de ces Compagnons rapportèrent ensuite ce qu'ils avaient vu et entendu, ce qui explique la richesse des récits sur ce pèlerinage."
+    },
+    {
+      "id": "fig-t3-0012",
+      "concept": "fig.compagnonnes.shifa",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel rôle eut ash-Shifāʾ bint ʿAbd Allāh, Compagnonne de La Mecque ?",
+      "choices": [
+        "Elle commanda une armée",
+        "Elle fut reine du Yémen",
+        "Elle construisit la mosquée de Qubāʾ",
+        "Elle savait écrire et enseigna l'écriture à Ḥafṣa ; ʿUmar lui confia ensuite des responsabilités au marché"
+      ],
+      "answer": 3,
+      "expl": "Rare femme lettrée de son époque, ash-Shifāʾ fut encouragée par le Prophète ﷺ à apprendre l'écriture à son épouse Ḥafṣa. Des récits rapportent que ʿUmar lui confia la surveillance d'une partie du marché de Médine.",
+      "src": [
+        "Hadith d'ash-Shifāʾ bint ʿAbd Allāh — Abu Dawud"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fig-t3-0013",
+      "concept": "fig.compagnonnes.khansa",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pour quoi al-Khansāʾ, convertie à l'islam, est-elle célèbre ?",
+      "choices": [
+        "La plus grande poétesse arabe, pleurant son frère",
+        "La première femme calife de l'islam",
+        "Une reine du Yémen convertie",
+        "La fondatrice d'une école à Médine"
+      ],
+      "answer": 0,
+      "expl": "Tumāḍir bint ʿAmr, surnommée al-Khansāʾ, pleura son frère dans des poèmes restés classiques. Elle vint embrasser l'islam avec sa tribu, et l'on rapporte que le Prophète ﷺ aimait écouter ses vers."
+    },
+    {
+      "id": "fig-t3-0014",
+      "concept": "fig.compagnonnes.umm-kulthum-uqba",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle jeune femme mecquoise émigra seule à Médine, malgré sa famille hostile, ce qui entraîna la révélation du verset 60:10 ?",
+      "choices": [
+        "Ḥalīma",
+        "Umm Kulthūm bint ʿUqba",
+        "Asmāʾ bint Abī Bakr",
+        "Sumayya"
+      ],
+      "answer": 1,
+      "expl": "Après al-Ḥudaybiya, ses frères vinrent la réclamer. Le verset 60:10 demanda d'éprouver les croyantes émigrées et de ne pas les renvoyer aux mécréants. Le traité ne concernait que les hommes.",
+      "src": [
+        "Coran 60:10"
+      ],
+      "tags": [
+        "sourate:60"
+      ]
+    },
+    {
+      "id": "fig-t3-0015",
+      "concept": "fig.imams.asad",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel juge malikite de Kairouan, élève de Mālik, mena la conquête de la Sicile en 827 ?",
+      "choices": [
+        "Ibn al-Qāsim",
+        "Ṭāriq ibn Ziyād",
+        "Asad ibn al-Furāt",
+        "Saḥnūn"
+      ],
+      "answer": 2,
+      "expl": "Asad ibn al-Furāt avait étudié auprès de Mālik à Médine et des hanafites en Irak ; ses questions posées à Ibn al-Qāsim sont à l'origine de la Mudawwana. Déjà âgé, il commanda l'expédition vers la Sicile, où il mourut. La Sicile resta musulmane plus de deux siècles."
+    },
+    {
+      "id": "fig-t3-0016",
+      "concept": "fig.imams.yahya-laythi",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel savant andalou est le transmetteur de la version du Muwaṭṭaʾ la plus répandue aujourd'hui ?",
+      "choices": [
+        "Ibn ʿAbd al-Barr an-Namarī",
+        "Saḥnūn",
+        "Ibn Rushd",
+        "Yaḥyā ibn Yaḥyā al-Laythī"
+      ],
+      "answer": 3,
+      "expl": "Yaḥyā ibn Yaḥyā, d'origine berbère, alla étudier à Médine auprès de Mālik. On raconte que lorsqu'un éléphant passa et que tous les élèves sortirent le voir, il resta assis, disant être venu pour voir Mālik, non un éléphant. Il diffusa l'école en Andalousie."
+    },
+    {
+      "id": "fig-t3-0017",
+      "concept": "fig.imams.abu-yusuf",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui était Abū Yūsuf, principal disciple d'Abū Ḥanīfa ?",
+      "choices": [
+        "Le premier « juge des juges »",
+        "Le vizir de Hārūn ar-Rashīd",
+        "Le fondateur de l'école hanbalite",
+        "Le gouverneur de l'Égypte"
+      ],
+      "answer": 0,
+      "expl": "Abū Yūsuf écrivit pour Hārūn ar-Rashīd un traité sur la fiscalité, Kitāb al-Kharāj, où il recommande la justice envers les contribuables. Son rôle de grand juge contribua à diffuser l'école hanafite dans l'empire."
+    },
+    {
+      "id": "fig-t3-0018",
+      "concept": "fig.savants.shatibi",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel savant malikite de Grenade (m. 1388) a développé la théorie des finalités de la Charia (maqāṣid) dans al-Muwāfaqāt ?",
+      "choices": [
+        "Ibn Ḥazm",
+        "Ash-Shāṭibī",
+        "Ibn Khaldūn",
+        "Al-Ghazālī"
+      ],
+      "answer": 1,
+      "expl": "Ash-Shāṭibī a montré que les règles servent des finalités : préserver la religion, la vie, la raison, la descendance et les biens. Son œuvre, redécouverte au XXe siècle, inspire beaucoup de savants contemporains."
+    },
+    {
+      "id": "fig-t3-0019",
+      "concept": "fig.savants.ibn-abd-al-barr",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel savant de Cordoue (m. 1071) est surnommé « le hafiẓ du Maghreb » pour ses immenses commentaires du Muwaṭṭaʾ ?",
+      "choices": [
+        "Ibn Ḥazm",
+        "Al-Qāḍī ʿIyāḍ",
+        "Ibn ʿAbd al-Barr",
+        "Ibn Rushd"
+      ],
+      "answer": 2,
+      "expl": "Ibn ʿAbd al-Barr écrivit at-Tamhīd et al-Istidhkār, monumentaux commentaires du Muwaṭṭaʾ, qui comparent les avis de toutes les écoles. Il est aussi l'auteur d'un livre célèbre sur les mérites de la science et des savants."
+    },
+    {
+      "id": "fig-t3-0020",
+      "concept": "fig.savants.ibn-arabi-qadi",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel juge et savant de Séville, maître d'al-Qāḍī ʿIyāḍ, est enterré à Fès ?",
+      "choices": [
+        "Ibn ʿArabī le soufi",
+        "Ibn Rushd",
+        "Ibn Baṭṭūṭa",
+        "Abū Bakr ibn al-ʿArabī"
+      ],
+      "answer": 3,
+      "expl": "Le qāḍī Abū Bakr ibn al-ʿArabī (1076-1148), à ne pas confondre avec le soufi Ibn ʿArabī, écrivit Aḥkām al-Qurʾān, commentaire juridique malikite. Son tombeau se trouve près de Bab Mahrouk, à Fès."
+    },
+    {
+      "id": "fig-t3-0021",
+      "concept": "fig.savants.suyuti",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel savant égyptien du XVe siècle, extrêmement prolifique, a co-écrit le très lu commentaire coranique des « deux Jalāl » (Tafsīr al-Jalālayn) ?",
+      "choices": [
+        "Jalāl ad-Dīn as-Suyūṭī",
+        "Ibn Kathīr",
+        "Aṭ-Ṭabarī",
+        "Al-Qurṭubī"
+      ],
+      "answer": 0,
+      "expl": "As-Suyūṭī (1445-1505) aurait écrit plusieurs centaines d'ouvrages. Il compléta le tafsīr commencé par Jalāl ad-Dīn al-Maḥallī, d'où le nom « des deux Jalāl », commentaire concis appris dans les écoles traditionnelles.",
+      "retired": true
+    },
+    {
+      "id": "fig-t3-0022",
+      "concept": "fig.maroc.leon-africain",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Sous quel nom est connu en Europe al-Ḥasan al-Wazzān, voyageur né à Grenade et élevé à Fès, auteur d'une célèbre « Description de l'Afrique » ?",
+      "choices": [
+        "Ibn Baṭṭūṭa",
+        "Léon l'Africain",
+        "Averroès",
+        "Avicenne"
+      ],
+      "answer": 1,
+      "expl": "Diplomate du sultan de Fès, il fut capturé par des corsaires et offert au pape Léon X à Rome, qui le fit baptiser. Il écrivit une description de l'Afrique qui fut, pendant des siècles, une source majeure pour les Européens. Amin Maalouf en a fait un roman."
+    },
+    {
+      "id": "fig-t3-0023",
+      "concept": "fig.maroc.yusi",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui était al-Ḥasan al-Yūsī (XVIIe siècle) ?",
+      "choices": [
+        "Un sultan saadien de Marrakech",
+        "Un poète de la cour de Fès, auteur de qaṣīdas",
+        "Un savant amazigh, franc envers Moulay Ismaïl",
+        "Un général de la guerre du Rif"
+      ],
+      "answer": 2,
+      "expl": "Al-Yūsī, maître de nombreuses sciences, écrivit au puissant Moulay Ismaïl une lettre courageuse lui rappelant ses devoirs envers le peuple. Ses « Muḥāḍarāt » sont un recueil savoureux d'anecdotes et de réflexions."
+    },
+    {
+      "id": "fig-t3-0024",
+      "concept": "fig.maroc.ibn-banna",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel mathématicien de Marrakech (XIIIe-XIVe siècle) a écrit un manuel d'arithmétique très utilisé, et contribué au calcul en notation algébrique ?",
+      "choices": [
+        "Al-Khwārizmī",
+        "Ibn al-Haytham al-Baṣrī",
+        "Al-Bīrūnī",
+        "Ibn al-Bannāʾ al-Marrākushī"
+      ],
+      "answer": 3,
+      "expl": "Ibn al-Bannāʾ, savant de l'époque mérinide, écrivit le Talkhīṣ aʿmāl al-ḥisāb, résumé des opérations arithmétiques, commenté pendant des siècles au Maghreb. Il s'intéressait aussi à l'astronomie et au calendrier."
+    },
+    {
+      "id": "fig-t3-0025",
+      "concept": "fig.maroc.allal",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui était Allal al-Fassi (1910-1974) ?",
+      "choices": [
+        "Un savant de Fès, leader de l'indépendance",
+        "Un sultan alaouite du XIXe siècle",
+        "Un poète andalou exilé à Fès",
+        "Un général de la guerre du Rif"
+      ],
+      "answer": 0,
+      "expl": "Formé à al-Qarawiyyīn, Allal al-Fassi fut l'un des fondateurs du mouvement national, exilé par les autorités du protectorat. Il fonda le parti de l'Istiqlal et écrivit sur les finalités de la Charia. Il illustre le lien entre savoir religieux et engagement pour le pays."
+    }
+  ]
+}

@@ -1,0 +1,2319 @@
+{
+  "pack": "priere-t1",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "pri-t1-0001",
+      "concept": "pri.horaires-rakat.moments",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque prière à son moment.",
+      "pairs": [
+        [
+          "Fajr",
+          "De l'aube au lever du soleil"
+        ],
+        [
+          "Ẓuhr",
+          "Juste après le zénith (midi)"
+        ],
+        [
+          "ʿAṣr",
+          "L'après-midi"
+        ],
+        [
+          "Maghrib",
+          "Juste après le coucher du soleil"
+        ],
+        [
+          "ʿIshāʾ",
+          "À la nuit tombée"
+        ]
+      ],
+      "expl": "Les cinq prières rythment la journée : Fajr à l'aube, Ẓuhr quand le soleil a passé son point le plus haut, ʿAṣr l'après-midi, Maghrib juste après le coucher du soleil, ʿIshāʾ quand la lueur rouge du couchant a disparu. Chaque prière a une période : on peut la faire du début à la fin de son temps, mais le début du temps est le meilleur.",
+      "src": [
+        "Coran 4:103",
+        "Hadith de Jibrīl sur les horaires — Abū Dāwūd, Tirmidhi"
+      ],
+      "extra": "En France, les horaires changent chaque jour avec le soleil : une application ou le calendrier de ta mosquée te les donne."
+    },
+    {
+      "id": "pri-t1-0002",
+      "concept": "pri.horaires-rakat.maghrib",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Combien de rak'at compte la prière du Maghrib ?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "expl": "Le Maghrib, prière du coucher du soleil, compte 3 rak'at obligatoires : c'est la seule prière impaire de la journée. Les deux premières rak'at se récitent à voix haute, la troisième à voix basse.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0003",
+      "concept": "pri.horaires-rakat.total",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de rak'at obligatoires y a-t-il au total dans les cinq prières d'une journée ?",
+      "answer": 17,
+      "expl": "Fajr 2 + Ẓuhr 4 + ʿAṣr 4 + Maghrib 3 + ʿIshāʾ 4 = 17 rak'at. Pour un voyageur, les prières de 4 rak'at se raccourcissent à 2, ce qui donne 11.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0004",
+      "concept": "pri.deroulement.bras-sadl",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Au Maroc, selon la pratique malikite répandue, que fait-on des bras pendant la station debout de la prière ?",
+      "choices": [
+        "On les laisse le long du corps",
+        "On les croise sur la poitrine",
+        "On les garde levés à hauteur des épaules",
+        "On les pose à plat sur les cuisses"
+      ],
+      "answer": 0,
+      "expl": "Au Maroc, la majorité des fidèles prient les bras le long du corps : c'est le sadl, la pratique transmise dans l'école malikite d'après l'usage des gens de Médine. Si tu vois quelqu'un poser la main droite sur la gauche, c'est aussi une sunna, rapportée par de nombreux hadiths : les deux sont valables.",
+      "src": [
+        "Mālik, al-Mudawwana",
+        "Hadith de Sahl ibn Saʿd — Bukhari"
+      ],
+      "note": "Les hanafites, shafi'ites et hanbalites posent la main droite sur la gauche (sous le nombril, sur ou sous la poitrine selon l'école). Plusieurs malikites l'acceptent aussi. C'est une divergence de détail : la prière est valable dans les deux cas."
+    },
+    {
+      "id": "pri-t1-0005",
+      "concept": "pri.piliers-sunnas.fatiha",
+      "domain": "priere",
+      "sub": "piliers-sunnas",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate récite-t-on dans chaque rak'a de chaque prière ?",
+      "choices": [
+        "Al-Fātiḥa",
+        "Al-Ikhlāṣ",
+        "Al-Baqara",
+        "An-Nās"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ a dit : « Pas de prière pour qui ne récite pas l'Ouverture du Livre. » Al-Fātiḥa est récitée dans chaque rak'a ; dans les deux premières, on ajoute une autre sourate ou quelques versets.",
+      "src": [
+        "Hadith de ʿUbāda ibn aṣ-Ṣāmit — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الفَاتِحَة",
+        "tr": "al-fātiḥa",
+        "fr": "l'Ouverture",
+        "pr": "al-fâ-ti-ha"
+      },
+      "tags": [
+        "sourate:1"
+      ],
+      "note": "Chez les malikites, l'imam porte la récitation pour le fidèle qui prie derrière lui quand il récite à voix haute ; le fidèle la récite lui-même quand l'imam récite à voix basse."
+    },
+    {
+      "id": "pri-t1-0006",
+      "concept": "pri.deroulement.une-raka",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre les gestes d'une rak'a.",
+      "items": [
+        "Le takbīr d'ouverture (« Allāhu akbar »)",
+        "La récitation debout (al-Fātiḥa puis une sourate)",
+        "L'inclinaison (rukūʿ)",
+        "Le redressement",
+        "La première prosternation (sujūd)",
+        "La position assise entre les deux prosternations",
+        "La seconde prosternation"
+      ],
+      "expl": "Une rak'a, c'est un cycle complet : debout, on récite ; on s'incline, on se redresse, puis on se prosterne deux fois avec une courte position assise entre les deux. Le takbīr d'ouverture n'a lieu qu'au début de la prière ; les rak'at suivantes commencent directement par la récitation.",
+      "src": [
+        "Hadith de celui qui priait mal — Bukhari & Muslim"
+      ],
+      "extra": "En se prosternant, on dit « Subḥāna rabbiya l-aʿlā » : gloire à mon Seigneur, le Très-Haut."
+    },
+    {
+      "id": "pri-t1-0007",
+      "concept": "pri.importance.pilier",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel rang la prière occupe-t-elle parmi les cinq piliers de l'islam ?",
+      "choices": [
+        "Le premier",
+        "Le troisième, après la zakat",
+        "Le dernier",
+        "Le deuxième, après la shahāda"
+      ],
+      "answer": 3,
+      "expl": "Dans le hadith « L'islam est bâti sur cinq », la prière vient juste après le témoignage de foi. C'est le premier acte qui traduit la shahāda dans la vie : cinq rendez-vous quotidiens avec Allah.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الصَّلَاة",
+        "tr": "aṣ-ṣalāt",
+        "pr": "as-sa-lât",
+        "fr": "la prière"
+      }
+    },
+    {
+      "id": "pri-t1-0008",
+      "concept": "pri.importance.premier-juge",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le hadith, quelle est la première œuvre sur laquelle le serviteur sera jugé au Jour de la Résurrection ?",
+      "choices": [
+        "La prière",
+        "Le jeûne",
+        "La zakat",
+        "Le pèlerinage"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ a dit que la première chose sur laquelle le serviteur sera jugé est la prière : si elle est bonne, le reste de ses œuvres sera bon. Il a ajouté qu'Allah complètera ce qui manque par les prières surérogatoires. Chaque prière compte, et il n'est jamais trop tard pour commencer.",
+      "src": [
+        "Hadith d'Abū Hurayra — Tirmidhi & Nasai"
+      ]
+    },
+    {
+      "id": "pri-t1-0009",
+      "concept": "pri.importance.miraj",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "qcm",
+      "q": "À quelle occasion les cinq prières ont-elles été prescrites ?",
+      "choices": [
+        "Lors du pèlerinage d'adieu",
+        "Lors de l'ascension nocturne",
+        "Lors de la bataille de Badr",
+        "Lors de l'arrivée à Médine"
+      ],
+      "answer": 1,
+      "expl": "Contrairement aux autres obligations, transmises sur terre par Jibrīl, la prière a été prescrite directement par Allah au Prophète ﷺ lors du Miʿrāj, au-delà des sept cieux. Cela montre sa place unique : c'est elle-même une ascension pour le croyant.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْمِعْرَاج",
+        "tr": "al-miʿrāj",
+        "pr": "al-miʿ-râj",
+        "fr": "l'ascension"
+      }
+    },
+    {
+      "id": "pri-t1-0010",
+      "concept": "pri.importance.miraj",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de prières quotidiennes ont d'abord été prescrites lors du Miʿrāj, avant d'être réduites à cinq ?",
+      "answer": 50,
+      "expl": "Cinquante. Sur le conseil de Mūsā, le Prophète ﷺ est retourné plusieurs fois demander un allègement, jusqu'à cinq. Allah a dit qu'elles sont cinq en pratique et cinquante en récompense : chaque bonne action est multipliée par dix.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:musa"
+      ]
+    },
+    {
+      "id": "pri-t1-0011",
+      "concept": "pri.importance.puberte",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "qcm",
+      "q": "À partir de quand la prière devient-elle obligatoire ?",
+      "choices": [
+        "À quarante ans, l'âge de la maturité",
+        "Après le mariage, en fondant un foyer",
+        "À la puberté, si l'on est sain d'esprit",
+        "Dès la naissance, pour toute personne"
+      ],
+      "answer": 2,
+      "expl": "La prière est obligatoire pour toute personne pubère et saine d'esprit. Le Prophète ﷺ a recommandé de l'apprendre aux enfants dès sept ans, avec douceur, pour qu'elle devienne naturelle avant l'âge de l'obligation.",
+      "src": [
+        "Hadith de ʿAmr ibn Shuʿayb — Abu Dawud"
+      ]
+    },
+    {
+      "id": "pri-t1-0012",
+      "concept": "pri.importance.sagesse",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Accomplis la prière, car la prière préserve de la turpitude et du ___. »",
+      "choices": [
+        "sommeil",
+        "froid",
+        "voyage",
+        "blâmable"
+      ],
+      "answer": 3,
+      "expl": "Le verset 29:45 décrit l'effet de la prière : elle éloigne peu à peu de ce qui est mauvais, car celui qui se tient cinq fois par jour devant Allah se souvient de Lui le reste du temps. Le verset ajoute : « Le rappel d'Allah est certes ce qu'il y a de plus grand. »",
+      "src": [
+        "Coran 29:45"
+      ],
+      "tags": [
+        "sourate:29"
+      ]
+    },
+    {
+      "id": "pri-t1-0013",
+      "concept": "pri.importance.sagesse",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "trou",
+      "q": "Allah dit à Mūsā : « Accomplis la prière pour te ___ de Moi. »",
+      "choices": [
+        "souvenir",
+        "rapprocher",
+        "cacher",
+        "éloigner"
+      ],
+      "answer": 0,
+      "expl": "Au mont Sinaï, Allah dit à Mūsā : « Adore-Moi et accomplis la prière pour te souvenir de Moi. » Le sens profond de la prière est là : le dhikr, le souvenir d'Allah qui revient régulièrement dans la journée.",
+      "src": [
+        "Coran 20:14"
+      ],
+      "ar": {
+        "text": "وَأَقِمِ الصَّلَاةَ لِذِكْرِي",
+        "tr": "wa aqimi ṣ-ṣalāta li-dhikrī",
+        "pr": "wa a-qi-mis-sa-lâ-ta li-dhik-rî",
+        "fr": "et accomplis la prière pour te souvenir de Moi"
+      },
+      "tags": [
+        "prophete:musa",
+        "sourate:20"
+      ]
+    },
+    {
+      "id": "pri-t1-0014",
+      "concept": "pri.importance.abandon",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a décrit l'abandon de la prière comme une chose très grave, qui sépare l'homme de la foi.",
+      "answer": true,
+      "expl": "Il a dit : « Entre l'homme et l'association et la mécréance, il y a l'abandon de la prière. » Les savants en tirent la gravité extrême de ce délaissement. Mais la porte est toujours ouverte : il suffit de reprendre aujourd'hui, une prière après l'autre, et Allah aime celui qui revient.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ],
+      "note": "Pour la majorité des savants, dont les malikites, celui qui délaisse la prière par paresse tout en reconnaissant son obligation reste musulman, mais commet un très grand péché."
+    },
+    {
+      "id": "pri-t1-0015",
+      "concept": "pri.horaires-rakat.rakat",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque prière obligatoire à son nombre de rak'at.",
+      "pairs": [
+        [
+          "Ṣubḥ (Fajr)",
+          "2 rak'at"
+        ],
+        [
+          "Ẓuhr",
+          "4 rak'at, à midi"
+        ],
+        [
+          "ʿAṣr",
+          "4 rak'at, l'après-midi"
+        ],
+        [
+          "Maghrib",
+          "3 rak'at"
+        ],
+        [
+          "ʿIshāʾ",
+          "4 rak'at, la nuit"
+        ]
+      ],
+      "expl": "Deux à l'aube, quatre à midi, quatre l'après-midi, trois au coucher du soleil, quatre la nuit : dix-sept rak'at en tout. Un moyen mnémotechnique : 2-4-4-3-4."
+    },
+    {
+      "id": "pri-t1-0016",
+      "concept": "pri.horaires-rakat.rakat-subh",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de rak'at compte la prière obligatoire de l'aube (Ṣubḥ) ?",
+      "answer": 2,
+      "expl": "Deux rak'at, récitées à voix haute. Au Maroc, on l'appelle couramment « ṣ-ṣbaḥ ». Le Prophète ﷺ a dit que les deux rak'at surérogatoires qui la précèdent valent mieux que ce bas monde et ce qu'il contient.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0017",
+      "concept": "pri.horaires-rakat.rakat-isha",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de rak'at compte la prière de la nuit (ʿIshāʾ) ?",
+      "answer": 4,
+      "expl": "Quatre rak'at : les deux premières à voix haute, les deux dernières à voix basse. Son temps commence à la disparition du crépuscule rouge ; chez les malikites, le temps de choix va jusqu'à la fin du premier tiers de la nuit, et il est préférable de ne pas la retarder sans raison."
+    },
+    {
+      "id": "pri-t1-0018",
+      "concept": "pri.horaires-rakat.voix-haute",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "multi",
+      "q": "Dans quelles prières l'imam récite-t-il à voix haute ?",
+      "choices": [
+        "Ṣubḥ (aube)",
+        "Maghrib (deux premières rak'at)",
+        "Ẓuhr",
+        "ʿIshāʾ (deux premières rak'at)",
+        "ʿAṣr"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "On récite à voix haute dans les prières de nuit et d'aube : Ṣubḥ, et les deux premières rak'at de Maghrib et ʿIshāʾ. Les prières du jour, Ẓuhr et ʿAṣr, sont récitées à voix basse. Seul, on peut réciter à voix modérée pour les prières à voix haute."
+    },
+    {
+      "id": "pri-t1-0019",
+      "concept": "pri.horaires-rakat.debut-dhuhr",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quand commence le temps de la prière du Ẓuhr ?",
+      "choices": [
+        "Au coucher du soleil",
+        "Juste après que le soleil a passé le zénith",
+        "Au lever du soleil",
+        "Quand l'ombre est deux fois plus longue que l'objet"
+      ],
+      "answer": 1,
+      "expl": "Le Ẓuhr commence quand le soleil décline après son point le plus haut (az-zawāl). Les applications d'horaires le calculent pour chaque ville. On ne prie pas au moment exact du zénith, ni au lever ou au coucher du soleil."
+    },
+    {
+      "id": "pri-t1-0020",
+      "concept": "pri.horaires-rakat.debut-maghrib",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quand commence le temps du Maghrib ?",
+      "choices": [
+        "À minuit",
+        "À l'aube",
+        "Au coucher complet du soleil",
+        "Quand l'ombre égale la taille de l'objet"
+      ],
+      "answer": 2,
+      "expl": "Maghrib veut dire « couchant » : la prière commence dès que le disque du soleil a disparu. Chez les malikites, son temps de choix est court : il est recommandé de la prier rapidement après l'adhān. C'est aussi le moment de la rupture du jeûne pendant Ramadan.",
+      "ar": {
+        "text": "الْمَغْرِب",
+        "tr": "al-maghrib",
+        "pr": "al-magh-rib",
+        "fr": "le couchant"
+      }
+    },
+    {
+      "id": "pri-t1-0021",
+      "concept": "pri.horaires-rakat.fin-subh",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Jusqu'à quand peut-on prier la prière de l'aube (Ṣubḥ) ?",
+      "choices": [
+        "Jusqu'à midi",
+        "Jusqu'à la fin de la matinée",
+        "Toute la journée",
+        "Jusqu'au lever du soleil"
+      ],
+      "answer": 3,
+      "expl": "Le temps du Ṣubḥ va de l'aube véritable (la lumière blanche horizontale) au lever du soleil. Après, la prière est en retard et se rattrape dès qu'on s'en souvient. Celui qui s'est endormi sans le vouloir n'a pas péché : il prie dès son réveil.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0022",
+      "concept": "pri.horaires-rakat.noms",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque nom arabe à la prière correspondante.",
+      "pairs": [
+        [
+          "aṣ-Ṣubḥ",
+          "La prière de l'aube"
+        ],
+        [
+          "aẓ-Ẓuhr",
+          "La prière de midi"
+        ],
+        [
+          "al-ʿAṣr",
+          "La prière de l'après-midi"
+        ],
+        [
+          "al-Maghrib",
+          "La prière du coucher du soleil"
+        ],
+        [
+          "al-ʿIshāʾ",
+          "La prière de la nuit"
+        ]
+      ],
+      "expl": "Chez les malikites, « aṣ-Ṣubḥ » désigne la prière obligatoire de l'aube, et « al-Fajr » plutôt les deux rak'at recommandées qui la précèdent.",
+      "pron": {
+        "aṣ-Ṣubḥ": "aṣ-ṣoubh",
+        "aẓ-Ẓuhr": "aẓ-ẓouhr",
+        "al-ʿAṣr": "al-ʿasr",
+        "al-Maghrib": "al-magh-rib",
+        "al-ʿIshāʾ": "al-ʿi-châʾ"
+      }
+    },
+    {
+      "id": "pri-t1-0023",
+      "concept": "pri.horaires-rakat.fajr-subh",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "vf",
+      "q": "Dans l'usage malikite, « al-Fajr » désigne les deux rak'at recommandées avant la prière obligatoire de l'aube, appelée « aṣ-Ṣubḥ ».",
+      "answer": true,
+      "expl": "C'est une nuance de vocabulaire propre au Maroc et aux malikites : la raghība du Fajr (deux rak'at très recommandées) précède la prière obligatoire du Ṣubḥ. Ailleurs, on dit souvent « Fajr » pour la prière obligatoire elle-même. Les deux usages sont corrects.",
+      "ar": {
+        "text": "رَغِيبَةُ الْفَجْرِ",
+        "tr": "raghībatu l-fajr",
+        "pr": "ra-ghî-ba-toul-fajr",
+        "fr": "la prière désirée de l'aube"
+      }
+    },
+    {
+      "id": "pri-t1-0024",
+      "concept": "pri.conditions.liste",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquelles sont des conditions de validité de la prière ?",
+      "choices": [
+        "Être en état de pureté (ablutions)",
+        "Couvrir sa ʿawra",
+        "Prier dans une mosquée",
+        "Faire face à la qibla",
+        "Que le temps de la prière soit entré",
+        "Porter des vêtements blancs"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Pour que la prière soit valable : la pureté (ablutions, et propreté du corps, du vêtement et du lieu), couvrir sa ʿawra, s'orienter vers la qibla, et prier dans son temps. On peut prier partout, à la maison, au travail ou dans un parc ; la couleur des vêtements n'a pas d'importance.",
+      "src": [
+        "Coran 5:6",
+        "Coran 4:103",
+        "Coran 2:144"
+      ]
+    },
+    {
+      "id": "pri-t1-0025",
+      "concept": "pri.conditions.qibla",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Vers quoi se tourne-t-on pour prier ?",
+      "choices": [
+        "La Kaʿba, à La Mecque",
+        "Jérusalem, en Palestine",
+        "Le soleil levant, à l'est",
+        "La mosquée de Médine"
+      ],
+      "answer": 0,
+      "expl": "La qibla (direction de prière) est la Kaʿba, à La Mecque. Au début de l'islam, les musulmans priaient vers Jérusalem, puis le Coran a ordonné de se tourner vers la Mosquée sacrée. Depuis la France ou le Maroc, la qibla est à l'est, un peu vers le sud-est.",
+      "src": [
+        "Coran 2:144"
+      ],
+      "ar": {
+        "text": "الْقِبْلَة",
+        "tr": "al-qibla",
+        "pr": "al-qib-la",
+        "fr": "la direction de prière"
+      }
+    },
+    {
+      "id": "pri-t1-0026",
+      "concept": "pri.conditions.temps",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 1,
+      "type": "vf",
+      "q": "Une prière obligatoire faite avant que son temps soit entré n'est pas valable.",
+      "answer": true,
+      "expl": "Oui : « La prière demeure pour les croyants une prescription à des temps déterminés. » Prier le Ẓuhr à 11 h, par exemple, ne compte pas ; il faut attendre le temps. En cas de doute, on attend d'être sûr.",
+      "src": [
+        "Coran 4:103"
+      ],
+      "tags": [
+        "sourate:4"
+      ]
+    },
+    {
+      "id": "pri-t1-0027",
+      "concept": "pri.conditions.awra-homme",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle partie du corps l'homme doit-il au minimum couvrir pendant la prière ?",
+      "choices": [
+        "Les pieds",
+        "Du nombril aux genoux",
+        "Seulement la tête",
+        "Les épaules et la tête"
+      ],
+      "answer": 1,
+      "expl": "La ʿawra de l'homme est la partie située entre le nombril et les genoux. Il est recommandé de couvrir aussi les épaules et de prier dans une tenue correcte, comme pour se présenter devant quelqu'un d'important. Allah dit : « Prenez votre parure en tout lieu de prière. »",
+      "src": [
+        "Coran 7:31"
+      ],
+      "ar": {
+        "text": "الْعَوْرَة",
+        "tr": "al-ʿawra",
+        "pr": "al-ʿaw-ra",
+        "fr": "ce qu'il faut couvrir"
+      },
+      "note": "Chez les malikites, la partie la plus stricte est le sexe et les fesses ; le reste, jusqu'aux genoux, est d'une obligation moindre."
+    },
+    {
+      "id": "pri-t1-0028",
+      "concept": "pri.conditions.awra-femme",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que doit couvrir la femme pendant la prière, selon l'école malikite ?",
+      "choices": [
+        "Tout, y compris le visage et les mains",
+        "Seulement de la taille aux genoux",
+        "Tout le corps sauf le visage et les mains",
+        "Seulement les cheveux"
+      ],
+      "answer": 2,
+      "expl": "La femme couvre tout son corps pour prier, sauf le visage et les mains (les pieds sont discutés). Une tenue ample et un voile suffisent ; beaucoup de femmes gardent une robe de prière à la maison, pratique à enfiler.",
+      "note": "Les hanafites autorisent les pieds découverts ; les malikites recommandent de les couvrir."
+    },
+    {
+      "id": "pri-t1-0029",
+      "concept": "pri.conditions.intention",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment se formule l'intention (niyya) de la prière ?",
+      "choices": [
+        "Obligatoirement à voix haute, en arabe",
+        "En l'écrivant avant de commencer",
+        "Par un geste de la main droite",
+        "Dans le cœur, simplement"
+      ],
+      "answer": 3,
+      "expl": "L'intention est un acte du cœur : savoir qu'on va prier le Ẓuhr, par exemple, suffit. Chez les malikites, il est préférable de ne pas la prononcer, sauf pour celui qui est tourmenté par le doute. « Les actes ne valent que par les intentions. »",
+      "src": [
+        "Hadith de ʿUmar ibn al-Khaṭṭāb — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "النِّيَّة",
+        "tr": "an-niyya",
+        "pr": "an-niy-ya",
+        "fr": "l'intention"
+      },
+      "tags": [
+        "nawawi:1"
+      ]
+    },
+    {
+      "id": "pri-t1-0030",
+      "concept": "pri.conditions.lieu",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 1,
+      "type": "vf",
+      "q": "On peut prier n'importe où, à condition que le lieu soit pur.",
+      "answer": true,
+      "expl": "Oui : le Prophète ﷺ a dit que la terre entière a été faite pour lui lieu de prière et moyen de purification. On peut prier au parc, au bureau, à la gare, sur un tapis ou à même le sol propre. Quelques lieux font exception, comme les toilettes.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0031",
+      "concept": "pri.adhan.bilal",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui fut le premier muezzin de l'islam ?",
+      "choices": [
+        "Bilāl ibn Rabāḥ",
+        "Abū Bakr aṣ-Ṣiddīq",
+        "ʿAlī ibn Abī Ṭālib",
+        "Zayd ibn Ḥāritha"
+      ],
+      "answer": 0,
+      "expl": "Bilāl, ancien esclave d'origine abyssinienne, torturé à La Mecque pour sa foi, fut choisi pour sa belle voix puissante. Le Prophète ﷺ entendait le bruit de ses pas au Paradis. Son histoire montre qu'en islam, seule la piété élève.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "بِلَالُ بْنُ رَبَاحٍ",
+        "tr": "Bilālu bnu Rabāḥ",
+        "pr": "bi-lâ-loub-nou ra-bâh",
+        "fr": "Bilāl fils de Rabāḥ"
+      }
+    },
+    {
+      "id": "pri-t1-0032",
+      "concept": "pri.adhan.texte",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre les phrases de l'adhān (version courte).",
+      "items": [
+        "Allāhu akbar",
+        "Ashhadu an lā ilāha illā Llāh",
+        "Ashhadu anna Muḥammadan rasūlu Llāh",
+        "Ḥayya ʿalā ṣ-ṣalāh",
+        "Ḥayya ʿalā l-falāḥ",
+        "Lā ilāha illā Llāh"
+      ],
+      "expl": "L'adhān commence par la grandeur d'Allah, puis les deux témoignages, puis l'appel : « Venez à la prière, venez à la réussite », avant le takbīr et la phrase finale.",
+      "pron": {
+        "Allāhu akbar": "al-lâ-hou ak-bar",
+        "Ḥayya ʿalā ṣ-ṣalāh": "ḥay-ya ʿa-las-sa-lâh",
+        "Ḥayya ʿalā l-falāḥ": "ḥay-ya ʿa-lal-fa-lâḥ"
+      }
+    },
+    {
+      "id": "pri-t1-0033",
+      "concept": "pri.adhan.fajr",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 1,
+      "type": "trou",
+      "q": "À l'adhān de l'aube, on ajoute : « aṣ-ṣalātu khayrun mina ___ » (la prière est meilleure que le sommeil).",
+      "choices": [
+        "l-akl",
+        "n-nawm",
+        "d-dunyā",
+        "l-ʿamal"
+      ],
+      "answer": 1,
+      "expl": "Cette phrase, ajoutée deux fois après « ḥayya ʿalā l-falāḥ » à l'appel de l'aube, encourage à quitter le lit. Elle a été enseignée à Abū Maḥdhūra, muezzin du Prophète ﷺ. Un rappel tendre au moment où le sommeil est le plus doux.",
+      "src": [
+        "Hadith d'Abū Maḥdhūra — Abu Dawud & Nasai"
+      ],
+      "ar": {
+        "text": "الصَّلَاةُ خَيْرٌ مِنَ النَّوْمِ",
+        "tr": "aṣ-ṣalātu khayrun mina n-nawm",
+        "pr": "as-sa-lâ-tou khay-roun mi-nan-nawm",
+        "fr": "la prière est meilleure que le sommeil"
+      }
+    },
+    {
+      "id": "pri-t1-0034",
+      "concept": "pri.adhan.repondre",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que répond-on quand le muezzin dit « Ḥayya ʿalā ṣ-ṣalāh » et « Ḥayya ʿalā l-falāḥ » ?",
+      "choices": [
+        "« Āmīn »",
+        "On ne dit rien",
+        "« Lā ḥawla wa lā quwwata illā bi-Llāh »",
+        "On répète exactement la même phrase"
+      ],
+      "answer": 2,
+      "expl": "On répète chaque phrase de l'adhān après le muezzin, sauf ces deux appels, auxquels on répond : « Il n'y a de force ni de puissance qu'en Allah. » Le Prophète ﷺ a promis le Paradis à celui qui répond ainsi du fond du cœur.",
+      "src": [
+        "Hadith de ʿUmar ibn al-Khaṭṭāb — Muslim"
+      ],
+      "ar": {
+        "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ",
+        "tr": "lā ḥawla wa lā quwwata illā bi-Llāh",
+        "pr": "lâ ḥaw-la wa lâ qouw-wa-ta il-lâ bil-lâh",
+        "fr": "il n'y a de force ni de puissance qu'en Allah"
+      }
+    },
+    {
+      "id": "pri-t1-0035",
+      "concept": "pri.adhan.maliki",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 1,
+      "type": "vf",
+      "q": "Dans l'adhān malikite, comme au Maroc, le takbīr initial « Allāhu akbar » est prononcé deux fois, et non quatre.",
+      "answer": true,
+      "expl": "C'est exact : les malikites suivent l'adhān pratiqué à Médine, avec deux takbīr au début. Ils pratiquent aussi le tarjīʿ : les deux témoignages sont dits une première fois à voix plus basse, puis à pleine voix. Les autres écoles commencent par quatre takbīr.",
+      "note": "Hanafites, chaféites et hanbalites commencent par quatre takbīr."
+    },
+    {
+      "id": "pri-t1-0036",
+      "concept": "pri.adhan.iqama",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment s'appelle le second appel, prononcé juste avant le début de la prière ?",
+      "choices": [
+        "Le takbīr",
+        "La khuṭba",
+        "Le tasbīḥ",
+        "L'iqāma"
+      ],
+      "answer": 3,
+      "expl": "L'iqāma (i-qâ-ma) annonce que la prière commence : on se lève et on forme les rangs. Elle contient la phrase « Qad qāmati ṣ-ṣalāh », la prière est commencée. Chez les malikites, ses phrases sont dites une seule fois chacune.",
+      "ar": {
+        "text": "قَدْ قَامَتِ الصَّلَاةُ",
+        "tr": "qad qāmati ṣ-ṣalāh",
+        "pr": "qad qâ-ma-tis-sa-lâh",
+        "fr": "la prière est commencée"
+      }
+    },
+    {
+      "id": "pri-t1-0037",
+      "concept": "pri.annulatifs.liste",
+      "domain": "priere",
+      "sub": "annulatifs",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquelles de ces actions annulent la prière ?",
+      "choices": [
+        "Parler volontairement",
+        "Manger ou boire",
+        "Sourire",
+        "Rire aux éclats",
+        "Perdre ses ablutions",
+        "Avaler sa salive"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Parler volontairement, manger, boire, rire aux éclats, perdre ses ablutions, tourner le dos à la qibla ou découvrir sa ʿawra volontairement annulent la prière. Sourire sans bruit ou avaler sa salive ne l'annulent pas."
+    },
+    {
+      "id": "pri-t1-0038",
+      "concept": "pri.annulatifs.sourire",
+      "domain": "priere",
+      "sub": "annulatifs",
+      "tier": 1,
+      "type": "vf",
+      "q": "Un simple sourire, sans bruit, annule la prière.",
+      "answer": false,
+      "expl": "Faux : seul le rire aux éclats (qahqaha) annule la prière. Le sourire est sans effet, même s'il vaut mieux garder sa concentration. On n'est pas jugé sur ce qu'on ne peut pas maîtriser."
+    },
+    {
+      "id": "pri-t1-0039",
+      "concept": "pri.annulatifs.oubli-parole",
+      "domain": "priere",
+      "sub": "annulatifs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que se passe-t-il si quelqu'un dit quelques mots dans la prière par oubli ?",
+      "choices": [
+        "Elle reste valable, avec la prosternation de l'oubli",
+        "Elle est annulée : il faut la recommencer en entier",
+        "Il doit refaire ses ablutions avant tout",
+        "Il doit jeûner un jour pour réparer"
+      ],
+      "answer": 0,
+      "expl": "Parler peu, par oubli, n'annule pas la prière : on la complète et on fait la prosternation de l'oubli après le salām. Le Prophète ﷺ lui-même a parlé par oubli dans une prière (hadith de Dhū l-Yadayn) et l'a complétée. Seule la parole volontaire non nécessaire annule.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0040",
+      "concept": "pri.annulatifs.qibla",
+      "domain": "priere",
+      "sub": "annulatifs",
+      "tier": 1,
+      "type": "vf",
+      "q": "Se détourner volontairement de la qibla avec tout le corps annule la prière.",
+      "answer": true,
+      "expl": "Oui : faire face à la qibla est une condition de la prière, tout au long de celle-ci. Tourner la tête un instant ne l'annule pas, mais c'est déconseillé : le Prophète ﷺ a décrit ce regard de côté comme un larcin que le Shayṭān dérobe à la prière.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari"
+      ]
+    },
+    {
+      "id": "pri-t1-0041",
+      "concept": "pri.deroulement.takbir-ihram",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Par quelle formule commence-t-on la prière ?",
+      "choices": [
+        "« As-salāmu ʿalaykum »",
+        "« Allāhu akbar »",
+        "« Bismillāh »",
+        "« Subḥāna Llāh »"
+      ],
+      "answer": 1,
+      "expl": "On entre en prière par le takbīr d'ouverture (takbīrat al-iḥrām) : « Allāhu akbar », Allah est plus grand. Chez les malikites, aucune autre formule ne la remplace. Ce takbīr « sacralise » la prière : à partir de là, on ne parle plus, on ne mange plus, on est devant Allah.",
+      "ar": {
+        "text": "اللّٰهُ أَكْبَرُ",
+        "tr": "Allāhu akbar",
+        "pr": "al-lâ-hou ak-bar",
+        "fr": "Allah est plus grand"
+      }
+    },
+    {
+      "id": "pri-t1-0042",
+      "concept": "pri.deroulement.mains-maliki",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "vf",
+      "q": "Dans la pratique malikite répandue au Maroc, on lève les mains seulement au takbīr d'ouverture.",
+      "answer": true,
+      "expl": "C'est la pratique transmise à Médine et retenue par l'école malikite : on lève les mains à hauteur des épaules (ou des oreilles) au takbīr d'ouverture, puis on ne les lève plus. D'autres écoles les lèvent aussi avant et après le rukūʿ, selon d'autres hadiths authentiques.",
+      "note": "Chaféites et hanbalites lèvent aussi les mains en allant au rukūʿ et en se relevant ; les deux pratiques s'appuient sur des textes."
+    },
+    {
+      "id": "pri-t1-0043",
+      "concept": "pri.deroulement.ruku",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "trou",
+      "q": "Dans l'inclinaison (rukūʿ), on dit : « Subḥāna Rabbiya l-___ ».",
+      "choices": [
+        "Karīm",
+        "Ghafūr",
+        "ʿAẓīm",
+        "Aʿlā"
+      ],
+      "answer": 2,
+      "expl": "« Gloire à mon Seigneur l'Immense », dans le rukūʿ ; « Gloire à mon Seigneur le Très-Haut », dans le sujūd. Retenez : quand on s'incline, on proclame Sa grandeur ; quand on pose le front au sol, au plus bas, on proclame Sa hauteur.",
+      "src": [
+        "Hadith de Ḥudhayfa — Muslim"
+      ],
+      "ar": {
+        "text": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+        "tr": "subḥāna Rabbiya l-ʿaẓīm",
+        "pr": "soub-hâ-na rab-bi-yal-ʿa-zîm",
+        "fr": "Gloire à mon Seigneur l'Immense"
+      }
+    },
+    {
+      "id": "pri-t1-0044",
+      "concept": "pri.deroulement.sujud",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "trou",
+      "q": "Dans la prosternation (sujūd), on dit : « Subḥāna Rabbiya l-___ ».",
+      "choices": [
+        "ʿAẓīm",
+        "Raḥīm",
+        "Ḥakīm",
+        "Aʿlā"
+      ],
+      "answer": 3,
+      "expl": "« Gloire à mon Seigneur le Très-Haut. » On la répète au moins une fois, souvent trois. Le sujūd est aussi le moment privilégié pour invoquer : le Prophète ﷺ a dit que le serviteur n'est jamais aussi proche de son Seigneur que lorsqu'il est prosterné.",
+      "src": [
+        "Hadith de Ḥudhayfa — Muslim",
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "ar": {
+        "text": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+        "tr": "subḥāna Rabbiya l-aʿlā",
+        "pr": "soub-hâ-na rab-bi-yal-aʿ-lâ",
+        "fr": "Gloire à mon Seigneur le Très-Haut"
+      }
+    },
+    {
+      "id": "pri-t1-0045",
+      "concept": "pri.deroulement.relevement",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit l'imam en se relevant de l'inclinaison ?",
+      "choices": [
+        "« Samiʿa Llāhu li-man ḥamidah »",
+        "« Allāhu akbar », comme à chaque geste",
+        "« Subḥāna Rabbiya l-ʿAẓīm »",
+        "« Subḥāna Rabbiya l-Aʿlā »"
+      ],
+      "answer": 0,
+      "expl": "En se redressant, l'imam (ou celui qui prie seul) dit « Samiʿa Llāhu li-man ḥamidah », et l'on répond « Rabbanā wa laka l-ḥamd », notre Seigneur, à Toi la louange. Chez les malikites, celui qui suit l'imam dit seulement « Rabbanā wa laka l-ḥamd ».",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "سَمِعَ اللّٰهُ لِمَنْ حَمِدَهُ",
+        "tr": "samiʿa Llāhu li-man ḥamidah",
+        "pr": "sa-mi-ʿal-lâ-hou li-man ha-mi-dah",
+        "fr": "Allah entend celui qui Le loue"
+      }
+    },
+    {
+      "id": "pri-t1-0046",
+      "concept": "pri.deroulement.sept-os",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Sur combien de parties du corps se prosterne-t-on, selon le hadith ?",
+      "answer": 7,
+      "expl": "Sept : le front (avec le nez), les deux mains, les deux genoux et les extrémités des deux pieds. Le Prophète ﷺ a dit : « Il m'a été ordonné de me prosterner sur sept os. » Toute la personne s'abaisse devant son Créateur.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0047",
+      "concept": "pri.deroulement.tashahhud",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "trou",
+      "q": "Le tashahhud malikite commence par : « At-taḥiyyātu ___… »",
+      "choices": [
+        "li-l-malāʾika",
+        "li-Llāh",
+        "li-r-Rasūl",
+        "li-n-nās"
+      ],
+      "answer": 1,
+      "expl": "« Les salutations sont à Allah, les œuvres pures sont à Allah, les bonnes paroles et les prières sont à Allah. » Les malikites récitent le tashahhud enseigné par ʿUmar ibn al-Khaṭṭāb du haut du minbar, rapporté dans le Muwaṭṭaʾ de l'imam Mālik.",
+      "src": [
+        "Mālik, al-Muwaṭṭaʾ"
+      ],
+      "ar": {
+        "text": "التَّحِيَّاتُ لِلّٰهِ",
+        "tr": "at-taḥiyyātu li-Llāh",
+        "pr": "at-ta-hiy-yâ-tou lil-lâh",
+        "fr": "les salutations sont à Allah"
+      }
+    },
+    {
+      "id": "pri-t1-0048",
+      "concept": "pri.deroulement.index",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "vf",
+      "q": "Dans la pratique malikite répandue, on bouge l'index droit pendant le tashahhud.",
+      "answer": true,
+      "expl": "Oui : au Maroc, on garde la main droite fermée, l'index tendu, et on le bouge doucement pendant le tashahhud. Les savants y voient un rappel de l'unicité d'Allah et un moyen de chasser la distraction. D'autres écoles le lèvent seulement à la shahāda.",
+      "note": "La manière de tenir et de bouger l'index varie selon les écoles et les hadiths retenus."
+    },
+    {
+      "id": "pri-t1-0049",
+      "concept": "pri.deroulement.salam",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment termine-t-on la prière ?",
+      "choices": [
+        "Par la Fātiḥa récitée une dernière fois",
+        "En se levant simplement, sans rien dire",
+        "Par le salām, à droite",
+        "Par un dernier « Allāhu akbar »"
+      ],
+      "answer": 2,
+      "expl": "On sort de la prière par le salām, en tournant la tête vers la droite. Chez les malikites, l'imam et celui qui prie seul font un seul salām à droite ; celui qui suit l'imam en ajoute un pour répondre à l'imam, et un à gauche s'il y a quelqu'un.",
+      "ar": {
+        "text": "السَّلَامُ عَلَيْكُمْ",
+        "tr": "as-salāmu ʿalaykum",
+        "pr": "as-sa-lâ-mou ʿa-lay-koum",
+        "fr": "que la paix soit sur vous"
+      },
+      "note": "Les autres écoles font deux salām, à droite puis à gauche."
+    },
+    {
+      "id": "pri-t1-0050",
+      "concept": "pri.deroulement.basmala",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon l'école malikite, on ne récite pas la basmala avant la Fātiḥa dans les prières obligatoires.",
+      "answer": true,
+      "expl": "C'est la pratique de Médine retenue par Mālik : dans les prières obligatoires, on commence directement par « al-ḥamdu li-Llāhi Rabbi l-ʿālamīn ». Anas rapportait que le Prophète ﷺ, Abū Bakr et ʿUmar ouvraient la récitation par « al-ḥamdu li-Llāh ». D'autres écoles la récitent, à voix haute ou basse.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Muslim"
+      ],
+      "note": "Pour les chaféites, la basmala fait partie de la Fātiḥa et doit être récitée ; beaucoup de malikites la récitent discrètement pour sortir de la divergence."
+    },
+    {
+      "id": "pri-t1-0051",
+      "concept": "pri.deroulement.amin",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit-on à la fin de la Fātiḥa ?",
+      "choices": [
+        "« Allāhu akbar »",
+        "« Subḥāna Llāh »",
+        "« Bismillāh »",
+        "« Āmīn »"
+      ],
+      "answer": 3,
+      "expl": "« Āmīn » veut dire « exauce » : la Fātiḥa se termine par une demande de guidance, et l'on demande à Allah de l'accepter. Le Prophète ﷺ a dit que celui dont le āmīn coïncide avec celui des anges voit ses péchés passés pardonnés.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "آمِين",
+        "tr": "āmīn",
+        "pr": "â-mîn",
+        "fr": "exauce"
+      }
+    },
+    {
+      "id": "pri-t1-0052",
+      "concept": "pri.deroulement.vocabulaire",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque position de la prière à son nom arabe.",
+      "pairs": [
+        [
+          "Qiyām",
+          "Debout"
+        ],
+        [
+          "Rukūʿ",
+          "Incliné, mains sur les genoux"
+        ],
+        [
+          "Sujūd",
+          "Prosterné, front au sol"
+        ],
+        [
+          "Julūs",
+          "Assis"
+        ]
+      ],
+      "expl": "Une rak'a enchaîne qiyām, rukūʿ, retour debout, deux sujūd séparés par un julūs. Connaître ces mots aide à suivre les explications à la mosquée.",
+      "pron": {
+        "Qiyām": "qi-yâm",
+        "Rukūʿ": "rou-koûʿ",
+        "Sujūd": "sou-joûd",
+        "Julūs": "jou-loûs"
+      }
+    },
+    {
+      "id": "pri-t1-0053",
+      "concept": "pri.piliers-sunnas.fard-sunna",
+      "domain": "priere",
+      "sub": "piliers-sunnas",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans la prière, quelle est la différence entre un farḍ et une sunna ?",
+      "choices": [
+        "Un farḍ oublié doit être accompli ; une sunna oubliée se répare",
+        "Il n'y a aucune différence entre les deux dans la prière",
+        "Les sunnas sont plus importantes que les obligations",
+        "Les obligations ne concernent que l'imam, pas les fidèles"
+      ],
+      "answer": 0,
+      "expl": "Les piliers (farāʾiḍ) comme la Fātiḥa, le rukūʿ ou le sujūd sont indispensables : si l'un manque, la rak'a ne compte pas. Les sunnas, comme la sourate après la Fātiḥa ou le premier tashahhud, embellissent la prière ; l'oubli d'une sunna importante se répare par le sujūd as-sahw."
+    },
+    {
+      "id": "pri-t1-0054",
+      "concept": "pri.piliers-sunnas.faraid",
+      "domain": "priere",
+      "sub": "piliers-sunnas",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquels sont des piliers (obligations) de la prière ?",
+      "choices": [
+        "Le takbīr d'ouverture",
+        "La Fātiḥa",
+        "Réciter une sourate après la Fātiḥa",
+        "L'inclinaison (rukūʿ)",
+        "La prosternation (sujūd)",
+        "Le salām final"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "expl": "Le takbīr d'ouverture, la station debout pour la Fātiḥa, la Fātiḥa, le rukūʿ, le sujūd, s'en relever, la position assise finale et le salām, accomplis avec calme et dans l'ordre, sont des obligations. Réciter une sourate après la Fātiḥa est une sunna.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ]
+    },
+    {
+      "id": "pri-t1-0055",
+      "concept": "pri.piliers-sunnas.sourate",
+      "domain": "priere",
+      "sub": "piliers-sunnas",
+      "tier": 1,
+      "type": "vf",
+      "q": "Réciter une sourate après la Fātiḥa, dans les deux premières rak'at, est une sunna.",
+      "answer": true,
+      "expl": "Oui : seule la Fātiḥa est obligatoire. Ajouter une sourate ou quelques versets dans les deux premières rak'at est une sunna. Un débutant peut donc prier dès qu'il connaît la Fātiḥa, et ajouter de courtes sourates au fur et à mesure."
+    },
+    {
+      "id": "pri-t1-0056",
+      "concept": "pri.piliers-sunnas.tumanina",
+      "domain": "priere",
+      "sub": "piliers-sunnas",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le calme (ṭumaʾnīna) dans chaque position est une obligation de la prière.",
+      "answer": true,
+      "expl": "Oui : il faut marquer un temps d'immobilité dans le rukūʿ, le sujūd et en se relevant. Le Prophète ﷺ a dit à un homme qui priait vite : « Retourne prier, car tu n'as pas prié », puis il lui a appris à rester calme dans chaque position.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الطُّمَأْنِينَة",
+        "tr": "aṭ-ṭumaʾnīna",
+        "pr": "at-tou-maʾ-nî-na",
+        "fr": "le calme, la sérénité"
+      }
+    },
+    {
+      "id": "pri-t1-0057",
+      "concept": "pri.piliers-sunnas.premier-tashahhud",
+      "domain": "priere",
+      "sub": "piliers-sunnas",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon l'école malikite, le premier tashahhud (dans une prière de 3 ou 4 rak'at) est :",
+      "choices": [
+        "Une obligation, sans laquelle la prière est nulle",
+        "Une sunna, réparée en cas d'oubli",
+        "Un geste réservé à l'imam qui dirige",
+        "Un ajout interdit, à ne jamais faire"
+      ],
+      "answer": 1,
+      "expl": "Le premier tashahhud, après la deuxième rak'a, est une sunna. Un jour, le Prophète ﷺ s'est levé sans le faire ; il a continué et a fait deux prosternations de l'oubli avant le salām. On peut donc se rassurer : un oubli se répare.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn Buḥayna — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0058",
+      "concept": "pri.jamaa-jumua.vingt-sept",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de fois la prière en groupe vaut-elle mieux que la prière faite seul, selon le hadith ?",
+      "answer": 27,
+      "expl": "Vingt-sept degrés. La prière en commun rapproche les cœurs, efface les différences sociales dans le rang et apprend la discipline. Même à deux, chez soi avec son conjoint, on peut prier en groupe et obtenir ce mérite.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0059",
+      "concept": "pri.jamaa-jumua.jumua-qui",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pour qui la prière du vendredi (Jumuʿa) à la mosquée est-elle obligatoire ?",
+      "choices": [
+        "Seulement les imams et les muezzins",
+        "Tout le monde, mais seulement en Ramadan",
+        "Les hommes pubères, résidents et valides",
+        "Tout le monde, y compris les enfants"
+      ],
+      "answer": 2,
+      "expl": "La Jumuʿa est obligatoire pour l'homme pubère, résident et non excusé (maladie, voyage). Les femmes en sont dispensées, mais peuvent y assister : leur prière est alors valable et remplace le Ẓuhr. Celui qui ne fait pas la Jumuʿa prie le Ẓuhr normalement.",
+      "src": [
+        "Coran 62:9"
+      ],
+      "ar": {
+        "text": "الْجُمُعَة",
+        "tr": "al-jumuʿa",
+        "pr": "al-jou-mou-ʿa",
+        "fr": "le vendredi, le rassemblement"
+      }
+    },
+    {
+      "id": "pri-t1-0060",
+      "concept": "pri.jamaa-jumua.jumua-rakat",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de rak'at compte la prière du vendredi ?",
+      "answer": 2,
+      "expl": "Deux rak'at récitées à voix haute, précédées de deux sermons. Elles remplacent les quatre rak'at du Ẓuhr ce jour-là, pour ceux qui y assistent."
+    },
+    {
+      "id": "pri-t1-0061",
+      "concept": "pri.jamaa-jumua.khutba",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que fait-on pendant le sermon (khuṭba) du vendredi ?",
+      "choices": [
+        "On fait ses prières surérogatoires",
+        "On discute à voix basse avec ses voisins",
+        "On lit le Coran à voix haute, chacun pour soi",
+        "On écoute en silence, sans parler"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ a dit : « Si tu dis à ton voisin : Tais-toi ! pendant que l'imam fait le sermon, tu as dit une futilité. » La khuṭba fait partie du culte : on l'écoute comme une leçon. Un geste suffit si l'on doit faire taire quelqu'un.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْخُطْبَة",
+        "tr": "al-khuṭba",
+        "pr": "al-khout-ba",
+        "fr": "le sermon"
+      }
+    },
+    {
+      "id": "pri-t1-0062",
+      "concept": "pri.jamaa-jumua.verset",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Ô vous qui croyez ! Quand on appelle à la prière du jour du vendredi, accourez à l'invocation d'Allah et laissez tout ___. »",
+      "choices": [
+        "commerce",
+        "travail manuel",
+        "repas",
+        "sommeil"
+      ],
+      "answer": 0,
+      "expl": "Le verset 62:9 demande de laisser le commerce à l'appel du vendredi. Le verset suivant ajoute qu'après la prière, on peut se disperser sur la terre et rechercher la grâce d'Allah. Le vendredi n'est donc pas un jour chômé, mais un rendez-vous sacré au milieu du jour.",
+      "src": [
+        "Coran 62:9-10"
+      ],
+      "tags": [
+        "sourate:62"
+      ]
+    },
+    {
+      "id": "pri-t1-0063",
+      "concept": "pri.jamaa-jumua.ghusl",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon l'école malikite, le grand lavage (ghusl) du vendredi est une sunna.",
+      "answer": true,
+      "expl": "Oui : c'est une sunna confirmée chez les malikites, à faire de préférence juste avant de partir à la mosquée. On se parfume aussi et on met de beaux vêtements. Le Prophète ﷺ insistait beaucoup sur ce ghusl, par respect pour l'assemblée.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0064",
+      "concept": "pri.voyage-malade.qasr",
+      "domain": "priere",
+      "sub": "voyage-malade",
+      "tier": 1,
+      "type": "qcm",
+      "q": "En voyage, comment raccourcit-on les prières de quatre rak'at ?",
+      "choices": [
+        "On les prie en une rak'a",
+        "On les prie en deux rak'at",
+        "On les prie en trois rak'at",
+        "On les supprime"
+      ],
+      "answer": 1,
+      "expl": "Le voyageur prie le Ẓuhr, l'ʿAṣr et l'ʿIshāʾ en deux rak'at : c'est le qaṣr (raccourcissement). Le Maghrib (3) et le Ṣubḥ (2) ne changent pas. Chez les malikites, c'est une sunna confirmée, pour un trajet d'environ 80 km ou plus.",
+      "src": [
+        "Coran 4:101"
+      ],
+      "ar": {
+        "text": "الْقَصْر",
+        "tr": "al-qaṣr",
+        "pr": "al-qasr",
+        "fr": "le raccourcissement"
+      },
+      "note": "Pour les hanafites, raccourcir est obligatoire en voyage."
+    },
+    {
+      "id": "pri-t1-0065",
+      "concept": "pri.voyage-malade.qasr",
+      "domain": "priere",
+      "sub": "voyage-malade",
+      "tier": 1,
+      "type": "multi",
+      "q": "Quelles prières se raccourcissent en voyage ?",
+      "choices": [
+        "Le Ẓuhr",
+        "L'ʿAṣr",
+        "Le Maghrib",
+        "L'ʿIshāʾ",
+        "Le Ṣubḥ"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Seules les prières de quatre rak'at passent à deux. Le Maghrib garde ses trois rak'at et le Ṣubḥ ses deux. ʿĀʾisha disait que la prière avait d'abord été prescrite en deux rak'at, puis complétée pour le résident et laissée ainsi pour le voyageur.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0066",
+      "concept": "pri.voyage-malade.malade",
+      "domain": "priere",
+      "sub": "voyage-malade",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment prie une personne malade qui ne peut pas se tenir debout ?",
+      "choices": [
+        "Elle attend la fin de sa maladie pour tout rattraper",
+        "Elle demande à quelqu'un de prier à sa place",
+        "Assise, et si elle ne peut pas, couchée sur le côté",
+        "Elle ne prie pas jusqu'à sa guérison"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ a dit à ʿImrān ibn Ḥuṣayn, qui était malade : « Prie debout ; si tu ne peux pas, assis ; si tu ne peux pas, sur le côté. » La prière s'adapte à chacun : Allah n'impose à aucune âme plus qu'elle ne peut.",
+      "src": [
+        "Hadith de ʿImrān ibn Ḥuṣayn — Bukhari",
+        "Coran 2:286"
+      ]
+    },
+    {
+      "id": "pri-t1-0067",
+      "concept": "pri.voyage-malade.jam",
+      "domain": "priere",
+      "sub": "voyage-malade",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le voyageur peut regrouper le Ẓuhr avec l'ʿAṣr, et le Maghrib avec l'ʿIshāʾ.",
+      "answer": true,
+      "expl": "Oui, c'est le jamʿ (regroupement), pratiqué par le Prophète ﷺ en voyage. On peut prier les deux au moment de la première ou de la seconde. C'est une facilité précieuse lors d'un long trajet en voiture ou en avion.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ],
+      "note": "Les hanafites ne permettent le regroupement qu'à ʿArafa et Muzdalifa pendant le pèlerinage."
+    },
+    {
+      "id": "pri-t1-0068",
+      "concept": "pri.surerogatoires.fajr",
+      "domain": "priere",
+      "sub": "surerogatoires",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'a dit le Prophète ﷺ des deux rak'at surérogatoires avant la prière de l'aube ?",
+      "choices": [
+        "Elles sont facultatives et sans grande valeur",
+        "Elles remplacent la prière obligatoire de l'aube",
+        "Il ne faut les faire qu'en Ramadan, avant le jeûne",
+        "Elles valent mieux que ce monde et son contenu"
+      ],
+      "answer": 3,
+      "expl": "« Les deux rak'at du Fajr valent mieux que ce bas monde et ce qu'il contient. » Le Prophète ﷺ ne les abandonnait jamais, même en voyage. Chez les malikites, on les appelle raghība et on y récite de préférence la Fātiḥa seule, à voix basse.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0069",
+      "concept": "pri.surerogatoires.witr",
+      "domain": "priere",
+      "sub": "surerogatoires",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que le witr ?",
+      "choices": [
+        "Une prière impaire, la dernière de la nuit",
+        "La prière de midi, appelée aussi Ẓuhr",
+        "La prière du vendredi, faite en groupe",
+        "La prière de l'Aïd, faite deux fois par an"
+      ],
+      "answer": 0,
+      "expl": "Witr veut dire « impair ». Chez les malikites, on prie deux rak'at (le shafʿ), on fait le salām, puis une rak'a seule : le witr. Le Prophète ﷺ a dit : « Faites du witr votre dernière prière de la nuit. » C'est une sunna très confirmée.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْوِتْر",
+        "tr": "al-witr",
+        "pr": "al-witr",
+        "fr": "l'impair"
+      }
+    },
+    {
+      "id": "pri-t1-0070",
+      "concept": "pri.surerogatoires.witr",
+      "domain": "priere",
+      "sub": "surerogatoires",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le hadith, Allah est impair (witr) et Il aime ce qui est impair.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ a dit : « Allah est impair et Il aime l'impair. » Allah est Un, sans pareil. On retrouve ce goût de l'impair dans le witr, les trois lavages des ablutions ou le nombre de dattes pour rompre le jeûne.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0071",
+      "concept": "pri.speciales.funeraire",
+      "domain": "priere",
+      "sub": "speciales",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'a de particulier la prière funéraire (ṣalāt al-janāza) ?",
+      "choices": [
+        "Elle se fait seulement à la maison du défunt",
+        "Elle se fait debout, sans prosternation",
+        "Elle comporte deux rak'at complètes",
+        "Elle se fait assis, en silence, autour du corps"
+      ],
+      "answer": 1,
+      "expl": "La prière sur le défunt se fait debout : quatre takbīr, entre lesquels on invoque pour lui, puis le salām. Il n'y a ni rukūʿ ni sujūd. C'est une obligation communautaire : si quelques-uns la font, les autres sont dispensés, mais y participer est d'un grand mérite.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "note": "Chez les malikites, on invoque après chaque takbīr sans réciter obligatoirement la Fātiḥa ; les chaféites et les hanbalites la récitent après le premier."
+    },
+    {
+      "id": "pri-t1-0072",
+      "concept": "pri.speciales.funeraire",
+      "domain": "priere",
+      "sub": "speciales",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de takbīr comporte la prière funéraire ?",
+      "answer": 4,
+      "expl": "Quatre takbīr. Après le premier, on loue Allah ; après le deuxième, on prie sur le Prophète ﷺ ; après le troisième, on invoque pour le défunt ; après le quatrième, on invoque pour les musulmans, puis on fait le salām.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0073",
+      "concept": "pri.speciales.aid",
+      "domain": "priere",
+      "sub": "speciales",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment se déroule la prière de l'Aïd ?",
+      "choices": [
+        "Un sermon d'abord, puis la prière, après l'adhān",
+        "Une seule rak'a, suivie d'une longue invocation",
+        "Deux rak'at avec des takbīr en plus, puis un sermon",
+        "Quatre rak'at en silence, sans aucun sermon"
+      ],
+      "answer": 2,
+      "expl": "La prière de l'Aïd compte deux rak'at, avec des takbīr en plus au début de chacune. Il n'y a ni adhān ni iqāma, et le sermon vient après la prière, à l'inverse du vendredi. Chez les malikites, c'est une sunna confirmée."
+    },
+    {
+      "id": "pri-t1-0074",
+      "concept": "pri.khushu.sens",
+      "domain": "priere",
+      "sub": "khushu",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le khushūʿ dans la prière ?",
+      "choices": [
+        "La vitesse d'exécution des gestes",
+        "Réciter le plus fort possible",
+        "Prier uniquement à la mosquée, jamais chez soi",
+        "Le recueillement, la présence du cœur"
+      ],
+      "answer": 3,
+      "expl": "Le khushūʿ (khou-choûʿ) est l'humilité du cœur devant Allah, qui se voit dans le calme du corps. Le Coran dit : « Bienheureux sont les croyants, qui sont humbles dans leur prière. » Il se cultive peu à peu ; une prière distraite n'est pas pour autant nulle.",
+      "src": [
+        "Coran 23:1-2"
+      ],
+      "ar": {
+        "text": "الْخُشُوع",
+        "tr": "al-khushūʿ",
+        "pr": "al-khou-choûʿ",
+        "fr": "le recueillement"
+      },
+      "tags": [
+        "sourate:23"
+      ]
+    },
+    {
+      "id": "pri-t1-0075",
+      "concept": "pri.khushu.conseils",
+      "domain": "priere",
+      "sub": "khushu",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquels de ces conseils aident au recueillement dans la prière ?",
+      "choices": [
+        "Comprendre le sens de ce qu'on récite",
+        "Garder le regard baissé devant soi",
+        "Garder son téléphone allumé à côté de soi",
+        "Prier sans être pressé par la faim ou par un besoin naturel",
+        "Prier comme si c'était sa dernière prière",
+        "Prier en regardant autour de soi"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Comprendre ce qu'on dit, garder le regard baissé, se libérer des besoins qui distraient et penser que cette prière pourrait être la dernière sont des conseils transmis par la Sunna. Le Prophète ﷺ a dit de ne pas prier quand le repas est servi ou qu'on se retient d'aller aux toilettes.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0076",
+      "concept": "pri.khushu.distraction",
+      "domain": "priere",
+      "sub": "khushu",
+      "tier": 1,
+      "type": "vf",
+      "q": "Une pensée qui traverse l'esprit pendant la prière l'annule.",
+      "answer": false,
+      "expl": "Faux : les pensées involontaires n'annulent pas la prière, même si elles en diminuent la récompense. Le Prophète ﷺ a dit que le Shayṭān vient souffler à celui qui prie : « Pense à ceci, pense à cela. » Il suffit de revenir doucement à ce qu'on récite, sans culpabiliser.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0077",
+      "concept": "pri.adhan.minaret-forme",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est la forme typique des minarets au Maroc et au Maghreb ?",
+      "choices": [
+        "Une coupole sans tour",
+        "Une tour carrée",
+        "Une tour ronde très fine en forme de crayon",
+        "Une pyramide"
+      ],
+      "answer": 1,
+      "expl": "Les minarets maghrébins, comme la Koutoubia ou celui de la mosquée Hassan II, sont carrés, hérités de la grande mosquée de Kairouan. Les minarets ottomans, eux, sont ronds et très élancés. On repère souvent le style d'un pays à la forme de ses minarets."
+    },
+    {
+      "id": "pri-t1-0078",
+      "concept": "pri.horaires-rakat.fiche-cinq",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les cinq prières en un coup d'œil",
+      "points": [
+        "Ṣubḥ (aube) : 2 rak'at, à voix haute",
+        "Ẓuhr (midi) : 4 rak'at, à voix basse",
+        "ʿAṣr (après-midi) : 4 rak'at, à voix basse",
+        "Maghrib (coucher du soleil) : 3 rak'at",
+        "ʿIshāʾ (nuit) : 4 rak'at"
+      ],
+      "expl": "Ces cinq rendez-vous rythment la journée du musulman, de l'aube à la nuit. Ensemble, elles font 17 rak'at obligatoires. Au Maroc, l'adhān de chaque mosquée annonce leur début."
+    },
+    {
+      "id": "pri-t1-0079",
+      "concept": "pri.deroulement.fiche-etape1",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "fiche",
+      "q": "La prière pas à pas (1) : avant de commencer",
+      "points": [
+        "Être en état d'ablutions (wuḍūʾ)",
+        "Corps, vêtement et lieu propres",
+        "ʿAwra couverte (homme : du nombril aux genoux ; femme : tout sauf visage et mains)",
+        "Face à la qibla (la Kaʿba, vers le sud-est depuis la France)",
+        "Savoir dans son cœur quelle prière on fait (l'intention)"
+      ],
+      "expl": "Ces conditions préparent le corps et le cœur. On peut prier partout, du moment que le lieu est propre. Un tapis aide, mais n'est pas obligatoire."
+    },
+    {
+      "id": "pri-t1-0080",
+      "concept": "pri.deroulement.fiche-etape2",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "fiche",
+      "q": "La prière pas à pas (2) : debout",
+      "points": [
+        "Lever les mains et dire « Allāhu akbar » (takbīr d'ouverture)",
+        "Bras le long du corps (pratique malikite au Maroc)",
+        "Réciter la Fātiḥa",
+        "Puis une courte sourate (dans les 2 premières rak'at)"
+      ],
+      "expl": "Debout, on entre dans la prière comme on entre chez un roi. Dans les deux dernières rak'at des prières de 3 ou 4 rak'at, on ne récite que la Fātiḥa.",
+      "ar": {
+        "text": "اللّٰهُ أَكْبَرُ",
+        "tr": "Allāhu akbar",
+        "pr": "al-lâ-hou ak-bar",
+        "fr": "Allah est le plus grand"
+      }
+    },
+    {
+      "id": "pri-t1-0081",
+      "concept": "pri.deroulement.fiche-etape3",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "fiche",
+      "q": "La prière pas à pas (3) : s'incliner et se relever",
+      "points": [
+        "« Allāhu akbar », puis s'incliner, mains sur les genoux, dos droit (rukūʿ)",
+        "Dire 3 fois : « Subḥāna Rabbiya l-ʿAẓīm »",
+        "Se redresser en disant « Samiʿa Llāhu li-man ḥamidah »",
+        "Debout : « Rabbanā wa laka l-ḥamd »"
+      ],
+      "expl": "Dans l'inclinaison, on glorifie Allah l'Immense ; en se relevant, on Le loue. On reste immobile un instant dans chaque position : le calme est obligatoire.",
+      "ar": {
+        "text": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+        "tr": "subḥāna Rabbiya l-ʿaẓīm",
+        "pr": "soub-hâ-na rab-bi-yal-ʿa-zîm",
+        "fr": "Gloire à mon Seigneur l'Immense"
+      }
+    },
+    {
+      "id": "pri-t1-0082",
+      "concept": "pri.deroulement.fiche-etape4",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "fiche",
+      "q": "La prière pas à pas (4) : les deux prosternations",
+      "points": [
+        "« Allāhu akbar », puis front, nez, mains, genoux et orteils au sol (sujūd)",
+        "Dire 3 fois : « Subḥāna Rabbiya l-Aʿlā »",
+        "« Allāhu akbar », s'asseoir un instant",
+        "« Allāhu akbar », seconde prosternation identique",
+        "Fin de la rak'a : on se relève (ou on s'assoit pour le tashahhud)"
+      ],
+      "expl": "La prosternation est le moment où l'on est le plus proche d'Allah : c'est le meilleur moment pour Lui parler. Une rak'a compte deux prosternations.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "ar": {
+        "text": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+        "tr": "subḥāna Rabbiya l-aʿlā",
+        "pr": "soub-hâ-na rab-bi-yal-aʿ-lâ",
+        "fr": "Gloire à mon Seigneur le Très-Haut"
+      }
+    },
+    {
+      "id": "pri-t1-0083",
+      "concept": "pri.deroulement.fiche-tashahhud",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Le tashahhud (version malikite)",
+      "points": [
+        "Assis après chaque paire de rak'at",
+        "Au dernier, on ajoute la prière sur le Prophète ﷺ",
+        "On l'apprend par petits morceaux, phrase par phrase"
+      ],
+      "expl": "On le récite assis, après la 2e rak'a et à la fin de la prière, en bougeant l'index droit. C'est la version enseignée par ʿUmar du haut du minbar, transmise par l'imam Mālik.",
+      "src": [
+        "Mālik, al-Muwaṭṭaʾ"
+      ],
+      "ar": {
+        "text": "التَّحِيَّاتُ لِلّٰهِ، الزَّاكِيَاتُ لِلّٰهِ، الطَّيِّبَاتُ الصَّلَوَاتُ لِلّٰهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+        "tr": "at-taḥiyyātu li-Llāh, az-zākiyātu li-Llāh, aṭ-ṭayyibātu ṣ-ṣalawātu li-Llāh, as-salāmu ʿalayka ayyuhā n-nabiyyu wa raḥmatu Llāhi wa barakātuh, as-salāmu ʿalaynā wa ʿalā ʿibādi Llāhi ṣ-ṣāliḥīn, ashhadu an lā ilāha illā Llāhu waḥdahu lā sharīka lah, wa ashhadu anna Muḥammadan ʿabduhu wa rasūluh",
+        "pr": "at-ta-hiy-yâ-tou lil-lâh, az-zâ-ki-yâ-tou lil-lâh, at-tay-yi-bâ-tous-sa-la-wâ-tou lil-lâh, as-sa-lâ-mou ʿa-lay-ka ay-you-han-na-biy-you wa rah-ma-tou-llâ-hi wa ba-ra-kâ-touh, as-sa-lâ-mou ʿa-lay-nâ wa ʿa-lâ ʿi-bâ-dil-lâ-his-sâ-li-hîn, ach-ha-dou an lâ i-lâ-ha il-lal-lâ-hou wah-da-hou lâ cha-rî-ka lah, wa ach-ha-dou an-na mou-ham-ma-dan ʿab-dou-hou wa ra-soû-louh",
+        "fr": "Les salutations sont à Allah, les œuvres pures sont à Allah, les bonnes paroles et les prières sont à Allah. Paix sur toi, ô Prophète, ainsi que la miséricorde d'Allah et Ses bénédictions. Paix sur nous et sur les serviteurs vertueux d'Allah. Je témoigne qu'il n'y a de divinité qu'Allah, seul, sans associé, et je témoigne que Muḥammad est Son serviteur et Son messager."
+      }
+    },
+    {
+      "id": "pri-t1-0084",
+      "concept": "pri.deroulement.fiche-ibrahimiyya",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "fiche",
+      "q": "La prière sur le Prophète ﷺ (aṣ-ṣalāt al-ibrāhīmiyya)",
+      "points": [
+        "Après le dernier tashahhud",
+        "Elle cite Ibrāhīm et sa famille comme modèle",
+        "Celui qui prie une fois sur le Prophète ﷺ, Allah prie dix fois sur lui"
+      ],
+      "expl": "On la récite après le dernier tashahhud, juste avant le salām. Le Prophète ﷺ l'a enseignée à ses Compagnons qui demandaient comment prier sur lui.",
+      "src": [
+        "Hadith de Kaʿb ibn ʿUjra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "اللّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللّٰهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+        "tr": "Allāhumma ṣalli ʿalā Muḥammadin wa ʿalā āli Muḥammad, kamā ṣallayta ʿalā Ibrāhīma wa ʿalā āli Ibrāhīm, innaka Ḥamīdun Majīd. Allāhumma bārik ʿalā Muḥammadin wa ʿalā āli Muḥammad, kamā bārakta ʿalā Ibrāhīma wa ʿalā āli Ibrāhīm, innaka Ḥamīdun Majīd",
+        "pr": "al-lâ-houm-ma sal-li ʿa-lâ mou-ham-ma-din wa ʿa-lâ â-li mou-ham-mad, ka-mâ sal-lay-ta ʿa-lâ ib-râ-hî-ma wa ʿa-lâ â-li ib-râ-hîm, in-na-ka ha-mî-doun ma-jîd. al-lâ-houm-ma bâ-rik ʿa-lâ mou-ham-ma-din wa ʿa-lâ â-li mou-ham-mad, ka-mâ bâ-rak-ta ʿa-lâ ib-râ-hî-ma wa ʿa-lâ â-li ib-râ-hîm, in-na-ka ha-mî-doun ma-jîd",
+        "fr": "Ô Allah, prie sur Muḥammad et sur la famille de Muḥammad, comme Tu as prié sur Ibrāhīm et sur la famille d'Ibrāhīm ; Tu es digne de louange et glorieux. Ô Allah, bénis Muḥammad et la famille de Muḥammad, comme Tu as béni Ibrāhīm et la famille d'Ibrāhīm ; Tu es digne de louange et glorieux."
+      }
+    },
+    {
+      "id": "pri-t1-0085",
+      "concept": "pri.adhan.fiche-texte",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 1,
+      "type": "fiche",
+      "q": "L'appel à la prière (adhān) au Maroc",
+      "points": [
+        "Allāhu akbar ×2",
+        "Ashhadu an lā ilāha illā Llāh ×2",
+        "Ashhadu anna Muḥammadan rasūlu Llāh ×2",
+        "Ḥayya ʿalā ṣ-ṣalāh ×2 · Ḥayya ʿalā l-falāḥ ×2",
+        "Allāhu akbar ×2 · Lā ilāha illā Llāh ×1"
+      ],
+      "expl": "Cinq fois par jour, il résonne depuis les minarets. Au Maroc, on suit l'adhān malikite de Médine : deux « Allāhu akbar » au début, et les témoignages dits d'abord doucement puis à pleine voix (tarjīʿ). À l'aube, on ajoute « aṣ-ṣalātu khayrun mina n-nawm » (la prière vaut mieux que le sommeil).",
+      "ar": {
+        "text": "حَيَّ عَلَى الصَّلَاةِ، حَيَّ عَلَى الْفَلَاحِ",
+        "tr": "ḥayya ʿalā ṣ-ṣalāh, ḥayya ʿalā l-falāḥ",
+        "pr": "hay-ya ʿa-las-sa-lâh, hay-ya ʿa-lal-fa-lâh",
+        "fr": "venez à la prière, venez à la réussite"
+      }
+    },
+    {
+      "id": "pri-t1-0086",
+      "concept": "pri.annulatifs.fiche-sortie",
+      "domain": "priere",
+      "sub": "annulatifs",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Après la prière : le dhikr en 2 minutes",
+      "points": [
+        "« Astaghfiru Llāh » ×3",
+        "« Allāhumma anta s-salām wa minka s-salām, tabārakta yā dhā l-jalāli wa l-ikrām »",
+        "Āyat al-Kursī",
+        "Subḥāna Llāh ×33, al-ḥamdu li-Llāh ×33, Allāhu akbar ×33",
+        "« Lā ilāha illā Llāhu waḥdahu lā sharīka lah… » pour faire 100"
+      ],
+      "expl": "Ces quelques minutes après le salām sont un trésor : le Prophète ﷺ ne les manquait pas. On peut les faire assis à sa place, tranquillement.",
+      "src": [
+        "Hadith de Thawbān — Muslim",
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0087",
+      "concept": "pri.deroulement.ordre-positions",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est la position qui suit immédiatement l'inclinaison (rukūʿ) ?",
+      "choices": [
+        "S'asseoir sur les talons",
+        "Le salām à droite",
+        "Se redresser debout",
+        "La prosternation directement"
+      ],
+      "answer": 2,
+      "expl": "Après le rukūʿ, on se redresse complètement et on marque un temps debout en disant « Rabbanā wa laka l-ḥamd ». Ce n'est qu'ensuite qu'on se prosterne. Ce redressement calme est obligatoire."
+    },
+    {
+      "id": "pri-t1-0088",
+      "concept": "pri.deroulement.sujud-par-raka",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de prosternations fait-on dans une seule rak'a ?",
+      "answer": 2,
+      "expl": "Deux prosternations, séparées par une courte position assise. Une prière de 4 rak'at compte donc 8 prosternations. Le Prophète ﷺ a dit que chaque prosternation t'élève d'un degré auprès d'Allah.",
+      "src": [
+        "Hadith de Thawbān — Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0089",
+      "concept": "pri.deroulement.tashahhud-nombre",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de fois s'assoit-on pour le tashahhud dans une prière de 4 rak'at ?",
+      "answer": 2,
+      "expl": "Deux fois : après la 2e rak'a (premier tashahhud, court) et après la 4e (dernier tashahhud, suivi de la prière sur le Prophète ﷺ et du salām). Pour le Ṣubḥ (2 rak'at), un seul tashahhud."
+    },
+    {
+      "id": "pri-t1-0090",
+      "concept": "pri.deroulement.tashahhud-debut",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "trou",
+      "q": "Le tashahhud commence par : « At-taḥiyyātu ___ ».",
+      "choices": [
+        "li-n-nabī",
+        "Allāhu akbar",
+        "bismillāh",
+        "li-Llāh"
+      ],
+      "answer": 3,
+      "expl": "« Les salutations sont à Allah. » Les plus beaux hommages reviennent à Allah seul. On récite ce texte assis, l'index droit tendu.",
+      "src": [
+        "Mālik, al-Muwaṭṭaʾ"
+      ]
+    },
+    {
+      "id": "pri-t1-0091",
+      "concept": "pri.deroulement.salam-droite",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "vf",
+      "q": "Pour terminer la prière, on dit « As-salāmu ʿalaykum » en tournant la tête vers la droite.",
+      "answer": true,
+      "expl": "C'est la sortie de la prière. Chez les malikites, l'imam et celui qui prie seul font un seul salām, à droite. Les autres écoles en font un second à gauche.",
+      "note": "Deux salām (droite puis gauche) chez les autres écoles."
+    },
+    {
+      "id": "pri-t1-0092",
+      "concept": "pri.deroulement.fin-priere",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre la fin de la prière.",
+      "items": [
+        "Dernier tashahhud",
+        "Prière sur le Prophète ﷺ",
+        "Invocation personnelle",
+        "Salām"
+      ],
+      "expl": "Après le tashahhud et la ṣalāt ibrāhīmiyya, on peut invoquer brièvement (par exemple demander refuge contre l'Enfer et les épreuves), puis on termine par le salām."
+    },
+    {
+      "id": "pri-t1-0093",
+      "concept": "pri.horaires-rakat.asr-rakat",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Combien de rak'at compte la prière de l'ʿAṣr ?",
+      "choices": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": 0,
+      "expl": "L'ʿAṣr compte quatre rak'at, récitées à voix basse, comme le Ẓuhr. Le Prophète ﷺ a particulièrement insisté sur elle : « Celui qui manque la prière de l'ʿAṣr, c'est comme s'il avait perdu sa famille et ses biens. »",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0094",
+      "concept": "pri.horaires-rakat.dhuhr-rakat",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Combien de rak'at compte la prière du Ẓuhr (midi) ?",
+      "choices": [
+        "4",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer": 0,
+      "expl": "Quatre rak'at à voix basse. Le vendredi, pour ceux qui vont à la mosquée, elle est remplacée par les deux rak'at de la Jumuʿa, précédées du sermon."
+    },
+    {
+      "id": "pri-t1-0095",
+      "concept": "pri.importance.rendez-vous",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les cinq prières ont des horaires précis : on ne peut pas toutes les regrouper le soir sans raison.",
+      "answer": true,
+      "expl": "« La prière est prescrite aux croyants à des heures déterminées. » Prier chaque prière dans son temps, c'est garder le lien avec Allah tout au long de la journée. Le regroupement n'est permis que dans des cas précis, comme le voyage.",
+      "src": [
+        "Coran 4:103"
+      ]
+    },
+    {
+      "id": "pri-t1-0096",
+      "concept": "pri.importance.debutant",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Un nouveau musulman qui ne connaît pas encore bien la prière doit-il attendre de tout savoir pour commencer à prier ?",
+      "choices": [
+        "Non : il commence avec ce qu'il sait",
+        "Oui, il doit d'abord avoir tout appris",
+        "Oui, il doit attendre un an après sa conversion",
+        "Il peut ne jamais prier s'il ne parle pas arabe"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ a enseigné à un homme qui ne connaissait rien du Coran de dire des formules simples de dhikr dans sa prière. On commence avec la Fātiḥa, ou même des formules simples, et on progresse. Allah récompense l'effort.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn Abī Awfā — Abu Dawud & Nasai"
+      ]
+    },
+    {
+      "id": "pri-t1-0097",
+      "concept": "pri.conditions.qibla-trouver",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment trouver la direction de la qibla quand on ne la connaît pas ?",
+      "choices": [
+        "On prie toujours vers le nord, par convention",
+        "Boussole, application, ou on demande aux gens",
+        "On prie dans n'importe quelle direction sans chercher",
+        "On attend de trouver une mosquée pour prier"
+      ],
+      "answer": 1,
+      "expl": "On fait l'effort de chercher : application, boussole, direction des mosquées, ou question à un habitant. Si l'on s'est sincèrement efforcé, la prière est valable même en cas d'erreur."
+    },
+    {
+      "id": "pri-t1-0098",
+      "concept": "pri.khushu.lent",
+      "domain": "priere",
+      "sub": "khushu",
+      "tier": 1,
+      "type": "vf",
+      "q": "Prendre son temps dans la prière, sans la « picorer », fait partie de ses obligations.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ vit un homme prier vite et lui dit trois fois : « Retourne prier, car tu n'as pas prié. » Puis il lui apprit à rester calme dans chaque position. Mieux vaut une prière tranquille qu'une prière bâclée.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0099",
+      "concept": "pri.jamaa-jumua.vendredi-meilleur",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos du vendredi ?",
+      "choices": [
+        "C'est un jour de jeûne obligatoire",
+        "C'est un jour où l'on ne prie pas chez soi",
+        "C'est le meilleur jour de la semaine",
+        "C'est un jour comme les autres, sans mérite"
+      ],
+      "answer": 2,
+      "expl": "« Le meilleur jour où le soleil se lève est le vendredi : ce jour-là Adam fut créé… et l'Heure n'aura lieu qu'un vendredi. » On s'y lave, se parfume, lit la sourate al-Kahf et multiplie les prières sur le Prophète ﷺ.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0100",
+      "concept": "pri.adhan.phrases-sens",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque phrase de l'adhān à son sens.",
+      "pairs": [
+        [
+          "Allāhu akbar",
+          "Allah est le plus grand"
+        ],
+        [
+          "Ḥayya ʿalā ṣ-ṣalāh",
+          "Venez à la prière"
+        ],
+        [
+          "Ḥayya ʿalā l-falāḥ",
+          "Venez à la réussite"
+        ],
+        [
+          "Aṣ-ṣalātu khayrun mina n-nawm",
+          "La prière vaut mieux que le sommeil"
+        ]
+      ],
+      "expl": "L'adhān est un appel qui résume la foi : la grandeur d'Allah, les deux témoignages, puis l'invitation à la prière et à la réussite. On y répond en répétant les phrases, sauf les deux « ḥayya », où l'on dit « lā ḥawla wa lā quwwata illā bi-Llāh »."
+    },
+    {
+      "id": "pri-t1-0101",
+      "concept": "pri.surerogatoires.raghiba-maroc",
+      "domain": "priere",
+      "sub": "surerogatoires",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment s'appellent au Maroc les deux rak'at très recommandées juste avant la prière de l'aube ?",
+      "choices": [
+        "Le witr",
+        "Les tarāwīḥ",
+        "Le ḍuḥā",
+        "Ar-raghība"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ ne les abandonnait jamais, même en voyage : « Les deux rak'at du Fajr valent mieux que ce bas monde et ce qu'il contient. » Les malikites les appellent raghība (« désirée »).",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0102",
+      "concept": "pri.importance.fiche-pourquoi",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Pourquoi la prière est si importante",
+      "points": [
+        "2e pilier de l'islam",
+        "Prescrite lors du Voyage nocturne",
+        "« La prière préserve de la turpitude et du blâmable » (29:45)",
+        "« La fraîcheur de mes yeux est dans la prière », disait le Prophète ﷺ"
+      ],
+      "expl": "La prière est le lien direct entre le croyant et Allah, cinq fois par jour. C'est la première chose sur laquelle on sera jugé. Elle a été prescrite au ciel, lors du Miʿrāj, sans intermédiaire.",
+      "src": [
+        "Coran 29:45",
+        "Hadith d'Anas — Nasai"
+      ]
+    },
+    {
+      "id": "pri-t1-0103",
+      "concept": "pri.surerogatoires.fiche-rawatib",
+      "domain": "priere",
+      "sub": "surerogatoires",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les prières surérogatoires liées aux prières obligatoires",
+      "points": [
+        "2 rakʿa avant ṣubḥ (al-fajr / ar-raghība) : « meilleures que le monde »",
+        "Le witr : une rakʿa impaire après ʿishāʾ, très recommandé",
+        "Rakʿa avant et après ẓuhr, après maghrib et ʿishāʾ",
+        "Au Maroc on prie le shafʿ (2 rakʿa) puis le witr (1)"
+      ],
+      "expl": "Autour des prières obligatoires, le Prophète ﷺ priait quelques rakʿa en plus. Elles comblent les manques de nos prières obligatoires. Commence par les plus importantes.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0104",
+      "concept": "pri.khushu.fiche-presence",
+      "domain": "priere",
+      "sub": "khushu",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Prier avec le cœur",
+      "points": [
+        "Comprendre ce que l'on récite",
+        "Prendre son temps dans chaque position",
+        "Regarder l'endroit de la prosternation",
+        "Prier comme si c'était sa dernière prière"
+      ],
+      "expl": "Le khushūʿ, c'est le cœur présent et humble. Ce n'est pas facile au début, et c'est normal : il grandit avec le temps.",
+      "src": [
+        "Coran 23:1-2"
+      ]
+    },
+    {
+      "id": "pri-t1-0105",
+      "concept": "pri.horaires-rakat.asr-moyenne",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon de nombreux savants, quelle est « la prière du milieu » que le Coran demande de préserver (2:238) ?",
+      "choices": [
+        "ʿIshāʾ",
+        "La prière du vendredi",
+        "ʿAṣr",
+        "Ṣubḥ"
+      ],
+      "answer": 2,
+      "expl": "La majorité des savants y voient ʿaṣr, d'après un hadith du jour de la bataille du Fossé. Chez les malikites, l'avis le plus connu est que c'est ṣubḥ. Le message reste : préserver toutes les prières.",
+      "src": [
+        "Coran 2:238",
+        "Hadith d'ʿAlī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0106",
+      "concept": "pri.deroulement.ruku-dhikr",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit-on dans l'inclinaison (rukūʿ) ?",
+      "choices": [
+        "Subḥāna rabbiya l-aʿlā",
+        "Allāhu akbar",
+        "Āmīn",
+        "Subḥāna rabbiya l-ʿaẓīm"
+      ],
+      "answer": 3,
+      "expl": "« Gloire à mon Seigneur l'Immense », dans le rukūʿ. Dans la prosternation, on dit « Subḥāna rabbiya l-aʿlā » (Gloire à mon Seigneur le Très-Haut).",
+      "src": [
+        "Hadith de Ḥudhayfa — Muslim"
+      ],
+      "ar": {
+        "text": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+        "tr": "subḥāna rabbiya l-ʿaẓīm",
+        "pr": "soub-hâ-na rab-bi-yal-ʿa-dhîm",
+        "fr": "Gloire à mon Seigneur l'Immense"
+      }
+    },
+    {
+      "id": "pri-t1-0107",
+      "concept": "pri.deroulement.sujud-dhikr",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit-on dans la prosternation (sujūd) ?",
+      "choices": [
+        "Subḥāna rabbiya l-aʿlā",
+        "Subḥāna rabbiya l-ʿaẓīm",
+        "Samiʿa Llāhu li-man ḥamidah",
+        "As-salāmu ʿalaykum"
+      ],
+      "answer": 0,
+      "expl": "« Gloire à mon Seigneur le Très-Haut. » Le serviteur n'est jamais aussi proche d'Allah que dans la prosternation : c'est le moment idéal pour invoquer.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "ar": {
+        "text": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+        "tr": "subḥāna rabbiya l-aʿlā",
+        "pr": "soub-hâ-na rab-bi-yal-aʿ-lâ",
+        "fr": "Gloire à mon Seigneur le Très-Haut"
+      }
+    },
+    {
+      "id": "pri-t1-0108",
+      "concept": "pri.deroulement.samia",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit-on en se relevant de l'inclinaison ?",
+      "choices": [
+        "« Subḥāna Llāh », trois fois de suite",
+        "« Samiʿa Llāhu li-man ḥamidah », puis la louange",
+        "« Allāhu akbar » uniquement, comme à chaque geste",
+        "« Āmīn », comme après la Fātiḥa"
+      ],
+      "answer": 1,
+      "expl": "« Allah entend celui qui Le loue », puis « Notre Seigneur, à Toi la louange. » Derrière un imam, on dit seulement la seconde phrase selon les malikites.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari"
+      ],
+      "ar": {
+        "text": "سَمِعَ اللّٰهُ لِمَنْ حَمِدَهُ، رَبَّنَا وَلَكَ الْحَمْدُ",
+        "tr": "samiʿa Llāhu li-man ḥamidah, rabbanā wa laka l-ḥamd",
+        "pr": "sa-mi-ʿal-lâ-hou li-man ha-mi-dah, rab-ba-nâ wa la-kal-hamd",
+        "fr": "Allah entend celui qui Le loue ; notre Seigneur, à Toi la louange"
+      }
+    },
+    {
+      "id": "pri-t1-0109",
+      "concept": "pri.jamaa-jumua.femmes-mosquee",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les femmes peuvent aller prier à la mosquée.",
+      "answer": true,
+      "expl": "« N'empêchez pas les servantes d'Allah d'aller aux mosquées d'Allah. » À l'époque du Prophète ﷺ, les femmes priaient à la mosquée, derrière les rangs des hommes. La prière du vendredi n'est pas obligatoire pour elles.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t1-0110",
+      "concept": "pri.speciales.istikhara",
+      "domain": "priere",
+      "sub": "speciales",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment s'appelle la prière pour demander à Allah de nous guider dans un choix ?",
+      "choices": [
+        "Ṣalāt al-kusūf",
+        "Ṣalāt aḍ-ḍuḥā",
+        "Ṣalāt al-istikhāra",
+        "Ṣalāt al-janāza"
+      ],
+      "answer": 2,
+      "expl": "Deux rakʿa, puis une invocation où l'on confie son choix (travail, mariage, déménagement) à Allah. Le Prophète ﷺ l'enseignait « comme une sourate du Coran ».",
+      "src": [
+        "Hadith de Jābir — Bukhari"
+      ]
+    },
+    {
+      "id": "pri-t1-0111",
+      "concept": "pri.speciales.duha",
+      "domain": "priere",
+      "sub": "speciales",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quand prie-t-on la prière du ḍuḥā ?",
+      "choices": [
+        "Juste après le coucher du soleil",
+        "Au milieu de la nuit",
+        "Le vendredi uniquement",
+        "Le matin, avant midi"
+      ],
+      "answer": 3,
+      "expl": "Au moins deux rakʿa entre le soleil bien levé et peu avant ẓuhr. Elle compte comme une aumône pour chacune des 360 articulations du corps.",
+      "src": [
+        "Hadith d'Abū Dharr — Muslim"
+      ]
+    }
+  ]
+}

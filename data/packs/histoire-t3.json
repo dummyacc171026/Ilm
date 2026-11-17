@@ -1,0 +1,574 @@
+{
+  "pack": "histoire-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "his-t3-0001",
+      "concept": "his.califat.arbitrage",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui furent les deux arbitres désignés après la bataille de Ṣiffīn (657) ?",
+      "choices": [
+        "Abū Bakr pour ʿAlī, ʿUmar pour Muʿāwiya",
+        "Abū Mūsā pour ʿAlī, ʿAmr pour Muʿāwiya",
+        "Al-Ḥasan pour ʿAlī, Yazīd pour Muʿāwiya",
+        "Ibn ʿAbbās pour ʿAlī, Khālid pour Muʿāwiya"
+      ],
+      "answer": 1,
+      "expl": "Pour arrêter le combat, les deux camps acceptèrent un arbitrage. Son issue, confuse, ne régla pas le conflit et provoqua la sortie des Khawārij, qui refusaient tout arbitrage humain. Les historiens rapportent ces événements avec des versions divergentes.",
+      "note": "Récits historiques à lire avec prudence ; les sunnites s'abstiennent de dénigrer les Compagnons."
+    },
+    {
+      "id": "his-t3-0002",
+      "concept": "his.omeyyades.qusayr",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que sont les « châteaux du désert » omeyyades, comme Quṣayr ʿAmra en Jordanie ?",
+      "choices": [
+        "Des forteresses construites par les croisés",
+        "Des tombeaux de prophètes anciens",
+        "Des résidences princières, parfois ornées de fresques",
+        "Des caravansérails ottomans"
+      ],
+      "answer": 2,
+      "expl": "Les princes omeyyades aimaient le désert : ils y construisirent palais, bains et caravansérails. Quṣayr ʿAmra conserve des fresques étonnantes, qui montrent que l'art princier de l'époque était différent de l'art des mosquées."
+    },
+    {
+      "id": "his-t3-0003",
+      "concept": "his.omeyyades.hisham",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Sous quel calife omeyyade l'empire atteignit-il sa plus grande étendue, de l'Atlantique à l'Asie centrale (724-743) ?",
+      "choices": [
+        "Muʿāwiya",
+        "ʿUmar ibn ʿAbd al-ʿAzīz",
+        "Hārūn ar-Rashīd",
+        "Hishām ibn ʿAbd al-Malik"
+      ],
+      "answer": 3,
+      "expl": "Sous Hishām, l'empire s'étendait de la péninsule Ibérique à l'Indus. Mais il connut aussi des révoltes, comme la grande révolte berbère de 740 au Maghreb, qui contesta la domination omeyyade et favorisa l'autonomie de la région."
+    },
+    {
+      "id": "his-t3-0004",
+      "concept": "his.abbassides.barmakides",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui étaient les Barmakides, famille célèbre de l'époque de Hārūn ar-Rashīd ?",
+      "choices": [
+        "Des vizirs persans puissants, disgraciés en 803",
+        "Des savants grecs traducteurs",
+        "Des généraux turcs de l'armée du calife",
+        "Des poètes de la cour"
+      ],
+      "answer": 0,
+      "expl": "Yaḥyā le Barmakide et ses fils administrèrent l'empire et protégèrent savants et poètes. Leur chute soudaine, ordonnée par Hārūn, a inspiré de nombreuses légendes. Le mot « barmécide » est même passé en français pour désigner une générosité illusoire."
+    },
+    {
+      "id": "his-t3-0005",
+      "concept": "his.abbassides.nizamiyya",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment s'appelaient les grandes madrasas fondées au XIe siècle par le vizir seldjoukide Niẓām al-Mulk, où enseigna al-Ghazālī ?",
+      "choices": [
+        "Les Azhar",
+        "Les Niẓāmiyya",
+        "Les Qarawiyyīn",
+        "Les Zitouna"
+      ],
+      "answer": 1,
+      "expl": "La Niẓāmiyya de Bagdad (1067) fut l'une des premières madrasas d'État, avec des professeurs payés et des étudiants logés. Elle diffusa le fiqh chaféite et la théologie ash'arite ; al-Ghazālī y enseigna avant sa retraite spirituelle."
+    },
+    {
+      "id": "his-t3-0006",
+      "concept": "his.abbassides.croisade",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 3,
+      "type": "qcm",
+      "q": "En quelle année les croisés prirent-ils Jérusalem, avec un massacre de sa population ?",
+      "choices": [
+        "1099",
+        "1187",
+        "1258",
+        "1453"
+      ],
+      "answer": 0,
+      "expl": "La première croisade prit Jérusalem en 1099. Le contraste avec la reprise de la ville par Ṣalāḥ ad-Dīn en 1187, qui épargna les habitants, est souvent souligné. Les croisades durèrent près de deux siècles au Levant."
+    },
+    {
+      "id": "his-t3-0007",
+      "concept": "his.abbassides.malwiya",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle forme particulière a le minaret de la grande mosquée de Samarra, en Irak (IXe siècle) ?",
+      "choices": [
+        "Un cube parfait",
+        "Une pyramide à degrés",
+        "Une tour en spirale",
+        "Un cylindre doré"
+      ],
+      "answer": 2,
+      "expl": "Le minaret al-Malwiya (« l'enroulé ») de Samarra, capitale abbasside au IXe siècle, mesure plus de 50 mètres. Le minaret de la mosquée Ibn Ṭūlūn au Caire s'en inspire. Il témoigne de la diversité de l'architecture islamique."
+    },
+    {
+      "id": "his-t3-0008",
+      "concept": "his.andalus.colombe",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel livre sur l'amour écrivit le savant andalou Ibn Ḥazm, aussi grand juriste et théologien ?",
+      "choices": [
+        "Les Mille et Une Nuits",
+        "Ḥayy ibn Yaqẓān",
+        "La Muqaddima",
+        "Le Collier de la colombe (Ṭawq al-ḥamāma)"
+      ],
+      "answer": 3,
+      "expl": "Ibn Ḥazm (994-1064), de Cordoue, y analyse avec finesse les signes et les étapes de l'amour, en s'appuyant sur des anecdotes de son temps. Le même homme écrivit des ouvrages de fiqh ẓāhirite et d'histoire des religions.",
+      "retired": true
+    },
+    {
+      "id": "his-t3-0009",
+      "concept": "his.andalus.maimonide",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel grand penseur juif, né à Cordoue en 1138, vécut un temps à Fès avant de devenir médecin à la cour de Ṣalāḥ ad-Dīn au Caire ?",
+      "choices": [
+        "Maïmonide (Mūsā ibn Maymūn)",
+        "Spinoza",
+        "Rachi",
+        "Ibn Gabirol"
+      ],
+      "answer": 0,
+      "expl": "Maïmonide écrivit en arabe son célèbre « Guide des égarés ». Son parcours illustre à la fois la richesse intellectuelle d'al-Andalus, où juifs, chrétiens et musulmans échangeaient, et les périodes de troubles, comme sous les Almohades.",
+      "retired": true
+    },
+    {
+      "id": "his-t3-0010",
+      "concept": "his.andalus.tolede",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel rôle joua la ville de Tolède au XIIe siècle, après sa reconquête par la Castille ?",
+      "choices": [
+        "La capitale du califat de Cordoue",
+        "Un centre de traduction de l'arabe vers le latin",
+        "Un port de départ des croisades",
+        "Un grand centre de pèlerinage musulman"
+      ],
+      "answer": 1,
+      "expl": "Des traducteurs comme Gérard de Crémone traduisirent à Tolède des dizaines d'ouvrages arabes (al-Khwārizmī, Ibn Sīnā, Ptolémée commenté). C'est en grande partie ainsi que l'Europe accéda aux sciences grecques et arabes."
+    },
+    {
+      "id": "his-t3-0011",
+      "concept": "his.andalus.mutamid",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Où mourut en exil al-Muʿtamid, roi-poète de Séville, détrôné par les Almoravides ?",
+      "choices": [
+        "À Séville, dans son palais",
+        "À Fès, près de la Qarawiyyīn",
+        "À Aghmāt, près de Marrakech",
+        "À Grenade, à l'Alhambra"
+      ],
+      "answer": 2,
+      "expl": "Al-Muʿtamid avait appelé les Almoravides contre la Castille, avant d'être lui-même déposé par Yūsuf ibn Tāshfīn en 1091. Exilé à Aghmāt, il écrivit des poèmes émouvants sur sa chute. Son tombeau se visite encore au pied de l'Atlas."
+    },
+    {
+      "id": "his-t3-0012",
+      "concept": "his.andalus.firnas",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel savant de Cordoue du IXe siècle est célèbre pour avoir tenté de voler avec des ailes ?",
+      "choices": [
+        "Ibn Rushd",
+        "Ziryāb",
+        "Ibn Ḥazm",
+        "ʿAbbās ibn Firnās"
+      ],
+      "answer": 3,
+      "expl": "Selon les chroniques, ʿAbbās ibn Firnās, inventeur et astronome, se lança d'une hauteur avec un appareil couvert de plumes, plana quelque temps, puis atterrit durement. Un cratère de la Lune et un aéroport de Bagdad portent son nom.",
+      "retired": true
+    },
+    {
+      "id": "his-t3-0013",
+      "concept": "his.maroc.barghawata",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'était l'État des Barghawāṭa, sur la côte atlantique du Maroc (VIIIe-XIe siècles) ?",
+      "choices": [
+        "Un royaume amazigh à la religion propre",
+        "Une république de marchands andalous",
+        "Un émirat abbasside",
+        "Une colonie portugaise"
+      ],
+      "answer": 0,
+      "expl": "Fondé dans la région de Tamesna (entre Rabat et Casablanca), cet État avait son propre « coran » en langue amazighe. Les Almoravides, puis les Almohades, y mirent fin. Il montre que l'islamisation du Maroc fut un long processus."
+    },
+    {
+      "id": "his-t3-0014",
+      "concept": "his.maroc.sijilmasa",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pour quoi la ville de Sijilmāsa, dans le Tafilalet, était-elle célèbre au Moyen Âge ?",
+      "choices": [
+        "Un port de pêche sur l'Atlantique",
+        "Le grand port du désert, départ des caravanes",
+        "La capitale des Almohades",
+        "Un centre de fabrication du papier"
+      ],
+      "answer": 1,
+      "expl": "Fondée au VIIIe siècle, Sijilmāsa contrôlait le commerce transsaharien de l'or, du sel et des esclaves. Ibn Baṭṭūṭa y passa en partant vers le Mali. Ses ruines se trouvent près de Rissani, berceau des Alaouites."
+    },
+    {
+      "id": "his-t3-0015",
+      "concept": "his.maroc.fes-rives",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pourquoi Fès comptait-elle à l'origine deux quartiers rivaux, de part et d'autre de l'oued ?",
+      "choices": [
+        "Les Arabes et les Berbères",
+        "Les marchands et les artisans",
+        "Les Andalous et les Kairouanais",
+        "Les juifs et les chrétiens"
+      ],
+      "answer": 2,
+      "expl": "Au IXe siècle, des familles chassées de Cordoue et d'autres venues de Kairouan s'installèrent chacune sur une rive. Chaque quartier eut sa grande mosquée : celle des Andalous et celle des Qarawiyyīn, fondée par Fāṭima al-Fihriyya."
+    },
+    {
+      "id": "his-t3-0016",
+      "concept": "his.maroc.alarcos",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle victoire remporta le calife almohade Yaʿqūb al-Manṣūr contre la Castille en 1195 ?",
+      "choices": [
+        "Zallāqa",
+        "Poitiers",
+        "Las Navas",
+        "Alarcos"
+      ],
+      "answer": 3,
+      "expl": "Pour célébrer sa victoire d'Alarcos, Yaʿqūb al-Manṣūr lança de grands chantiers : la tour Hassan à Rabat, la Giralda de Séville et l'achèvement de la Koutoubia. Dix-sept ans plus tard, son fils fut battu à Las Navas de Tolosa."
+    },
+    {
+      "id": "his-t3-0017",
+      "concept": "his.maroc.elizabeth",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Avec quelle souveraine européenne le sultan saadien Aḥmad al-Manṣūr entretint-il une alliance contre l'Espagne ?",
+      "choices": [
+        "Élisabeth Ire d'Angleterre",
+        "Catherine de Médicis",
+        "Isabelle la Catholique",
+        "Marie-Thérèse d'Autriche"
+      ],
+      "answer": 0,
+      "expl": "Le Maroc et l'Angleterre partageaient un ennemi commun : l'Espagne. Ils échangèrent ambassadeurs et marchandises (salpêtre marocain contre bois et armes). L'ambassadeur marocain ʿAbd al-Wāḥid ibn Masʿūd, reçu à Londres en 1600, aurait inspiré Shakespeare pour Othello."
+    },
+    {
+      "id": "his-t3-0018",
+      "concept": "his.maroc.abid-bukhari",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'était la garde des « ʿAbīd al-Bukhārī » sous Moulay Ismaïl ?",
+      "choices": [
+        "Les savants de la Qarawiyyīn",
+        "Une armée de soldats noirs liés par serment",
+        "Les gardiens des mosquées",
+        "Les copistes chargés de recopier le Ṣaḥīḥ"
+      ],
+      "answer": 1,
+      "expl": "Moulay Ismaïl constitua une puissante armée de plusieurs dizaines de milliers d'hommes d'origine subsaharienne, recrutés de force pour beaucoup, qui juraient fidélité sur le Ṣaḥīḥ d'al-Bukhārī. Elle lui permit d'unifier le pays et de reprendre plusieurs ports aux Européens."
+    },
+    {
+      "id": "his-t3-0019",
+      "concept": "his.maroc.sale",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pour quoi la ville de Salé fut-elle célèbre au XVIIe siècle ?",
+      "choices": [
+        "Ses mines d'or",
+        "Ses pyramides",
+        "Ses corsaires, organisés en une sorte de république avec Rabat, souvent des Morisques expulsés d'Espagne",
+        "Ses universités"
+      ],
+      "answer": 2,
+      "expl": "Les « corsaires de Salé », en partie descendants d'Andalous expulsés, attaquaient les navires européens jusqu'en Islande. La ville et la kasbah des Oudayas formèrent un temps une république autonome, avant d'être reprises par les Alaouites.",
+      "retired": true
+    },
+    {
+      "id": "his-t3-0020",
+      "concept": "his.maroc.isly",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle bataille de 1844 opposa l'armée marocaine à la France, venue poursuivre l'émir Abd el-Kader réfugié au Maroc ?",
+      "choices": [
+        "La bataille d'Anoual",
+        "La bataille des Trois Rois",
+        "La bataille de Poitiers",
+        "La bataille d'Isly"
+      ],
+      "answer": 3,
+      "expl": "Le sultan Moulay ʿAbd ar-Raḥmān soutenait l'émir algérien Abd el-Kader, qui résistait à la conquête française. La défaite d'Isly, près d'Oujda, révéla la faiblesse militaire du Maroc face aux puissances européennes et annonça les pressions du siècle suivant."
+    },
+    {
+      "id": "his-t3-0021",
+      "concept": "his.maroc.revolution-roi",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que commémore la « Révolution du Roi et du Peuple », fêtée au Maroc le 20 août ?",
+      "choices": [
+        "Le soulèvement après l'exil de Mohammed V en 1953",
+        "La signature de l'indépendance en 1956",
+        "La Marche verte de 1975",
+        "L'adoption de la Constitution de 2011"
+      ],
+      "answer": 0,
+      "expl": "L'exil du sultan en Corse puis à Madagascar provoqua une grande mobilisation nationale. Mohammed V revint en novembre 1955, et le Maroc devint indépendant en mars 1956. Son discours de Tanger en 1947 avait déjà affirmé l'unité et l'identité du pays."
+    },
+    {
+      "id": "his-t3-0022",
+      "concept": "his.empires.fatimides",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle dynastie chiite ismaélienne fonda la ville du Caire en 969 ?",
+      "choices": [
+        "Les Ottomans",
+        "Les Fatimides",
+        "Les Ayyoubides",
+        "Les Mamelouks"
+      ],
+      "answer": 1,
+      "expl": "Venus d'Ifrīqiya (Tunisie), les Fatimides conquirent l'Égypte et fondèrent al-Qāhira, « la victorieuse », ainsi qu'al-Azhar. Ṣalāḥ ad-Dīn mit fin à leur califat en 1171 et rétablit le sunnisme en Égypte."
+    },
+    {
+      "id": "his-t3-0023",
+      "concept": "his.empires.vienne",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle ville européenne les Ottomans assiégèrent-ils sans succès en 1529 et en 1683 ?",
+      "choices": [
+        "Rome",
+        "Londres",
+        "Vienne",
+        "Paris"
+      ],
+      "answer": 2,
+      "expl": "L'échec du second siège de Vienne (1683) marqua le début du recul ottoman en Europe centrale. On raconte, sans preuve solide, que le croissant viennois serait né de cette époque ; le café, lui, s'est bien répandu à Vienne après le départ des Ottomans."
+    },
+    {
+      "id": "his-t3-0024",
+      "concept": "his.empires.sokoto",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel savant et réformateur malikite fonda au début du XIXe siècle le califat de Sokoto, dans le nord du Nigeria actuel ?",
+      "choices": [
+        "Mansa Mūsā",
+        "Askia Mohammed",
+        "Al-Ḥājj ʿUmar Tall",
+        "ʿUthmān dan Fodio"
+      ],
+      "answer": 3,
+      "expl": "ʿUthmān dan Fodio, savant peul, prêcha une réforme fondée sur le malikisme et le soufisme qādirī, et fonda un vaste État vers 1804. Sa fille, Nana Asmāʾu, poétesse et éducatrice, organisa l'enseignement des femmes."
+    },
+    {
+      "id": "his-t3-0025",
+      "concept": "his.sciences.zarqali",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel astronome de Tolède (XIe siècle), appelé Azarquiel en Europe, perfectionna l'astrolabe et des tables astronomiques utilisées pendant des siècles ?",
+      "choices": [
+        "Az-Zarqālī",
+        "Al-Khwārizmī",
+        "Ibn Sīnā",
+        "Al-Bīrūnī"
+      ],
+      "answer": 0,
+      "expl": "Az-Zarqālī, artisan devenu astronome, conçut un astrolabe universel (la ṣafīḥa) et participa aux « Tables de Tolède ». Copernic le cite dans son œuvre majeure. Un cratère de la Lune porte son nom."
+    },
+    {
+      "id": "his-t3-0026",
+      "concept": "his.sciences.ibn-zuhr",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel médecin de Séville (XIIe siècle), ami d'Ibn Rushd, est connu pour sa méthode expérimentale et ses descriptions cliniques ?",
+      "choices": [
+        "Ibn Sīnā",
+        "Ibn Zuhr",
+        "Ar-Rāzī",
+        "Az-Zahrāwī"
+      ],
+      "answer": 1,
+      "expl": "Ibn Zuhr, médecin des Almoravides puis des Almohades, décrivit des maladies comme la gale et la péricardite, et pratiqua des expériences sur les animaux avant de tester des traitements sur l'homme. Son œuvre fut traduite en latin et en hébreu."
+    },
+    {
+      "id": "his-t3-0027",
+      "concept": "his.sciences.ibn-baytar",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pour quoi Ibn al-Bayṭār, né à Malaga au XIIIe siècle, est-il célèbre ?",
+      "choices": [
+        "Sa carte du monde pour un roi",
+        "Ses poèmes sur l'Andalousie",
+        "Son encyclopédie des plantes et remèdes",
+        "Son traité d'astronomie"
+      ],
+      "answer": 2,
+      "expl": "Ibn al-Bayṭār parcourut l'Afrique du Nord et le Proche-Orient pour étudier les plantes, puis devint chef des herboristes au Caire. Son « Recueil des simples » fut une référence de la pharmacologie jusqu'à l'époque moderne."
+    },
+    {
+      "id": "his-t3-0028",
+      "concept": "his.sciences.ijliya",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui était Maryam al-ʿIjliyya, à Alep au Xe siècle ?",
+      "choices": [
+        "Une poétesse célèbre de la cour",
+        "Une reine hamdanide",
+        "Une médecin des pauvres",
+        "Une fabricante d'astrolabes réputée"
+      ],
+      "answer": 3,
+      "expl": "Maryam al-ʿIjliyya, fille d'un artisan d'astrolabes, devint elle-même une créatrice renommée de ces instruments complexes. Un astéroïde porte son nom, en hommage aux femmes de science du monde musulman."
+    },
+    {
+      "id": "his-t3-0029",
+      "concept": "his.architecture.djenne",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle grande mosquée du Mali, la plus grande construction en terre crue du monde, est chaque année recrépie lors d'une fête populaire ?",
+      "choices": [
+        "La grande mosquée de Djenné",
+        "La Koutoubia",
+        "La mosquée bleue",
+        "La mosquée de Kairouan"
+      ],
+      "answer": 0,
+      "expl": "Reconstruite en 1907 sur le modèle de l'ancienne, la mosquée de Djenné est entretenue chaque année par toute la population, qui enduit ses murs de banco (terre et paille). Elle est inscrite au patrimoine mondial de l'UNESCO."
+    },
+    {
+      "id": "his-t3-0030",
+      "concept": "his.architecture.cordoue-cathedrale",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que devint la grande mosquée de Cordoue après la prise de la ville par la Castille en 1236 ?",
+      "choices": [
+        "Détruite entièrement et remplacée",
+        "Transformée en cathédrale, avec une nef au centre",
+        "Gardée comme mosquée jusqu'à aujourd'hui",
+        "Transformée en musée dès 1236"
+      ],
+      "answer": 1,
+      "expl": "La forêt de colonnes et d'arcs bicolores subsiste en grande partie. Charles Quint, voyant la cathédrale construite au milieu, aurait regretté : « Vous avez bâti ce qu'on aurait pu bâtir n'importe où, et détruit ce qui était unique au monde. »"
+    },
+    {
+      "id": "his-t3-0031",
+      "concept": "his.architecture.alhambra-lions",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle célèbre cour de l'Alhambra possède une fontaine soutenue par douze statues d'animaux ?",
+      "choices": [
+        "La cour des Orangers",
+        "La cour des Ambassadeurs",
+        "La cour des Lions",
+        "La cour des Myrtes"
+      ],
+      "answer": 2,
+      "expl": "La cour des Lions, construite au XIVe siècle par le sultan nasride Muḥammad V, est entourée de fines colonnes et ornée de stucs ciselés. Les douze lions de pierre soutiennent une vasque où sont gravés des vers du poète Ibn Zamrak."
+    },
+    {
+      "id": "his-t3-0032",
+      "concept": "his.moderne.nahda",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'appelle-t-on la Nahḍa (renaissance), au XIXe et au début du XXe siècle ?",
+      "choices": [
+        "Une guerre entre empires",
+        "Un mouvement de colonisation européenne",
+        "Une famine en Égypte",
+        "Un renouveau culturel dans le monde arabe"
+      ],
+      "answer": 3,
+      "expl": "Face à la domination européenne, des intellectuels comme Rifāʿa aṭ-Ṭahṭāwī, Jamāl ad-Dīn al-Afghānī ou Muḥammad ʿAbduh appelèrent à renouveler l'éducation, la langue et la pensée religieuse. Au Maroc, ce mouvement inspira les réformistes salafis du début du XXe siècle et le mouvement national."
+    },
+    {
+      "id": "his-t3-0033",
+      "concept": "his.moderne.constitution-2011",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que reconnaît notamment la Constitution marocaine de 2011 ?",
+      "choices": [
+        "L'amazighe comme langue officielle aux côtés de l'arabe, et la diversité des affluents de l'identité marocaine (arabo-islamique, amazighe, saharo-hassanie, africaine, andalouse, hébraïque, méditerranéenne)",
+        "L'abolition de la monarchie",
+        "Le français comme seule langue officielle",
+        "La fin de l'islam comme religion d'État"
+      ],
+      "answer": 0,
+      "expl": "Adoptée par référendum en 2011, la Constitution affirme l'islam comme religion de l'État, le roi comme Commandeur des croyants, et reconnaît la pluralité de l'identité marocaine. Le roi Mohammed VI règne depuis 1999.",
+      "retired": true
+    }
+  ]
+}

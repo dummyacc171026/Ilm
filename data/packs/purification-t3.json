@@ -1,0 +1,286 @@
+{
+  "pack": "purification-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "pur-t3-0001",
+      "concept": "pur.eau-najasa.boue",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon les malikites, que dit-on de la boue des rues mouillées par la pluie qui éclabousse le vêtement ?",
+      "choices": [
+        "Elle rend la prière nulle",
+        "Elle est tolérée, car on ne peut l'éviter",
+        "Elle oblige à changer de vêtement à chaque fois",
+        "Elle annule les ablutions de celui qui marche"
+      ],
+      "answer": 1,
+      "expl": "Le fiqh malikite tolère ce dont on ne peut se préserver qu'avec une grande difficulté (ʿafw) : la boue des chemins, une petite tache de sang, les éclaboussures inévitables. La règle générale : « la difficulté appelle la facilité ».",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ]
+    },
+    {
+      "id": "pur-t3-0002",
+      "concept": "pur.eau-najasa.peau-tannee",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de la peau d'un animal mort une fois tannée ?",
+      "choices": [
+        "Elle devient comestible",
+        "Elle ne sert qu'à faire des chaussures",
+        "« Toute peau tannée est purifiée »",
+        "Elle reste toujours impure"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ, voyant qu'on jetait la peau d'une brebis morte, demanda pourquoi on ne la tannait pas pour l'utiliser : « Le tannage la purifie. » Chez les malikites, l'usage d'une telle peau est permis pour les choses sèches et l'eau, avec quelques nuances.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Muslim"
+      ],
+      "note": "Les écoles divergent sur l'étendue de la purification par le tannage (porc et chien exclus selon la plupart)."
+    },
+    {
+      "id": "pur-t3-0003",
+      "concept": "pur.eau-najasa.nadh",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que fait-on si l'on doute qu'une impureté ait touché un vêtement, sans en être sûr ?",
+      "choices": [
+        "On jette le vêtement par précaution",
+        "On le lave sept fois, dont une avec de la terre",
+        "On ne fait rien du tout, même en cas de doute",
+        "On asperge l'endroit d'eau, sans le laver"
+      ],
+      "answer": 3,
+      "expl": "Le naḍḥ (aspersion) est une particularité malikite pour le doute : on mouille légèrement l'endroit, ce qui apaise l'esprit sans tomber dans l'obsession. Si l'impureté est certaine, on lave.",
+      "note": "Particularité malikite ; les autres écoles n'exigent rien en cas de simple doute."
+    },
+    {
+      "id": "pur-t3-0004",
+      "concept": "pur.toilettes.istibra",
+      "domain": "purification",
+      "sub": "toilettes",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'est-ce que l'istibrāʾ, obligatoire chez les malikites après avoir uriné ?",
+      "choices": [
+        "S'assurer que l'urine s'est bien arrêtée",
+        "Se laver tout le corps à chaque fois",
+        "Faire deux rak'at après être sorti",
+        "Réciter la Fātiḥa avant de se nettoyer"
+      ],
+      "answer": 0,
+      "expl": "L'istibrāʾ consiste à attendre et vérifier doucement que plus rien ne sort, pour ne pas salir son vêtement ni perdre ses ablutions ensuite. On le fait sans excès : l'exagération mène aux doutes obsessionnels (waswās).",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ],
+      "ar": {
+        "text": "الِاسْتِبْرَاء",
+        "tr": "al-istibrāʾ",
+        "pr": "al-is-tib-râʾ",
+        "fr": "l'assurance d'être propre"
+      }
+    },
+    {
+      "id": "pur-t3-0005",
+      "concept": "pur.wudu.oubli-fard",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que fait celui qui découvre qu'il a oublié de laver un membre obligatoire, longtemps après ses ablutions ?",
+      "choices": [
+        "Il jeûne un jour pour réparer l'oubli",
+        "Il lave ce membre et refait ces prières",
+        "Il ne fait rien : ce qui est passé est passé",
+        "Il refait le ghusl complet avant de prier"
+      ],
+      "answer": 1,
+      "expl": "Si l'on s'en rend compte rapidement, on lave le membre oublié et ce qui le suit. Si c'est longtemps après, par oubli, on lave seulement le membre oublié, car la continuité (fawr) n'est exigée qu'en cas de souvenir. Les prières faites entre-temps sont refaites, car il manquait une obligation.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ]
+    },
+    {
+      "id": "pur-t3-0006",
+      "concept": "pur.wudu.oubli-sunna",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que fait celui qui a oublié une sunna des ablutions, comme se rincer la bouche ?",
+      "choices": [
+        "Il refait le ghusl avant la prochaine prière",
+        "Rien, jamais : les sunnas n'ont aucun poids",
+        "Il la fait la prochaine fois ; ses prières valent",
+        "Il refait toutes ses prières de la journée"
+      ],
+      "answer": 2,
+      "expl": "Une sunna oubliée n'invalide pas les ablutions : on la rattrape pour les prières à venir, sans refaire les prières passées. Cela montre l'importance de distinguer obligations et sunnas.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ]
+    },
+    {
+      "id": "pur-t3-0007",
+      "concept": "pur.annulatifs-wudu.salas",
+      "domain": "purification",
+      "sub": "annulatifs-wudu",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que fait la personne souffrant d'incontinence chronique (salas) ?",
+      "choices": [
+        "Elle ne prie plus tant que cela dure",
+        "Elle doit faire le ghusl avant chaque prière",
+        "Elle doit attendre la guérison pour prier",
+        "Ses ablutions ne sont pas annulées ; elle prie"
+      ],
+      "answer": 3,
+      "expl": "Pour les malikites, ce qui sort de façon continue et involontaire, la plupart du temps, ne rompt pas les ablutions : l'islam ne demande pas l'impossible. Les autres écoles demandent les ablutions pour chaque prière, après l'entrée de son temps.",
+      "note": "Chaféites et hanbalites : ablutions obligatoires pour chaque prière obligatoire."
+    },
+    {
+      "id": "pur-t3-0008",
+      "concept": "pur.ghusl.tresses",
+      "domain": "purification",
+      "sub": "ghusl",
+      "tier": 3,
+      "type": "vf",
+      "q": "Une femme qui a des tresses n'est pas obligée de les défaire pour le ghusl de janāba, si l'eau atteint la racine des cheveux.",
+      "answer": true,
+      "expl": "Umm Salama demanda si elle devait défaire ses tresses ; le Prophète ﷺ répondit : « Non, il te suffit de verser trois poignées d'eau sur ta tête. » L'important est que l'eau atteigne le cuir chevelu. Les malikites demandent de bien faire pénétrer l'eau.",
+      "src": [
+        "Hadith d'Umm Salama — Muslim"
+      ]
+    },
+    {
+      "id": "pur-t3-0009",
+      "concept": "pur.ghusl.reve",
+      "domain": "purification",
+      "sub": "ghusl",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon le hadith, qu'est-ce qui oblige au ghusl après un rêve ?",
+      "choices": [
+        "Une trace de liquide, même sans souvenir",
+        "Le simple souvenir d'un rêve, sans trace",
+        "Tout rêve, quel qu'en soit le contenu",
+        "Aucun rêve n'oblige jamais au ghusl"
+      ],
+      "answer": 0,
+      "expl": "Umm Sulaym demanda si la femme doit faire le ghusl après un tel rêve ; le Prophète ﷺ répondit : « Oui, si elle voit le liquide. » ʿĀʾisha rapporte aussi qu'on fait le ghusl en trouvant une trace sans souvenir, mais pas pour un rêve sans trace.",
+      "src": [
+        "Hadith d'Umm Salama — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pur-t3-0010",
+      "concept": "pur.tayammum.avant-temps",
+      "domain": "purification",
+      "sub": "tayammum",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon l'école malikite, on ne peut pas faire le tayammum pour une prière avant que son temps soit entré.",
+      "answer": true,
+      "expl": "Le tayammum étant une purification de nécessité, les malikites (et la majorité) exigent qu'il soit fait après l'entrée du temps de la prière. Les hanafites permettent de le faire avant, comme les ablutions.",
+      "note": "Les hanafites permettent le tayammum avant l'entrée du temps."
+    },
+    {
+      "id": "pur-t3-0011",
+      "concept": "pur.tayammum.divergences",
+      "domain": "purification",
+      "sub": "tayammum",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Sur quel point les écoles divergent-elles à propos du tayammum ?",
+      "choices": [
+        "L'utilisation de la terre ou du sable",
+        "Le nombre de frappes, poignets ou coudes",
+        "L'obligation de formuler l'intention",
+        "Le fait qu'il remplace vraiment l'eau"
+      ],
+      "answer": 1,
+      "expl": "Chez les malikites, une frappe et l'essuyage jusqu'aux poignets sont obligatoires, une seconde frappe et les coudes sont des sunnas. Les chaféites et les hanafites exigent deux frappes et les coudes. Tous s'accordent sur le principe, établi par le Coran.",
+      "src": [
+        "Coran 5:6",
+        "Hadith d'ʿAmmār ibn Yāsir — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pur-t3-0012",
+      "concept": "pur.khuffs.enlever",
+      "domain": "purification",
+      "sub": "khuffs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que fait celui qui retire un de ses khuffs après avoir passé la main dessus ?",
+      "choices": [
+        "Il fait le tayammum à la place",
+        "Il doit faire le ghusl complet",
+        "Il lave aussitôt ses deux pieds",
+        "Rien : ses ablutions restent valables"
+      ],
+      "answer": 2,
+      "expl": "Retirer un khuff met fin au masḥ : on doit alors laver les pieds sans tarder, pour préserver la continuité des ablutions. Le ghusl obligatoire met aussi fin au masḥ."
+    },
+    {
+      "id": "pur-t3-0013",
+      "concept": "pur.khuffs.trou",
+      "domain": "purification",
+      "sub": "khuffs",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon les malikites, un khuff avec un grand trou (environ un tiers du pied) ne permet plus le masḥ.",
+      "answer": true,
+      "expl": "Les malikites tolèrent les petits trous, inévitables, mais pas un trou important laissant voir une grande partie du pied (fixé à environ un tiers). Les écoles proposent des seuils différents.",
+      "note": "Seuils différents selon les écoles."
+    },
+    {
+      "id": "pur-t3-0014",
+      "concept": "pur.menstrues.jaune",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disait Umm ʿAṭiyya à propos des pertes jaunâtres ou brunâtres après la fin des règles ?",
+      "choices": [
+        "Qu'elles obligeaient au ghusl chaque fois",
+        "Qu'elles prolongeaient toujours les règles",
+        "Qu'elles annulaient le jeûne du jour",
+        "« Nous ne les comptions pour rien »"
+      ],
+      "answer": 3,
+      "expl": "« Nous ne comptions pour rien les pertes jaunâtres ou brunâtres après la purification. » Pendant la période habituelle des règles, elles en font partie ; après, elles n'empêchent pas de prier.",
+      "src": [
+        "Hadith d'Umm ʿAṭiyya — Bukhari"
+      ]
+    },
+    {
+      "id": "pur-t3-0015",
+      "concept": "pur.menstrues.hajj-aisha",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ à ʿĀʾisha, qui pleurait d'avoir ses règles pendant le pèlerinage ?",
+      "choices": [
+        "« Fais tout comme le pèlerin, sauf le ṭawāf »",
+        "« Rentre à Médine et reviens l'an prochain »",
+        "« Ton pèlerinage est annulé, il faudra le refaire »",
+        "« Fais le ṭawāf quand même, Allah pardonne »"
+      ],
+      "answer": 0,
+      "expl": "Il la consola avec tendresse : les règles sont une réalité naturelle décrétée par Allah, non une souillure morale. Elle accomplit tous les rites, sauf le ṭawāf, qu'elle fit après sa purification.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    }
+  ]
+}

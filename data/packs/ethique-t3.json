@@ -1,0 +1,407 @@
+{
+  "pack": "ethique-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "eth-t3-0001",
+      "concept": "eth.bon-caractere.dua",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle invocation le Prophète ﷺ disait-il au début de la prière de la nuit, selon ʿAlī ?",
+      "choices": [
+        "« Donne-moi la victoire sur mes ennemis »",
+        "« Guide-moi vers le meilleur des caractères »",
+        "« Accorde-moi la richesse et le pouvoir »",
+        "« Fais-moi vivre longtemps »"
+      ],
+      "answer": 1,
+      "expl": "« Allāhumma hdinī li-aḥsani l-akhlāq, lā yahdī li-aḥsanihā illā ant, wa ṣrif ʿannī sayyiʾahā… » Même lui, au caractère éminent, demandait à Allah de l'améliorer. Le bon caractère se demande autant qu'il se travaille.",
+      "src": [
+        "Hadith de ʿAlī ibn Abī Ṭālib — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t3-0002",
+      "concept": "eth.bon-caractere.hatim",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pourquoi le Prophète ﷺ libéra-t-il la fille de Ḥātim aṭ-Ṭāʾī, faite captive ?",
+      "choices": [
+        "Parce qu'elle était très riche",
+        "Parce qu'elle s'était convertie",
+        "Pour la générosité de son père",
+        "Par un échange de prisonniers"
+      ],
+      "answer": 2,
+      "expl": "Ḥātim, mort avant l'islam, était célèbre dans toute l'Arabie pour son hospitalité. Selon la Sīra, sa fille rappela que son père nourrissait l'affamé et secourait l'opprimé ; le Prophète ﷺ dit : « Ce sont là les qualités des croyants », et la libéra. Son frère ʿAdī embrassa ensuite l'islam."
+    },
+    {
+      "id": "eth-t3-0003",
+      "concept": "eth.parents.uways",
+      "domain": "ethique",
+      "sub": "parents",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que demanda le Prophète ﷺ à ʿUmar au sujet d'Uways al-Qaranī, un Yéménite qu'il n'avait jamais rencontré ?",
+      "choices": [
+        "Le faire venir à Médine comme gouverneur",
+        "Lui confier le commandement d'une armée vers le Yémen",
+        "Le surveiller car il était hypocrite",
+        "Lui demander d'invoquer pour lui : il était bon envers sa mère"
+      ],
+      "answer": 3,
+      "expl": "« Il viendra à vous un homme du Yémen nommé Uways… il a une mère envers qui il est très bon ; s'il jure par Allah, Allah exauce son serment. Si tu peux lui demander d'implorer le pardon pour toi, fais-le. » La bonté envers sa mère l'avait élevé au point qu'un calife lui demande une invocation.",
+      "src": [
+        "Hadith de ʿUmar ibn al-Khaṭṭāb — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t3-0004",
+      "concept": "eth.parents.jurayj",
+      "domain": "ethique",
+      "sub": "parents",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon le hadith de Jurayj, un pieux ermite fut éprouvé parce qu'il n'avait pas répondu à l'appel de sa mère pendant sa prière surérogatoire.",
+      "answer": true,
+      "expl": "Jurayj préféra continuer sa prière ; sa mère invoqua contre lui, et il fut accusé à tort. Allah l'innocenta par un miracle. Les savants en déduisent qu'il faut interrompre une prière surérogatoire pour répondre à un parent qui a besoin de nous.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t3-0005",
+      "concept": "eth.couple.jalousie",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ réagit-il quand ʿĀʾisha, jalouse, cassa le plat de nourriture qu'une autre épouse lui avait envoyé devant des invités ?",
+      "choices": [
+        "Il ramassa les morceaux en souriant : « votre mère est jalouse »",
+        "Il se fâcha et la gronda devant toutes ses épouses",
+        "Il quitta la maison plusieurs jours",
+        "Il ne dit rien et partit prier"
+      ],
+      "answer": 0,
+      "expl": "Anas rapporte cette scène : aucune humiliation, aucun cri. Le Prophète ﷺ comprit le sentiment, protégea la dignité de chacune et répara le tort. Un modèle de patience et d'humour dans la vie de couple.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t3-0006",
+      "concept": "eth.couple.abu-turab",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 3,
+      "type": "qcm",
+      "q": "D'où vient le surnom affectueux « Abū Turāb » (l'homme à la poussière) que le Prophète ﷺ donna à ʿAlī ?",
+      "choices": [
+        "Il aimait travailler la terre",
+        "Il dormait à la mosquée, couvert de poussière",
+        "Il avait une peau couleur de sable",
+        "Il était né dans le désert"
+      ],
+      "answer": 1,
+      "expl": "Sahl ibn Saʿd dit que c'était le surnom que ʿAlī préférait. Le Prophète ﷺ alla chercher son gendre avec tendresse et humour, sans prendre parti : une belle façon d'apaiser les tensions familiales.",
+      "src": [
+        "Hadith de Sahl ibn Saʿd — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t3-0007",
+      "concept": "eth.enfants-famille.pleurs-bebe",
+      "domain": "ethique",
+      "sub": "enfants-famille",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que faisait le Prophète ﷺ quand il entendait pleurer un bébé pendant qu'il dirigeait la prière ?",
+      "choices": [
+        "Il arrêtait la prière",
+        "Il demandait qu'on sorte l'enfant",
+        "Il raccourcissait la prière, par égard pour la mère",
+        "Il allongeait la prière"
+      ],
+      "answer": 2,
+      "expl": "« Je commence la prière en voulant l'allonger, puis j'entends les pleurs d'un enfant et je l'abrège, sachant l'angoisse de sa mère. » La compassion pour les familles fait partie de la conduite de l'imam.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "eth-t3-0008",
+      "concept": "eth.voisins-invites.abu-talha",
+      "domain": "ethique",
+      "sub": "voisins-invites",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que fit le Compagnon Abū Ṭalḥa (ou un Anṣārī) qui reçut un invité du Prophète ﷺ alors qu'il n'avait que le repas de ses enfants ?",
+      "choices": [
+        "Il renvoya l'invité chez le Prophète ﷺ",
+        "Il emprunta de la nourriture aux voisins",
+        "Il servit le repas des enfants à part",
+        "Il éteignit la lampe et fit semblant de manger"
+      ],
+      "answer": 3,
+      "expl": "Le lendemain, le Prophète ﷺ lui dit qu'Allah s'était émerveillé de ce qu'ils avaient fait, et le verset fut révélé : « Ils les préfèrent à eux-mêmes, même s'ils sont dans le besoin » (59:9). Une générosité qui donne sans être vue.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim",
+        "Coran 59:9"
+      ],
+      "tags": [
+        "sourate:59"
+      ]
+    },
+    {
+      "id": "eth-t3-0009",
+      "concept": "eth.voisins-invites.garcon-juif",
+      "domain": "ethique",
+      "sub": "voisins-invites",
+      "tier": 3,
+      "type": "vf",
+      "q": "Le Prophète ﷺ rendit visite à un jeune garçon juif malade qui le servait.",
+      "answer": true,
+      "expl": "Anas rapporte que le Prophète ﷺ alla le voir, s'assit à son chevet et l'invita à l'islam ; le garçon regarda son père, qui lui dit : « Obéis à Abū l-Qāsim. » Il embrassa l'islam. Visiter les malades, quelle que soit leur religion, fait partie de la bonté.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t3-0010",
+      "concept": "eth.parole.mer",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ à ʿĀʾisha quand elle se moqua de la petite taille de Ṣafiyya ?",
+      "choices": [
+        "« Une parole qui troublerait l'eau de la mer »",
+        "« C'est vrai, mais il ne faut pas le dire »",
+        "« Tu as bien parlé, ma femme »",
+        "« Je n'ai rien entendu »"
+      ],
+      "answer": 0,
+      "expl": "Une seule phrase moqueuse peut être si lourde qu'elle salirait l'océan. Ce hadith montre que la médisance, même « petite », n'est pas anodine, et que le Prophète ﷺ corrigeait ses proches avec franchise.",
+      "src": [
+        "Hadith de ʿĀʾisha — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "eth-t3-0011",
+      "concept": "eth.parole.uqba",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que répondit le Prophète ﷺ à ʿUqba ibn ʿĀmir, qui lui demandait en quoi consiste le salut ?",
+      "choices": [
+        "« Combats dans chaque bataille »",
+        "« Retiens ta langue, reste chez toi, pleure tes fautes »",
+        "« Donne tout ton argent »",
+        "« Voyage jusqu'au bout du monde pour apprendre »"
+      ],
+      "answer": 1,
+      "expl": "Trois conseils pour les temps troublés : maîtriser sa parole, trouver la paix dans son foyer sans courir après les polémiques, et s'occuper de ses propres erreurs plutôt que de celles des autres.",
+      "src": [
+        "Hadith d'ʿUqba ibn ʿĀmir — Tirmidhi"
+      ]
+    },
+    {
+      "id": "eth-t3-0012",
+      "concept": "eth.parole.eloquence",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ après avoir entendu deux hommes s'exprimer avec une grande éloquence ?",
+      "choices": [
+        "« Parlez toujours ainsi »",
+        "« L'éloquence est interdite »",
+        "« Il y a dans l'éloquence une part de magie »",
+        "« Taisez-vous, c'est du mensonge »"
+      ],
+      "answer": 2,
+      "expl": "« Inna mina l-bayāni la-siḥrā. » La parole bien tournée peut séduire et faire paraître vrai ce qui ne l'est pas, ou au contraire servir le bien. Elle est une force, à utiliser avec responsabilité.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t3-0013",
+      "concept": "eth.travail-argent.hache",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que fit le Prophète ﷺ pour un homme des Anṣār qui venait lui demander l'aumône ?",
+      "choices": [
+        "Il lui donna cent dinars pris sur le trésor",
+        "Il le nomma gouverneur",
+        "Il le renvoya sans rien",
+        "Il lui fit acheter une hache pour gagner sa vie"
+      ],
+      "answer": 3,
+      "expl": "Quinze jours plus tard, l'homme revint avec dix dirhams gagnés. Le Prophète ﷺ lui dit que c'était mieux pour lui que de venir au Jour de la Résurrection avec la marque de la mendicité au visage. Aider quelqu'un à devenir autonome est la meilleure aide.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Abu Dawud"
+      ]
+    },
+    {
+      "id": "eth-t3-0014",
+      "concept": "eth.travail-argent.waqf",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel conseil le Prophète ﷺ donna-t-il à ʿUmar, qui voulait faire bon usage d'une terre précieuse reçue à Khaybar, à l'origine du premier waqf ?",
+      "choices": [
+        "L'immobiliser et en donner les revenus",
+        "La vendre au plus offrant",
+        "La partager tout de suite entre ses fils",
+        "La laisser en friche"
+      ],
+      "answer": 0,
+      "expl": "C'est l'origine du waqf (bien de mainmorte) : un bien dont le revenu sert durablement le bien commun. Les waqfs ont financé pendant des siècles mosquées, écoles, hôpitaux et fontaines dans tout le monde musulman, comme al-Qarawiyyīn à Fès.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْوَقْف",
+        "tr": "al-waqf",
+        "pr": "al-waqf",
+        "fr": "la fondation pieuse"
+      }
+    },
+    {
+      "id": "eth-t3-0015",
+      "concept": "eth.travail-argent.plant",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith si l'Heure de la fin du monde arrive alors que l'on tient un jeune plant à la main ?",
+      "choices": [
+        "Le jeter et prier",
+        "Le planter quand même",
+        "Le donner à quelqu'un",
+        "Courir se cacher"
+      ],
+      "answer": 1,
+      "expl": "« Si l'Heure arrive alors que l'un de vous a dans la main un plant de palmier, qu'il le plante s'il le peut. » Un appel puissant à agir et à construire jusqu'au bout, sans désespoir.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Ahmad"
+      ]
+    },
+    {
+      "id": "eth-t3-0016",
+      "concept": "eth.nature-animaux.hima",
+      "domain": "ethique",
+      "sub": "nature-animaux",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'était le « ḥimā » institué par le Prophète ﷺ et les califes ?",
+      "choices": [
+        "Un impôt sur les troupeaux",
+        "Une forteresse militaire",
+        "Une zone de pâturage protégée",
+        "Un marché aux chevaux"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ protégea le pâturage d'an-Naqīʿ, et ʿUmar d'autres zones, en recommandant au gardien d'y laisser paître les troupeaux des pauvres en priorité. On y voit une forme ancienne de réserve naturelle et de gestion commune des ressources.",
+      "src": [
+        "Hadith d'aṣ-Ṣaʿb ibn Jaththāma — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t3-0017",
+      "concept": "eth.nature-animaux.montures",
+      "domain": "ethique",
+      "sub": "nature-animaux",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque animal du Prophète ﷺ à son nom, selon les récits.",
+      "pairs": [
+        [
+          "Sa chamelle de l'Hégire",
+          "Al-Qaṣwāʾ"
+        ],
+        [
+          "Sa mule blanche",
+          "Duldul"
+        ],
+        [
+          "La monture du voyage nocturne",
+          "Al-Burāq"
+        ]
+      ],
+      "expl": "Le Prophète ﷺ donnait des noms à ses animaux et en prenait soin. Al-Qaṣwāʾ s'agenouilla devant la future mosquée de Médine ; la mule Duldul, offerte par le gouverneur d'Égypte, le portait à Ḥunayn."
+    },
+    {
+      "id": "eth-t3-0018",
+      "concept": "eth.pudeur.regard",
+      "domain": "ethique",
+      "sub": "pudeur",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que conseilla le Prophète ﷺ à ʿAlī à propos du regard ?",
+      "choices": [
+        "« Regarde tout ce que tu veux »",
+        "« Ne sors jamais de chez toi »",
+        "« Ferme toujours les yeux »",
+        "« Ne fais pas suivre le premier regard d'un second : le premier est pour toi, le second contre toi »"
+      ],
+      "answer": 3,
+      "expl": "Le premier regard involontaire n'est pas reproché ; c'est le second, voulu et insistant, qui pose problème. Une règle simple et réaliste pour vivre la pudeur dans la rue, au travail ou devant un écran.",
+      "src": [
+        "Hadith de Burayda — Abu Dawud & Tirmidhi"
+      ],
+      "retired": true
+    },
+    {
+      "id": "eth-t3-0019",
+      "concept": "eth.societe.esclaves",
+      "domain": "ethique",
+      "sub": "societe",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ à propos de ceux qui étaient sous l'autorité d'autrui (serviteurs, esclaves) ?",
+      "choices": [
+        "« Ce sont vos frères : nourrissez-les de ce que vous mangez, habillez-les de ce que vous portez, ne les chargez pas au-delà de leurs forces »",
+        "Qu'on peut les maltraiter",
+        "Qu'ils ne sont pas humains",
+        "Qu'il ne faut pas leur parler"
+      ],
+      "answer": 0,
+      "expl": "Abū Dharr portait le même vêtement que son serviteur ; on lui en demanda la raison et il cita ce hadith. L'islam a multiplié les incitations à l'affranchissement (expiations, aumônes, « la voie difficile » de la sourate al-Balad), préparant la fin de cette institution.",
+      "src": [
+        "Hadith d'Abū Dharr — Bukhari & Muslim",
+        "Coran 90:13"
+      ],
+      "retired": true
+    },
+    {
+      "id": "eth-t3-0020",
+      "concept": "eth.societe.hisba",
+      "domain": "ethique",
+      "sub": "societe",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'était la ḥisba dans les villes musulmanes ?",
+      "choices": [
+        "La collecte de la zakat",
+        "La surveillance honnête des marchés",
+        "La police de la prière",
+        "Le tribunal des héritages"
+      ],
+      "answer": 1,
+      "expl": "Le muḥtasib contrôlait les balances, la qualité du pain, la propreté des rues et empêchait la fraude, en s'appuyant sur le principe d'ordonner le bien et d'interdire le mal. Au Maroc, le muḥtasib a existé jusqu'au XXe siècle."
+    }
+  ]
+}

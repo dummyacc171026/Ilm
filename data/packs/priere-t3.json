@@ -1,0 +1,445 @@
+{
+  "pack": "priere-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "pri-t3-0001",
+      "concept": "pri.importance.delaisser",
+      "domain": "priere",
+      "sub": "importance",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle est la divergence des imams sur celui qui délaisse la prière par paresse, tout en reconnaissant son obligation ?",
+      "choices": [
+        "Aucun imam n'a jamais parlé de cette question",
+        "Péché très grave pour la majorité, apostasie pour un avis",
+        "Tous disent que ce n'est pas grave s'il y croit",
+        "Tous disent qu'il n'est plus musulman"
+      ],
+      "answer": 1,
+      "expl": "La majorité des savants s'appuie sur les textes d'espoir pour le pécheur ; l'avis hanbalite s'appuie sur le hadith « entre l'homme et la mécréance, il y a l'abandon de la prière ». Tous s'accordent sur l'extrême gravité, et sur le fait que la porte du repentir reste ouverte.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ],
+      "note": "Divergence classique ; nier l'obligation de la prière fait sortir de l'islam selon tous."
+    },
+    {
+      "id": "pri-t3-0002",
+      "concept": "pri.horaires-rakat.ombre",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment détermine-t-on traditionnellement la fin du temps de choix du Ẓuhr et le début de l'ʿAṣr, selon les malikites ?",
+      "choices": [
+        "Quand l'ombre disparaît complètement, au zénith exact",
+        "À une heure fixe, la même toute l'année",
+        "Quand l'ombre égale l'objet, en plus de l'ombre de midi",
+        "Au coucher du soleil, quand le ciel rougit"
+      ],
+      "answer": 2,
+      "expl": "On plantait un bâton : à midi, on notait son ombre minimale ; quand l'ombre ajoutée atteignait la longueur du bâton, venait l'ʿAṣr. Les applications font aujourd'hui ce calcul astronomique, ville par ville.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Tirmidhi & Nasai"
+      ]
+    },
+    {
+      "id": "pri-t3-0003",
+      "concept": "pri.horaires-rakat.latitudes",
+      "domain": "priere",
+      "sub": "horaires-rakat",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que font les musulmans des régions très au nord (Scandinavie, Écosse) en été, quand le crépuscule ne disparaît jamais ?",
+      "choices": [
+        "Ils ne prient plus du tout l'ʿIshāʾ",
+        "Ils prient toutes les prières à midi",
+        "Ils doivent déménager plus au sud",
+        "Ils estiment les horaires, selon les savants"
+      ],
+      "answer": 3,
+      "expl": "Les académies de fiqh proposent plusieurs méthodes d'estimation. Elles s'appuient notamment sur le hadith du Dajjāl, où le Prophète ﷺ dit, à propos d'un jour qui durerait un an : « Estimez sa mesure. » Même en France, l'ʿIshāʾ d'été est très tardive.",
+      "src": [
+        "Hadith d'an-Nawwās ibn Samʿān — Muslim"
+      ]
+    },
+    {
+      "id": "pri-t3-0004",
+      "concept": "pri.conditions.soie",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de la soie et de l'or pour les hommes ?",
+      "choices": [
+        "Interdits aux hommes, permis aux femmes",
+        "Obligatoires pour tous le jour de l'Aïd",
+        "Permis à tous, hommes et femmes",
+        "Interdits à tous, hommes et femmes"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ prit de la soie dans une main et de l'or dans l'autre, et dit : « Ces deux sont interdits aux hommes de ma communauté, et permis aux femmes. » Chez les malikites, la prière d'un homme en soie est valable mais il commet un péché.",
+      "src": [
+        "Hadith de ʿAlī ibn Abī Ṭālib — Abu Dawud & Nasai"
+      ]
+    },
+    {
+      "id": "pri-t3-0005",
+      "concept": "pri.conditions.tapis",
+      "domain": "priere",
+      "sub": "conditions",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon les malikites, si une impureté se trouve sous un tapis épais sans toucher celui qui prie, sa prière est valable.",
+      "answer": true,
+      "expl": "La condition est que le corps, le vêtement et l'endroit touché soient purs. Une impureté sous un tapis, qui ne passe pas au travers, ne pose pas de problème. Prier sur une natte propre posée sur un sol douteux est donc une solution."
+    },
+    {
+      "id": "pri-t3-0006",
+      "concept": "pri.deroulement.longueur-subh",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Dans quelles prières les malikites recommandent-ils de réciter de longues sourates ?",
+      "choices": [
+        "Aucune",
+        "Le Ṣubḥ et le Ẓuhr",
+        "Le Maghrib uniquement",
+        "L'ʿIshāʾ uniquement"
+      ],
+      "answer": 1,
+      "expl": "Les malikites recommandent les longues sourates du mufaṣṣal (de Qāf à an-Nabaʾ) au Ṣubḥ, un peu moins au Ẓuhr, des moyennes à l'ʿIshāʾ et des courtes à l'ʿAṣr et au Maghrib. L'imam doit cependant alléger s'il y a des malades, des personnes âgées ou pressées.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t3-0007",
+      "concept": "pri.deroulement.qabd",
+      "domain": "priere",
+      "sub": "deroulement",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disent les malikites de la position des bras croisés sur la poitrine (qabḍ) ?",
+      "choices": [
+        "C'est obligatoire chez les malikites, sans exception",
+        "Personne ne le pratique, dans aucune école",
+        "Au Maroc, sadl ; d'autres malikites permettent le qabḍ",
+        "C'est interdit par toutes les écoles"
+      ],
+      "answer": 2,
+      "expl": "Le sadl, pratique répandue à Médine selon une transmission de Mālik, domine au Maghreb. Mais le qabḍ est rapporté dans des hadiths authentiques et des malikites l'ont adopté. Les deux positions sont valables ; on ne se dispute pas pour cela.",
+      "src": [
+        "Hadith de Sahl ibn Saʿd — Bukhari"
+      ],
+      "note": "Le qabḍ est la position des trois autres écoles."
+    },
+    {
+      "id": "pri-t3-0008",
+      "concept": "pri.piliers-sunnas.consequences",
+      "domain": "priere",
+      "sub": "piliers-sunnas",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que se passe-t-il, chez les malikites, si l'on oublie une sunna légère de la prière (comme lever les mains au takbīr) ?",
+      "choices": [
+        "La prière est nulle et doit être refaite",
+        "On fait deux prosternations après le salām",
+        "On refait les ablutions avant de continuer",
+        "Rien : la prière est valable"
+      ],
+      "answer": 3,
+      "expl": "Les malikites distinguent : l'oubli d'un pilier oblige à l'accomplir ou à compenser la rak'a ; l'oubli de sunnas confirmées (deux ou plus) se répare par le sujūd as-sahw ; l'oubli d'une sunna légère (faḍīla) ne demande rien.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ]
+    },
+    {
+      "id": "pri-t3-0009",
+      "concept": "pri.adhan.deux-adhan",
+      "domain": "priere",
+      "sub": "adhan",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pourquoi y avait-il deux appels pour le Fajr à Médine, du temps du Prophète ﷺ ?",
+      "choices": [
+        "Bilāl réveillait, Ibn Umm Maktūm annonçait l'aube",
+        "Un appel pour les hommes, un pour les femmes",
+        "Un appel pour chacune des deux mosquées",
+        "Par erreur : un muezzin ne savait pas l'heure"
+      ],
+      "answer": 0,
+      "expl": "« Bilāl appelle de nuit ; mangez et buvez jusqu'à ce qu'Ibn Umm Maktūm appelle. » Ibn Umm Maktūm, Compagnon aveugle, lançait l'appel quand on lui disait : « C'est l'aube, c'est l'aube. » Cette pratique est encore suivie dans certaines mosquées.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t3-0010",
+      "concept": "pri.annulatifs.corriger-imam",
+      "domain": "priere",
+      "sub": "annulatifs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment corrige-t-on un imam qui se trompe dans la prière ?",
+      "choices": [
+        "On attend la fin de la prière pour aller le lui dire en privé",
+        "Les hommes disent « Subḥāna Llāh », les femmes applaudissent",
+        "On crie son erreur pour qu'il l'entende",
+        "On quitte la prière et on recommence seul"
+      ],
+      "answer": 1,
+      "expl": "« Celui à qui il arrive quelque chose dans sa prière, qu'il dise Subḥāna Llāh ; le claquement des mains est pour les femmes. » Pour une erreur de récitation, on lui souffle le verset correct. Ces gestes n'annulent pas la prière.",
+      "src": [
+        "Hadith de Sahl ibn Saʿd — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t3-0011",
+      "concept": "pri.sahw.debout",
+      "domain": "priere",
+      "sub": "sahw",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon les malikites, que fait celui qui se lève après la deuxième rak'a en oubliant le premier tashahhud ?",
+      "choices": [
+        "Il se rassoit toujours, même tout à fait debout",
+        "Il fait le salām immédiatement",
+        "Redressé, il continue et fait le sujūd de l'oubli",
+        "Il recommence la prière depuis le début"
+      ],
+      "answer": 2,
+      "expl": "C'est ce que fit le Prophète ﷺ : il se leva sans le premier tashahhud, les gens le suivirent, et il fit deux prosternations avant le salām. On ne revient pas en arrière une fois debout, pour ne pas multiplier les mouvements.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn Buḥayna — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t3-0012",
+      "concept": "pri.sahw.cinq",
+      "domain": "priere",
+      "sub": "sahw",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que fit le Prophète ﷺ le jour où il pria le Ẓuhr en cinq rak'at par oubli ?",
+      "choices": [
+        "Il recommença toute la prière depuis le début",
+        "Il ne fit rien de particulier",
+        "Il demanda aux gens de partir",
+        "Deux sujūd de l'oubli après le salām"
+      ],
+      "answer": 3,
+      "expl": "On lui dit : « La prière a-t-elle été augmentée ? — Pourquoi ? — Tu as prié cinq. » Il fit alors deux prosternations après le salām. C'est la base de la règle malikite : après le salām pour un ajout.",
+      "src": [
+        "Hadith d'Ibn Masʿūd — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pri-t3-0013",
+      "concept": "pri.jamaa-jumua.conditions",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelles conditions l'école malikite pose-t-elle pour la validité de la prière du vendredi ?",
+      "choices": [
+        "Mosquée, communauté de résidents, sermon avant",
+        "Une seule personne suffit, n'importe où",
+        "Elle doit se faire dans le désert, en plein air",
+        "Elle doit être dirigée par le roi ou son représentant"
+      ],
+      "answer": 0,
+      "expl": "Les malikites exigent une mosquée (jāmiʿ), une communauté stable et un nombre minimal de douze, en s'appuyant sur le récit où douze personnes restèrent avec le Prophète ﷺ pendant le sermon (62:11). Les autres écoles fixent d'autres nombres.",
+      "src": [
+        "Coran 62:11",
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ],
+      "note": "Hanafites : trois en plus de l'imam ; chaféites et hanbalites : quarante."
+    },
+    {
+      "id": "pri-t3-0014",
+      "concept": "pri.jamaa-jumua.heure",
+      "domain": "priere",
+      "sub": "jamaa-jumua",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quels moments du vendredi les hadiths citent-ils pour l'« heure » où toute demande est exaucée ?",
+      "choices": [
+        "Il n'y a aucun moment particulier ce jour-là",
+        "Pendant le sermon et la prière, ou après l'ʿAṣr",
+        "Uniquement à minuit, la nuit du vendredi",
+        "Au lever du soleil seulement, avant toute prière"
+      ],
+      "answer": 1,
+      "expl": "« Il y a le vendredi une heure où aucun musulman ne demande à Allah un bien sans qu'Il le lui accorde. » Deux avis principaux viennent de hadiths authentiques ; beaucoup multiplient les invocations aux deux moments.",
+      "src": [
+        "Hadith d'Abū Mūsā al-Ashʿarī — Muslim",
+        "Hadith de Jābir ibn ʿAbd Allāh — Abu Dawud & Nasai"
+      ]
+    },
+    {
+      "id": "pri-t3-0015",
+      "concept": "pri.voyage-malade.pluie",
+      "domain": "priere",
+      "sub": "voyage-malade",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel regroupement les malikites permettent-ils les nuits de forte pluie ?",
+      "choices": [
+        "Supprimer l'ʿIshāʾ ces nuits-là",
+        "Prier le Ẓuhr avec le Ṣubḥ le lendemain",
+        "Avancer l'ʿIshāʾ avec le Maghrib",
+        "Regrouper toutes les prières de la journée"
+      ],
+      "answer": 2,
+      "expl": "Chez les malikites, la nuit de pluie ou de boue, on peut prier l'ʿIshāʾ juste après le Maghrib en commun à la mosquée, pour éviter aux gens de revenir sous la pluie. C'est une pratique de Médine rapportée dans le Muwaṭṭaʾ.",
+      "src": [
+        "Mālik, al-Muwaṭṭaʾ"
+      ],
+      "note": "Les hanafites n'admettent pas ce regroupement."
+    },
+    {
+      "id": "pri-t3-0016",
+      "concept": "pri.surerogatoires.dawud-nuit",
+      "domain": "priere",
+      "sub": "surerogatoires",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment priait Dāwūd la nuit, selon le hadith qui en fait la prière la plus aimée d'Allah ?",
+      "choices": [
+        "Il priait toute la nuit sans jamais dormir",
+        "Il ne priait jamais la nuit, seulement le jour",
+        "Il priait seulement avant l'aube, une heure",
+        "Il dormait la moitié, priait un tiers, dormait un sixième"
+      ],
+      "answer": 3,
+      "expl": "« La prière la plus aimée d'Allah est celle de Dāwūd : il dormait la moitié de la nuit, se levait un tiers et dormait un sixième. » Un équilibre entre adoration et repos, qui permet aussi de jeûner un jour sur deux.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn ʿAmr — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:dawud"
+      ]
+    },
+    {
+      "id": "pri-t3-0017",
+      "concept": "pri.surerogatoires.shaf-witr-sourates",
+      "domain": "priere",
+      "sub": "surerogatoires",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelles sourates les malikites recommandent-ils de réciter dans le shafʿ et le witr ?",
+      "choices": [
+        "Al-Aʿlā, al-Kāfirūn, al-Ikhlāṣ et les protectrices",
+        "La Fātiḥa seule dans chaque rak'a",
+        "Al-Baqara entière, répartie sur les rak'at de la nuit",
+        "Yā-Sīn, puis al-Mulk"
+      ],
+      "answer": 0,
+      "expl": "Ce choix s'appuie sur la pratique rapportée du Prophète ﷺ. Celui qui connaît peu de sourates récite ce qu'il sait : l'essentiel est de prier.",
+      "src": [
+        "Hadith d'Ubayy ibn Kaʿb — Abu Dawud & Nasai"
+      ],
+      "tags": [
+        "sourate:87",
+        "sourate:109",
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "pri-t3-0018",
+      "concept": "pri.speciales.khawf",
+      "domain": "priere",
+      "sub": "speciales",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que décrit le verset 4:102 ?",
+      "choices": [
+        "La prière de la pluie, faite en plein air",
+        "La prière en danger, une partie montant la garde",
+        "La prière de l'Aïd, avec ses takbīr",
+        "La prière funéraire, debout sans prosternation"
+      ],
+      "answer": 1,
+      "expl": "Même au combat, la prière n'est pas abandonnée : elle est adaptée. Le Coran décrit comment les groupes se relaient derrière l'imam. Une preuve de l'importance unique de la prière.",
+      "src": [
+        "Coran 4:102"
+      ],
+      "tags": [
+        "sourate:4"
+      ]
+    },
+    {
+      "id": "pri-t3-0019",
+      "concept": "pri.speciales.tilawa",
+      "domain": "priere",
+      "sub": "speciales",
+      "tier": 3,
+      "type": "nombre",
+      "q": "Combien de prosternations de récitation (sujūd at-tilāwa) l'école malikite retient-elle dans le Coran ?",
+      "answer": 11,
+      "expl": "Onze, appelées ʿazāʾim, selon la pratique de Médine rapportée dans le Muwaṭṭaʾ ; les malikites n'y comptent pas celles d'an-Najm, d'al-Inshiqāq et d'al-ʿAlaq. Les autres écoles en comptent quatorze ou quinze.",
+      "src": [
+        "Mālik, al-Muwaṭṭaʾ"
+      ],
+      "note": "Chaféites et hanbalites : quatorze ou quinze ; hanafites : quatorze."
+    },
+    {
+      "id": "pri-t3-0020",
+      "concept": "pri.speciales.najashi",
+      "domain": "priere",
+      "sub": "speciales",
+      "tier": 3,
+      "type": "vf",
+      "q": "Le Prophète ﷺ pria la prière funéraire sur le Najāshī, roi d'Abyssinie, sans que son corps soit présent.",
+      "answer": true,
+      "expl": "Le jour de la mort du Najāshī, le Prophète ﷺ l'annonça, sortit au lieu de prière et pria sur lui avec les Compagnons. Les malikites considèrent cela comme particulier à ce cas ; d'autres en déduisent la prière sur l'absent.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "note": "Les écoles divergent sur la prière funéraire pour un absent."
+    },
+    {
+      "id": "pri-t3-0021",
+      "concept": "pri.khushu.marmite",
+      "domain": "priere",
+      "sub": "khushu",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment ʿAbd Allāh ibn ash-Shikhkhīr décrivit-il le Prophète ﷺ en prière ?",
+      "choices": [
+        "Il priait très vite pour ne retenir personne",
+        "Il parlait à voix haute aux gens autour",
+        "Un bruit de marmite qui bout, à force de pleurer",
+        "Il souriait souvent en récitant"
+      ],
+      "answer": 2,
+      "expl": "« Je vins auprès du Messager d'Allah alors qu'il priait ; de sa poitrine montait un gémissement comme celui d'une marmite, à cause des pleurs. » Le khushūʿ se voit sur ceux qui prient avec le cœur.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn ash-Shikhkhīr — Abu Dawud & Nasai"
+      ]
+    },
+    {
+      "id": "pri-t3-0022",
+      "concept": "pri.khushu.abu-talha",
+      "domain": "priere",
+      "sub": "khushu",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que fit Abū Ṭalḥa après avoir été distrait dans sa prière par un oiseau dans son jardin, selon le Muwaṭṭaʾ ?",
+      "choices": [
+        "Il coupa tous les arbres du jardin",
+        "Il cessa de prier dans son jardin seulement",
+        "Il chassa l'oiseau et finit sa prière",
+        "Il donna ce jardin en aumône"
+      ],
+      "answer": 3,
+      "expl": "L'imam Mālik rapporte qu'Abū Ṭalḥa, distrait par un oiseau qui cherchait à sortir des palmiers, ne sut plus combien de rak'at il avait priées. Il alla dire au Prophète ﷺ : « Ce jardin est une aumône. » Les pieux se méfiaient de tout ce qui troublait leur prière.",
+      "src": [
+        "Mālik, al-Muwaṭṭaʾ"
+      ]
+    }
+  ]
+}

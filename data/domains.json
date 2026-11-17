@@ -1,0 +1,257 @@
+{
+  "levels": [
+    { "tier": 1, "name": "Fondations", "desc": "Ce que tout musulman doit savoir : la foi, la prière, les ablutions, les piliers, les mots du quotidien." },
+    { "tier": 2, "name": "Pratiquant", "desc": "Vivre l'islam pleinement au jour le jour." },
+    { "tier": 3, "name": "Approfondi", "desc": "Les détails, les preuves, l'histoire." },
+    { "tier": 4, "name": "Érudit", "desc": "Le long chemin : Coran en profondeur, finesses du fiqh, grands savants." }
+  ],
+  "domains": [
+    {
+      "id": "croyance", "name": "Croyance", "ar": "العَقِيدَة", "tr": "al-ʿaqīda",
+      "subs": [
+        { "id": "bases", "name": "Islam, īmān, iḥsān" },
+        { "id": "tawhid", "name": "L'unicité d'Allah (tawḥīd)" },
+        { "id": "piliers-foi", "name": "Les six piliers de la foi", "after": ["bases"] },
+        { "id": "noms-attributs", "name": "Les noms et attributs d'Allah", "after": ["tawhid"] },
+        { "id": "anges", "name": "Les anges", "after": ["piliers-foi"] },
+        { "id": "livres", "name": "Les livres révélés", "after": ["piliers-foi"] },
+        { "id": "messagers", "name": "Les messagers (croyance)", "after": ["piliers-foi"] },
+        { "id": "au-dela", "name": "La mort et l'au-delà", "after": ["piliers-foi"] },
+        { "id": "destin", "name": "Le destin (qadar)", "after": ["piliers-foi"] },
+        { "id": "ghayb", "name": "L'invisible : djinns, âme, signes de l'Heure", "after": ["anges"] },
+        { "id": "shirk", "name": "Ce qui contredit la foi (shirk, kufr)", "after": ["tawhid"] },
+        { "id": "acharisme", "name": "L'école ash'arite et la théologie", "after": ["noms-attributs"] }
+      ]
+    },
+    {
+      "id": "purification", "name": "Purification", "ar": "الطَّهَارَة", "tr": "aṭ-ṭahāra",
+      "subs": [
+        { "id": "eau-najasa", "name": "L'eau et les impuretés" },
+        { "id": "toilettes", "name": "Le bon usage des toilettes" },
+        { "id": "wudu", "name": "Les ablutions (wuḍūʾ)" },
+        { "id": "annulatifs-wudu", "name": "Ce qui annule les ablutions", "after": ["wudu"] },
+        { "id": "ghusl", "name": "Le grand lavage (ghusl)", "after": ["wudu"] },
+        { "id": "tayammum", "name": "Les ablutions sèches (tayammum)", "after": ["wudu"] },
+        { "id": "khuffs", "name": "Le passage des mains sur les chaussons", "after": ["wudu"] },
+        { "id": "menstrues", "name": "Règles et lochies", "after": ["ghusl"] }
+      ]
+    },
+    {
+      "id": "priere", "name": "Prière", "ar": "الصَّلَاة", "tr": "aṣ-ṣalāt",
+      "subs": [
+        { "id": "importance", "name": "Place et importance de la prière" },
+        { "id": "horaires-rakat", "name": "Les cinq prières, horaires et rak'at" },
+        { "id": "conditions", "name": "Conditions de validité", "after": ["importance"] },
+        { "id": "deroulement", "name": "La prière pas à pas", "after": ["horaires-rakat"] },
+        { "id": "piliers-sunnas", "name": "Obligations et sunnas de la prière", "after": ["deroulement"] },
+        { "id": "adhan", "name": "L'appel à la prière (adhān, iqāma)" },
+        { "id": "annulatifs", "name": "Ce qui annule la prière", "after": ["deroulement"] },
+        { "id": "sahw", "name": "La prosternation de l'oubli (sujūd as-sahw)", "after": ["piliers-sunnas"] },
+        { "id": "jamaa-jumua", "name": "Prière en groupe et prière du vendredi", "after": ["deroulement"] },
+        { "id": "voyage-malade", "name": "Prière du voyageur et du malade", "after": ["deroulement"] },
+        { "id": "surerogatoires", "name": "Prières surérogatoires (witr, fajr, ḍuḥā, tarāwīḥ…)", "after": ["deroulement"] },
+        { "id": "speciales", "name": "Prières particulières (Aïd, funérailles, istikhāra, éclipse, pluie)", "after": ["surerogatoires"] },
+        { "id": "khushu", "name": "Le recueillement (khushūʿ)" }
+      ]
+    },
+    {
+      "id": "piliers", "name": "Jeûne, zakat et pèlerinage", "ar": "الأَرْكَان", "tr": "al-arkān",
+      "subs": [
+        { "id": "cinq-piliers", "name": "Les cinq piliers de l'islam" },
+        { "id": "ramadan", "name": "Le mois de Ramadan" },
+        { "id": "jeune-regles", "name": "Règles du jeûne", "after": ["ramadan"] },
+        { "id": "jeune-excuses", "name": "Excuses, rattrapage et expiation", "after": ["jeune-regles"] },
+        { "id": "jeune-volontaire", "name": "Jeûnes recommandés et i'tikāf", "after": ["jeune-regles"] },
+        { "id": "zakat-fitr", "name": "La zakat al-fiṭr" },
+        { "id": "zakat", "name": "La zakat sur les biens", "after": ["cinq-piliers"] },
+        { "id": "sadaqa", "name": "L'aumône volontaire (ṣadaqa)" },
+        { "id": "hajj", "name": "Le pèlerinage (ḥajj)", "after": ["cinq-piliers"] },
+        { "id": "omra", "name": "La 'umra", "after": ["hajj"] },
+        { "id": "udhiya", "name": "Le sacrifice de l'Aïd (uḍḥiya)" }
+      ]
+    },
+    {
+      "id": "coran", "name": "Le Coran", "ar": "القُرْآن", "tr": "al-qurʾān",
+      "subs": [
+        { "id": "bases", "name": "Qu'est-ce que le Coran ?" },
+        { "id": "revelation", "name": "La révélation", "after": ["bases"] },
+        { "id": "structure", "name": "Structure : sourates, versets, juz'", "after": ["bases"] },
+        { "id": "fatiha", "name": "Al-Fātiḥa en profondeur" },
+        { "id": "juz-amma", "name": "Les sourates courtes (juz' 'Amma)", "after": ["fatiha"] },
+        { "id": "grands-versets", "name": "Les grands versets", "after": ["structure"] },
+        { "id": "sourates", "name": "Les sourates : noms et thèmes", "after": ["structure"] },
+        { "id": "recits", "name": "Les récits du Coran" },
+        { "id": "compilation", "name": "Compilation et transmission", "after": ["revelation"] },
+        { "id": "lectures-tajwid", "name": "Lectures (Warsh…) et tajwīd", "after": ["compilation"] },
+        { "id": "adab", "name": "Le respect du Livre" },
+        { "id": "sciences", "name": "Sciences du Coran (tafsīr, abrogation, causes de révélation)", "after": ["compilation"] }
+      ]
+    },
+    {
+      "id": "prophetes", "name": "Les prophètes", "ar": "الأَنْبِيَاء", "tr": "al-anbiyāʾ",
+      "subs": [
+        { "id": "general", "name": "Prophètes et messagers" },
+        { "id": "adam", "name": "Ādam" },
+        { "id": "nuh", "name": "Nūḥ (Noé)" },
+        { "id": "hud-salih", "name": "Hūd et Ṣāliḥ" },
+        { "id": "ibrahim", "name": "Ibrāhīm (Abraham)" },
+        { "id": "lut-ismail-ishaq", "name": "Lūṭ, Ismāʿīl, Isḥāq", "after": ["ibrahim"] },
+        { "id": "yaqub-yusuf", "name": "Yaʿqūb et Yūsuf (Joseph)", "after": ["lut-ismail-ishaq"] },
+        { "id": "shuayb-ayyub", "name": "Shuʿayb et Ayyūb (Job)" },
+        { "id": "musa-harun", "name": "Mūsā (Moïse) et Hārūn" },
+        { "id": "dawud-sulayman", "name": "Dāwūd (David) et Sulaymān (Salomon)" },
+        { "id": "yunus-autres", "name": "Yūnus, Ilyās, al-Yasaʿ, Dhū l-Kifl, Idrīs" },
+        { "id": "zakariya-yahya", "name": "Zakariyyā et Yaḥyā" },
+        { "id": "isa-maryam", "name": "ʿĪsā (Jésus) et Maryam", "after": ["zakariya-yahya"] },
+        { "id": "muhammad", "name": "Muḥammad ﷺ, sceau des prophètes" },
+        { "id": "figures", "name": "Autres figures coraniques (Luqmān, Khiḍr, Dhū l-Qarnayn…)" }
+      ]
+    },
+    {
+      "id": "sira", "name": "La vie du Prophète ﷺ", "ar": "السِّيرَة", "tr": "as-sīra",
+      "subs": [
+        { "id": "arabie", "name": "L'Arabie avant l'islam" },
+        { "id": "naissance-jeunesse", "name": "Naissance et jeunesse", "after": ["arabie"] },
+        { "id": "revelation", "name": "La première révélation", "after": ["naissance-jeunesse"] },
+        { "id": "mecque", "name": "Les années mecquoises", "after": ["revelation"] },
+        { "id": "isra-miraj", "name": "Le voyage nocturne (Isrāʾ et Miʿrāj)", "after": ["mecque"] },
+        { "id": "hijra", "name": "L'Hégire", "after": ["mecque"] },
+        { "id": "medine", "name": "La société de Médine", "after": ["hijra"] },
+        { "id": "batailles", "name": "Batailles et expéditions", "after": ["hijra"] },
+        { "id": "traites", "name": "Ḥudaybiya, lettres aux rois", "after": ["batailles"] },
+        { "id": "conquete", "name": "La conquête de La Mecque", "after": ["traites"] },
+        { "id": "fin", "name": "Le pèlerinage d'adieu et le décès", "after": ["conquete"] },
+        { "id": "famille", "name": "Sa famille" },
+        { "id": "caractere", "name": "Son caractère et ses habitudes" }
+      ]
+    },
+    {
+      "id": "figures", "name": "Compagnons et grandes figures", "ar": "الصَّحَابَة وَالأَعْلَام", "tr": "aṣ-ṣaḥāba wa-l-aʿlām",
+      "subs": [
+        { "id": "califes", "name": "Les quatre califes bien guidés" },
+        { "id": "meres-croyants", "name": "Les mères des croyants" },
+        { "id": "ahl-al-bayt", "name": "La famille du Prophète (Ahl al-Bayt)" },
+        { "id": "compagnons", "name": "Grands compagnons" },
+        { "id": "compagnonnes", "name": "Grandes compagnonnes" },
+        { "id": "imams", "name": "Les quatre imams (Mālik en détail)" },
+        { "id": "savants", "name": "Savants et penseurs" },
+        { "id": "maroc", "name": "Figures du Maroc musulman" }
+      ]
+    },
+    {
+      "id": "hadith", "name": "Hadith et Sunna", "ar": "الحَدِيث", "tr": "al-ḥadīth",
+      "subs": [
+        { "id": "bases", "name": "Qu'est-ce qu'un hadith ?" },
+        { "id": "recueils", "name": "Les grands recueils", "after": ["bases"] },
+        { "id": "classification", "name": "Authentique, bon, faible…", "after": ["bases"] },
+        { "id": "nawawi", "name": "Les 40 hadiths de an-Nawawī" },
+        { "id": "celebres", "name": "Hadiths célèbres" },
+        { "id": "sunna-quotidien", "name": "La Sunna au quotidien" }
+      ]
+    },
+    {
+      "id": "ethique", "name": "Éthique et comportement", "ar": "الأَخْلَاق وَالآدَاب", "tr": "al-akhlāq wa-l-ādāb",
+      "subs": [
+        { "id": "bon-caractere", "name": "Le bon caractère" },
+        { "id": "parents", "name": "Les parents" },
+        { "id": "couple", "name": "Le couple et le mariage" },
+        { "id": "enfants-famille", "name": "Enfants et liens de parenté" },
+        { "id": "voisins-invites", "name": "Voisins, invités, malades" },
+        { "id": "parole", "name": "La parole : vérité, médisance, mensonge" },
+        { "id": "coeur", "name": "Colère, jalousie, orgueil" },
+        { "id": "salam", "name": "Le salām et les salutations" },
+        { "id": "manger", "name": "Manger et boire" },
+        { "id": "travail-argent", "name": "Travail, argent, honnêteté" },
+        { "id": "nature-animaux", "name": "Les animaux et la nature" },
+        { "id": "pudeur", "name": "Pudeur et tenue" },
+        { "id": "societe", "name": "Justice, non-musulmans, vie en société" }
+      ]
+    },
+    {
+      "id": "invocations", "name": "Invocations et dhikr", "ar": "الأَذْكَار وَالأَدْعِيَة", "tr": "al-adhkār wa-l-adʿiya",
+      "subs": [
+        { "id": "formules", "name": "Les formules de dhikr" },
+        { "id": "quotidien", "name": "Les invocations du quotidien" },
+        { "id": "apres-priere", "name": "Après la prière" },
+        { "id": "matin-soir", "name": "Matin et soir" },
+        { "id": "coran-prophetes", "name": "Invocations du Coran et des prophètes" },
+        { "id": "adab-dua", "name": "Comment invoquer (adab du duʿāʾ)" },
+        { "id": "situations", "name": "Épreuves, voyage, maladie, deuil" }
+      ]
+    },
+    {
+      "id": "arabe", "name": "Arabe essentiel", "ar": "العَرَبِيَّة", "tr": "al-ʿarabiyya",
+      "subs": [
+        { "id": "expressions", "name": "Expressions de tous les jours" },
+        { "id": "vocabulaire", "name": "Vocabulaire religieux" },
+        { "id": "alphabet", "name": "L'alphabet" },
+        { "id": "voyelles", "name": "Voyelles et signes", "after": ["alphabet"] },
+        { "id": "lecture", "name": "Premiers mots à lire", "after": ["voyelles"] },
+        { "id": "racines", "name": "Racines et sens des mots", "after": ["vocabulaire"] }
+      ]
+    },
+    {
+      "id": "fiqh", "name": "Fiqh et sources du droit", "ar": "الفِقْه", "tr": "al-fiqh",
+      "subs": [
+        { "id": "statuts", "name": "Les cinq statuts (obligatoire… interdit)" },
+        { "id": "sources", "name": "Les sources du droit" },
+        { "id": "ecoles", "name": "Les écoles juridiques", "after": ["sources"] },
+        { "id": "maliki", "name": "L'école malikite", "after": ["ecoles"] },
+        { "id": "halal-haram", "name": "Halal et haram : nourriture et boisson" },
+        { "id": "finance", "name": "Argent : intérêt, commerce, dettes" },
+        { "id": "mariage", "name": "Mariage et divorce" },
+        { "id": "heritage", "name": "L'héritage", "after": ["mariage"] },
+        { "id": "principes", "name": "Grandes règles du fiqh (maqāṣid, nécessité…)", "after": ["sources"] }
+      ]
+    },
+    {
+      "id": "histoire", "name": "Histoire et civilisation", "ar": "التَّارِيخ وَالحَضَارَة", "tr": "at-tārīkh wa-l-ḥaḍāra",
+      "subs": [
+        { "id": "califat", "name": "Le califat bien guidé" },
+        { "id": "omeyyades", "name": "Les Omeyyades", "after": ["califat"] },
+        { "id": "abbassides", "name": "Les Abbassides et l'âge d'or", "after": ["omeyyades"] },
+        { "id": "andalus", "name": "Al-Andalus", "after": ["omeyyades"] },
+        { "id": "maroc", "name": "Le Maroc musulman" },
+        { "id": "empires", "name": "Croisades, Mamelouks, Ottomans, Moghols", "after": ["abbassides"] },
+        { "id": "sciences", "name": "Sciences et savants" },
+        { "id": "architecture", "name": "Mosquées et architecture" },
+        { "id": "moderne", "name": "Le monde musulman moderne" }
+      ]
+    },
+    {
+      "id": "calendrier", "name": "Calendrier, fêtes et cultures", "ar": "التَّقْوِيم وَالأَعْيَاد", "tr": "at-taqwīm wa-l-aʿyād",
+      "subs": [
+        { "id": "hegirien", "name": "Le calendrier hégirien" },
+        { "id": "aid", "name": "Les deux Aïds" },
+        { "id": "dates", "name": "Nuits et jours bénis" },
+        { "id": "mosquee", "name": "La mosquée et ses usages" },
+        { "id": "maroc", "name": "Traditions marocaines" },
+        { "id": "monde", "name": "Le monde musulman aujourd'hui" }
+      ]
+    },
+    {
+      "id": "vivre", "name": "Vivre l'islam aujourd'hui", "ar": "الحَيَاة اليَوْمِيَّة", "tr": "al-ḥayāt al-yawmiyya",
+      "subs": [
+        { "id": "conversion", "name": "Devenir musulman" },
+        { "id": "premiers-pas", "name": "Les premiers pas" },
+        { "id": "famille", "name": "Famille et entourage" },
+        { "id": "france", "name": "Pratiquer en France" },
+        { "id": "idees-recues", "name": "Idées reçues" },
+        { "id": "autres-religions", "name": "Islam et autres religions" },
+        { "id": "foi-quotidien", "name": "Faire grandir sa foi au quotidien" }
+      ]
+    },
+    {
+      "id": "spiritualite", "name": "Spiritualité", "ar": "الإِحْسَان وَالتَّزْكِيَة", "tr": "al-iḥsān wa-t-tazkiya",
+      "subs": [
+        { "id": "intention", "name": "L'intention et la sincérité" },
+        { "id": "repentir", "name": "Le repentir (tawba)" },
+        { "id": "vertus", "name": "Patience, gratitude, confiance en Allah" },
+        { "id": "dhikr", "name": "Le dhikr, rappel d'Allah" },
+        { "id": "maladies-coeur", "name": "Les maladies du cœur" },
+        { "id": "amour", "name": "L'amour d'Allah et de Son Messager ﷺ" },
+        { "id": "tasawwuf", "name": "Le soufisme sunnite et la voie d'al-Junayd" }
+      ]
+    }
+  ]
+}

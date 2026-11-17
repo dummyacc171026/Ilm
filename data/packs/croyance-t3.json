@@ -1,0 +1,1541 @@
+{
+  "pack": "croyance-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "cro-t3-0001",
+      "concept": "cro.bases.ensemble-separes",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disent les savants de la relation entre les mots « islam » et « īmān » dans les textes ?",
+      "choices": [
+        "L'islam ne concerne que les Arabes",
+        "Ensemble ils se distinguent ; seuls, chacun inclut l'autre",
+        "Ils ont toujours exactement le même sens, partout",
+        "Ils n'ont aucun rapport l'un avec l'autre"
+      ],
+      "answer": 1,
+      "expl": "Une règle connue dit : « S'ils sont réunis, ils se séparent ; s'ils sont séparés, ils se réunissent. » Dans le hadith de Jibrīl, l'islam désigne les actes et l'īmān la croyance ; mais quand le Coran dit « la religion auprès d'Allah est l'islam », le mot inclut aussi la foi.",
+      "src": [
+        "Hadith de Jibrīl — Muslim",
+        "Coran 3:19",
+        "Coran 49:14"
+      ]
+    },
+    {
+      "id": "cro-t3-0002",
+      "concept": "cro.bases.bedouins",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le verset 49:14 aux Bédouins qui affirmaient « nous avons cru » ?",
+      "choices": [
+        "« Vous n'êtes pas musulmans du tout »",
+        "« Quittez Médine et retournez au désert »",
+        "« Dites : nous nous sommes soumis »",
+        "« Vous êtes les meilleurs des croyants »"
+      ],
+      "answer": 2,
+      "expl": "Ce verset distingue l'islam extérieur, déjà réel, et la foi profonde, qui doit encore s'enraciner. Il ajoute avec douceur : « Si vous obéissez à Allah et à Son messager, Il ne vous fera rien perdre de vos œuvres. » La foi grandit avec le temps.",
+      "src": [
+        "Coran 49:14"
+      ],
+      "tags": [
+        "sourate:49"
+      ]
+    },
+    {
+      "id": "cro-t3-0003",
+      "concept": "cro.bases.courants",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque courant ancien à sa position sur le croyant qui commet un grand péché.",
+      "pairs": [
+        [
+          "Khawārij",
+          "Il devient mécréant"
+        ],
+        [
+          "Muʿtazila",
+          "Il est dans une position intermédiaire, ni croyant ni mécréant"
+        ],
+        [
+          "Murjiʾa",
+          "Le péché ne nuit en rien à sa foi"
+        ],
+        [
+          "Ahl as-Sunna",
+          "Il reste croyant, pécheur, soumis à la volonté d'Allah"
+        ]
+      ],
+      "expl": "Le sunnisme se présente comme le juste milieu : contre la dureté des Khawārij, il refuse d'exclure le pécheur de l'islam ; contre la Murjiʾa, il rappelle que les actes comptent. Le pécheur peut être pardonné ou puni, selon la volonté d'Allah.",
+      "src": [
+        "Coran 4:48"
+      ]
+    },
+    {
+      "id": "cro-t3-0004",
+      "concept": "cro.bases.ashari-augmente",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle est la position nuancée de nombreux ash'arites sur l'augmentation de la foi ?",
+      "choices": [
+        "La foi ne change jamais en rien",
+        "La foi n'est faite que d'actes",
+        "La foi disparaît au moindre péché",
+        "La certitude se renforce par preuves et œuvres"
+      ],
+      "answer": 3,
+      "expl": "Les ash'arites définissent la foi comme l'adhésion du cœur (taṣdīq). Beaucoup admettent qu'elle se renforce et s'affaiblit en intensité et en clarté, ce qui rejoint le verset « afin qu'ils ajoutent une foi à leur foi » (48:4). Les débats portent surtout sur les mots.",
+      "src": [
+        "Coran 48:4"
+      ],
+      "tags": [
+        "sourate:48"
+      ]
+    },
+    {
+      "id": "cro-t3-0005",
+      "concept": "cro.tawhid.contingence",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel est le principe de l'argument des théologiens ash'arites, dit de la « contingence » (ḥudūth al-ʿālam) ?",
+      "choices": [
+        "Ce qui change a commencé, donc a un Créateur",
+        "Le monde est éternel, sans début ni fin",
+        "Le monde s'est créé seul, par hasard",
+        "On ne peut absolument rien dire du monde"
+      ],
+      "answer": 0,
+      "expl": "Tout ce qui change dépend de causes et a commencé d'exister ; une chaîne infinie de causes dépendantes est impossible ; il faut donc un Être nécessaire, éternel, qui ne dépend de rien : Allah. As-Sanūsī enseignait cet argument au Maghreb pour fonder la foi sur la réflexion.",
+      "src": [
+        "Coran 52:35"
+      ]
+    },
+    {
+      "id": "cro-t3-0006",
+      "concept": "cro.tawhid.tur",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 3,
+      "type": "trou",
+      "q": "« Ont-ils été créés à partir de rien, ou sont-ils eux-mêmes les ___ ? »",
+      "choices": [
+        "savants",
+        "créateurs",
+        "prophètes",
+        "rois"
+      ],
+      "answer": 1,
+      "expl": "Le verset 52:35 propose un raisonnement simple : rien ne se crée à partir de rien, et l'homme ne s'est pas créé lui-même ; il reste donc un Créateur. Jubayr ibn Muṭʿim, encore polythéiste, raconta que son cœur faillit « s'envoler » en entendant ce passage.",
+      "src": [
+        "Coran 52:35",
+        "Hadith de Jubayr ibn Muṭʿim — Bukhari"
+      ],
+      "tags": [
+        "sourate:52"
+      ]
+    },
+    {
+      "id": "cro-t3-0007",
+      "concept": "cro.tawhid.tamanu",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel argument le verset « S'il y avait dans le ciel et la terre des divinités autres qu'Allah, tous deux seraient certes dans le désordre » (21:22) contient-il ?",
+      "choices": [
+        "Il y a plusieurs dieux qui s'accordent",
+        "Le ciel et la terre sont éternels",
+        "L'ordre de l'univers prouve un seul Maître",
+        "L'univers est désordonné par nature"
+      ],
+      "answer": 2,
+      "expl": "Les théologiens l'appellent « l'argument de l'empêchement mutuel » (burhān at-tamānuʿ) : deux volontés toutes-puissantes entreraient en conflit. L'unité des lois de la nature, de l'atome aux galaxies, témoigne d'un seul Créateur.",
+      "src": [
+        "Coran 21:22"
+      ],
+      "tags": [
+        "sourate:21"
+      ]
+    },
+    {
+      "id": "cro-t3-0008",
+      "concept": "cro.tawhid.kursi-contenu",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 3,
+      "type": "multi",
+      "q": "Lesquelles de ces vérités sont affirmées dans Āyat al-Kursī ?",
+      "choices": [
+        "Allah est le Vivant, Celui qui subsiste par Lui-même",
+        "Ni somnolence ni sommeil ne Le saisissent",
+        "Il a un fils",
+        "Nul ne peut intercéder auprès de Lui sans Sa permission",
+        "Il connaît leur passé et leur avenir",
+        "Il se fatigue à garder les cieux"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Āyat al-Kursī résume le tawḥīd : unicité, vie, subsistance, royauté universelle, intercession seulement avec Sa permission, science totale, Trône immense, et préservation des cieux et de la terre sans fatigue. On comprend pourquoi c'est le plus grand verset.",
+      "src": [
+        "Coran 2:255"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cro-t3-0009",
+      "concept": "cro.piliers-foi.2-177",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel verset définit la vraie piété en citant la foi en Allah, au Jour dernier, aux anges, au Livre et aux prophètes, puis l'aumône aux proches et aux pauvres ?",
+      "choices": [
+        "Le verset 2:255",
+        "Le verset 1:5",
+        "Le verset 112:1",
+        "Le verset 2:177"
+      ],
+      "answer": 3,
+      "expl": "« La piété ne consiste pas à tourner vos visages vers l'Orient ou l'Occident, mais pieux est celui qui croit en Allah, au Jour dernier, aux anges, au Livre et aux prophètes, qui donne de ses biens par amour… » Le verset unit croyance, générosité, prière, fidélité et patience.",
+      "src": [
+        "Coran 2:177"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cro-t3-0010",
+      "concept": "cro.piliers-foi.qadar-preuve",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 3,
+      "type": "trou",
+      "q": "Preuve coranique du destin : « Nous avons créé toute chose avec ___ (qadar). »",
+      "choices": [
+        "mesure",
+        "hasard",
+        "fatigue",
+        "difficulté"
+      ],
+      "answer": 0,
+      "expl": "« Innā kulla shayʾin khalaqnāhu bi-qadar » (54:49). Tout dans l'univers suit une mesure décrétée par Allah. Le mot qadar désigne justement cette mesure et ce décret.",
+      "src": [
+        "Coran 54:49"
+      ],
+      "ar": {
+        "text": "إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ",
+        "tr": "innā kulla shayʾin khalaqnāhu bi-qadar",
+        "pr": "in-nâ koul-la chay-ʾin kha-laq-nâ-hou bi-qa-dar",
+        "fr": "Nous avons créé toute chose avec mesure"
+      },
+      "tags": [
+        "sourate:54"
+      ]
+    },
+    {
+      "id": "cro-t3-0011",
+      "concept": "cro.anges.harut-marut",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le Coran de Hārūt et Mārūt, à Babylone ?",
+      "choices": [
+        "Ils apportèrent la Torah aux enfants d'Israël",
+        "Ils enseignaient en avertissant : « Nous sommes une tentation »",
+        "Ils étaient deux rois justes de Babylone",
+        "Ils construisirent la tour de Babel"
+      ],
+      "answer": 1,
+      "expl": "Le verset 2:102 évoque deux anges à Babylone, envoyés comme épreuve, qui avertissaient avant d'enseigner. Le passage condamne la sorcellerie, qui ne nuit qu'avec la permission d'Allah. Beaucoup de récits fantaisistes à leur sujet ne sont pas authentiques.",
+      "src": [
+        "Coran 2:102"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cro-t3-0012",
+      "concept": "cro.anges.porteurs",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 3,
+      "type": "nombre",
+      "q": "Combien d'anges porteront le Trône au Jour de la Résurrection, selon la sourate al-Ḥāqqa ?",
+      "answer": 8,
+      "expl": "« Et au-dessus d'eux, ce jour-là, huit porteront le Trône de ton Seigneur. » Le Coran dit aussi que les porteurs du Trône demandent pardon pour les croyants (40:7) : des anges immenses prient pour nous.",
+      "src": [
+        "Coran 69:17",
+        "Coran 40:7"
+      ],
+      "tags": [
+        "sourate:69"
+      ]
+    },
+    {
+      "id": "cro-t3-0013",
+      "concept": "cro.anges.badr",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon le Coran, Allah a soutenu les croyants à Badr par des anges.",
+      "answer": true,
+      "expl": "« Je vais vous aider d'un millier d'anges déferlant les uns après les autres » (8:9). La sourate Āl ʿImrān parle aussi de trois mille puis cinq mille anges. Le Coran précise que ce soutien n'était qu'une bonne nouvelle pour rassurer les cœurs : la victoire vient d'Allah seul.",
+      "src": [
+        "Coran 8:9-10",
+        "Coran 3:124-126"
+      ],
+      "tags": [
+        "sourate:8"
+      ]
+    },
+    {
+      "id": "cro-t3-0014",
+      "concept": "cro.anges.chien-image",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon le hadith, dans quelles maisons les anges (de miséricorde) n'entrent-ils pas ?",
+      "choices": [
+        "Celles où l'on prie la nuit",
+        "Celles où il y a de jeunes enfants",
+        "Où il y a un chien ou des images",
+        "Celles où l'on lit le Coran"
+      ],
+      "answer": 2,
+      "expl": "« Les anges n'entrent pas dans une maison où il y a un chien ou une image. » Les savants ont précisé les exceptions : chiens de garde, de chasse ou de troupeau ; et ils divergent sur les photos et les images sans relief.",
+      "src": [
+        "Hadith d'Abū Ṭalḥa — Bukhari & Muslim"
+      ],
+      "note": "Les écoles divergent sur la portée de ce hadith (photographies, images sur tissu…) ; les malikites tolèrent le chien de garde et considèrent le chien comme pur."
+    },
+    {
+      "id": "cro-t3-0015",
+      "concept": "cro.messagers.miracle-karama",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque terme à sa définition.",
+      "pairs": [
+        [
+          "Muʿjiza",
+          "Miracle accordé à un prophète, qui confirme sa mission face à un défi"
+        ],
+        [
+          "Karāma",
+          "Prodige accordé par Allah à un saint, sans prétention à la prophétie"
+        ],
+        [
+          "Siḥr",
+          "Sorcellerie, illusion obtenue par des moyens cachés et blâmables"
+        ]
+      ],
+      "expl": "Les ash'arites distinguent clairement le miracle prophétique, la karāma (comme la nourriture que recevait Maryam dans son sanctuaire) et la magie. Le Coran reste le plus grand miracle du Prophète ﷺ, car il demeure jusqu'à aujourd'hui.",
+      "src": [
+        "Coran 3:37"
+      ]
+    },
+    {
+      "id": "cro-t3-0016",
+      "concept": "cro.messagers.adapte",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pourquoi, selon une explication classique, les miracles de Mūsā, ʿĪsā et Muḥammad ﷺ étaient-ils différents ?",
+      "choices": [
+        "Par simple hasard, sans raison",
+        "Parce que les prophètes les avaient choisis",
+        "Ils étaient en réalité identiques",
+        "Chacun répondait à ce qu'admirait son époque"
+      ],
+      "answer": 3,
+      "expl": "Au temps de Mūsā, la magie était reine : son bâton surpassa les magiciens. Au temps de ʿĪsā, la médecine : il guérit les incurables. Chez les Arabes, l'éloquence : le Coran défia les poètes. Chaque miracle parlait la langue de son peuple."
+    },
+    {
+      "id": "cro-t3-0017",
+      "concept": "cro.messagers.miracles-prophete",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 3,
+      "type": "multi",
+      "q": "Lesquels font partie des miracles du Prophète ﷺ rapportés par des hadiths authentiques ?",
+      "choices": [
+        "L'eau qui jaillit d'entre ses doigts",
+        "Le tronc de palmier qui gémit quand il le quitta pour le minbar",
+        "La mer fendue en deux",
+        "La lune qui se fendit",
+        "Le feu qui devint frais"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Anas rapporte que l'eau coula de ses doigts et que des centaines de Compagnons firent leurs ablutions ; Jābir raconte que le tronc sur lequel il s'appuyait pour prêcher gémit comme un enfant. La mer fendue est le miracle de Mūsā, le feu celui d'Ibrāhīm.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim",
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari"
+      ]
+    },
+    {
+      "id": "cro-t3-0018",
+      "concept": "cro.au-dela.barzakh",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'est-ce que le barzakh ?",
+      "choices": [
+        "La vie entre la mort et la Résurrection",
+        "Un fleuve du Paradis",
+        "Le nom d'un ange",
+        "Une des portes de la Mosquée sacrée de La Mecque"
+      ],
+      "answer": 0,
+      "expl": "« Et derrière eux, il y a une barrière (barzakh) jusqu'au jour où ils seront ressuscités » (23:100). Le barzakh est la vie de la tombe, où l'âme connaît déjà la paix ou le tourment selon ses œuvres.",
+      "src": [
+        "Coran 23:100"
+      ],
+      "ar": {
+        "text": "الْبَرْزَخ",
+        "tr": "al-barzakh",
+        "pr": "al-bar-zakh",
+        "fr": "la barrière, l'intermonde"
+      },
+      "tags": [
+        "sourate:23"
+      ]
+    },
+    {
+      "id": "cro-t3-0019",
+      "concept": "cro.au-dela.noms-jour",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque nom du Jour dernier dans le Coran à son sens.",
+      "pairs": [
+        [
+          "Al-Ḥāqqa",
+          "Celle qui est inéluctable"
+        ],
+        [
+          "Al-Qāriʿa",
+          "Le Fracas"
+        ],
+        [
+          "Al-Ghāshiya",
+          "L'Enveloppante"
+        ],
+        [
+          "Al-Wāqiʿa",
+          "L'Événement"
+        ],
+        [
+          "Yawm at-Taghābun",
+          "Le Jour de la grande perte"
+        ]
+      ],
+      "expl": "Le Coran donne au Jour dernier de nombreux noms, chacun soulignant un aspect : sa réalité certaine, sa violence, ce qu'il recouvre, ce qu'il révèle. Plusieurs sourates portent ces noms (69, 101, 88, 56, 64).",
+      "tags": [
+        "sourate:69",
+        "sourate:101",
+        "sourate:88",
+        "sourate:56",
+        "sourate:64"
+      ]
+    },
+    {
+      "id": "cro-t3-0020",
+      "concept": "cro.au-dela.premier-porte",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui sera, selon le hadith, le premier à frapper à la porte du Paradis ?",
+      "choices": [
+        "Les martyrs de Badr",
+        "Le Prophète Muḥammad ﷺ",
+        "Ādam",
+        "Ibrāhīm"
+      ],
+      "answer": 1,
+      "expl": "« Je serai le premier à frapper à la porte du Paradis. » Le gardien demandera : « Qui es-tu ? — Muḥammad. — C'est pour toi qu'on m'a ordonné de ne l'ouvrir à personne avant toi. »",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Muslim"
+      ]
+    },
+    {
+      "id": "cro-t3-0021",
+      "concept": "cro.au-dela.soixante-dix-mille",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ décrivit-il les soixante-dix mille de sa communauté qui entreront au Paradis sans jugement ?",
+      "choices": [
+        "Les plus savants de la communauté seulement",
+        "Les habitants de Médine, sans exception",
+        "Sans ruqya ni présages, confiants en leur Seigneur",
+        "Les plus riches, qui ont beaucoup donné"
+      ],
+      "answer": 2,
+      "expl": "Ce hadith met en avant le tawakkul : une confiance totale en Allah, sans superstition. ʿUkkāsha demanda d'en faire partie ; le Prophète ﷺ répondit : « Tu en fais partie. » Un autre demanda ensuite ; il dit : « ʿUkkāsha t'a devancé. »",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t3-0022",
+      "concept": "cro.au-dela.tombe-deux",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pour quelles fautes, selon le hadith, deux personnes étaient-elles tourmentées dans leurs tombes, près desquelles passa le Prophète ﷺ ?",
+      "choices": [
+        "L'une volait, l'autre mentait",
+        "L'une ne priait pas, l'autre ne jeûnait pas",
+        "L'une était riche, l'autre pauvre",
+        "L'urine négligée, et la médisance qui divise"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ précisa que ce n'étaient pas des choses qu'ils jugeaient graves. Il planta une branche fendue sur chaque tombe en espérant un allègement. Les petites négligences d'hygiène et de langue comptent.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t3-0023",
+      "concept": "cro.destin.courants",
+      "domain": "croyance",
+      "sub": "destin",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque courant à sa position sur le destin et les actes humains.",
+      "pairs": [
+        [
+          "Qadariyya",
+          "L'homme crée ses actes ; Allah ne les a pas décrétés à l'avance"
+        ],
+        [
+          "Jabriyya",
+          "L'homme n'a aucune volonté, comme une plume dans le vent"
+        ],
+        [
+          "Ash'arites",
+          "Allah crée les actes, l'homme les choisit et les « acquiert » (kasb)"
+        ]
+      ],
+      "expl": "Au début du hadith de Jibrīl dans Ṣaḥīḥ Muslim, Ibn ʿUmar se désolidarise de ceux qui niaient le destin. Les sunnites tiennent les deux vérités : la volonté et la science absolues d'Allah, et la responsabilité réelle de l'homme.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ]
+    },
+    {
+      "id": "cro-t3-0024",
+      "concept": "cro.destin.bulle",
+      "domain": "croyance",
+      "sub": "destin",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon la croyance sunnite, l'homme est responsable de ses actes car il a une volonté réelle, même si cette volonté s'inscrit dans la volonté d'Allah.",
+      "answer": true,
+      "expl": "« Vous ne voulez que si Allah veut » (81:29), et en même temps « chaque âme est l'otage de ce qu'elle a acquis » (74:38). Le Coran affirme les deux. L'esprit humain ne saisit pas entièrement ce mystère, mais il sait qu'il choisit.",
+      "src": [
+        "Coran 81:29",
+        "Coran 74:38"
+      ]
+    },
+    {
+      "id": "cro-t3-0025",
+      "concept": "cro.ghayb.oeil",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos du mauvais œil ?",
+      "choices": [
+        "« L'œil est une réalité » ; on s'en protège",
+        "C'est une pure superstition",
+        "Il faut porter des amulettes contre lui",
+        "Il faut éviter tous les gens"
+      ],
+      "answer": 0,
+      "expl": "« Le mauvais œil est une réalité. » La Sunna enseigne de dire « mā shāʾa Llāh » ou « bāraka Llāh » devant une chose qui plaît, et de se protéger par al-Falaq, an-Nās et les invocations, sans tomber dans l'obsession ou la peur.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t3-0026",
+      "concept": "cro.ghayb.ruqya-fatiha",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Avec quelle sourate un Compagnon soigna-t-il un chef de tribu piqué par un scorpion, ce que le Prophète ﷺ approuva ?",
+      "choices": [
+        "Al-Kahf",
+        "Al-Fātiḥa",
+        "Al-Baqara entière",
+        "Yā-Sīn"
+      ],
+      "answer": 1,
+      "expl": "Abū Saʿīd rapporte qu'un Compagnon récita la Fātiḥa sur le chef piqué, qui se releva guéri. Le Prophète ﷺ demanda : « Comment as-tu su qu'elle est une ruqya ? » La ruqya est permise tant qu'elle ne contient pas d'association.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim",
+        "Hadith d'ʿAwf ibn Mālik — Muslim"
+      ],
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cro-t3-0027",
+      "concept": "cro.ghayb.reve",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que faire, selon la Sunna, après un mauvais rêve ?",
+      "choices": [
+        "Consulter un devin pour l'interpréter",
+        "Ne plus dormir de la nuit",
+        "Souffler à gauche, chercher refuge, ne pas le raconter",
+        "Le raconter à tout le monde dès le réveil pour s'en libérer"
+      ],
+      "answer": 2,
+      "expl": "« Le bon rêve vient d'Allah, le mauvais rêve vient du Shayṭān. » Le Prophète ﷺ ajouta que le mauvais rêve ne nuira pas si l'on fait ces gestes. Le bon rêve, on le raconte à qui on aime.",
+      "src": [
+        "Hadith d'Abū Qatāda — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t3-0028",
+      "concept": "cro.ghayb.reve-prophetie",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon le hadith, le rêve véridique du croyant est une part parmi quarante-six parts de la prophétie.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ a dit que le bon rêve est une des quarante-six parts de la prophétie, et qu'à la fin des temps, le rêve du croyant ne mentira presque pas. La révélation elle-même commença par des rêves clairs comme l'aube.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim",
+        "Hadith de ʿĀʾisha — Bukhari"
+      ]
+    },
+    {
+      "id": "cro-t3-0029",
+      "concept": "cro.shirk.takfir",
+      "domain": "croyance",
+      "sub": "shirk",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith de celui qui dit à son frère musulman : « Ô mécréant ! » ?",
+      "choices": [
+        "C'est une parole sans conséquence",
+        "C'est recommandé pour le corriger",
+        "C'est obligatoire s'il commet un péché",
+        "Si c'est faux, l'accusation lui revient"
+      ],
+      "answer": 3,
+      "expl": "« Quiconque dit à son frère : ô mécréant, l'un des deux le mérite. » Le takfīr (déclarer quelqu'un mécréant) est une affaire extrêmement grave, réservée aux savants et entourée de conditions strictes. Le musulman ordinaire s'en abstient.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t3-0030",
+      "concept": "cro.shirk.usama",
+      "domain": "croyance",
+      "sub": "shirk",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que reprocha le Prophète ﷺ à Usāma ibn Zayd, qui avait tué au combat un homme ayant prononcé la shahāda, croyant qu'il la disait par peur ?",
+      "choices": [
+        "« As-tu ouvert son cœur ? »",
+        "Rien : il avait raison de le faire",
+        "Il le félicita pour son courage",
+        "Il lui demanda de payer une amende seulement"
+      ],
+      "answer": 0,
+      "expl": "Usāma raconte que le Prophète ﷺ répéta ce reproche au point qu'il aurait souhaité n'avoir embrassé l'islam que ce jour-là. On juge les gens sur l'apparent ; les cœurs appartiennent à Allah.",
+      "src": [
+        "Hadith d'Usāma ibn Zayd — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t3-0031",
+      "concept": "cro.acharisme.savants",
+      "domain": "croyance",
+      "sub": "acharisme",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque grand savant ash'arite à ce qui le caractérise.",
+      "pairs": [
+        [
+          "Al-Bāqillānī",
+          "Juge malikite de Bagdad, grand défenseur de l'inimitabilité du Coran"
+        ],
+        [
+          "Al-Juwaynī",
+          "« L'imam des deux sanctuaires », maître d'al-Ghazālī"
+        ],
+        [
+          "Al-Ghazālī",
+          "Auteur de l'Iḥyāʾ, « preuve de l'islam »"
+        ],
+        [
+          "As-Sanūsī",
+          "Savant de Tlemcen, auteur de Umm al-Barāhīn"
+        ]
+      ],
+      "expl": "Ces savants ont développé et transmis la théologie ash'arite. Al-Bāqillānī (m. 1013) était aussi malikite, comme beaucoup d'ash'arites du Maghreb. As-Sanūsī (m. 1490) a écrit des traités de croyance appris dans tout le Maghreb."
+    },
+    {
+      "id": "cro-t3-0032",
+      "concept": "cro.acharisme.vingt",
+      "domain": "croyance",
+      "sub": "acharisme",
+      "tier": 3,
+      "type": "nombre",
+      "q": "Selon as-Sanūsī dans Umm al-Barāhīn, combien d'attributs obligatoires d'Allah le croyant doit-il connaître en détail ?",
+      "answer": 20,
+      "expl": "Vingt attributs : l'existence, l'éternité sans début, la permanence, la dissemblance avec les créatures, l'autosuffisance, l'unicité, puis la puissance, la volonté, la science, la vie, l'ouïe, la vue, la parole, et sept attributs qui en découlent. Ce schéma était enseigné dans les msīd et les mosquées du Maroc.",
+      "src": [
+        "As-Sanūsī, Umm al-Barāhīn"
+      ]
+    },
+    {
+      "id": "cro-t3-0033",
+      "concept": "cro.acharisme.umm-barahin",
+      "domain": "croyance",
+      "sub": "acharisme",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le titre « Umm al-Barāhīn », le célèbre petit traité de croyance d'as-Sanūsī ?",
+      "choices": [
+        "« La lumière de Fès »",
+        "« La mère des preuves »",
+        "« Le livre des rois »",
+        "« Le jardin des savants »"
+      ],
+      "answer": 1,
+      "expl": "Umm al-Barāhīn (« la mère des preuves ») expose en quelques pages ce qui est obligatoire, impossible et possible pour Allah et pour les messagers. Il a été commenté des dizaines de fois et reste étudié au Maghreb et en Afrique de l'Ouest.",
+      "src": [
+        "As-Sanūsī, Umm al-Barāhīn"
+      ]
+    },
+    {
+      "id": "cro-t3-0034",
+      "concept": "cro.noms-attributs.nom3-awwal",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Awwal » ?",
+      "choices": [
+        "Le Bienfaisant, source de toute bonté",
+        "Le Capable, qui peut toute chose",
+        "Le Premier, avant qui il n'y a rien",
+        "L'Héritier, à qui tout revient quand tout disparaît"
+      ],
+      "answer": 2,
+      "expl": "al-Awwal (al-aw-wal) : le premier, avant qui il n'y a rien. Le Prophète ﷺ L'invoquait : « Tu es le Premier, rien n'est avant Toi. »",
+      "src": [
+        "Coran 57:3"
+      ],
+      "ar": {
+        "text": "الْأَوَّل",
+        "tr": "al-Awwal",
+        "pr": "al-aw-wal",
+        "fr": "Le Premier, avant qui il n'y a rien"
+      },
+      "tags": [
+        "nom:al-awwal"
+      ]
+    },
+    {
+      "id": "cro-t3-0035",
+      "concept": "cro.noms-attributs.nom3-akhir",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Ākhir » ?",
+      "choices": [
+        "Celui qui tient le compte de tout et qui suffit",
+        "Le Transcendant, infiniment élevé",
+        "Le Protecteur, l'Allié des croyants",
+        "Le Dernier, après qui il n'y a rien"
+      ],
+      "answer": 3,
+      "expl": "al-Ākhir (al-â-khir) : le dernier, après qui il n'y a rien. Tout disparaîtra, Lui seul demeure : « Tu es le Dernier, rien n'est après Toi. »",
+      "src": [
+        "Coran 57:3"
+      ],
+      "ar": {
+        "text": "الْآخِر",
+        "tr": "al-Ākhir",
+        "pr": "al-â-khir",
+        "fr": "Le Dernier, après qui il n'y a rien"
+      },
+      "tags": [
+        "nom:al-akhir"
+      ]
+    },
+    {
+      "id": "cro-t3-0036",
+      "concept": "cro.noms-attributs.nom3-zahir",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « aẓ-Ẓāhir » ?",
+      "choices": [
+        "L'Apparent, au-dessus de qui il n'y a rien",
+        "Celui qui nourrit et maintient toute chose",
+        "Celui qui rassemble (les créatures au Jour dernier, les cœurs)",
+        "Celui qui fait avancer qui Il veut"
+      ],
+      "answer": 0,
+      "expl": "aẓ-Ẓāhir (az-zâ-hir) : l'apparent, au-dessus de qui il n'y a rien. Ses signes sont manifestes partout dans la création.",
+      "src": [
+        "Coran 57:3"
+      ],
+      "ar": {
+        "text": "الظَّاهِر",
+        "tr": "aẓ-Ẓāhir",
+        "pr": "az-zâ-hir",
+        "fr": "L'Apparent, au-dessus de qui il n'y a rien"
+      },
+      "tags": [
+        "nom:az-zahir"
+      ]
+    },
+    {
+      "id": "cro-t3-0037",
+      "concept": "cro.noms-attributs.nom3-batin",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Bāṭin » ?",
+      "choices": [
+        "Celui qui fait reculer et retarde qui Il veut",
+        "Le Caché, plus proche que tout",
+        "Celui qui demeure éternellement",
+        "Celui qui donne le commencement à la création"
+      ],
+      "answer": 1,
+      "expl": "al-Bāṭin (al-bâ-tin) : le caché, que les regards ne saisissent pas, et plus proche que tout. Il échappe aux sens, et pourtant Il connaît l'intérieur de chaque chose.",
+      "src": [
+        "Coran 57:3"
+      ],
+      "ar": {
+        "text": "الْبَاطِن",
+        "tr": "al-Bāṭin",
+        "pr": "al-bâ-tin",
+        "fr": "Le Caché, que les regards ne saisissent pas, et plus proche que tout"
+      },
+      "tags": [
+        "nom:al-batin"
+      ]
+    },
+    {
+      "id": "cro-t3-0038",
+      "concept": "cro.noms-attributs.nom3-qabid",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Qābiḍ » ?",
+      "choices": [
+        "Celui qui fait revenir la création (la Résurrection)",
+        "Le Juste, qui ne lèse personne",
+        "Celui qui resserre (la subsistance, les cœurs) par sagesse",
+        "Le Possesseur de la royauté"
+      ],
+      "answer": 2,
+      "expl": "al-Qābiḍ (al-qâ-bid) : celui qui resserre (la subsistance, les cœurs) par sagesse. Il est cité avec al-Bāsiṭ : Allah resserre et étend, pour éprouver et pour éduquer.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Abu Dawud & Tirmidhi"
+      ],
+      "ar": {
+        "text": "الْقَابِض",
+        "tr": "al-Qābiḍ",
+        "pr": "al-qâ-bid",
+        "fr": "Celui qui resserre (la subsistance, les cœurs) par sagesse"
+      },
+      "note": "Ce nom figure dans la liste des 99 noms transmise par at-Tirmidhī, dont l'énumération est considérée par beaucoup de savants comme un ajout de transmetteurs.",
+      "tags": [
+        "nom:al-qabid"
+      ]
+    },
+    {
+      "id": "cro-t3-0039",
+      "concept": "cro.noms-attributs.nom3-basit",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Bāsiṭ » ?",
+      "choices": [
+        "Le Détenteur de la majesté et de la générosité",
+        "Le Capable, qui peut toute chose",
+        "Le Patient, qui ne se hâte pas de punir",
+        "Celui qui étend et élargit"
+      ],
+      "answer": 3,
+      "expl": "al-Bāsiṭ (al-bâ-sit) : celui qui étend et élargit (la subsistance, les cœurs). Il ouvre les portes du bien à qui Il veut ; on ne cite pas un de ces deux noms sans l'autre.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Abu Dawud & Tirmidhi"
+      ],
+      "ar": {
+        "text": "الْبَاسِط",
+        "tr": "al-Bāsiṭ",
+        "pr": "al-bâ-sit",
+        "fr": "Celui qui étend et élargit (la subsistance, les cœurs)"
+      },
+      "note": "Ce nom figure dans la liste des 99 noms transmise par at-Tirmidhī, dont l'énumération est considérée par beaucoup de savants comme un ajout de transmetteurs.",
+      "tags": [
+        "nom:al-basit"
+      ]
+    },
+    {
+      "id": "cro-t3-0040",
+      "concept": "cro.noms-attributs.nom3-badi",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Badīʿ » ?",
+      "choices": [
+        "Le Novateur, qui crée sans modèle préalable",
+        "Le Bienfaisant, source de toute bonté",
+        "Le Protecteur, l'Allié des croyants",
+        "Le Premier, avant qui il n'y a rien"
+      ],
+      "answer": 0,
+      "expl": "al-Badīʿ (al-ba-dîʿ) : le novateur, qui crée sans modèle préalable. « Badīʿu s-samāwāti wa l-arḍ » : Il a inventé les cieux et la terre sans modèle.",
+      "src": [
+        "Coran 2:117"
+      ],
+      "ar": {
+        "text": "الْبَدِيع",
+        "tr": "al-Badīʿ",
+        "pr": "al-ba-dîʿ",
+        "fr": "Le Novateur, qui crée sans modèle préalable"
+      },
+      "tags": [
+        "nom:al-badi"
+      ]
+    },
+    {
+      "id": "cro-t3-0041",
+      "concept": "cro.noms-attributs.nom3-warith",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Wārith » ?",
+      "choices": [
+        "Le Guide qui montre le chemin",
+        "L'Héritier, à qui tout revient",
+        "Le Transcendant, infiniment élevé",
+        "Celui qui fait avancer qui Il veut"
+      ],
+      "answer": 1,
+      "expl": "al-Wārith (al-wâ-rith) : l'héritier, à qui tout revient quand tout disparaît. « C'est Nous qui donnons la vie et la mort, et c'est Nous les héritiers. »",
+      "src": [
+        "Coran 15:23"
+      ],
+      "ar": {
+        "text": "الْوَارِث",
+        "tr": "al-Wārith",
+        "pr": "al-wâ-rith",
+        "fr": "L'Héritier, à qui tout revient quand tout disparaît"
+      },
+      "tags": [
+        "nom:al-warith"
+      ]
+    },
+    {
+      "id": "cro-t3-0042",
+      "concept": "cro.noms-attributs.nom3-hasib",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Ḥasīb » ?",
+      "choices": [
+        "Celui qui fait reculer et retarde qui Il veut",
+        "L'Apparent, au-dessus de qui il n'y a rien",
+        "Celui qui tient le compte de tout et qui suffit",
+        "Celui qui rassemble (les créatures au Jour dernier, les cœurs)"
+      ],
+      "answer": 2,
+      "expl": "al-Ḥasīb (al-ha-sîb) : celui qui tient le compte de tout et qui suffit. « Et Allah suffit pour tenir le compte. »",
+      "src": [
+        "Coran 4:6"
+      ],
+      "ar": {
+        "text": "الْحَسِيب",
+        "tr": "al-Ḥasīb",
+        "pr": "al-ha-sîb",
+        "fr": "Celui qui tient le compte de tout et qui suffit"
+      },
+      "tags": [
+        "nom:al-hasib"
+      ]
+    },
+    {
+      "id": "cro-t3-0043",
+      "concept": "cro.noms-attributs.nom3-muqit",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Muqīt » ?",
+      "choices": [
+        "Celui qui donne le commencement à la création",
+        "Le Juste, qui ne lèse personne",
+        "Le Caché, que les regards ne saisissent pas, et plus proche que tout",
+        "Celui qui nourrit et maintient toute chose"
+      ],
+      "answer": 3,
+      "expl": "al-Muqīt (al-mou-qît) : celui qui nourrit et maintient toute chose. « Allah veille sur toute chose et la nourrit. »",
+      "src": [
+        "Coran 4:85"
+      ],
+      "ar": {
+        "text": "الْمُقِيت",
+        "tr": "al-Muqīt",
+        "pr": "al-mou-qît",
+        "fr": "Celui qui nourrit et maintient toute chose"
+      },
+      "tags": [
+        "nom:al-muqit"
+      ]
+    },
+    {
+      "id": "cro-t3-0044",
+      "concept": "cro.noms-attributs.nom3-baqi",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Bāqī » ?",
+      "choices": [
+        "Celui qui demeure éternellement",
+        "Celui qui fait revenir la création (la Résurrection)",
+        "Le Patient, qui ne se hâte pas de punir",
+        "Celui qui resserre (la subsistance, les cœurs) par sagesse"
+      ],
+      "answer": 0,
+      "expl": "al-Bāqī (al-bâ-qî) : celui qui demeure éternellement. « Tout ce qui est sur elle est périssable ; seule demeure la Face de ton Seigneur. »",
+      "src": [
+        "Coran 55:27"
+      ],
+      "ar": {
+        "text": "الْبَاقِي",
+        "tr": "al-Bāqī",
+        "pr": "al-bâ-qî",
+        "fr": "Celui qui demeure éternellement"
+      },
+      "tags": [
+        "nom:al-baqi"
+      ]
+    },
+    {
+      "id": "cro-t3-0045",
+      "concept": "cro.noms-attributs.nom3-malik-mulk",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « Mālik al-Mulk » ?",
+      "choices": [
+        "Celui qui étend et élargit (la subsistance, les cœurs)",
+        "Le Possesseur de la royauté",
+        "Le Capable, qui peut toute chose",
+        "Le Premier, avant qui il n'y a rien"
+      ],
+      "answer": 1,
+      "expl": "Mālik al-Mulk (mâ-li-koul-moulk) : le possesseur de la royauté. « Ô Allah, Maître de la royauté, Tu donnes la royauté à qui Tu veux et Tu l'arraches à qui Tu veux. »",
+      "src": [
+        "Coran 3:26"
+      ],
+      "ar": {
+        "text": "مَالِكُ الْمُلْك",
+        "tr": "Mālik al-Mulk",
+        "pr": "mâ-li-koul-moulk",
+        "fr": "Le Possesseur de la royauté"
+      },
+      "tags": [
+        "nom:malik-al-mulk"
+      ]
+    },
+    {
+      "id": "cro-t3-0046",
+      "concept": "cro.noms-attributs.nom3-dhu-l-jalwa-l-ikram",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « Dhū l-Jalāl wa l-Ikrām » ?",
+      "choices": [
+        "Le Dernier, après qui il n'y a rien",
+        "Le Novateur, qui crée sans modèle préalable",
+        "Le Détenteur de la majesté et de la générosité",
+        "Le Protecteur, l'Allié des croyants"
+      ],
+      "answer": 2,
+      "expl": "Dhū l-Jalāl wa l-Ikrām (dhoul-ja-lâ-li wal-ik-râm) : le détenteur de la majesté et de la générosité. Le Prophète ﷺ recommandait d'invoquer souvent : « Yā Dhā l-Jalāli wa l-Ikrām ».",
+      "src": [
+        "Coran 55:27"
+      ],
+      "ar": {
+        "text": "ذُو الْجَلَالِ وَالْإِكْرَام",
+        "tr": "Dhū l-Jalāl wa l-Ikrām",
+        "pr": "dhoul-ja-lâ-li wal-ik-râm",
+        "fr": "Le Détenteur de la majesté et de la générosité"
+      },
+      "tags": [
+        "nom:dhu-l-jalal-wa-l-ikram"
+      ]
+    },
+    {
+      "id": "cro-t3-0047",
+      "concept": "cro.noms-attributs.nom3-barr",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Barr » ?",
+      "choices": [
+        "Celui qui fait avancer qui Il veut",
+        "L'Apparent, au-dessus de qui il n'y a rien",
+        "L'Héritier, à qui tout revient quand tout disparaît",
+        "Le Bienfaisant, source de toute bonté"
+      ],
+      "answer": 3,
+      "expl": "al-Barr (al-barr) : le bienfaisant, source de toute bonté. « C'est Lui le Bienfaisant, le Très Miséricordieux » : de Lui vient le birr, la bonté.",
+      "src": [
+        "Coran 52:28"
+      ],
+      "ar": {
+        "text": "الْبَرّ",
+        "tr": "al-Barr",
+        "pr": "al-barr",
+        "fr": "Le Bienfaisant, source de toute bonté"
+      },
+      "tags": [
+        "nom:al-barr"
+      ]
+    },
+    {
+      "id": "cro-t3-0048",
+      "concept": "cro.noms-attributs.nom3-mutaali",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Mutaʿālī » ?",
+      "choices": [
+        "Le Transcendant, infiniment élevé",
+        "Celui qui fait reculer et retarde qui Il veut",
+        "Le Caché, que les regards ne saisissent pas, et plus proche que tout",
+        "Celui qui tient le compte de tout et qui suffit"
+      ],
+      "answer": 0,
+      "expl": "al-Mutaʿālī (al-mou-ta-ʿâl) : le transcendant, infiniment élevé. « Le Connaisseur de l'invisible et du visible, le Grand, le Transcendant. »",
+      "src": [
+        "Coran 13:9"
+      ],
+      "ar": {
+        "text": "الْمُتَعَالِ",
+        "tr": "al-Mutaʿālī",
+        "pr": "al-mou-ta-ʿâl",
+        "fr": "Le Transcendant, infiniment élevé"
+      },
+      "tags": [
+        "nom:al-mutaali"
+      ]
+    },
+    {
+      "id": "cro-t3-0049",
+      "concept": "cro.noms-attributs.nom3-jami",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Jāmiʿ » ?",
+      "choices": [
+        "Celui qui nourrit et maintient toute chose",
+        "Celui qui rassemble (les créatures au Jour dernier, les cœurs)",
+        "Le Juste, qui ne lèse personne",
+        "Celui qui resserre (la subsistance, les cœurs) par sagesse"
+      ],
+      "answer": 1,
+      "expl": "al-Jāmiʿ (al-jâ-miʿ) : celui qui rassemble (les créatures au jour dernier, les cœurs). « Seigneur, c'est Toi qui rassembleras les gens, un jour sur lequel il n'y a aucun doute. »",
+      "src": [
+        "Coran 3:9"
+      ],
+      "ar": {
+        "text": "الْجَامِع",
+        "tr": "al-Jāmiʿ",
+        "pr": "al-jâ-miʿ",
+        "fr": "Celui qui rassemble (les créatures au Jour dernier, les cœurs)"
+      },
+      "tags": [
+        "nom:al-jami"
+      ]
+    },
+    {
+      "id": "cro-t3-0050",
+      "concept": "cro.noms-attributs.nom3-mubdi",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Mubdiʾ » ?",
+      "choices": [
+        "Celui qui étend et élargit (la subsistance, les cœurs)",
+        "Celui qui demeure éternellement",
+        "Celui qui donne le commencement à la création",
+        "Le Patient, qui ne se hâte pas de punir"
+      ],
+      "answer": 2,
+      "expl": "al-Mubdiʾ (al-moub-diʾ) : celui qui donne le commencement à la création. « C'est Lui qui commence et qui recommence » : Il crée puis ressuscite.",
+      "src": [
+        "Coran 85:13"
+      ],
+      "ar": {
+        "text": "الْمُبْدِئ",
+        "tr": "al-Mubdiʾ",
+        "pr": "al-moub-diʾ",
+        "fr": "Celui qui donne le commencement à la création"
+      },
+      "tags": [
+        "nom:al-mubdi"
+      ]
+    },
+    {
+      "id": "cro-t3-0051",
+      "concept": "cro.noms-attributs.nom3-muid",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Muʿīd » ?",
+      "choices": [
+        "Le Premier, avant qui il n'y a rien",
+        "Le Novateur, qui crée sans modèle préalable",
+        "Le Possesseur de la royauté",
+        "Celui qui fait revenir la création"
+      ],
+      "answer": 3,
+      "expl": "al-Muʿīd (al-mou-ʿîd) : celui qui fait revenir la création (la résurrection). Recréer est aussi facile pour Lui que créer la première fois.",
+      "src": [
+        "Coran 85:13"
+      ],
+      "ar": {
+        "text": "الْمُعِيد",
+        "tr": "al-Muʿīd",
+        "pr": "al-mou-ʿîd",
+        "fr": "Celui qui fait revenir la création (la Résurrection)"
+      },
+      "tags": [
+        "nom:al-muid"
+      ]
+    },
+    {
+      "id": "cro-t3-0052",
+      "concept": "cro.noms-attributs.nom3-qadir",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Qādir » ?",
+      "choices": [
+        "Le Capable, qui peut toute chose",
+        "Le Dernier, après qui il n'y a rien",
+        "L'Héritier, à qui tout revient quand tout disparaît",
+        "Le Détenteur de la majesté et de la générosité"
+      ],
+      "answer": 0,
+      "expl": "al-Qādir (al-qâ-dir) : le capable, qui peut toute chose. Le Coran répète souvent : « Allah est capable de toute chose » (ʿalā kulli shayʾin qadīr).",
+      "src": [
+        "Coran 6:65"
+      ],
+      "ar": {
+        "text": "الْقَادِر",
+        "tr": "al-Qādir",
+        "pr": "al-qâ-dir",
+        "fr": "Le Capable, qui peut toute chose"
+      },
+      "tags": [
+        "nom:al-qadir"
+      ]
+    },
+    {
+      "id": "cro-t3-0053",
+      "concept": "cro.noms-attributs.nom3-waliyy",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Waliyy » ?",
+      "choices": [
+        "Le Bienfaisant, source de toute bonté",
+        "Le Protecteur, l'Allié des croyants",
+        "L'Apparent, au-dessus de qui il n'y a rien",
+        "Celui qui tient le compte de tout et qui suffit"
+      ],
+      "answer": 1,
+      "expl": "al-Waliyy (al-wa-liyy) : le protecteur, l'allié des croyants. « Et c'est Lui le Protecteur, le Digne de louange. » Celui qui L'a pour allié n'est jamais seul.",
+      "src": [
+        "Coran 42:28"
+      ],
+      "ar": {
+        "text": "الْوَلِيّ",
+        "tr": "al-Waliyy",
+        "pr": "al-wa-liyy",
+        "fr": "Le Protecteur, l'Allié des croyants"
+      },
+      "tags": [
+        "nom:al-waliyy"
+      ]
+    },
+    {
+      "id": "cro-t3-0054",
+      "concept": "cro.noms-attributs.nom3-muqaddim",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Muqaddim » ?",
+      "choices": [
+        "Celui qui nourrit et maintient toute chose",
+        "Le Transcendant, infiniment élevé",
+        "Celui qui fait avancer qui Il veut",
+        "Le Caché, que les regards ne saisissent pas, et plus proche que tout"
+      ],
+      "answer": 2,
+      "expl": "al-Muqaddim (al-mou-qad-dim) : celui qui fait avancer qui il veut. Le Prophète ﷺ invoquait : « Tu es Celui qui fait avancer et Celui qui fait reculer. »",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْمُقَدِّم",
+        "tr": "al-Muqaddim",
+        "pr": "al-mou-qad-dim",
+        "fr": "Celui qui fait avancer qui Il veut"
+      },
+      "tags": [
+        "nom:al-muqaddim"
+      ]
+    },
+    {
+      "id": "cro-t3-0055",
+      "concept": "cro.noms-attributs.nom3-muakhkhir",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-Muʾakhkhir » ?",
+      "choices": [
+        "Celui qui resserre (la subsistance, les cœurs) par sagesse",
+        "Celui qui demeure éternellement",
+        "Celui qui rassemble (les créatures au Jour dernier, les cœurs)",
+        "Celui qui fait reculer et retarde qui Il veut"
+      ],
+      "answer": 3,
+      "expl": "al-Muʾakhkhir (al-mou-ʾakh-khir) : celui qui fait reculer et retarde qui il veut. Il retarde par sagesse, et ce retard est parfois une miséricorde.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْمُؤَخِّر",
+        "tr": "al-Muʾakhkhir",
+        "pr": "al-mou-ʾakh-khir",
+        "fr": "Celui qui fait reculer et retarde qui Il veut"
+      },
+      "tags": [
+        "nom:al-muakhkhir"
+      ]
+    },
+    {
+      "id": "cro-t3-0056",
+      "concept": "cro.noms-attributs.nom3-adl",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « al-ʿAdl » ?",
+      "choices": [
+        "Le Juste, qui ne lèse personne",
+        "Celui qui étend et élargit (la subsistance, les cœurs)",
+        "Le Possesseur de la royauté",
+        "Celui qui donne le commencement à la création"
+      ],
+      "answer": 0,
+      "expl": "al-ʿAdl (al-ʿadl) : le juste, qui ne lèse personne. « Ton Seigneur ne fait de tort à personne » (18:49).",
+      "src": [
+        "Hadith d'Abū Hurayra — Tirmidhi"
+      ],
+      "ar": {
+        "text": "الْعَدْل",
+        "tr": "al-ʿAdl",
+        "pr": "al-ʿadl",
+        "fr": "Le Juste, qui ne lèse personne"
+      },
+      "note": "Ce nom figure dans la liste des 99 noms transmise par at-Tirmidhī, dont l'énumération est considérée par beaucoup de savants comme un ajout de transmetteurs.",
+      "tags": [
+        "nom:al-adl"
+      ]
+    },
+    {
+      "id": "cro-t3-0057",
+      "concept": "cro.noms-attributs.nom3-sabur",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah « aṣ-Ṣabūr » ?",
+      "choices": [
+        "Celui qui fait revenir la création (la Résurrection)",
+        "Le Patient, qui ne se hâte pas de punir",
+        "Le Novateur, qui crée sans modèle préalable",
+        "Le Détenteur de la majesté et de la générosité"
+      ],
+      "answer": 1,
+      "expl": "aṣ-Ṣabūr (as-sa-boûr) : le patient, qui ne se hâte pas de punir. Le Prophète ﷺ a dit : « Nul n'est plus patient qu'Allah face à ce qu'Il entend de blessant. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Tirmidhi"
+      ],
+      "ar": {
+        "text": "الصَّبُور",
+        "tr": "aṣ-Ṣabūr",
+        "pr": "as-sa-boûr",
+        "fr": "Le Patient, qui ne se hâte pas de punir"
+      },
+      "note": "Ce nom figure dans la liste des 99 noms transmise par at-Tirmidhī, dont l'énumération est considérée par beaucoup de savants comme un ajout de transmetteurs.",
+      "tags": [
+        "nom:as-sabur"
+      ]
+    },
+    {
+      "id": "cro-t3-0058",
+      "concept": "cro.noms-attributs.57-3",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "trou",
+      "q": "« Il est le Premier et le Dernier, l'Apparent et le ___, et Il est Omniscient. »",
+      "choices": [
+        "Puissant",
+        "Juste",
+        "Caché",
+        "Proche"
+      ],
+      "answer": 2,
+      "expl": "Ce verset (57:3) réunit quatre noms en deux paires. Le Prophète ﷺ les expliquait avant de dormir : « Tu es le Premier, rien n'est avant Toi ; le Dernier, rien n'est après Toi ; l'Apparent, rien n'est au-dessus de Toi ; le Caché, rien n'est en deçà de Toi. »",
+      "src": [
+        "Coran 57:3",
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "ar": {
+        "text": "هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ",
+        "tr": "huwa l-awwalu wa l-ākhiru wa ẓ-ẓāhiru wa l-bāṭin",
+        "pr": "hou-wal-aw-wa-lou wal-â-khi-rou waz-zâ-hi-rou wal-bâ-tin",
+        "fr": "Il est le Premier et le Dernier, l'Apparent et le Caché"
+      },
+      "tags": [
+        "sourate:57"
+      ]
+    },
+    {
+      "id": "cro-t3-0059",
+      "concept": "cro.noms-attributs.fins-versets",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "paires",
+      "q": "Le Coran termine souvent ses versets par deux noms d'Allah. Associe chaque paire à son sens.",
+      "pairs": [
+        [
+          "Ghafūrun Raḥīm",
+          "Pardonneur, Très Miséricordieux"
+        ],
+        [
+          "ʿAzīzun Ḥakīm",
+          "Puissant, Sage"
+        ],
+        [
+          "Samīʿun ʿAlīm",
+          "Audient, Omniscient"
+        ],
+        [
+          "Laṭīfun Khabīr",
+          "Subtil, Parfaitement informé"
+        ],
+        [
+          "Ghaniyyun Ḥamīd",
+          "Riche, Digne de louange"
+        ]
+      ],
+      "expl": "Ces paires ne sont pas choisies au hasard : elles répondent au contenu du verset. Après une règle, « Puissant et Sage » ; après une faute, « Pardonneur et Miséricordieux ». Une piste de méditation pour qui lit le Coran."
+    },
+    {
+      "id": "cro-t3-0060",
+      "concept": "cro.noms-attributs.asmaiyya",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le verset 7:180 à propos des noms d'Allah ?",
+      "choices": [
+        "« Nul ne doit prononcer Ses noms »",
+        "« Allah n'a qu'un seul nom »",
+        "« Ses noms sont secrets »",
+        "« À Allah les plus beaux noms »"
+      ],
+      "answer": 3,
+      "expl": "« C'est à Allah qu'appartiennent les plus beaux noms. Invoquez-Le par eux. » On choisit le nom qui correspond à sa demande : « Yā Razzāq » pour la subsistance, « Yā Ghaffār » pour le pardon, « Yā Shāfī » pour la guérison.",
+      "src": [
+        "Coran 7:180"
+      ],
+      "tags": [
+        "sourate:7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1462 @@
+{
+  "pack": "histoire-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "his-t2-0001",
+      "concept": "his.califat.batailles",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque grande bataille du temps des califes à son adversaire principal.",
+      "pairs": [
+        [
+          "Le Yarmūk (636)",
+          "L'Empire byzantin"
+        ],
+        [
+          "Al-Qādisiyya (636)",
+          "L'Empire perse sassanide"
+        ],
+        [
+          "Les guerres de la Ridda (632-633)",
+          "Les tribus ayant rejeté l'autorité de Médine"
+        ]
+      ],
+      "expl": "Les guerres de la Ridda, sous Abū Bakr, maintinrent l'unité de l'Arabie. Sous ʿUmar, Khālid ibn al-Walīd l'emporta sur les Byzantins au Yarmūk, et Saʿd ibn Abī Waqqāṣ sur les Perses à al-Qādisiyya. En quelques années, deux empires millénaires furent bouleversés."
+    },
+    {
+      "id": "his-t2-0002",
+      "concept": "his.califat.fitna",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment appelle-t-on la période de conflits entre musulmans sous le califat de ʿAlī (batailles du Chameau et de Ṣiffīn) ?",
+      "choices": [
+        "La Jāhiliyya",
+        "La grande fitna",
+        "La Nahḍa",
+        "La Ḥijra"
+      ],
+      "answer": 1,
+      "expl": "Après l'assassinat de ʿUthmān, des désaccords sur la manière de punir ses meurtriers menèrent à la bataille du Chameau (656) puis à celle de Ṣiffīn (657) contre Muʿāwiya. Les sunnites considèrent que les Compagnons ont cherché le bien chacun selon son jugement, et évitent de les dénigrer.",
+      "note": "Les sunnites s'abstiennent de juger les Compagnons impliqués ; les chiites ont une lecture différente de ces événements."
+    },
+    {
+      "id": "his-t2-0003",
+      "concept": "his.califat.khawarij",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui étaient les Khawārij, apparus après la bataille de Ṣiffīn ?",
+      "choices": [
+        "Une dynastie de califes à Bagdad",
+        "Une école de droit fondée à Médine",
+        "Un groupe qui déclara mécréants les pécheurs",
+        "Une tribu alliée des Byzantins"
+      ],
+      "answer": 2,
+      "expl": "Les Khawārij (« ceux qui sont sortis ») quittèrent le camp de ʿAlī quand il accepta l'arbitrage. Ils jugeaient mécréant quiconque commettait un grand péché et versaient le sang des musulmans. Un des leurs assassina ʿAlī. Le sunnisme s'est construit en rejetant leur extrémisme."
+    },
+    {
+      "id": "his-t2-0004",
+      "concept": "his.califat.am-jamaa",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi l'année 661 fut-elle appelée « l'année de l'unité » (ʿām al-jamāʿa) ?",
+      "choices": [
+        "Tous les savants signèrent un même livre",
+        "Le Coran fut compilé une seconde fois",
+        "Les Perses se convertirent en masse",
+        "Al-Ḥasan renonça au califat pour Muʿāwiya"
+      ],
+      "answer": 3,
+      "expl": "Al-Ḥasan, fils de ʿAlī, préféra céder le pouvoir pour épargner le sang des musulmans, réalisant la prophétie de son grand-père : « Par lui, Allah réconciliera deux grands groupes de musulmans. » Muʿāwiya fonda la dynastie omeyyade.",
+      "src": [
+        "Hadith d'Abū Bakra — Bukhari"
+      ]
+    },
+    {
+      "id": "his-t2-0005",
+      "concept": "his.omeyyades.umar2",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel calife omeyyade, réputé pour sa justice et son austérité, est parfois appelé « le cinquième calife bien guidé » ?",
+      "choices": [
+        "ʿUmar ibn ʿAbd al-ʿAzīz",
+        "Hārūn ar-Rashīd al-ʿAbbāsī",
+        "ʿAbd al-Malik",
+        "Muʿāwiya"
+      ],
+      "answer": 0,
+      "expl": "ʿUmar ibn ʿAbd al-ʿAzīz (règne 717-720), arrière-petit-fils de ʿUmar ibn al-Khaṭṭāb par sa mère, rendit les biens confisqués, réduisit les impôts injustes et encouragea la mise par écrit des hadiths. En deux ans et demi, on raconte qu'on ne trouvait plus de pauvres pour recevoir la zakat."
+    },
+    {
+      "id": "his-t2-0006",
+      "concept": "his.omeyyades.walid",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Sous quel calife omeyyade l'empire atteignit-il à la fois l'Espagne et la vallée de l'Indus ?",
+      "choices": [
+        "Muʿāwiya",
+        "Al-Walīd Ier",
+        "ʿUmar ibn ʿAbd al-ʿAzīz",
+        "Marwān II"
+      ],
+      "answer": 1,
+      "expl": "Sous al-Walīd Ier (705-715), Ṭāriq ibn Ziyād passa en Espagne (711) et Muḥammad ibn al-Qāsim atteignit le Sind (Pakistan actuel). Al-Walīd fit aussi construire la grande mosquée de Damas et agrandir celle de Médine."
+    },
+    {
+      "id": "his-t2-0007",
+      "concept": "his.omeyyades.poitiers",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle bataille de 732, près de Poitiers, marqua la limite de l'avancée omeyyade en France ?",
+      "choices": [
+        "La bataille de Badr",
+        "La bataille de Zallāqa",
+        "La bataille de Poitiers",
+        "La bataille de Hattin"
+      ],
+      "answer": 2,
+      "expl": "En 732, le gouverneur d'al-Andalus ʿAbd ar-Raḥmān al-Ghāfiqī fut vaincu et tué par Charles Martel près de Poitiers. Les chroniques arabes appellent ce lieu « le pavé des martyrs ». Des présences musulmanes subsistèrent quelque temps en Provence."
+    },
+    {
+      "id": "his-t2-0008",
+      "concept": "his.omeyyades.fin",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment finit le califat omeyyade de Damas, en 750 ?",
+      "choices": [
+        "Conquis par les Mongols venus d'Asie",
+        "Dissous pacifiquement par le dernier calife",
+        "Remplacé par les Ottomans de Turquie",
+        "Renversé par les Abbassides ; un prince fuit en Espagne"
+      ],
+      "answer": 3,
+      "expl": "Les Abbassides, descendants d'al-ʿAbbās, oncle du Prophète ﷺ, renversèrent les Omeyyades et massacrèrent leur famille. Le jeune ʿAbd ar-Raḥmān s'échappa, traversa le Maghreb et fonda en 756 l'émirat de Cordoue, surnommé « le faucon de Quraysh »."
+    },
+    {
+      "id": "his-t2-0009",
+      "concept": "his.abbassides.harun",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel calife abbasside, célèbre par les Mille et Une Nuits, échangea des ambassades et des cadeaux avec Charlemagne ?",
+      "choices": [
+        "Hārūn ar-Rashīd",
+        "Al-Manṣūr",
+        "Al-Maʾmūn",
+        "Al-Mutawakkil"
+      ],
+      "answer": 0,
+      "expl": "Hārūn ar-Rashīd (786-809) envoya à Charlemagne un éléphant nommé Abū l-ʿAbbās et une horloge à eau qui émerveilla la cour franque. Son règne symbolise la splendeur de Bagdad."
+    },
+    {
+      "id": "his-t2-0010",
+      "concept": "his.abbassides.papier",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle technique, venue de Chine, se répandit dans le monde musulman au VIIIe siècle et transforma la diffusion du savoir ?",
+      "choices": [
+        "L'imprimerie à caractères",
+        "La fabrication du papier",
+        "La poudre à canon",
+        "La boussole"
+      ],
+      "answer": 1,
+      "expl": "Après la bataille de Talas (751), la fabrication du papier fut développée à Samarcande puis à Bagdad. Moins cher que le parchemin, le papier permit la multiplication des livres et des bibliothèques. Il passa ensuite en Europe par l'Espagne et la Sicile."
+    },
+    {
+      "id": "his-t2-0011",
+      "concept": "his.abbassides.hunayn",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel savant chrétien de Bagdad fut l'un des plus grands traducteurs d'œuvres grecques en arabe, à la Maison de la Sagesse ?",
+      "choices": [
+        "Ibn Sīnā",
+        "Al-Kindī",
+        "Ḥunayn ibn Isḥāq",
+        "Al-Fārābī"
+      ],
+      "answer": 2,
+      "expl": "Ḥunayn ibn Isḥāq (809-873), médecin nestorien, traduisit Galien, Hippocrate et Aristote avec une grande rigueur. La civilisation abbasside fit travailler ensemble musulmans, chrétiens, juifs et sabéens au service du savoir."
+    },
+    {
+      "id": "his-t2-0012",
+      "concept": "his.abbassides.chronologie",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 2,
+      "type": "ordre",
+      "q": "Remets ces événements de l'époque abbasside dans l'ordre.",
+      "items": [
+        "Fondation de Bagdad",
+        "Règne de Hārūn ar-Rashīd",
+        "Maison de la Sagesse sous al-Maʾmūn",
+        "Prise de Bagdad par les Mongols"
+      ],
+      "expl": "- 762 : fondation de Bagdad par al-Manṣūr\n- 786-809 : Hārūn ar-Rashīd\n- 813-833 : al-Maʾmūn et l'essor de la Maison de la Sagesse\n- 1258 : destruction de Bagdad par les Mongols de Hülegü"
+    },
+    {
+      "id": "his-t2-0013",
+      "concept": "his.andalus.califat-cordoue",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel souverain se proclama calife à Cordoue en 929, faisant d'al-Andalus une grande puissance ?",
+      "choices": [
+        "ʿAbd ar-Raḥmān Ier",
+        "Boabdil",
+        "Yūsuf ibn Tāshfīn",
+        "ʿAbd ar-Raḥmān III"
+      ],
+      "answer": 3,
+      "expl": "ʿAbd ar-Raḥmān III (912-961) prit le titre de calife et fit construire la somptueuse cité palatine de Madīnat az-Zahrāʾ. Cordoue était alors l'une des plus grandes villes du monde, avec ses bibliothèques, ses bains et ses rues éclairées."
+    },
+    {
+      "id": "his-t2-0014",
+      "concept": "his.andalus.zallaqa",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle victoire des Almoravides de Yūsuf ibn Tāshfīn, en 1086, sauva provisoirement al-Andalus face à la Castille ?",
+      "choices": [
+        "Zallāqa",
+        "Poitiers",
+        "Hattin",
+        "Alarcos"
+      ],
+      "answer": 0,
+      "expl": "Appelés à l'aide par les rois des Taifas, dont al-Muʿtamid de Séville, les Almoravides traversèrent le détroit et battirent Alphonse VI à Zallāqa. Al-Muʿtamid aurait dit qu'il préférait garder des chameaux au Maroc plutôt que des porcs en Castille."
+    },
+    {
+      "id": "his-t2-0015",
+      "concept": "his.andalus.navas",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle défaite des Almohades en 1212 marqua le début du recul rapide d'al-Andalus ?",
+      "choices": [
+        "Poitiers",
+        "Las Navas de Tolosa",
+        "Zallāqa",
+        "Hattin, en Palestine"
+      ],
+      "answer": 1,
+      "expl": "En 1212, une coalition chrétienne vainquit l'armée almohade à Las Navas de Tolosa, appelée al-ʿIqāb en arabe. Cordoue tomba en 1236, Séville en 1248 ; seul le royaume nasride de Grenade subsista jusqu'en 1492."
+    },
+    {
+      "id": "his-t2-0016",
+      "concept": "his.andalus.ziryab",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Ziryāb, venu de Bagdad à Cordoue au IXe siècle ?",
+      "choices": [
+        "Un général qui conquit la Sicile",
+        "Un calife abbasside exilé à Cordoue",
+        "Un musicien qui révolutionna les arts andalous",
+        "Un savant qui traduisit Aristote"
+      ],
+      "answer": 2,
+      "expl": "Ziryāb, chanteur et joueur de oud, apporta à Cordoue les raffinements de Bagdad : il ajouta une corde au oud, fonda une école de musique et introduisit l'ordre des plats et des modes vestimentaires selon les saisons. On le considère comme un ancêtre de la musique arabo-andalouse."
+    },
+    {
+      "id": "his-t2-0017",
+      "concept": "his.andalus.morisques",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "vf",
+      "q": "Après la chute de Grenade, les musulmans restés en Espagne (morisques) furent finalement expulsés, principalement entre 1609 et 1614.",
+      "answer": true,
+      "expl": "Malgré les promesses de 1492, les musulmans furent contraints à la conversion, puis les morisques furent expulsés en masse. Beaucoup s'installèrent au Maroc, notamment à Rabat-Salé, Tétouan et Chefchaouen, où l'on trouve encore des familles d'origine andalouse."
+    },
+    {
+      "id": "his-t2-0018",
+      "concept": "his.maroc.almoravides",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle dynastie berbère, venue du Sahara, fonda Marrakech et unifia le Maghreb occidental et al-Andalus au XIe siècle ?",
+      "choices": [
+        "Les Almohades",
+        "Les Mérinides",
+        "Les Saadiens",
+        "Les Almoravides"
+      ],
+      "answer": 3,
+      "expl": "Les Almoravides naquirent d'un mouvement religieux fondé par ʿAbd Allāh ibn Yāsīn chez les Ṣanhāja du désert. Sous Yūsuf ibn Tāshfīn, ils fondèrent Marrakech et imposèrent le malikisme comme doctrine officielle."
+    },
+    {
+      "id": "his-t2-0019",
+      "concept": "his.maroc.ibn-tumart",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui fonda le mouvement almohade, au XIIe siècle, depuis Tinmel dans le Haut Atlas ?",
+      "choices": [
+        "Ibn Tūmart",
+        "Yūsuf ibn Tāshfīn",
+        "Idrīs Ier",
+        "Ibn Khaldūn"
+      ],
+      "answer": 0,
+      "expl": "Ibn Tūmart prêcha l'unicité divine (tawḥīd), d'où le nom d'al-Muwaḥḥidūn (les unitaires). Son disciple ʿAbd al-Muʾmin fonda l'empire almohade, qui s'étendit de l'Atlantique à la Libye. La mosquée de Tinmel est encore visible."
+    },
+    {
+      "id": "his-t2-0020",
+      "concept": "his.maroc.merinides",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels monuments les Mérinides ont-ils particulièrement multipliés à Fès, au XIVe siècle ?",
+      "choices": [
+        "Les pyramides",
+        "Les médersas",
+        "Les châteaux forts",
+        "Les cathédrales"
+      ],
+      "answer": 1,
+      "expl": "Les Mérinides (XIIIe-XVe siècles) firent de Fès leur capitale et construisirent de magnifiques médersas, comme la Bou Inania et al-ʿAṭṭārīn, ornées de zellige, de stuc et de bois sculpté, pour loger et former les étudiants."
+    },
+    {
+      "id": "his-t2-0021",
+      "concept": "his.maroc.trois-rois",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que s'est-il passé lors de la bataille des Trois Rois (Wādī al-Makhāzin), en 1578 ?",
+      "choices": [
+        "Les Almoravides battirent la Castille et ses alliés",
+        "Les Ottomans prirent Fès",
+        "Les Saadiens écrasèrent les Portugais ; trois rois moururent",
+        "Les Mérinides perdirent Ceuta"
+      ],
+      "answer": 2,
+      "expl": "Près de Ksar el-Kébir, le roi Sébastien du Portugal, le sultan saadien ʿAbd al-Malik et son rival al-Mutawakkil moururent tous les trois. Le frère de ʿAbd al-Malik, Aḥmad al-Manṣūr, devint sultan : une victoire qui affirma l'indépendance du Maroc."
+    },
+    {
+      "id": "his-t2-0022",
+      "concept": "his.maroc.mansur-dhahabi",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi le sultan saadien Aḥmad al-Manṣūr fut-il surnommé « adh-Dhahabī » (le Doré) ?",
+      "choices": [
+        "À cause de ses cheveux blonds",
+        "À cause d'un palais tout en or",
+        "À cause de son âge d'or culturel",
+        "À cause de l'or de l'expédition songhaï"
+      ],
+      "answer": 3,
+      "expl": "Après sa victoire de 1578, al-Manṣūr lança une expédition à travers le Sahara qui renversa l'Empire songhaï et lui rapporta de grandes quantités d'or. Il fit construire à Marrakech le palais el-Badīʿ ; les tombeaux saadiens datent aussi de cette époque."
+    },
+    {
+      "id": "his-t2-0023",
+      "concept": "his.maroc.alaouites",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "De quelle région du Maroc est originaire la dynastie alaouite, au pouvoir depuis le XVIIe siècle ?",
+      "choices": [
+        "Le Tafilalet",
+        "Le Rif",
+        "Le Souss",
+        "La Chaouia"
+      ],
+      "answer": 0,
+      "expl": "Les Alaouites, chorfa descendant d'al-Ḥasan, s'installèrent au Tafilalet. Moulay Rashīd unifia le pays vers 1666, puis son frère Moulay Ismaïl régna 55 ans depuis Meknès. Le roi actuel est Mohammed VI."
+    },
+    {
+      "id": "his-t2-0024",
+      "concept": "his.maroc.usa",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel sultan alaouite fut l'un des premiers souverains au monde à reconnaître l'indépendance des États-Unis, en 1777 ?",
+      "choices": [
+        "Moulay Ismaïl",
+        "Mohammed III",
+        "Hassan Ier",
+        "Mohammed V"
+      ],
+      "answer": 1,
+      "expl": "Mohammed III ouvrit ses ports aux navires américains en 1777 ; un traité d'amitié fut signé en 1786, le plus ancien traité ininterrompu des États-Unis. Il fonda aussi la ville d'Essaouira (Mogador)."
+    },
+    {
+      "id": "his-t2-0025",
+      "concept": "his.maroc.marche-verte",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'était la « Marche verte » de 1975 ?",
+      "choices": [
+        "Une campagne de reboisement national",
+        "Une révolte paysanne dans le Rif",
+        "Une marche pacifique vers le Sahara, en 1975",
+        "Une fête religieuse au printemps"
+      ],
+      "answer": 2,
+      "expl": "En novembre 1975, à l'appel du roi Hassan II, environ 350 000 volontaires marchèrent vers le Sahara alors sous contrôle espagnol, le Coran à la main. Cet événement est un symbole national au Maroc ; la question du Sahara reste un sujet diplomatique.",
+      "note": "Événement présenté ici sous l'angle historique, sans prendre position sur les questions politiques actuelles."
+    },
+    {
+      "id": "his-t2-0026",
+      "concept": "his.empires.ayn-jalut",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle bataille de 1260 stoppa pour la première fois l'avancée des Mongols vers l'Égypte ?",
+      "choices": [
+        "Hattin, gagnée par Saladin",
+        "Poitiers, gagnée par les Francs",
+        "Badr, gagnée par les Compagnons",
+        "ʿAyn Jālūt, gagnée par les Mamelouks"
+      ],
+      "answer": 3,
+      "expl": "Deux ans après la chute de Bagdad, les Mamelouks d'Égypte, menés par Quṭuz et Baybars, battirent les Mongols à ʿAyn Jālūt, en Palestine. Ils sauvèrent l'Égypte et les villes saintes, et dominèrent ensuite la région jusqu'en 1517."
+    },
+    {
+      "id": "his-t2-0027",
+      "concept": "his.empires.mansa-musa",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel souverain africain fit en 1324 un pèlerinage resté célèbre par la quantité d'or qu'il distribua en chemin ?",
+      "choices": [
+        "Mansa Mūsā, empereur du Mali",
+        "Soliman le Magnifique",
+        "Ṣalāḥ ad-Dīn",
+        "Aḥmad al-Manṣūr"
+      ],
+      "answer": 0,
+      "expl": "Mansa Mūsā traversa le Caire avec une immense caravane et distribua tant d'or que son cours chuta pendant des années. Il fit construire la mosquée Djingareyber de Tombouctou, qui devint un grand centre de savoir malikite."
+    },
+    {
+      "id": "his-t2-0028",
+      "concept": "his.empires.taj-mahal",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel monument célèbre de l'Inde moghole fut construit par Shāh Jahān en mémoire de son épouse Mumtāz Maḥal ?",
+      "choices": [
+        "La Koutoubia",
+        "Le Taj Mahal",
+        "La mosquée bleue",
+        "L'Alhambra"
+      ],
+      "answer": 1,
+      "expl": "Le Taj Mahal, à Agra, achevé vers 1653, est un mausolée de marbre blanc incrusté de pierres et de versets coraniques. L'Empire moghol (1526-1857) a laissé en Inde des chefs-d'œuvre d'architecture islamique."
+    },
+    {
+      "id": "his-t2-0029",
+      "concept": "his.empires.suleyman",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel sultan ottoman, appelé « le Législateur » par les Turcs, porta l'empire à son apogée au XVIe siècle ?",
+      "choices": [
+        "Meḥmed II le Conquérant",
+        "Sélim Ier",
+        "Soliman le Magnifique",
+        "Murad IV"
+      ],
+      "answer": 2,
+      "expl": "Soliman (1520-1566) étendit l'empire jusqu'à Vienne, organisa la législation (qānūn) et fit bâtir la mosquée Süleymaniye par le grand architecte Sinan. Il entretint une alliance avec François Ier contre les Habsbourg."
+    },
+    {
+      "id": "his-t2-0030",
+      "concept": "his.empires.safavides",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle dynastie fit du chiisme duodécimain la religion officielle de la Perse en 1501 ?",
+      "choices": [
+        "Les Seldjoukides",
+        "Les Abbassides",
+        "Les Moghols",
+        "Les Safavides"
+      ],
+      "answer": 3,
+      "expl": "Shāh Ismāʿīl, fondateur des Safavides, imposa le chiisme en Iran, qui en reste aujourd'hui le principal pays. Ispahan, leur capitale, est célèbre pour sa place royale et ses mosquées aux céramiques bleues."
+    },
+    {
+      "id": "his-t2-0031",
+      "concept": "his.sciences.zahrawi",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel médecin de Cordoue (Abulcasis) écrivit un grand traité de chirurgie illustré d'instruments ?",
+      "choices": [
+        "Abū l-Qāsim az-Zahrāwī",
+        "Ibn Sīnā (Avicenne)",
+        "Ibn Rushd",
+        "Ibn Zuhr"
+      ],
+      "answer": 0,
+      "expl": "Az-Zahrāwī (mort vers 1013) décrivit plus de deux cents instruments chirurgicaux dans son encyclopédie médicale, al-Taṣrīf. Traduite en latin, elle servit de référence en Europe pendant des siècles. On le considère comme un père de la chirurgie."
+    },
+    {
+      "id": "his-t2-0032",
+      "concept": "his.sciences.razi",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel médecin persan fut le premier à distinguer clairement la variole de la rougeole ?",
+      "choices": [
+        "Ibn Sīnā",
+        "Abū Bakr ar-Rāzī",
+        "Al-Kindī",
+        "Ibn an-Nafīs"
+      ],
+      "answer": 1,
+      "expl": "Ar-Rāzī (vers 865-925), directeur d'hôpital à Bagdad, écrivit un traité sur la variole et la rougeole et un immense recueil médical. On raconte qu'il choisit l'emplacement de l'hôpital en suspendant de la viande dans plusieurs quartiers pour voir où elle pourrissait le moins vite."
+    },
+    {
+      "id": "his-t2-0033",
+      "concept": "his.sciences.ibn-nafis",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle découverte doit-on au médecin de Damas Ibn an-Nafīs, au XIIIe siècle ?",
+      "choices": [
+        "Le microbe de la peste",
+        "Le vaccin contre la variole",
+        "La petite circulation sanguine",
+        "La structure de l'atome"
+      ],
+      "answer": 2,
+      "expl": "Ibn an-Nafīs (1213-1288) décrivit le passage du sang du cœur aux poumons puis au cœur, trois siècles avant que les Européens ne le redécouvrent. Il corrigea ainsi Galien et Ibn Sīnā."
+    },
+    {
+      "id": "his-t2-0034",
+      "concept": "his.sciences.jazari",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quoi al-Jazarī, ingénieur du XIIe-XIIIe siècle, est-il célèbre ?",
+      "choices": [
+        "Ses cartes du monde entier",
+        "Ses poèmes d'amour célèbres",
+        "Ses traités de médecine",
+        "Ses automates et machines ingénieuses"
+      ],
+      "answer": 3,
+      "expl": "Al-Jazarī décrivit dans son « Livre de la connaissance des procédés mécaniques » des horloges à eau, des pompes et des automates, avec des mécanismes comme l'arbre à cames. On le considère comme un précurseur de la robotique."
+    },
+    {
+      "id": "his-t2-0035",
+      "concept": "his.sciences.bimaristan",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que désignait le « bīmāristān » dans les villes musulmanes médiévales ?",
+      "choices": [
+        "Un hôpital, souvent gratuit",
+        "Une école de calligraphie",
+        "Un grand marché couvert",
+        "Un observatoire des étoiles"
+      ],
+      "answer": 0,
+      "expl": "Les bīmāristān accueillaient tous les malades, souvent gratuitement, avec des salles par spécialité, des pharmacies et parfois de la musique pour soigner. Le Māristān de Sīdī Frej à Fès soignait même les cigognes blessées, selon la tradition."
+    },
+    {
+      "id": "his-t2-0036",
+      "concept": "his.architecture.kairouan",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle mosquée de Tunisie possède l'un des plus anciens minarets encore debout du monde musulman occidental ?",
+      "choices": [
+        "La mosquée Hassan II",
+        "La grande mosquée de Kairouan",
+        "La Koutoubia de Marrakech",
+        "La mosquée al-Azhar"
+      ],
+      "answer": 1,
+      "expl": "La grande mosquée de Kairouan, fondée en 670 par ʿUqba ibn Nāfiʿ et reconstruite au IXe siècle, a servi de modèle à de nombreuses mosquées du Maghreb. Son minaret massif inspira ceux du Maroc."
+    },
+    {
+      "id": "his-t2-0037",
+      "concept": "his.architecture.zellige",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment appelle-t-on la mosaïque de carreaux de terre cuite émaillée, taillés à la main, typique du Maroc ?",
+      "choices": [
+        "Le stuc",
+        "Le marbre",
+        "Le zellige",
+        "Le moucharabieh"
+      ],
+      "answer": 2,
+      "expl": "Le zellige (zlīj) assemble de petites pièces de céramique colorée en motifs géométriques complexes. On le voit dans les médersas, les fontaines et les riads. Ses étoiles à huit, douze ou seize branches évoquent l'infini de la création."
+    },
+    {
+      "id": "his-t2-0038",
+      "concept": "his.architecture.aniconisme",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi l'art islamique religieux privilégie-t-il la calligraphie et les motifs géométriques plutôt que les images d'êtres vivants ?",
+      "choices": [
+        "Parce que les artistes ne savaient pas dessiner",
+        "Parce que la peinture coûtait trop cher",
+        "Parce que les califes n'aimaient pas l'art",
+        "Pour éviter l'idolâtrie et dire la beauté autrement"
+      ],
+      "answer": 3,
+      "expl": "Dans les mosquées, on évite de représenter des êtres vivants, conformément aux hadiths et pour préserver l'adoration d'Allah seul. Les artistes ont développé la calligraphie, l'arabesque et la géométrie, qui suggèrent l'unité et l'infini.",
+      "note": "Les avis des savants sur les images en dehors des lieux de culte varient ; l'art profane musulman a connu la miniature, notamment en Perse et en Inde."
+    },
+    {
+      "id": "his-t2-0039",
+      "concept": "his.architecture.sinan",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Mimar Sinan ?",
+      "choices": [
+        "Le grand architecte ottoman du XVIe siècle",
+        "Un sultan ottoman conquérant",
+        "Un poète soufi de Konya",
+        "Un amiral de la flotte turque en Méditerranée"
+      ],
+      "answer": 0,
+      "expl": "Sinan (vers 1490-1588) construisit plus de trois cents édifices : mosquées, ponts, hammams, écoles. La Süleymaniye d'Istanbul et la Selimiye d'Edirne sont ses chefs-d'œuvre, aux coupoles parfaitement équilibrées."
+    },
+    {
+      "id": "his-t2-0040",
+      "concept": "his.moderne.protectorat",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 2,
+      "type": "qcm",
+      "q": "En quelle année le Maroc fut-il placé sous protectorat français par le traité de Fès ?",
+      "choices": [
+        "1912",
+        "1830",
+        "1956",
+        "1881"
+      ],
+      "answer": 0,
+      "expl": "Le traité de Fès (1912) établit le protectorat français, tandis que l'Espagne contrôlait le nord et le sud. Le sultan restait en place, mais le pouvoir réel était aux mains du résident général. 1830 est la date de la conquête de l'Algérie, 1881 celle du protectorat sur la Tunisie."
+    },
+    {
+      "id": "his-t2-0041",
+      "concept": "his.moderne.independance",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 2,
+      "type": "qcm",
+      "q": "En quelle année le Maroc obtint-il son indépendance ?",
+      "choices": [
+        "1956",
+        "1912",
+        "1962",
+        "1975"
+      ],
+      "answer": 0,
+      "expl": "Le Maroc devint indépendant le 2 mars 1956, après le retour d'exil du sultan Mohammed ben Youssef (Mohammed V), exilé par la France en 1953. L'Algérie devint indépendante en 1962."
+    },
+    {
+      "id": "his-t2-0042",
+      "concept": "his.moderne.mosquee-paris",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi la Grande Mosquée de Paris, inaugurée en 1926, a-t-elle été construite ?",
+      "choices": [
+        "Pour accueillir les pèlerins partant vers La Mecque",
+        "En hommage aux soldats musulmans morts pour la France",
+        "À la demande du sultan ottoman",
+        "Pour célébrer l'Exposition universelle de Paris"
+      ],
+      "answer": 1,
+      "expl": "La France voulut honorer les soldats musulmans, notamment d'Afrique du Nord, tombés pendant la guerre de 1914-1918. La mosquée, de style hispano-mauresque, fut réalisée en partie par des artisans marocains. Pendant la Seconde Guerre mondiale, elle aurait aidé à cacher des Juifs persécutés."
+    },
+    {
+      "id": "his-t2-0043",
+      "concept": "his.moderne.califat-1924",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 2,
+      "type": "qcm",
+      "q": "En quelle année le califat ottoman fut-il aboli, par la République turque ?",
+      "choices": [
+        "1924",
+        "1453",
+        "1918",
+        "1517"
+      ],
+      "answer": 0,
+      "expl": "Mustafa Kemal Atatürk abolit le sultanat en 1922 puis le califat en 1924. Le monde musulman se retrouva sans calife pour la première fois depuis 632, ce qui provoqua de nombreux débats."
+    },
+    {
+      "id": "his-t2-0044",
+      "concept": "his.maroc.meknes-unesco",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel monument de Meknès, porte monumentale achevée au XVIIIe siècle, est l'emblème de la ville impériale ?",
+      "choices": [
+        "Bab Mansour",
+        "Bab Boujloud",
+        "La tour Hassan",
+        "La Koutoubia"
+      ],
+      "answer": 0,
+      "expl": "Bab Mansour, porte ornée de zellige et de colonnes de marbre, fut commencée sous Moulay Ismaïl et achevée sous son fils. La ville impériale de Meknès est inscrite au patrimoine mondial de l'UNESCO depuis 1996. Bab Boujloud, aux carreaux bleus, est à Fès."
+    },
+    {
+      "id": "his-t2-0045",
+      "concept": "his.maroc.heri",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quoi le Heri es-Souani de Meknès est-il célèbre ?",
+      "choices": [
+        "Un ancien palais romain restauré par les Idrissides",
+        "D'immenses greniers et écuries de Moulay Ismaïl",
+        "Une mosquée almohade",
+        "Un marché aux épices"
+      ],
+      "answer": 1,
+      "expl": "Moulay Ismaïl fit bâtir de gigantesques greniers voûtés, aux murs épais pour garder la fraîcheur, et des écuries pour, dit-on, douze mille chevaux, alimentées par des norias et le bassin de l'Agdal. Un témoignage de la puissance du sultan."
+    },
+    {
+      "id": "his-t2-0046",
+      "concept": "his.maroc.louis14",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Avec quel roi de France le sultan Moulay Ismaïl entretint-il des relations diplomatiques, échangeant ambassadeurs et lettres ?",
+      "choices": [
+        "Charlemagne",
+        "François Ier",
+        "Louis XIV",
+        "Napoléon"
+      ],
+      "answer": 2,
+      "expl": "Moulay Ismaïl et Louis XIV, deux grands bâtisseurs contemporains, échangèrent des ambassades. L'ambassadeur marocain ʿAbd Allāh ibn ʿĀʾisha fut reçu à Versailles en 1699, et l'on raconte que le sultan demanda la main d'une fille du roi, la princesse de Conti."
+    },
+    {
+      "id": "his-t2-0047",
+      "concept": "his.maroc.volubilis",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel site près de Meknès fut une ville romaine avant d'accueillir Idrīs Ier au VIIIe siècle ?",
+      "choices": [
+        "Lixus",
+        "Chellah",
+        "Mogador",
+        "Volubilis"
+      ],
+      "answer": 3,
+      "expl": "Volubilis était une cité romaine de Maurétanie, célèbre pour ses mosaïques. Au VIIIe siècle, la tribu amazighe des Awraba qui y vivait accueillit Idrīs Ier, qui y fonda le premier État musulman du Maroc. Le site est inscrit à l'UNESCO."
+    },
+    {
+      "id": "his-t2-0048",
+      "concept": "his.maroc.anoual",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel chef rifain remporta la bataille d'Anoual (1921) contre l'armée espagnole et fonda une république éphémère dans le Rif ?",
+      "choices": [
+        "Abdelkrim al-Khaṭṭābī",
+        "Allal al-Fassi",
+        "Mohammed V",
+        "Moulay Ismaïl"
+      ],
+      "answer": 0,
+      "expl": "Abdelkrim, juriste formé à al-Qarawiyyīn, infligea à l'Espagne une lourde défaite à Anoual. Il fallut une alliance franco-espagnole pour le vaincre en 1926. Exilé, il mourut au Caire en 1963. Sa stratégie inspira de nombreux mouvements d'indépendance."
+    },
+    {
+      "id": "his-t2-0049",
+      "concept": "his.moderne.tanger",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel statut eut la ville de Tanger entre 1923 et 1956 ?",
+      "choices": [
+        "Capitale du Maroc",
+        "Zone internationale",
+        "Colonie portugaise",
+        "Royaume indépendant"
+      ],
+      "answer": 1,
+      "expl": "Tanger, à l'entrée du détroit, fut placée sous administration internationale. Elle attira diplomates, commerçants et artistes du monde entier, avant de revenir au Maroc indépendant en 1956."
+    },
+    {
+      "id": "his-t2-0050",
+      "concept": "his.moderne.yennayer",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle fête est devenue jour férié officiel au Maroc à partir de 2024 ?",
+      "choices": [
+        "Le Mawlid du Prophète ﷺ",
+        "L'Aïd al-Fiṭr",
+        "Yennayer, le Nouvel An amazigh",
+        "La fête du Trône"
+      ],
+      "answer": 2,
+      "expl": "Le roi Mohammed VI a décidé en 2023 de faire du Nouvel An amazigh un jour férié, reconnaissant la place de la culture amazighe, déjà langue officielle depuis la Constitution de 2011. On y partage des plats comme le couscous aux sept légumes ou la tagoula."
+    },
+    {
+      "id": "his-t2-0051",
+      "concept": "his.architecture.gnawa",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle tradition musicale marocaine, liée à l'héritage d'Afrique subsaharienne, a été inscrite à l'UNESCO en 2019 ?",
+      "choices": [
+        "La musique andalouse",
+        "Le raï",
+        "Le chaâbi",
+        "La musique gnaoua"
+      ],
+      "answer": 3,
+      "expl": "Les Gnaoua, descendants de populations venues d'Afrique de l'Ouest, jouent du guembri et des qraqeb (castagnettes de fer) lors de cérémonies et de fêtes. Le festival d'Essaouira les a fait connaître dans le monde entier. La musique arabo-andalouse (al-āla) est une autre grande tradition marocaine.",
+      "note": "Certaines pratiques rituelles des confréries gnaoua sont discutées par les savants ; la musique elle-même est un patrimoine culturel."
+    },
+    {
+      "id": "his-t2-0052",
+      "concept": "his.califat.diwan",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle institution le calife ʿUmar créa-t-il pour organiser les pensions versées aux musulmans ?",
+      "choices": [
+        "Le dīwān",
+        "Le waqf",
+        "Le ḥimā",
+        "La ḥisba"
+      ],
+      "answer": 0,
+      "expl": "ʿUmar créa le dīwān, inspiré des administrations perse et byzantine, pour enregistrer les ayants droit et verser les pensions. Il fonda aussi des villes de garnison (Baṣra, Kūfa, Fusṭāṭ) et organisa les provinces."
+    },
+    {
+      "id": "his-t2-0053",
+      "concept": "his.califat.egypte",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel Compagnon conquit l'Égypte et y fonda la ville de Fusṭāṭ, ancêtre du Caire ?",
+      "choices": [
+        "Abū ʿUbayda",
+        "ʿAmr ibn al-ʿĀṣ",
+        "Khālid ibn al-Walīd",
+        "Saʿd ibn Abī Waqqāṣ"
+      ],
+      "answer": 1,
+      "expl": "ʿAmr ibn al-ʿĀṣ entra en Égypte vers 640 et prit Alexandrie. Sa mosquée, à Fusṭāṭ, est la plus ancienne d'Afrique. La population copte, en grande partie, accueillit ce changement après les persécutions byzantines."
+    },
+    {
+      "id": "his-t2-0054",
+      "concept": "his.omeyyades.monnaie",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel calife omeyyade frappa la première monnaie purement islamique, sans images, avec des versets ?",
+      "choices": [
+        "ʿUmar ibn ʿAbd al-ʿAzīz",
+        "Hishām",
+        "ʿAbd al-Malik ibn Marwān",
+        "Muʿāwiya"
+      ],
+      "answer": 2,
+      "expl": "Vers 696, ʿAbd al-Malik remplaça les pièces byzantines et perses par des dinars d'or et des dirhams d'argent portant la shahāda et des versets. Il fit aussi construire le Dôme du Rocher et imposa l'arabe dans l'administration."
+    },
+    {
+      "id": "his-t2-0055",
+      "concept": "his.andalus.dakhil",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui fonda l'émirat omeyyade de Cordoue en 756, après avoir échappé au massacre de sa famille ?",
+      "choices": [
+        "Ṭāriq ibn Ziyād",
+        "Mūsā ibn Nuṣayr",
+        "Hishām II",
+        "ʿAbd ar-Raḥmān Ier"
+      ],
+      "answer": 3,
+      "expl": "Seul survivant des Omeyyades massacrés par les Abbassides, il traversa l'Afrique du Nord et fonda un émirat indépendant à Cordoue. Le calife abbasside lui-même l'appela, admiratif, « le faucon de Quraysh ». Il lança la construction de la Grande Mosquée."
+    },
+    {
+      "id": "his-t2-0056",
+      "concept": "his.abbassides.traductions",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel grand mouvement intellectuel eut lieu à Bagdad sous les Abbassides ?",
+      "choices": [
+        "La traduction des savoirs grecs, perses et indiens",
+        "La construction de la grande muraille",
+        "La conquête de l'Inde et de la Chine",
+        "La compilation des poèmes d'avant l'islam"
+      ],
+      "answer": 0,
+      "expl": "Autour de la Maison de la Sagesse (Bayt al-Ḥikma), des traducteurs comme Ḥunayn ibn Isḥāq traduisirent Aristote, Galien, Euclide, Ptolémée. Les savants arabes les commentèrent, les corrigèrent, et ces textes revinrent plus tard en Europe par l'Andalousie."
+    },
+    {
+      "id": "his-t2-0057",
+      "concept": "his.andalus.taifas",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment appelle-t-on les petits royaumes musulmans rivaux d'al-Andalus après la chute du califat de Cordoue (1031) ?",
+      "choices": [
+        "Les émirats du désert",
+        "Les royaumes de taïfas",
+        "Les califats du nord",
+        "Les sultanats du Rif"
+      ],
+      "answer": 1,
+      "expl": "Le califat éclata en une vingtaine de petits États (Séville, Tolède, Saragosse…), riches culturellement mais divisés. Leur faiblesse face aux royaumes chrétiens poussa certains à appeler les Almoravides du Maroc à l'aide."
+    },
+    {
+      "id": "his-t2-0058",
+      "concept": "his.andalus.ibn-hazm",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel livre célèbre sur l'amour fut écrit au XIe siècle par l'Andalou Ibn Ḥazm ?",
+      "choices": [
+        "Les Mille et Une Nuits",
+        "Le Livre des rois",
+        "Le Collier de la colombe",
+        "Le Jardin parfumé"
+      ],
+      "answer": 2,
+      "expl": "Ibn Ḥazm de Cordoue, juriste et théologien, écrivit dans sa jeunesse un traité délicat sur l'amour et ses signes, plein d'anecdotes et de poésie. Un des plus beaux textes de la littérature andalouse."
+    },
+    {
+      "id": "his-t2-0059",
+      "concept": "his.andalus.nasrides",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle dynastie régna sur Grenade jusqu'en 1492, et construisit l'Alhambra ?",
+      "choices": [
+        "Les Almohades",
+        "Les Omeyyades",
+        "Les Mérinides",
+        "Les Nasrides"
+      ],
+      "answer": 3,
+      "expl": "Les Nasrides tinrent le royaume de Grenade pendant plus de deux siècles et demi. Leur devise, « Wa-lā ghāliba illā llāh » (Il n'y a de vainqueur qu'Allah), est gravée des milliers de fois sur les murs de l'Alhambra. Boabdil remit la ville en 1492."
+    },
+    {
+      "id": "his-t2-0060",
+      "concept": "his.maroc.saadiens",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle dynastie marocaine du XVIe siècle a laissé à Marrakech de célèbres tombeaux richement décorés ?",
+      "choices": [
+        "Les Saadiens",
+        "Les Idrissides",
+        "Les Almoravides",
+        "Les Alaouites"
+      ],
+      "answer": 0,
+      "expl": "Les Saadiens, originaires de la vallée du Drâa, régnèrent de 1549 à 1659. Leur plus grand souverain, Aḥmad al-Manṣūr, vainqueur de la bataille des Trois Rois, fit construire le palais El Badiʿ. Les tombeaux saadiens furent redécouverts en 1917."
+    },
+    {
+      "id": "his-t2-0061",
+      "concept": "his.maroc.sale",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle « république » de corsaires exista au XVIIe siècle à l'embouchure du Bouregreg ?",
+      "choices": [
+        "La république de Tanger",
+        "La république de Salé et Rabat",
+        "Le royaume de Tétouan",
+        "L'émirat d'Essaouira"
+      ],
+      "answer": 1,
+      "expl": "Des Morisques expulsés d'Espagne s'installèrent à Rabat et Salé et y fondèrent une petite république de corsaires, redoutée en Méditerranée et jusqu'en Angleterre, avant son intégration au royaume alaouite."
+    },
+    {
+      "id": "his-t2-0062",
+      "concept": "his.maroc.mellah",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment appelle-t-on le quartier juif traditionnel des villes marocaines ?",
+      "choices": [
+        "La médina",
+        "Le souk",
+        "Le mellah",
+        "La kasbah"
+      ],
+      "answer": 2,
+      "expl": "Le premier mellah fut créé à Fès au XVe siècle. Les communautés juives marocaines, présentes depuis plus de deux mille ans, ont vécu aux côtés des musulmans dans les villes et les villages. La Constitution de 2011 reconnaît l'affluent hébraïque de l'identité marocaine."
+    },
+    {
+      "id": "his-t2-0063",
+      "concept": "his.maroc.constitution-2011",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que reconnaît la Constitution marocaine de 2011 ?",
+      "choices": [
+        "La laïcité stricte de l'État",
+        "Le français comme seule langue officielle",
+        "La fin de la monarchie",
+        "L'islam religion d'État, l'amazigh langue officielle"
+      ],
+      "answer": 3,
+      "expl": "Adoptée par référendum en 2011, elle affirme que l'islam est la religion de l'État, qui garantit à tous le libre exercice des cultes, reconnaît l'amazigh comme langue officielle et mentionne les affluents africain, andalou, hébraïque et méditerranéen de l'identité marocaine."
+    },
+    {
+      "id": "his-t2-0064",
+      "concept": "his.maroc.mohammed-vi",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "En quelle année Mohammed VI est-il monté sur le trône du Maroc ?",
+      "choices": [
+        "1999",
+        "1956",
+        "1961",
+        "2011"
+      ],
+      "answer": 0,
+      "expl": "Mohammed VI succéda à son père Hassan II en juillet 1999. En tant que « Commandeur des croyants », il préside le Conseil supérieur des oulémas et lança notamment la réforme de la Moudawana (2004)."
+    },
+    {
+      "id": "his-t2-0065",
+      "concept": "his.empires.croisades",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 2,
+      "type": "qcm",
+      "q": "En quelle année les croisés prirent-ils Jérusalem, lors de la première croisade ?",
+      "choices": [
+        "1258",
+        "1099",
+        "1187",
+        "1453"
+      ],
+      "answer": 1,
+      "expl": "Les croisés prirent Jérusalem en 1099, au prix d'un massacre de ses habitants. Ṣalāḥ ad-Dīn la reprit en 1187, en épargnant la population chrétienne, ce qui frappa ses contemporains."
+    },
+    {
+      "id": "his-t2-0066",
+      "concept": "his.empires.mamelouks",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui étaient les Mamelouks, qui régnèrent sur l'Égypte et la Syrie de 1250 à 1517 ?",
+      "choices": [
+        "Des marchands vénitiens installés au Caire",
+        "Des princes mongols convertis",
+        "D'anciens soldats esclaves devenus sultans",
+        "Des moines chrétiens d'Éthiopie"
+      ],
+      "answer": 2,
+      "expl": "Les Mamelouks, soldats d'origine turque ou caucasienne achetés jeunes et formés, prirent le pouvoir au Caire. Ils battirent les Mongols à ʿAyn Jālūt (1260) et chassèrent les derniers croisés. Le Caire mamelouk est rempli de mosquées et de madrasas magnifiques."
+    },
+    {
+      "id": "his-t2-0067",
+      "concept": "his.empires.fin-ottomans",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quand le sultanat ottoman prit-il fin ?",
+      "choices": [
+        "En 1453",
+        "En 1789",
+        "En 1945",
+        "En 1922"
+      ],
+      "answer": 3,
+      "expl": "Après la défaite de 1918, le sultanat fut aboli en 1922 par la nouvelle République turque de Mustafa Kemal, puis le califat en 1924. Il n'y a plus eu de califat reconnu depuis."
+    },
+    {
+      "id": "his-t2-0068",
+      "concept": "his.sciences.astrolabe",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quoi servait l'astrolabe, perfectionné par les savants musulmans ?",
+      "choices": [
+        "À situer les astres pour l'heure et la qibla",
+        "À mesurer la profondeur de la mer",
+        "À peser l'or au marché",
+        "À soigner les yeux des malades"
+      ],
+      "answer": 0,
+      "expl": "Instrument d'origine grecque, l'astrolabe fut perfectionné dans le monde musulman, notamment pour calculer les heures de prière et la direction de La Mecque. Une femme, Maryam al-Asṭurlābī, en fabriquait à Alep au Xe siècle."
+    },
+    {
+      "id": "his-t2-0069",
+      "concept": "his.sciences.firnas",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel savant de Cordoue tenta, au IXe siècle, un vol plané avec des ailes ?",
+      "choices": [
+        "Ibn Rushd",
+        "ʿAbbās ibn Firnās",
+        "Ziryāb",
+        "Al-Idrīsī de Ceuta"
+      ],
+      "answer": 1,
+      "expl": "ʿAbbās ibn Firnās, inventeur et poète, se lança d'une hauteur avec un appareil couvert de plumes et plana quelques instants avant de chuter. Il travailla aussi sur le verre et les clepsydres. Un cratère de la Lune porte son nom."
+    },
+    {
+      "id": "his-t2-0070",
+      "concept": "his.architecture.muqarnas",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment s'appellent les décors en « nids d'abeilles » qui ornent les coupoles et les arcs, comme à l'Alhambra ?",
+      "choices": [
+        "Les moucharabiehs",
+        "Les arabesques",
+        "Les muqarnas",
+        "Les zelliges"
+      ],
+      "answer": 2,
+      "expl": "Les muqarnas sont des alvéoles sculptées dans le plâtre, le bois ou la pierre, qui créent des voûtes comme des stalactites. Le zellige est la mosaïque de céramique ; le moucharabieh, le treillis de bois des fenêtres."
+    },
+    {
+      "id": "his-t2-0071",
+      "concept": "his.architecture.riad",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'un « riad » dans l'architecture marocaine ?",
+      "choices": [
+        "Un marché couvert de la médina",
+        "Une mosquée de quartier",
+        "Un bain public",
+        "Une maison autour d'un jardin intérieur"
+      ],
+      "answer": 3,
+      "expl": "Le riad (de riyāḍ, « jardins ») est une maison fermée sur la rue et ouverte sur un patio planté, avec une fontaine au centre : une image du Paradis, protégeant l'intimité de la famille."
+    },
+    {
+      "id": "his-t2-0072",
+      "concept": "his.architecture.arabesque",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi l'art musulman a-t-il tant développé la géométrie, la calligraphie et les motifs végétaux ?",
+      "choices": [
+        "Pour évoquer l'infini et l'unicité d'Allah, en évitant de représenter des êtres vivants dans les lieux de culte",
+        "Parce que la peinture était inconnue",
+        "Par manque de couleurs",
+        "Pour imiter l'art chinois"
+      ],
+      "answer": 0,
+      "expl": "Dans les mosquées, on évite les figures humaines et animales. Les artistes ont exploré l'infini des formes : étoiles qui se répètent sans fin, rinceaux végétaux, calligraphie du Coran. L'unité qui se décline en multiplicité évoque le tawḥīd.",
+      "retired": true
+    },
+    {
+      "id": "his-t2-0073",
+      "concept": "his.maroc.fiche-dynasties-2",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Les grandes dynasties du Maroc",
+      "points": [
+        "Idrissides (788) : Moulay Idriss, fondation de Fès",
+        "Almoravides (XIe s.) : Marrakech, l'unité avec al-Andalus",
+        "Almohades (XIIe s.) : Koutoubia, Giralda, Tour Hassan",
+        "Mérinides (XIIIe-XVe s.) : les médersas de Fès",
+        "Saadiens (XVIe s.) : al-Manṣūr, les Trois Rois",
+        "Alaouites (depuis le XVIIe s.) : Moulay Ismaïl, Mohammed V"
+      ],
+      "expl": "Depuis plus de douze siècles, le Maroc a une histoire continue d'États musulmans, souvent portés par des mouvements religieux."
+    },
+    {
+      "id": "his-t2-0074",
+      "concept": "his.andalus.convivencia",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel grand penseur juif vécut et étudia à Cordoue, puis au Caire, en écrivant souvent en arabe ?",
+      "choices": [
+        "Spinoza",
+        "Rachi",
+        "Maïmonide",
+        "Ibn Gabirol"
+      ],
+      "answer": 2,
+      "expl": "Maïmonide, né à Cordoue en 1138, médecin et philosophe, écrivit son « Guide des égarés » en arabe. Il devint médecin à la cour de Ṣalāḥ ad-Dīn au Caire. Al-Andalus a vu cohabiter, non sans tensions, musulmans, juifs et chrétiens."
+    },
+    {
+      "id": "his-t2-0075",
+      "concept": "his.andalus.zahra",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle cité palatiale le calife ʿAbd ar-Raḥmān III fit-il construire près de Cordoue au Xe siècle ?",
+      "choices": [
+        "L'Alhambra",
+        "L'Alcazar de Séville",
+        "La Giralda",
+        "Madīnat az-Zahrāʾ"
+      ],
+      "answer": 3,
+      "expl": "Madīnat az-Zahrāʾ, la « ville brillante », fut le siège du califat de Cordoue, avec ses palais, ses jardins et ses ambassades venues de Byzance et d'Europe. Elle fut détruite au début du XIe siècle ; ses ruines sont classées par l'UNESCO."
+    },
+    {
+      "id": "his-t2-0076",
+      "concept": "his.maroc.tinmel",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Où se trouve la mosquée historique de Tinmel, berceau du mouvement almohade ?",
+      "choices": [
+        "Dans le Haut Atlas",
+        "Dans le Rif",
+        "Au Sahara",
+        "Sur la côte"
+      ],
+      "answer": 0,
+      "expl": "Ibn Tūmart fonda le mouvement almohade dans le village de Tinmel, au cœur du Haut Atlas. La mosquée, construite vers 1153 sous ʿAbd al-Muʾmin, est l'un des rares grands monuments almohades accessibles."
+    },
+    {
+      "id": "his-t2-0077",
+      "concept": "his.maroc.moulay-rachid",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui est considéré comme le fondateur de la dynastie alaouite au XVIIe siècle ?",
+      "choices": [
+        "Moulay Hassan",
+        "Moulay Rachid",
+        "Moulay Ismaïl",
+        "Moulay Idriss"
+      ],
+      "answer": 1,
+      "expl": "Moulay Rachid, venu du Tafilalet, unifia le Maroc vers 1666-1668 et fut proclamé à Fès. Son frère Moulay Ismaïl lui succéda et régna cinquante-cinq ans. Les Alaouites, descendants du Prophète ﷺ, règnent depuis."
+    },
+    {
+      "id": "his-t2-0078",
+      "concept": "his.maroc.bab-mansour",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle porte monumentale de Meknès, achevée au XVIIIe siècle, est l'une des plus belles du Maroc ?",
+      "choices": [
+        "Bāb Agnaou",
+        "Bāb Marrakech",
+        "Bāb al-Manṣūr",
+        "Bāb Boujloud"
+      ],
+      "answer": 2,
+      "expl": "Bāb al-Manṣūr al-ʿIlj, commencée sous Moulay Ismaïl et achevée sous son fils, ouvre sur la ville impériale de Meknès. Ses zelliges verts et ses colonnes de marbre en font un chef-d'œuvre. Bāb Boujloud est à Fès, Bāb Agnaou à Marrakech."
+    },
+    {
+      "id": "his-t2-0079",
+      "concept": "his.maroc.ribat",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "D'où vient le nom de la ville de Rabat ?",
+      "choices": [
+        "Du nom d'un roi romain",
+        "D'un mot berbère pour « rivière »",
+        "D'un mot portugais pour « port »",
+        "De « ribāṭ », un couvent fortifié"
+      ],
+      "answer": 3,
+      "expl": "Un ribāṭ était une forteresse-monastère, à la fois garnison et lieu de dévotion. Le calife almohade Yaʿqūb al-Manṣūr y fit construire une immense mosquée, dont il reste la Tour Hassan."
+    },
+    {
+      "id": "his-t2-0080",
+      "concept": "his.empires.seldjoukides",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel peuple d'origine turque domina l'Orient musulman au XIe siècle, et fonda les premières grandes madrasas ?",
+      "choices": [
+        "Les Seldjoukides",
+        "Les Mongols",
+        "Les Mamelouks",
+        "Les Fatimides"
+      ],
+      "answer": 0,
+      "expl": "Les Seldjoukides prirent Bagdad en 1055, sous l'autorité nominale du calife abbasside. Leur vizir Niẓām al-Mulk fonda les madrasas Niẓāmiyya, où enseigna al-Ghazālī. Leur victoire de Mantzikert (1071) ouvrit l'Anatolie."
+    },
+    {
+      "id": "his-t2-0081",
+      "concept": "his.sciences.maragha",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel célèbre observatoire astronomique fut fondé au XIIIe siècle à Marāgha, en Iran ?",
+      "choices": [
+        "Celui d'Ibn Sīnā",
+        "Celui de Naṣīr ad-Dīn aṭ-Ṭūsī",
+        "Celui d'al-Bīrūnī",
+        "Celui d'Ulugh Beg à Samarcande"
+      ],
+      "answer": 1,
+      "expl": "Fondé en 1259, il réunit des astronomes de tout le monde musulman. Leurs modèles planétaires, comme le « couple de Ṭūsī », ont influencé, des siècles plus tard, Copernic."
+    },
+    {
+      "id": "his-t2-0082",
+      "concept": "his.architecture.cordoue-arcs",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qui rend la Grande Mosquée de Cordoue reconnaissable entre toutes ?",
+      "choices": [
+        "Sa coupole de verre",
+        "Sa forme ronde",
+        "Sa forêt de colonnes et ses arcs bicolores rouges et blancs",
+        "Ses trois minarets dorés"
+      ],
+      "answer": 2,
+      "expl": "Commencée en 785 et agrandie pendant deux siècles, elle compte plus de 800 colonnes portant des arcs superposés, aux claveaux alternés rouges (briques) et blancs (pierre). Une cathédrale fut construite en son centre au XVIe siècle.",
+      "retired": true
+    },
+    {
+      "id": "his-t2-0083",
+      "concept": "his.moderne.oci",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle organisation internationale regroupe aujourd'hui 57 États à majorité ou forte minorité musulmane ?",
+      "choices": [
+        "L'ONU",
+        "L'OTAN",
+        "La Ligue arabe",
+        "L'OCI"
+      ],
+      "answer": 3,
+      "expl": "Fondée en 1969 à Rabat, après l'incendie de la mosquée al-Aqṣā, l'OCI est la deuxième organisation intergouvernementale du monde après l'ONU. La Ligue arabe, elle, ne regroupe que les pays arabes."
+    },
+    {
+      "id": "his-t2-0084",
+      "concept": "his.moderne.comite-quds",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel comité de l'OCI, chargé de la défense de Jérusalem, est présidé par le roi du Maroc ?",
+      "choices": [
+        "Le Comité al-Qods",
+        "Le Comité de La Mecque",
+        "Le Conseil de Médine",
+        "Le Comité du Caire"
+      ],
+      "answer": 0,
+      "expl": "Créé en 1975, le Comité al-Qods est présidé par le souverain marocain. L'Agence Bayt Mal al-Qods, basée à Rabat, finance des projets sociaux pour les habitants de Jérusalem."
+    },
+    {
+      "id": "his-t2-0085",
+      "concept": "his.andalus.fiche-andalus-2",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Huit siècles d'al-Andalus",
+      "points": [
+        "711 : Ṭāriq traverse le détroit (Jabal Ṭāriq = Gibraltar)",
+        "756 : émirat de Cordoue, puis califat en 929",
+        "1031 : éclatement en royaumes de taïfas",
+        "XIe-XIIIe s. : Almoravides et Almohades venus du Maroc",
+        "1492 : chute de Grenade, dernier royaume nasride"
+      ],
+      "expl": "De 711 à 1492, la péninsule Ibérique a connu une civilisation musulmane brillante, intimement liée au Maroc."
+    }
+  ]
+}

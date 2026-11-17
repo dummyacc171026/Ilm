@@ -1,0 +1,1346 @@
+{
+  "pack": "histoire-t1",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "his-t1-0001",
+      "concept": "his.maroc.meknes-moulay-ismail",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De quelle ville le sultan alaouite Moulay Ismaïl fit-il sa capitale ?",
+      "choices": [
+        "Meknès",
+        "Fès",
+        "Marrakech",
+        "Rabat"
+      ],
+      "answer": 0,
+      "expl": "Moulay Ismaïl, qui régna de 1672 à 1727, choisit Meknès et la transforma en une capitale impériale entourée de kilomètres de remparts, avec ses portes monumentales, ses greniers et ses écuries géantes. Meknès fait partie des quatre villes impériales du Maroc, avec Fès, Marrakech et Rabat.",
+      "src": [
+        "Histoire du Maroc"
+      ],
+      "extra": "Meknès est parfois surnommée « la Versailles marocaine » : Moulay Ismaïl était le contemporain de Louis XIV, avec qui il échangea des ambassades."
+    },
+    {
+      "id": "his-t1-0002",
+      "concept": "his.maroc.idris-premier",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui fonda, à la fin du VIIIe siècle, le premier État musulman indépendant du Maroc ?",
+      "choices": [
+        "Idrīs Ier",
+        "Yūsuf ibn Tāshfīn",
+        "Moulay Ismaïl",
+        "ʿAbd al-Muʾmin"
+      ],
+      "answer": 0,
+      "expl": "Idrīs ibn ʿAbd Allāh, descendant du Prophète ﷺ par al-Ḥasan, fuit l'Orient après une révolte écrasée par les Abbassides. Accueilli en 788 par la tribu berbère des Awraba à Walīlī (Volubilis), il fonda la dynastie idrisside. Son tombeau est à Moulay Idriss Zerhoun, tout près de Meknès, et son fils Idrīs II fit de Fès la capitale de la dynastie.",
+      "src": [
+        "Ibn Abī Zarʿ, Rawḍ al-Qirṭās"
+      ],
+      "note": "Yūsuf ibn Tāshfīn est le grand souverain almoravide (XIe siècle), ʿAbd al-Muʾmin le premier calife almohade (XIIe siècle)."
+    },
+    {
+      "id": "his-t1-0003",
+      "concept": "his.maroc.dynasties",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre chronologique ces grandes dynasties du Maroc.",
+      "items": [
+        "Les Idrissides",
+        "Les Almoravides",
+        "Les Almohades",
+        "Les Mérinides",
+        "Les Saadiens",
+        "Les Alaouites"
+      ],
+      "expl": "Idrissides (788), Almoravides (XIe s., fondateurs de Marrakech), Almohades (XIIe s., la Koutoubia), Mérinides (XIIIe-XVe s., les médersas de Fès), Saadiens (XVIe s., les tombeaux de Marrakech), puis Alaouites, dynastie régnante depuis le XVIIe siècle. Entre les Mérinides et les Saadiens, les Wattassides régnèrent brièvement.",
+      "src": [
+        "Histoire du Maroc"
+      ]
+    },
+    {
+      "id": "his-t1-0004",
+      "concept": "his.califat.uthman-mushaf",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel calife fit établir un exemplaire de référence du Coran (muṣḥaf), copié et envoyé dans les grandes villes ?",
+      "choices": [
+        "ʿUthmān ibn ʿAffān",
+        "Abū Bakr aṣ-Ṣiddīq",
+        "ʿUmar ibn al-Khaṭṭāb",
+        "ʿAlī ibn Abī Ṭālib"
+      ],
+      "answer": 0,
+      "expl": "Sous Abū Bakr, le Coran fut d'abord rassemblé en un seul volume, après la mort de nombreux mémorisateurs au combat. Sous ʿUthmān, pour éviter les divergences de lecture entre régions, une commission dirigée par Zayd ibn Thābit établit des copies de référence, envoyées dans les provinces. C'est le « muṣḥaf ʿuthmānī ».",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari",
+        "Hadith de Zayd ibn Thābit — Bukhari"
+      ]
+    },
+    {
+      "id": "his-t1-0005",
+      "concept": "his.andalus.dates",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 1,
+      "type": "vf",
+      "q": "Al-Andalus désigne les terres de la péninsule Ibérique sous gouvernement musulman, de 711 à 1492.",
+      "answer": true,
+      "expl": "En 711, Ṭāriq ibn Ziyād traversa le détroit à la tête d'une armée en grande partie berbère. Al-Andalus brilla pendant des siècles, avec Cordoue et Grenade, avant la chute de Grenade, dernier royaume musulman, en 1492.",
+      "src": [
+        "Histoire d'al-Andalus"
+      ],
+      "extra": "Gibraltar vient de « Jabal Ṭāriq », la montagne de Ṭāriq."
+    },
+    {
+      "id": "his-t1-0006",
+      "concept": "his.califat.jerusalem",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel calife reçut les clés de Jérusalem, en 637 ou 638, des mains du patriarche Sophrone ?",
+      "choices": [
+        "Abū Bakr aṣ-Ṣiddīq",
+        "ʿAlī ibn Abī Ṭālib",
+        "ʿUmar ibn al-Khaṭṭāb",
+        "Ṣalāḥ ad-Dīn"
+      ],
+      "answer": 2,
+      "expl": "ʿUmar vint en personne, simplement vêtu, et accorda aux chrétiens un pacte garantissant leurs vies, leurs églises et leurs croix. Selon la tradition, il refusa de prier dans l'église du Saint-Sépulcre pour que les musulmans ne la transforment pas ensuite en mosquée."
+    },
+    {
+      "id": "his-t1-0007",
+      "concept": "his.califat.expansion",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 1,
+      "type": "multi",
+      "q": "Quelles régions passèrent sous autorité musulmane à l'époque des quatre premiers califes ?",
+      "choices": [
+        "La Syrie",
+        "L'Irak",
+        "L'Andalousie",
+        "L'Égypte",
+        "La Perse",
+        "La Turquie actuelle"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "En une vingtaine d'années, sous Abū Bakr, ʿUmar et ʿUthmān, l'État de Médine s'étendit à la Syrie et à la Palestine byzantines, à l'Égypte, à l'Irak et à l'empire perse sassanide. L'Andalousie fut atteinte en 711, sous les Omeyyades ; l'Anatolie bien plus tard."
+    },
+    {
+      "id": "his-t1-0008",
+      "concept": "his.califat.rashidun",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment appelle-t-on les quatre premiers califes ?",
+      "choices": [
+        "Les califes omeyyades",
+        "Les sultans de l'islam",
+        "Les imams des quatre écoles",
+        "Les califes bien guidés"
+      ],
+      "answer": 3,
+      "expl": "Abū Bakr, ʿUmar, ʿUthmān et ʿAlī sont appelés ar-rāshidūn, « bien guidés ». Le Prophète ﷺ a recommandé de suivre « ma Sunna et la Sunna des califes bien guidés ». Leur époque (632-661) sert de modèle de gouvernement juste.",
+      "src": [
+        "Hadith d'al-ʿIrbāḍ ibn Sāriya — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "his-t1-0009",
+      "concept": "his.omeyyades.damas",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle ville fut la capitale du califat omeyyade ?",
+      "choices": [
+        "Damas",
+        "Bagdad",
+        "Médine",
+        "Le Caire"
+      ],
+      "answer": 0,
+      "expl": "Les Omeyyades (661-750), fondés par Muʿāwiya, gouvernèrent depuis Damas, en Syrie. La grande mosquée des Omeyyades, construite par al-Walīd Ier, y est l'une des plus anciennes et plus belles mosquées du monde. Bagdad fut la capitale des Abbassides."
+    },
+    {
+      "id": "his-t1-0010",
+      "concept": "his.omeyyades.dome",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel calife omeyyade fit construire le Dôme du Rocher à Jérusalem, vers 691 ?",
+      "choices": [
+        "Ṣalāḥ ad-Dīn",
+        "ʿAbd al-Malik",
+        "Muʿāwiya",
+        "Hārūn ar-Rashīd"
+      ],
+      "answer": 1,
+      "expl": "Le Dôme du Rocher, avec sa coupole dorée, fut achevé vers 691-692 sous ʿAbd al-Malik. C'est le plus ancien grand monument islamique conservé. Il ne faut pas le confondre avec la mosquée al-Aqṣā, à la coupole grise, située sur la même esplanade."
+    },
+    {
+      "id": "his-t1-0011",
+      "concept": "his.omeyyades.dome-aqsa",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le Dôme du Rocher et la mosquée al-Aqṣā sont deux bâtiments différents de la même esplanade à Jérusalem.",
+      "answer": true,
+      "expl": "Le Dôme du Rocher, à la coupole dorée, abrite le rocher d'où, selon la tradition, le Prophète ﷺ monta aux cieux ; la mosquée al-Aqṣā, à la coupole grise, est la salle de prière principale. L'ensemble de l'esplanade constitue al-Masjid al-Aqṣā au sens large."
+    },
+    {
+      "id": "his-t1-0012",
+      "concept": "his.omeyyades.arabisation",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle réforme importante le calife ʿAbd al-Malik a-t-il menée ?",
+      "choices": [
+        "La construction de la Kaʿba en pierre",
+        "La traduction du Coran en grec",
+        "L'arabisation et une monnaie islamique",
+        "La conquête de l'Inde entière"
+      ],
+      "answer": 2,
+      "expl": "ʿAbd al-Malik fit de l'arabe la langue de l'administration, à la place du grec et du persan, et frappa des pièces sans images, portant des versets du Coran. Cette réforme unifia l'empire et répandit la langue arabe."
+    },
+    {
+      "id": "his-t1-0013",
+      "concept": "his.abbassides.bagdad",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle ville le calife abbasside al-Manṣūr fonda-t-il en 762 ?",
+      "choices": [
+        "Damas",
+        "Cordoue",
+        "Samarcande",
+        "Bagdad"
+      ],
+      "answer": 3,
+      "expl": "Al-Manṣūr fonda Bagdad sur le Tigre, en forme de « ville ronde ». Elle devint l'une des plus grandes villes du monde, carrefour du commerce, des sciences et des arts, l'époque des Mille et Une Nuits et du calife Hārūn ar-Rashīd."
+    },
+    {
+      "id": "his-t1-0014",
+      "concept": "his.abbassides.bayt-hikma",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'était la « Maison de la Sagesse » (Bayt al-Ḥikma) à Bagdad ?",
+      "choices": [
+        "Un centre de traduction et de recherche",
+        "Le palais personnel du calife",
+        "Une caserne pour l'armée abbasside",
+        "Un grand marché aux épices"
+      ],
+      "answer": 0,
+      "expl": "Développée notamment sous le calife al-Maʾmūn, la Maison de la Sagesse rassemblait des savants de toutes origines qui traduisaient en arabe les œuvres grecques, persanes et indiennes, et faisaient progresser mathématiques, astronomie et médecine."
+    },
+    {
+      "id": "his-t1-0015",
+      "concept": "his.abbassides.1258",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel événement mit fin au califat abbasside de Bagdad en 1258 ?",
+      "choices": [
+        "La conquête de Bagdad par les croisés",
+        "La prise de Bagdad par les Mongols",
+        "Un tremblement de terre à Bagdad",
+        "La victoire des Ottomans sur Bagdad"
+      ],
+      "answer": 1,
+      "expl": "En 1258, les Mongols de Hülegü prirent Bagdad, tuèrent le calife et une grande partie de la population. Selon les chroniques, les eaux du Tigre furent noircies par l'encre des livres jetés. Un traumatisme majeur de l'histoire musulmane."
+    },
+    {
+      "id": "his-t1-0016",
+      "concept": "his.abbassides.chronologie",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets ces califats dans l'ordre chronologique.",
+      "items": [
+        "Les califes bien guidés (Médine)",
+        "Les Omeyyades (Damas)",
+        "Les Abbassides (Bagdad)",
+        "Les Ottomans (Istanbul)"
+      ],
+      "expl": "632-661 : les quatre califes ; 661-750 : les Omeyyades ; 750-1258 : les Abbassides de Bagdad ; puis les Ottomans, qui portèrent le titre de calife jusqu'en 1924, date de son abolition par la Turquie."
+    },
+    {
+      "id": "his-t1-0017",
+      "concept": "his.andalus.cordoue",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle ville fut la capitale des Omeyyades d'al-Andalus, célèbre pour sa grande mosquée ?",
+      "choices": [
+        "Séville",
+        "Barcelone",
+        "Cordoue",
+        "Tolède"
+      ],
+      "answer": 2,
+      "expl": "ʿAbd ar-Raḥmān Ier, prince omeyyade rescapé du massacre de sa famille, arriva en Espagne en 756 et fit de Cordoue sa capitale. Au Xe siècle, Cordoue était l'une des villes les plus grandes et les plus raffinées d'Europe, avec sa mosquée aux arcs bicolores."
+    },
+    {
+      "id": "his-t1-0018",
+      "concept": "his.andalus.alhambra",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans quelle ville se trouve le palais de l'Alhambra ?",
+      "choices": [
+        "Cordoue",
+        "Séville",
+        "Fès",
+        "Grenade"
+      ],
+      "answer": 3,
+      "expl": "L'Alhambra (« la Rouge ») fut construit surtout au XIVe siècle par la dynastie nasride de Grenade, dernier royaume musulman d'Espagne. On peut y lire partout la devise : « Wa lā ghāliba illā Llāh », il n'y a de vainqueur qu'Allah.",
+      "ar": {
+        "text": "وَلَا غَالِبَ إِلَّا اللّٰهُ",
+        "tr": "wa lā ghāliba illā Llāh",
+        "pr": "wa lâ ghâ-li-ba il-lal-lâh",
+        "fr": "il n'y a de vainqueur qu'Allah"
+      }
+    },
+    {
+      "id": "his-t1-0019",
+      "concept": "his.andalus.1492",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "En quelle année Grenade, dernier royaume musulman d'Espagne, tomba-t-elle ?",
+      "choices": [
+        "1492",
+        "1236",
+        "1609",
+        "711"
+      ],
+      "answer": 0,
+      "expl": "En janvier 1492, le roi Boabdil remit Grenade aux Rois catholiques. Beaucoup de musulmans et de juifs andalous trouvèrent refuge au Maroc, à Fès, Tétouan, Rabat ou Chefchaouen, où leur culture se perçoit encore dans la musique andalouse et l'architecture."
+    },
+    {
+      "id": "his-t1-0020",
+      "concept": "his.maroc.fes",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle ville fut fondée à la fin du VIIIe siècle par les Idrissides et devint la capitale spirituelle du Maroc ?",
+      "choices": [
+        "Fès",
+        "Marrakech",
+        "Rabat",
+        "Agadir"
+      ],
+      "answer": 0,
+      "expl": "Fès fut fondée par Idrīs Ier en 789 et développée par son fils Idrīs II. Elle accueillit des familles de Kairouan et de Cordoue et abrite l'université al-Qarawiyyīn. Sa médina, Fès el-Bali, est l'une des plus grandes zones piétonnes du monde."
+    },
+    {
+      "id": "his-t1-0021",
+      "concept": "his.maroc.marrakech",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle dynastie fonda Marrakech, au XIe siècle ?",
+      "choices": [
+        "Les Alaouites",
+        "Les Almoravides",
+        "Les Idrissides",
+        "Les Saadiens"
+      ],
+      "answer": 1,
+      "expl": "Marrakech fut fondée vers 1070 par les Almoravides, une dynastie berbère venue du Sahara. Elle donna son nom au pays : « Maroc » vient de « Marrakech ». Yūsuf ibn Tāshfīn en fit la capitale d'un empire allant du Sénégal à l'Espagne."
+    },
+    {
+      "id": "his-t1-0022",
+      "concept": "his.maroc.koutoubia",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Sous quelle dynastie fut édifié le minaret de la Koutoubia à Marrakech ?",
+      "choices": [
+        "Les Mérinides",
+        "Les Alaouites",
+        "Les Almohades",
+        "Les Almoravides"
+      ],
+      "answer": 2,
+      "expl": "La Koutoubia, achevée à la fin du XIIe siècle sous les Almohades, servit de modèle à la Giralda de Séville et à la tour Hassan de Rabat. Son nom vient des libraires (kutubiyyīn) qui tenaient leurs échoppes autour."
+    },
+    {
+      "id": "his-t1-0023",
+      "concept": "his.maroc.hassan2",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle grande mosquée, inaugurée en 1993, se dresse en partie au-dessus de l'océan à Casablanca ?",
+      "choices": [
+        "La Koutoubia",
+        "La mosquée al-Qarawiyyīn",
+        "La tour Hassan",
+        "La mosquée Hassan II"
+      ],
+      "answer": 3,
+      "expl": "La mosquée Hassan II, avec son minaret d'environ 210 mètres, est l'une des plus grandes du monde. Elle a été construite en partie sur la mer, en écho au verset : « … et Son Trône était sur l'eau. » Elle se visite, même pour les non-musulmans.",
+      "src": [
+        "Coran 11:7"
+      ]
+    },
+    {
+      "id": "his-t1-0024",
+      "concept": "his.maroc.rabat",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est la capitale actuelle du Maroc ?",
+      "choices": [
+        "Rabat",
+        "Casablanca",
+        "Fès",
+        "Marrakech"
+      ],
+      "answer": 0,
+      "expl": "Rabat est la capitale depuis le début du XXe siècle. Elle abrite la tour Hassan, minaret inachevé de la mosquée voulue par l'Almohade Yaʿqūb al-Manṣūr, et le mausolée de Mohammed V. Casablanca est la plus grande ville et la capitale économique."
+    },
+    {
+      "id": "his-t1-0025",
+      "concept": "his.empires.saladin",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel sultan reprit Jérusalem aux croisés en 1187 ?",
+      "choices": [
+        "Meḥmed II",
+        "Ṣalāḥ ad-Dīn",
+        "Hārūn ar-Rashīd",
+        "Yūsuf ibn Tāshfīn"
+      ],
+      "answer": 1,
+      "expl": "Ṣalāḥ ad-Dīn, d'origine kurde, vainquit les croisés à Ḥaṭṭīn puis entra à Jérusalem en 1187. Contrairement au massacre de 1099, il épargna la population et permit aux chrétiens de partir ou de rester. Même ses ennemis européens louèrent sa générosité.",
+      "src": []
+    },
+    {
+      "id": "his-t1-0026",
+      "concept": "his.empires.1453",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 1,
+      "type": "qcm",
+      "q": "En quelle année le sultan ottoman Mehmed II prit-il Constantinople, devenue Istanbul ?",
+      "choices": [
+        "1453",
+        "1187",
+        "1492",
+        "1258"
+      ],
+      "answer": 0,
+      "expl": "Le 29 mai 1453, Mehmed II, surnommé « le Conquérant » (al-Fātiḥ), prit Constantinople, capitale de l'Empire byzantin. La basilique Sainte-Sophie devint mosquée. L'Empire ottoman dura jusqu'en 1922."
+    },
+    {
+      "id": "his-t1-0027",
+      "concept": "his.empires.dates",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets ces événements dans l'ordre chronologique.",
+      "items": [
+        "Arrivée de Ṭāriq en Espagne",
+        "Fondation de Bagdad",
+        "Reprise de Jérusalem par Ṣalāḥ ad-Dīn",
+        "Prise de Constantinople par les Ottomans",
+        "Chute de Grenade"
+      ],
+      "expl": "711, 762, 1187, 1453, 1492. Ces dates jalonnent l'histoire du monde musulman, de l'expansion vers l'Occident jusqu'à la fin d'al-Andalus, la même année que l'arrivée de Colomb en Amérique."
+    },
+    {
+      "id": "his-t1-0028",
+      "concept": "his.sciences.khwarizmi",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel savant de Bagdad a donné son nom au mot « algorithme » et le titre d'un de ses livres au mot « algèbre » ?",
+      "choices": [
+        "Ibn al-Haytham",
+        "Al-Bīrūnī",
+        "Al-Khwārizmī",
+        "Ibn Sīnā"
+      ],
+      "answer": 2,
+      "expl": "Muḥammad ibn Mūsā al-Khwārizmī (IXe siècle), de la Maison de la Sagesse, écrivit un traité dont le titre contient « al-jabr », devenu « algèbre ». Son nom latinisé, Algoritmi, a donné « algorithme ». Vos téléphones lui doivent beaucoup !"
+    },
+    {
+      "id": "his-t1-0029",
+      "concept": "his.sciences.ibn-sina",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel savant, appelé Avicenne en Occident, écrivit le « Canon de la médecine », enseigné en Europe pendant des siècles ?",
+      "choices": [
+        "Ibn Rushd",
+        "Al-Ghazālī",
+        "Ibn Khaldūn",
+        "Ibn Sīnā"
+      ],
+      "answer": 3,
+      "expl": "Ibn Sīnā (980-1037), né près de Boukhara, fut médecin et philosophe. Son Canon de la médecine fut traduit en latin et servit de manuel dans les universités européennes jusqu'au XVIIe siècle. Ibn Rushd (Averroès), de Cordoue, est un autre grand philosophe."
+    },
+    {
+      "id": "his-t1-0030",
+      "concept": "his.sciences.ibn-haytham",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pour quoi Ibn al-Haytham (Alhazen) est-il célèbre ?",
+      "choices": [
+        "Ses travaux sur l'optique et la vision, avec une méthode expérimentale",
+        "L'invention de l'imprimerie",
+        "La découverte de l'Amérique",
+        "La construction de l'Alhambra"
+      ],
+      "answer": 0,
+      "expl": "Ibn al-Haytham (vers 965-1040) montra que la vision vient de la lumière qui entre dans l'œil, et non de rayons émis par l'œil. Il étudia la chambre noire et insista sur l'expérimentation. On le considère comme l'un des pères de la méthode scientifique.",
+      "retired": true
+    },
+    {
+      "id": "his-t1-0031",
+      "concept": "his.sciences.chiffres",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les chiffres que nous appelons « arabes » viennent à l'origine de l'Inde et ont été transmis à l'Europe par le monde musulman.",
+      "answer": true,
+      "expl": "Les mathématiciens musulmans, dont al-Khwārizmī, adoptèrent le système décimal indien avec le zéro, et le transmirent à l'Europe, notamment via l'Espagne. Le mot « zéro » et le mot « chiffre » viennent tous deux de l'arabe ṣifr, le vide."
+    },
+    {
+      "id": "his-t1-0032",
+      "concept": "his.sciences.idrisi",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel géographe né à Ceuta dessina pour le roi Roger II de Sicile l'une des cartes du monde les plus précises du Moyen Âge ?",
+      "choices": [
+        "Al-Khwārizmī",
+        "Al-Idrīsī",
+        "Ibn Baṭṭūṭa",
+        "Ibn Khaldūn"
+      ],
+      "answer": 1,
+      "expl": "Al-Idrīsī (XIIe siècle), formé à Cordoue, réalisa à Palerme un planisphère et un livre de géographie, « le divertissement de celui qui désire parcourir le monde ». Ibn Baṭṭūṭa fut un voyageur, Ibn Khaldūn un historien."
+    },
+    {
+      "id": "his-t1-0033",
+      "concept": "his.architecture.mosquee",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque élément d'une mosquée à sa fonction.",
+      "pairs": [
+        [
+          "Le miḥrāb",
+          "La niche qui indique la direction de la qibla"
+        ],
+        [
+          "Le minbar",
+          "La chaire d'où l'imam prononce le sermon"
+        ],
+        [
+          "Le minaret",
+          "La tour d'où l'on appelle à la prière"
+        ],
+        [
+          "La salle de prière",
+          "Le lieu où l'on se met en rangs"
+        ]
+      ],
+      "expl": "Le minbar du Prophète ﷺ n'avait que trois marches. Le minaret est apparu plus tard, au premier siècle de l'islam ; au début, Bilāl appelait depuis le toit d'une maison voisine.",
+      "pron": {
+        "Le miḥrāb": "mih-râb",
+        "Le minbar": "min-bar"
+      }
+    },
+    {
+      "id": "his-t1-0034",
+      "concept": "his.architecture.kaaba",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que la Kaʿba ?",
+      "choices": [
+        "La plus haute montagne de La Mecque",
+        "Le palais du Prophète ﷺ à Médine",
+        "L'édifice cubique vers lequel on prie",
+        "Une grande mosquée de Jérusalem"
+      ],
+      "answer": 2,
+      "expl": "La Kaʿba, « le cube », est la Maison bâtie par Ibrāhīm et Ismāʿīl pour l'adoration d'Allah. Elle est recouverte d'un voile noir brodé d'or, la kiswa, changé chaque année. Les musulmans ne l'adorent pas : ils adorent Allah en se tournant vers elle.",
+      "src": [
+        "Coran 2:127",
+        "Coran 3:96"
+      ],
+      "ar": {
+        "text": "الْكَعْبَة",
+        "tr": "al-kaʿba",
+        "pr": "al-kaʿ-ba",
+        "fr": "le cube"
+      }
+    },
+    {
+      "id": "his-t1-0035",
+      "concept": "his.architecture.trois-mosquees",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le hadith, on n'entreprend un voyage spécialement pour prier que vers trois mosquées : celle de La Mecque, celle de Médine et al-Aqṣā.",
+      "answer": true,
+      "expl": "« On ne se met en route que vers trois mosquées : la Mosquée sacrée, ma mosquée que voici, et la mosquée al-Aqṣā. » Une prière dans la Mosquée sacrée vaut cent mille prières, et mille dans celle du Prophète ﷺ selon d'autres hadiths.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "his-t1-0036",
+      "concept": "his.califat.hegire-annee",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 1,
+      "type": "nombre",
+      "q": "En quelle année de l'ère commune commence le calendrier de l'Hégire ?",
+      "answer": 622,
+      "unit": "",
+      "expl": "En 622, année où le Prophète ﷺ émigra de La Mecque à Médine. Ce n'est pas sa naissance (vers 570) ni le début de la révélation (610) qui ont été choisis, mais la naissance de la première communauté libre de pratiquer."
+    },
+    {
+      "id": "his-t1-0037",
+      "concept": "his.maroc.uqba",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel conquérant arabe atteignit l'Atlantique au Maroc vers 680, et aurait dit que seule la mer l'empêchait d'aller plus loin ?",
+      "choices": [
+        "ʿUqba ibn Nāfiʿ",
+        "Ṭāriq ibn Ziyād",
+        "Idrīs Ier",
+        "Mūsā ibn Nuṣayr"
+      ],
+      "answer": 0,
+      "expl": "ʿUqba ibn Nāfiʿ, fondateur de Kairouan, mena une grande expédition jusqu'à l'océan. Selon le récit, il fit entrer son cheval dans l'eau en prenant Allah à témoin qu'il serait allé plus loin si la mer ne l'avait arrêté. L'islam se diffusa ensuite progressivement parmi les Berbères (Amazighs)."
+    },
+    {
+      "id": "his-t1-0038",
+      "concept": "his.maroc.amazigh",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "vf",
+      "q": "La majorité des Marocains ont des racines amazighes (berbères), et beaucoup de grandes dynasties marocaines étaient amazighes.",
+      "answer": true,
+      "expl": "Les Amazighs, premiers habitants de l'Afrique du Nord, embrassèrent l'islam au fil des VIIe et VIIIe siècles. Ṭāriq ibn Ziyād, les Almoravides, les Almohades et les Mérinides étaient amazighs. Depuis 2011, l'amazighe est langue officielle du Maroc aux côtés de l'arabe."
+    },
+    {
+      "id": "his-t1-0039",
+      "concept": "his.maroc.qarawiyyin",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle institution de Fès, fondée en 859, est souvent citée comme la plus ancienne université encore en activité au monde ?",
+      "choices": [
+        "La Zitouna",
+        "Al-Qarawiyyīn",
+        "Al-Azhar",
+        "La Sorbonne"
+      ],
+      "answer": 1,
+      "expl": "La mosquée-université al-Qarawiyyīn fut fondée par Fāṭima al-Fihriyya, une femme venue de Kairouan, avec l'héritage de son père. On y enseignait le fiqh, la grammaire, mais aussi l'astronomie et les mathématiques. Al-Azhar, au Caire, date de 970."
+    },
+    {
+      "id": "his-t1-0040",
+      "concept": "his.sciences.al-azhar",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans quelle ville se trouve al-Azhar, grande mosquée-université fondée en 970 ?",
+      "choices": [
+        "Damas",
+        "Bagdad",
+        "Le Caire",
+        "Fès"
+      ],
+      "answer": 2,
+      "expl": "Al-Azhar fut fondée par les Fatimides au Caire, puis devint un grand centre du sunnisme. Elle attire encore des étudiants du monde entier. Avec al-Qarawiyyīn de Fès et la Zitouna de Tunis, elle fait partie des plus anciennes universités du monde musulman."
+    },
+    {
+      "id": "his-t1-0041",
+      "concept": "his.sciences.mots-arabes",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "paires",
+      "q": "Ces mots français viennent de l'arabe. Associe chacun à son origine.",
+      "pairs": [
+        [
+          "Algèbre",
+          "al-jabr, la réduction"
+        ],
+        [
+          "Chiffre",
+          "ṣifr, le vide (le zéro)"
+        ],
+        [
+          "Sucre",
+          "sukkar"
+        ],
+        [
+          "Magasin",
+          "makhāzin, les entrepôts"
+        ],
+        [
+          "Amiral",
+          "amīr, le commandant"
+        ]
+      ],
+      "expl": "Des centaines de mots français viennent de l'arabe, souvent passés par l'espagnol ou l'italien : café, coton, jupe, sirop, matelas, élixir… Ils témoignent des échanges entre le monde musulman et l'Europe au Moyen Âge."
+    },
+    {
+      "id": "his-t1-0042",
+      "concept": "his.sciences.cafe",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Où le café fut-il popularisé, au XVe siècle, avant de se répandre dans le monde entier ?",
+      "choices": [
+        "En France, à la cour du roi Louis XIV",
+        "En Chine, dans les monastères bouddhistes",
+        "Au Brésil, dans les grandes plantations",
+        "Au Yémen, chez des soufis veillant la nuit"
+      ],
+      "answer": 3,
+      "expl": "Les soufis du Yémen buvaient le café (qahwa) pour rester éveillés pendant leurs dhikr nocturnes. La boisson gagna La Mecque, Le Caire, Istanbul, puis l'Europe au XVIIe siècle. Le port yéménite de Moka a donné son nom à un café."
+    },
+    {
+      "id": "his-t1-0043",
+      "concept": "his.sciences.echecs",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Par quel intermédiaire le jeu d'échecs, venu de l'Inde et de la Perse, est-il arrivé en Europe ?",
+      "choices": [
+        "Par le monde musulman et l'Andalousie",
+        "Par les Vikings venus de Scandinavie",
+        "Par les marins portugais du XVIe siècle",
+        "Par les Mongols de Gengis Khan"
+      ],
+      "answer": 0,
+      "expl": "Les échecs passèrent de l'Inde à la Perse, puis furent très pratiqués à Bagdad et en Andalousie, d'où ils gagnèrent l'Europe. L'expression « échec et mat » vient du persan-arabe « shāh māt », le roi est vaincu."
+    },
+    {
+      "id": "his-t1-0044",
+      "concept": "his.architecture.calligraphie",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment s'appelle le style d'écriture arabe utilisé traditionnellement au Maroc pour copier le Coran ?",
+      "choices": [
+        "Le latin",
+        "Le maghribī",
+        "Le kūfī uniquement",
+        "Le hiéroglyphe"
+      ],
+      "answer": 1,
+      "expl": "L'écriture maghribī, aux lettres arrondies, est propre au Maghreb et à l'Andalousie ; le fāʾ y porte un point en dessous et le qāf un seul point au-dessus. Le kūfī, angulaire, est l'un des plus anciens styles, et le naskh est le plus répandu dans les livres imprimés."
+    },
+    {
+      "id": "his-t1-0045",
+      "concept": "his.sciences.tombouctou",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pour quoi la ville de Tombouctou, au Mali, est-elle célèbre ?",
+      "choices": [
+        "Ses pyramides et ses temples anciens",
+        "Ses gratte-ciel et son grand port",
+        "Ses manuscrits et ses mosquées de terre",
+        "Ses mines de sel et de diamants"
+      ],
+      "answer": 2,
+      "expl": "Aux XVe et XVIe siècles, Tombouctou était un grand carrefour du commerce transsaharien et du savoir malikite. Des familles y conservent encore des dizaines de milliers de manuscrits d'astronomie, de médecine, de fiqh et de poésie. Le Maroc y était lié par les caravanes."
+    },
+    {
+      "id": "his-t1-0046",
+      "concept": "his.empires.indonesie",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment l'islam s'est-il principalement répandu en Indonésie et en Malaisie ?",
+      "choices": [
+        "Par une grande conquête militaire",
+        "Par décret d'un sultan ottoman",
+        "Par des missionnaires d'Arabie au VIIe siècle",
+        "Par les commerçants et les soufis"
+      ],
+      "answer": 3,
+      "expl": "Aucune armée musulmane n'a conquis l'Indonésie : l'islam y est arrivé par les marchands d'Inde, d'Arabie et de Perse, puis s'est répandu par la prédication, les mariages et les confréries. C'est aujourd'hui le premier pays musulman du monde par la population."
+    },
+    {
+      "id": "his-t1-0047",
+      "concept": "his.architecture.mille-une-nuits",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans quelle ville se déroulent beaucoup des contes des Mille et Une Nuits, au temps du calife Hārūn ar-Rashīd ?",
+      "choices": [
+        "Bagdad",
+        "Fès",
+        "Cordoue",
+        "Le Caire uniquement"
+      ],
+      "answer": 0,
+      "expl": "Shéhérazade raconte ses histoires au roi pendant mille et une nuits. Beaucoup de contes ont pour décor la Bagdad abbasside. Le recueil, d'origines persane, indienne et arabe, fut traduit en français par Antoine Galland au début du XVIIIe siècle."
+    },
+    {
+      "id": "his-t1-0048",
+      "concept": "his.califat.fiche-chrono",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Repères : les grandes dynasties",
+      "points": [
+        "632-661 : les quatre califes bien guidés (Médine, puis Kūfa)",
+        "661-750 : les Omeyyades (Damas)",
+        "750-1258 : les Abbassides (Bagdad)",
+        "711-1492 : al-Andalus (Espagne musulmane)",
+        "1299-1922 : l'Empire ottoman (Istanbul)"
+      ],
+      "expl": "Quelques dates pour situer les événements. Pas besoin de tout retenir : l'ordre suffit pour commencer."
+    },
+    {
+      "id": "his-t1-0049",
+      "concept": "his.maroc.fiche-dynasties",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les dynasties du Maroc",
+      "points": [
+        "Idrissides (788) : Idrīs Ier, fondation de Fès",
+        "Almoravides (XIe s.) : fondation de Marrakech",
+        "Almohades (XIIe s.) : la Koutoubia, la tour Hassan",
+        "Mérinides (XIIIe-XVe s.) : les médersas de Fès",
+        "Saadiens (XVIe s.) puis Alaouites (depuis 1631), la dynastie actuelle"
+      ],
+      "expl": "Depuis plus de douze siècles, le Maroc est un royaume musulman. Chaque dynastie a laissé des monuments et des savants."
+    },
+    {
+      "id": "his-t1-0050",
+      "concept": "his.maroc.fiche-meknes",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Meknès, la ville de Moulay Ismaïl",
+      "points": [
+        "Bāb al-Manṣūr : l'une des plus belles portes du Maroc",
+        "Le mausolée de Moulay Ismaʿīl",
+        "Des greniers et écuries géants",
+        "Ville impériale classée à l'UNESCO (1996)"
+      ],
+      "expl": "Meknès fut la capitale du sultan alaouite Moulay Ismaʿīl (règne 1672-1727). Il en fit une ville impériale aux murailles immenses, surnommée parfois « le Versailles marocain ». Il entretenait des relations avec Louis XIV."
+    },
+    {
+      "id": "his-t1-0051",
+      "concept": "his.andalus.fiche-andalus",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Al-Andalus : huit siècles en Espagne",
+      "points": [
+        "Cordoue : la Grande Mosquée, l'une des plus grandes villes d'Europe",
+        "Grenade : l'Alhambra, dernier royaume (chute en 1492)",
+        "Des savants : Ibn Rushd (Averroès), Ibn Ḥazm",
+        "Liens étroits avec le Maroc : mêmes dynasties, mêmes savants"
+      ],
+      "expl": "En 711, Ṭāriq ibn Ziyād, chef d'origine amazighe, traversa le détroit qui porte son nom : Gibraltar, de Jabal Ṭāriq, « la montagne de Ṭāriq ». Al-Andalus devint un foyer de science, de poésie et d'architecture.",
+      "ar": {
+        "text": "جَبَلُ طَارِق",
+        "tr": "Jabal Ṭāriq",
+        "pr": "dja-bal tâ-riq",
+        "fr": "la montagne de Ṭāriq (Gibraltar)"
+      }
+    },
+    {
+      "id": "his-t1-0052",
+      "concept": "his.sciences.fiche-age-or",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "fiche",
+      "q": "L'âge d'or des sciences",
+      "points": [
+        "Al-Khwārizmī : l'algèbre (al-jabr) et l'algorithme",
+        "Ibn Sīnā (Avicenne) : le Canon de la médecine",
+        "Ibn al-Haytham : l'optique et la méthode expérimentale",
+        "Al-Idrīsī (né à Ceuta) : la carte du monde",
+        "Ibn Khaldūn : l'histoire et la sociologie"
+      ],
+      "expl": "Le Coran encourage à observer et à réfléchir. Du VIIIe au XIVe siècle, les savants musulmans ont fait avancer les mathématiques, la médecine, l'astronomie et l'optique, et transmis ce savoir à l'Europe."
+    },
+    {
+      "id": "his-t1-0053",
+      "concept": "his.maroc.idris-fes",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui a fondé la ville de Fès ?",
+      "choices": [
+        "Les Idrissides",
+        "Les Almoravides",
+        "Les Saadiens",
+        "Les Romains"
+      ],
+      "answer": 0,
+      "expl": "Idrīs Ier, descendant du Prophète ﷺ par al-Ḥasan, arriva au Maroc en 788. Fès fut fondée vers 789 et développée par son fils Idrīs II. Moulay Idrīs Zerhoun, près de Meknès, abrite le tombeau d'Idrīs Ier."
+    },
+    {
+      "id": "his-t1-0054",
+      "concept": "his.maroc.zerhoun",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle ville sainte, toute proche de Meknès, abrite le tombeau du fondateur du premier État musulman marocain ?",
+      "choices": [
+        "Moulay Bousselham",
+        "Moulay Idrīs Zerhoun",
+        "Azrou",
+        "Sefrou"
+      ],
+      "answer": 1,
+      "expl": "Moulay Idrīs Zerhoun est un haut lieu de pèlerinage local. Juste à côté se trouvent les ruines romaines de Volubilis, où Idrīs Ier fut accueilli par les tribus amazighes."
+    },
+    {
+      "id": "his-t1-0055",
+      "concept": "his.maroc.qarawiyyin-plus-ancienne",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pourquoi l'université al-Qarawiyyīn de Fès est-elle célèbre ?",
+      "choices": [
+        "Plus grande mosquée du monde",
+        "Plus haut minaret d'Afrique",
+        "Plus ancienne université encore active",
+        "Première école coranique du Maroc"
+      ],
+      "answer": 2,
+      "expl": "Fondée en 859 par Fāṭima al-Fihriyya, une femme venue de Kairouan, elle a formé de grands savants. L'UNESCO et le Guinness la citent comme la plus ancienne université en activité."
+    },
+    {
+      "id": "his-t1-0056",
+      "concept": "his.maroc.hassan2-mer",
+      "domain": "histoire",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle particularité a la mosquée Hassan II de Casablanca ?",
+      "choices": [
+        "Elle est entièrement en or massif",
+        "Elle est la plus ancienne du Maroc",
+        "Elle est creusée dans la montagne",
+        "Elle est en partie bâtie sur l'océan"
+      ],
+      "answer": 3,
+      "expl": "Inaugurée en 1993, elle possède l'un des plus hauts minarets du monde (210 m) et une partie de sa salle repose au-dessus de l'océan, rappelant le verset : « Et Son Trône était sur l'eau » (11:7).",
+      "src": [
+        "Coran 11:7"
+      ]
+    },
+    {
+      "id": "his-t1-0057",
+      "concept": "his.califat.umar-calendrier",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Sous quel calife le calendrier hégirien a-t-il été adopté ?",
+      "choices": [
+        "ʿUmar ibn al-Khaṭṭāb",
+        "Abū Bakr",
+        "ʿAlī",
+        "Hārūn ar-Rashīd"
+      ],
+      "answer": 0,
+      "expl": "Vers 638, ʿUmar et les Compagnons choisirent l'Hégire (622) comme point de départ : l'événement qui fonda la communauté de Médine.",
+      "retired": true
+    },
+    {
+      "id": "his-t1-0058",
+      "concept": "his.califat.jerusalem-cles",
+      "domain": "histoire",
+      "sub": "califat",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel calife reçut les clés de Jérusalem en 638 et garantit la sécurité des chrétiens ?",
+      "choices": [
+        "Saladin",
+        "ʿUmar ibn al-Khaṭṭāb",
+        "ʿUthmān",
+        "Muʿāwiya"
+      ],
+      "answer": 1,
+      "expl": "ʿUmar vint en personne, humblement. Il signa un pacte protégeant les églises et les habitants. Il refusa de prier dans l'église du Saint-Sépulcre pour qu'elle ne soit pas transformée en mosquée plus tard.",
+      "retired": true
+    },
+    {
+      "id": "his-t1-0059",
+      "concept": "his.omeyyades.dome-rocher",
+      "domain": "histoire",
+      "sub": "omeyyades",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel monument de Jérusalem, construit en 691, est l'un des plus anciens de l'islam ?",
+      "choices": [
+        "Le Taj Mahal",
+        "L'Alhambra",
+        "Le Dôme du Rocher",
+        "La mosquée bleue"
+      ],
+      "answer": 2,
+      "expl": "Construit par le calife omeyyade ʿAbd al-Malik sur le rocher d'où le Prophète ﷺ serait monté aux cieux lors du Miʿrāj. Il se trouve sur l'esplanade de la mosquée al-Aqṣā."
+    },
+    {
+      "id": "his-t1-0060",
+      "concept": "his.abbassides.bayt-hikma",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'était la Maison de la Sagesse (Bayt al-Ḥikma) à Bagdad ?",
+      "choices": [
+        "Un palais royal",
+        "Une prison",
+        "Un marché",
+        "Un grand centre de traduction et de recherche"
+      ],
+      "answer": 3,
+      "expl": "On y traduisait en arabe les œuvres grecques, perses et indiennes, et des savants y faisaient avancer les sciences. Ce savoir passa plus tard en Europe par l'Espagne et la Sicile.",
+      "retired": true
+    },
+    {
+      "id": "his-t1-0061",
+      "concept": "his.andalus.tariq",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui a donné son nom au détroit de Gibraltar ?",
+      "choices": [
+        "Ṭāriq ibn Ziyād",
+        "ʿUqba ibn Nāfiʿ",
+        "Mūsā ibn Nuṣayr",
+        "Saladin"
+      ],
+      "answer": 0,
+      "expl": "Gibraltar vient de « Jabal Ṭāriq », la montagne de Ṭāriq. Ce chef amazigh y débarqua en 711."
+    },
+    {
+      "id": "his-t1-0062",
+      "concept": "his.andalus.cordoue-mosquee",
+      "domain": "histoire",
+      "sub": "andalus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel célèbre monument se trouve à Cordoue, en Espagne ?",
+      "choices": [
+        "La tour Eiffel de l'Andalousie",
+        "La Grande Mosquée aux arcs rouges et blancs",
+        "Le palais de l'Alhambra et ses jardins",
+        "La cathédrale gothique de Notre-Dame"
+      ],
+      "answer": 1,
+      "expl": "Commencée en 785 par ʿAbd ar-Raḥmān Ier, elle est célèbre pour sa forêt de colonnes et ses arcs bicolores. Elle fut transformée en cathédrale après 1236."
+    },
+    {
+      "id": "his-t1-0063",
+      "concept": "his.empires.saladin-jerusalem",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment Saladin traita-t-il les habitants de Jérusalem après l'avoir reprise en 1187 ?",
+      "choices": [
+        "Il fit exécuter tous les habitants",
+        "Il les vendit tous comme esclaves",
+        "Avec clémence : partir ou rester en sécurité",
+        "Il les chassa sans leurs biens"
+      ],
+      "answer": 2,
+      "expl": "Contrairement au massacre de 1099 lors de la prise par les croisés, Ṣalāḥ ad-Dīn épargna la population. Sa générosité impressionna même ses ennemis européens."
+    },
+    {
+      "id": "his-t1-0064",
+      "concept": "his.empires.ottomans-istanbul",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle ville le sultan ottoman Meḥmed II a-t-il conquise en 1453 ?",
+      "choices": [
+        "Jérusalem",
+        "Bagdad",
+        "Le Caire",
+        "Constantinople"
+      ],
+      "answer": 3,
+      "expl": "Meḥmed II, alors âgé de 21 ans, prit Constantinople, capitale byzantine. Elle devint Istanbul, capitale ottomane jusqu'en 1922."
+    },
+    {
+      "id": "his-t1-0065",
+      "concept": "his.sciences.algorithme",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "D'où vient le mot « algorithme » ?",
+      "choices": [
+        "Du nom du mathématicien al-Khwārizmī",
+        "Du grec algos",
+        "Du latin",
+        "Du nom d'une ville"
+      ],
+      "answer": 0,
+      "expl": "Al-Khwārizmī (IXe s.) travaillait à la Maison de la Sagesse. Son livre « al-jabr » a donné le mot « algèbre », et son nom a donné « algorithme ».",
+      "retired": true
+    },
+    {
+      "id": "his-t1-0066",
+      "concept": "his.sciences.mots",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe ces mots français à leur origine arabe.",
+      "pairs": [
+        [
+          "Café",
+          "qahwa"
+        ],
+        [
+          "Sucre",
+          "sukkar"
+        ],
+        [
+          "Algèbre",
+          "al-jabr"
+        ],
+        [
+          "Chiffre",
+          "ṣifr (zéro)"
+        ]
+      ],
+      "expl": "Des centaines de mots français viennent de l'arabe : alcôve, coton, jupe, magasin, matelas, sirop… Signe d'échanges très anciens."
+    },
+    {
+      "id": "his-t1-0067",
+      "concept": "his.sciences.ibn-battuta",
+      "domain": "histoire",
+      "sub": "sciences",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui était Ibn Baṭṭūṭa ?",
+      "choices": [
+        "Un sultan mérinide de Fès",
+        "Un voyageur de Tanger du XIVe siècle",
+        "Un savant andalou de Cordoue",
+        "Un poète de la cour de Bagdad"
+      ],
+      "answer": 1,
+      "expl": "Parti de Tanger en 1325 pour le pèlerinage, il voyagea près de 30 ans jusqu'en Chine et en Afrique de l'Ouest, soit environ 120 000 km. Son récit, la Riḥla, est un trésor historique."
+    },
+    {
+      "id": "his-t1-0068",
+      "concept": "his.architecture.minaret-maroc",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle forme a traditionnellement le minaret marocain ?",
+      "choices": [
+        "Un dôme",
+        "Une pyramide",
+        "Une tour carrée",
+        "Une tour ronde très fine"
+      ],
+      "answer": 2,
+      "expl": "Le minaret carré est typique du Maghreb et d'al-Andalus : la Koutoubia à Marrakech, la tour Hassan à Rabat, la Giralda à Séville (ancien minaret almohade)."
+    },
+    {
+      "id": "his-t1-0069",
+      "concept": "his.architecture.zellige",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que le zellige ?",
+      "choices": [
+        "Un tapis berbère tissé à la main",
+        "Une poterie peinte de Safi",
+        "Un bijou d'argent amazigh",
+        "Une mosaïque de carreaux émaillés"
+      ],
+      "answer": 3,
+      "expl": "Les artisans de Fès taillent à la main de petites pièces colorées pour former des motifs géométriques, souvent des étoiles. L'art islamique évite de représenter les êtres vivants dans les lieux de culte et développe la géométrie."
+    },
+    {
+      "id": "his-t1-0070",
+      "concept": "his.moderne.independance",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 1,
+      "type": "qcm",
+      "q": "En quelle année le Maroc est-il devenu indépendant ?",
+      "choices": [
+        "1956",
+        "1912",
+        "1962",
+        "1945"
+      ],
+      "answer": 0,
+      "expl": "Sous protectorat français et espagnol depuis 1912, le Maroc retrouva son indépendance en 1956 sous le sultan Mohammed V, devenu roi. Le roi y porte le titre de « Commandeur des croyants »."
+    },
+    {
+      "id": "his-t1-0071",
+      "concept": "his.moderne.amir-muminin",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 1,
+      "type": "vf",
+      "q": "Au Maroc, le roi porte le titre de « Commandeur des croyants » (Amīr al-Muʾminīn).",
+      "answer": true,
+      "expl": "Ce titre, porté en premier par le calife ʿUmar, fait du roi le garant de l'islam marocain : fiqh malikite, croyance ashʿarite, soufisme d'al-Junayd. Il est inscrit dans la Constitution."
+    },
+    {
+      "id": "his-t1-0072",
+      "concept": "his.moderne.mohammed-v",
+      "domain": "histoire",
+      "sub": "moderne",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel roi est le symbole de l'indépendance du Maroc ?",
+      "choices": [
+        "Mohammed V",
+        "Hassan II",
+        "Moulay Ismaʿīl",
+        "Idrīs Ier"
+      ],
+      "answer": 0,
+      "expl": "Exilé par la France à Madagascar en 1953, il revint triomphalement en 1955. Il refusa aussi, pendant la Seconde Guerre mondiale, de livrer les juifs marocains au régime de Vichy."
+    },
+    {
+      "id": "his-t1-0073",
+      "concept": "his.architecture.medersa",
+      "domain": "histoire",
+      "sub": "architecture",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'une médersa (madrasa) ?",
+      "choices": [
+        "Un marché couvert de la médina",
+        "Une école de sciences religieuses",
+        "Une caserne pour les soldats",
+        "Un bain public traditionnel"
+      ],
+      "answer": 1,
+      "expl": "Les médersas mérinides de Fès (Bou Inania, al-ʿAṭṭārīn) sont des chefs-d'œuvre de zellige, de plâtre sculpté et de bois de cèdre. La médersa Ben Youssef de Marrakech accueillait des centaines d'étudiants."
+    },
+    {
+      "id": "his-t1-0074",
+      "concept": "his.empires.mali-mansa",
+      "domain": "histoire",
+      "sub": "empires",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel roi musulman d'Afrique de l'Ouest est célèbre pour son pèlerinage fastueux en 1324 ?",
+      "choices": [
+        "Soliman le Magnifique",
+        "Hārūn ar-Rashīd",
+        "Mansa Moussa, roi du Mali",
+        "Saladin"
+      ],
+      "answer": 2,
+      "expl": "Il distribua tant d'or au Caire que le cours de l'or chuta pendant des années. Il fit bâtir des mosquées à Tombouctou, grand centre de savoir lié au Maroc."
+    },
+    {
+      "id": "his-t1-0075",
+      "concept": "his.abbassides.harun",
+      "domain": "histoire",
+      "sub": "abbassides",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel calife abbasside des « Mille et une nuits » envoya une horloge à Charlemagne ?",
+      "choices": [
+        "ʿUmar",
+        "ʿAbd al-Malik",
+        "Saladin",
+        "Hārūn ar-Rashīd"
+      ],
+      "answer": 3,
+      "expl": "Hārūn ar-Rashīd (786-809) régnait sur Bagdad à son apogée. L'horloge à eau qu'il offrit à Charlemagne impressionna la cour franque."
+    }
+  ]
+}

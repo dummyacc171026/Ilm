@@ -1,0 +1,2361 @@
+{
+  "pack": "prophetes-t1",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "pro-t1-0001",
+      "concept": "pro.adam.premier",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui fut le premier être humain et le premier prophète ?",
+      "choices": [
+        "Ādam",
+        "Nūḥ (Noé)",
+        "Ibrāhīm (Abraham)",
+        "Idrīs"
+      ],
+      "answer": 0,
+      "expl": "Allah a créé Ādam de terre, lui a insufflé une âme, lui a enseigné les noms de toutes choses et a ordonné aux anges de se prosterner devant lui. Iblīs refusa par orgueil. Ādam est le père de l'humanité et le premier prophète.",
+      "src": [
+        "Coran 2:30-37",
+        "Coran 15:28-29"
+      ],
+      "tags": [
+        "prophete:adam"
+      ]
+    },
+    {
+      "id": "pro-t1-0002",
+      "concept": "pro.general.noms-francais",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque prophète à son nom en français.",
+      "pairs": [
+        [
+          "Mūsā",
+          "Moïse"
+        ],
+        [
+          "ʿĪsā",
+          "Jésus"
+        ],
+        [
+          "Ibrāhīm",
+          "Abraham"
+        ],
+        [
+          "Nūḥ",
+          "Noé"
+        ],
+        [
+          "Yūsuf",
+          "Joseph"
+        ]
+      ],
+      "expl": "Beaucoup de prophètes de l'islam sont aussi ceux de la Bible : les musulmans croient en eux tous, sans faire de différence entre eux dans la foi. Le Coran raconte leurs histoires pour en tirer des leçons, parfois avec des détails différents des récits bibliques.",
+      "src": [
+        "Coran 2:136"
+      ],
+      "tags": [
+        "prophete:musa",
+        "prophete:isa",
+        "prophete:ibrahim",
+        "prophete:nuh",
+        "prophete:yusuf"
+      ]
+    },
+    {
+      "id": "pro-t1-0003",
+      "concept": "pro.general.nombre-cites",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de prophètes sont cités nommément dans le Coran ?",
+      "answer": 25,
+      "expl": "Le Coran nomme 25 prophètes, d'Ādam à Muḥammad ﷺ. Mais il y en a eu bien plus : Allah dit qu'Il a envoyé des messagers « dont Nous t'avons raconté l'histoire, et d'autres dont Nous ne t'avons pas raconté l'histoire ». Chaque peuple a reçu un avertisseur.",
+      "src": [
+        "Coran 4:164",
+        "Coran 35:24"
+      ],
+      "note": "Le chiffre de 25 est le décompte habituel ; certains savants discutent du statut de quelques personnages, comme Dhū l-Kifl ou Luqmān."
+    },
+    {
+      "id": "pro-t1-0004",
+      "concept": "pro.ibrahim.feu",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel prophète son peuple jeta-t-il dans un immense feu, qu'Allah rendit frais et paisible ?",
+      "choices": [
+        "Ibrāhīm",
+        "Nūḥ",
+        "Mūsā",
+        "Yūsuf"
+      ],
+      "answer": 0,
+      "expl": "Ibrāhīm avait brisé les idoles de son peuple pour leur montrer qu'elles ne pouvaient rien. Ils le jetèrent au feu, et Allah ordonna : « Ô feu, sois fraîcheur et paix pour Ibrāhīm ! » Il en sortit indemne.",
+      "src": [
+        "Coran 21:51-70"
+      ],
+      "tags": [
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "pro-t1-0005",
+      "concept": "pro.yunus-autres.yunus",
+      "domain": "prophetes",
+      "sub": "yunus-autres",
+      "tier": 1,
+      "type": "qsj",
+      "q": "Qui suis-je ?",
+      "clues": [
+        "J'ai quitté mon peuple, en colère, avant qu'Allah ne me le permette.",
+        "Dans les ténèbres, j'ai invoqué : « Il n'y a de divinité que Toi, gloire à Toi, j'ai été parmi les injustes. »",
+        "Un énorme poisson m'a avalé, puis m'a rejeté sur le rivage."
+      ],
+      "choices": [
+        "Yūnus (Jonas)",
+        "Ayyūb (Job)",
+        "Mūsā (Moïse)",
+        "Nūḥ (Noé)"
+      ],
+      "answer": 0,
+      "expl": "Yūnus est appelé dans le Coran « Dhū n-Nūn », l'homme au poisson. Son invocation dans le ventre du poisson est un modèle de repentir : le Prophète ﷺ a dit qu'aucun musulman ne l'invoque dans une détresse sans qu'Allah lui réponde. Son peuple finit par croire, et Allah l'épargna.",
+      "src": [
+        "Coran 21:87-88",
+        "Coran 37:139-148",
+        "Hadith de Saʿd — Tirmidhi"
+      ],
+      "ar": {
+        "text": "لَا إِلٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+        "tr": "lā ilāha illā anta, subḥānaka, innī kuntu mina ẓ-ẓālimīn",
+        "fr": "pas de divinité à part Toi, gloire à Toi, j'ai été parmi les injustes",
+        "pr": "lâ i-lâ-ha il-lâ an-ta, soub-hâ-na-ka, in-nî koun-tou mi-naz-zâ-li-mîn"
+      },
+      "tags": [
+        "prophete:yunus"
+      ]
+    },
+    {
+      "id": "pro-t1-0006",
+      "concept": "pro.nuh.arche",
+      "domain": "prophetes",
+      "sub": "nuh",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel prophète construisit une arche sur l'ordre d'Allah, avant le Déluge ?",
+      "choices": [
+        "Nūḥ (Noé)",
+        "Hūd",
+        "Ādam",
+        "Sulaymān (Salomon)"
+      ],
+      "answer": 0,
+      "expl": "Nūḥ appela son peuple pendant « mille ans moins cinquante ans », mais peu le suivirent. Allah lui ordonna de construire l'arche ; les croyants y montèrent avec un couple de chaque espèce, et les autres furent engloutis, y compris l'un de ses fils.",
+      "src": [
+        "Coran 11:36-48",
+        "Coran 29:14"
+      ],
+      "tags": [
+        "prophete:nuh"
+      ]
+    },
+    {
+      "id": "pro-t1-0007",
+      "concept": "pro.general.ulu-l-azm",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquels font partie des cinq messagers « doués de fermeté » (Ulū l-ʿAzm) ?",
+      "choices": [
+        "Nūḥ",
+        "Ibrāhīm",
+        "Yūsuf",
+        "Mūsā",
+        "ʿĪsā",
+        "Muḥammad ﷺ"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "expl": "Les savants comptent parmi les Ulū l-ʿAzm, les plus grands des messagers par leur endurance, Nūḥ, Ibrāhīm, Mūsā, ʿĪsā et Muḥammad ﷺ, cités ensemble dans le Coran (33:7 et 42:13). Yūsuf est un immense prophète, mais il n'est pas compté parmi ces cinq.",
+      "src": [
+        "Coran 46:35",
+        "Coran 33:7",
+        "Coran 42:13"
+      ],
+      "ar": {
+        "text": "أُولُو الْعَزْمِ",
+        "tr": "ulū l-ʿazm",
+        "pr": "ou-loul-ʿazm",
+        "fr": "les doués de fermeté"
+      },
+      "tags": [
+        "prophete:nuh",
+        "prophete:ibrahim",
+        "prophete:musa",
+        "prophete:isa",
+        "prophete:muhammad"
+      ]
+    },
+    {
+      "id": "pro-t1-0008",
+      "concept": "pro.general.ulu-l-azm",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de messagers compte-t-on parmi les Ulū l-ʿAzm (les doués de fermeté) ?",
+      "answer": 5,
+      "expl": "Cinq : Nūḥ, Ibrāhīm, Mūsā, ʿĪsā et Muḥammad ﷺ. Le Coran dit au Prophète ﷺ : « Endure donc, comme ont enduré les messagers doués de fermeté. » Leurs vies racontent toutes une grande patience face au rejet.",
+      "src": [
+        "Coran 46:35"
+      ]
+    },
+    {
+      "id": "pro-t1-0009",
+      "concept": "pro.general.tous-musulmans",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le Coran, Ibrāhīm « n'était ni juif ni chrétien, mais un croyant sincère, soumis à Allah (muslim) ».",
+      "answer": true,
+      "expl": "« Ibrāhīm n'était ni juif ni chrétien, mais il était un ḥanīf, soumis (muslim). » Au sens premier, tous les prophètes étaient « musulmans » : soumis à Allah seul. L'islam se voit ainsi comme la continuité de la religion de tous les prophètes.",
+      "src": [
+        "Coran 3:67"
+      ],
+      "tags": [
+        "prophete:ibrahim",
+        "sourate:3"
+      ]
+    },
+    {
+      "id": "pro-t1-0010",
+      "concept": "pro.hud-salih.peuples",
+      "domain": "prophetes",
+      "sub": "hud-salih",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque prophète au peuple auquel il a été envoyé.",
+      "pairs": [
+        [
+          "Hūd",
+          "Le peuple de ʿĀd"
+        ],
+        [
+          "Ṣāliḥ",
+          "Le peuple de Thamūd"
+        ],
+        [
+          "Shuʿayb",
+          "Les gens de Madyan"
+        ],
+        [
+          "Lūṭ",
+          "Le peuple de Sodome"
+        ]
+      ],
+      "expl": "Le Coran raconte ces prophètes envoyés à des peuples arabes ou voisins : ʿĀd au sud de l'Arabie, Thamūd au nord-ouest, Madyan près du golfe d'Aqaba, Sodome près de la mer Morte. Tous ont appelé à adorer Allah seul et à corriger un défaut précis de leur peuple.",
+      "src": [
+        "Coran 7:65",
+        "Coran 7:73",
+        "Coran 7:80",
+        "Coran 7:85"
+      ],
+      "tags": [
+        "prophete:hud",
+        "prophete:salih",
+        "prophete:shuayb",
+        "prophete:lut"
+      ]
+    },
+    {
+      "id": "pro-t1-0011",
+      "concept": "pro.hud-salih.ad",
+      "domain": "prophetes",
+      "sub": "hud-salih",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment le peuple de ʿĀd, qui rejeta le prophète Hūd, fut-il anéanti ?",
+      "choices": [
+        "Par un déluge qui couvrit leurs terres",
+        "Par un tremblement de terre en pleine nuit",
+        "Par une pluie de pierres venue du ciel",
+        "Par un vent glacial, sept nuits durant"
+      ],
+      "answer": 3,
+      "expl": "Les ʿĀd étaient très puissants et orgueilleux : « Qui est plus fort que nous ? » disaient-ils. Allah envoya contre eux un vent furieux pendant sept nuits et huit jours. Le Coran évoque aussi « Iram aux colonnes », leur cité légendaire.",
+      "src": [
+        "Coran 69:6-7",
+        "Coran 41:15"
+      ],
+      "tags": [
+        "prophete:hud"
+      ]
+    },
+    {
+      "id": "pro-t1-0012",
+      "concept": "pro.hud-salih.thamud",
+      "domain": "prophetes",
+      "sub": "hud-salih",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pour quoi le peuple de Thamūd était-il connu ?",
+      "choices": [
+        "Il taillait ses maisons dans la roche",
+        "Il construisait d'immenses navires",
+        "Il vivait sous des tentes, en nomades",
+        "Il bâtissait des pyramides de briques"
+      ],
+      "answer": 0,
+      "expl": "Les Thamūd creusaient des demeures dans la roche des montagnes. On associe leur territoire à al-Ḥijr, au nord-ouest de l'Arabie, où se trouvent des tombeaux taillés dans le grès. Le Prophète ﷺ, passant par là, demanda de ne pas s'y attarder et d'y passer en pleurant.",
+      "src": [
+        "Coran 7:74",
+        "Coran 89:9"
+      ],
+      "tags": [
+        "prophete:salih"
+      ]
+    },
+    {
+      "id": "pro-t1-0013",
+      "concept": "pro.hud-salih.qsj-hud",
+      "domain": "prophetes",
+      "sub": "hud-salih",
+      "tier": 1,
+      "type": "qsj",
+      "q": "Qui suis-je ?",
+      "clues": [
+        "J'ai été envoyé à un peuple très fort physiquement, au sud de l'Arabie.",
+        "Mon peuple disait : « Qui est plus fort que nous ? »",
+        "Une sourate porte mon nom, la onzième.",
+        "Mon peuple, les ʿĀd, fut anéanti par un vent violent."
+      ],
+      "choices": [
+        "Nūḥ",
+        "Hūd",
+        "Ṣāliḥ",
+        "Shuʿayb"
+      ],
+      "answer": 1,
+      "expl": "C'est Hūd, envoyé aux ʿĀd. La sourate 11 porte son nom. Le Prophète ﷺ a dit que cette sourate et d'autres semblables avaient fait blanchir ses cheveux, tant elles évoquent la gravité du Jour dernier.",
+      "src": [
+        "Coran 11:50-60"
+      ],
+      "tags": [
+        "prophete:hud",
+        "sourate:11"
+      ]
+    },
+    {
+      "id": "pro-t1-0014",
+      "concept": "pro.ibrahim.khalil",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel titre le Coran donne-t-il à Ibrāhīm ?",
+      "choices": [
+        "Rūḥ Allāh, l'esprit venant d'Allah",
+        "Ṣafiyy Allāh, l'élu d'Allah",
+        "Khalīl Allāh, l'ami intime d'Allah",
+        "Kalīm Allāh, celui à qui Allah a parlé"
+      ],
+      "answer": 2,
+      "expl": "« Et Allah avait pris Ibrāhīm pour ami intime (khalīl). » Kalīm Allāh est le titre de Mūsā, à qui Allah a parlé directement ; Rūḥ Allāh est donné à ʿĪsā ; Ṣafiyy Allāh est un titre d'Adam dans la tradition.",
+      "src": [
+        "Coran 4:125"
+      ],
+      "ar": {
+        "text": "خَلِيلُ اللّٰهِ",
+        "tr": "Khalīlu Llāh",
+        "pr": "kha-lî-loul-lâh",
+        "fr": "l'ami intime d'Allah"
+      },
+      "tags": [
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "pro-t1-0015",
+      "concept": "pro.ibrahim.kaaba",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Avec qui Ibrāhīm a-t-il élevé les fondations de la Kaʿba ?",
+      "choices": [
+        "Son fils Isḥāq",
+        "Son neveu Lūṭ",
+        "Son père Āzar",
+        "Son fils Ismāʿīl"
+      ],
+      "answer": 3,
+      "expl": "« Et quand Ibrāhīm et Ismāʿīl élevaient les assises de la Maison : Notre Seigneur, accepte ceci de notre part, Tu es l'Audient, l'Omniscient. » Ils prièrent aussi pour qu'un messager soit envoyé parmi leurs descendants : ce fut Muḥammad ﷺ.",
+      "src": [
+        "Coran 2:127-129"
+      ],
+      "ar": {
+        "text": "رَبَّنَا تَقَبَّلْ مِنَّا",
+        "tr": "rabbanā taqabbal minnā",
+        "pr": "rab-ba-nâ ta-qab-bal min-nâ",
+        "fr": "Notre Seigneur, accepte de notre part"
+      },
+      "tags": [
+        "prophete:ibrahim",
+        "prophete:ismail"
+      ]
+    },
+    {
+      "id": "pro-t1-0016",
+      "concept": "pro.ibrahim.idoles",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que fit le jeune Ibrāhīm aux idoles de son peuple ?",
+      "choices": [
+        "Il les brisa, sauf la plus grande",
+        "Il les cacha dans une grotte",
+        "Il les vendit au marché de la ville",
+        "Il les jeta dans le fleuve, la nuit"
+      ],
+      "answer": 0,
+      "expl": "Ibrāhīm brisa les idoles et laissa la plus grande. Quand on l'accusa, il répondit : « C'est la plus grande qui l'a fait, interrogez-les donc, si elles parlent ! » Son peuple comprit un instant l'absurdité de leur culte, puis se ferma et voulut le brûler.",
+      "src": [
+        "Coran 21:57-68"
+      ],
+      "tags": [
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "pro-t1-0017",
+      "concept": "pro.ibrahim.pere",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le père d'Ibrāhīm, appelé Āzar dans le Coran, adorait des idoles.",
+      "answer": true,
+      "expl": "Ibrāhīm s'adressa à son père avec beaucoup de douceur : « Ô mon père, pourquoi adores-tu ce qui n'entend ni ne voit ? » Même rejeté, il lui dit : « Paix sur toi, je demanderai pardon pour toi. » Un modèle pour ceux dont la famille ne partage pas la foi.",
+      "src": [
+        "Coran 6:74",
+        "Coran 19:42-47"
+      ],
+      "tags": [
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "pro-t1-0018",
+      "concept": "pro.lut-ismail-ishaq.ismail",
+      "domain": "prophetes",
+      "sub": "lut-ismail-ishaq",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui était la mère d'Ismāʿīl ?",
+      "choices": [
+        "Āsiya",
+        "Hājar",
+        "Sāra",
+        "Maryam"
+      ],
+      "answer": 1,
+      "expl": "Ismāʿīl est le fils d'Ibrāhīm et de Hājar. Ibrāhīm les installa dans la vallée aride de La Mecque, où Allah fit jaillir la source de Zamzam. Sāra est la mère d'Isḥāq, Maryam celle de ʿĪsā, Āsiya l'épouse croyante de Pharaon.",
+      "tags": [
+        "prophete:ismail",
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "pro-t1-0019",
+      "concept": "pro.lut-ismail-ishaq.ishaq",
+      "domain": "prophetes",
+      "sub": "lut-ismail-ishaq",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui était le fils d'Isḥāq, lui aussi prophète ?",
+      "choices": [
+        "Ismāʿīl",
+        "Lūṭ",
+        "Yaʿqūb",
+        "Yūsuf"
+      ],
+      "answer": 2,
+      "expl": "Les anges annoncèrent à Sāra, âgée, la naissance d'Isḥāq, « et après Isḥāq, Yaʿqūb ». Yaʿqūb, appelé aussi Isrāʾīl, est le père des douze tribus, dont Yūsuf. La lignée d'Isḥāq a donné les prophètes d'Israël ; celle d'Ismāʿīl, le prophète Muḥammad ﷺ.",
+      "src": [
+        "Coran 11:71"
+      ],
+      "tags": [
+        "prophete:ishaq",
+        "prophete:yaqub"
+      ]
+    },
+    {
+      "id": "pro-t1-0020",
+      "concept": "pro.lut-ismail-ishaq.lut",
+      "domain": "prophetes",
+      "sub": "lut-ismail-ishaq",
+      "tier": 1,
+      "type": "vf",
+      "q": "Lūṭ était le neveu d'Ibrāhīm.",
+      "answer": true,
+      "expl": "Oui : Lūṭ crut en Ibrāhīm et émigra avec lui, puis fut envoyé comme prophète à un peuple voisin, à Sodome. Sa femme ne crut pas et périt avec son peuple, ce qui montre que la parenté avec un prophète ne suffit pas : chacun répond de sa propre foi.",
+      "src": [
+        "Coran 29:26",
+        "Coran 66:10"
+      ],
+      "tags": [
+        "prophete:lut",
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "pro-t1-0021",
+      "concept": "pro.lut-ismail-ishaq.descendance",
+      "domain": "prophetes",
+      "sub": "lut-ismail-ishaq",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De quel fils d'Ibrāhīm descend le prophète Muḥammad ﷺ ?",
+      "choices": [
+        "Isḥāq",
+        "Yaʿqūb",
+        "Lūṭ",
+        "Ismāʿīl"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ descend d'Ismāʿīl par la tribu de Quraysh. Les Arabes du nord se rattachent à Ismāʿīl, qui s'était installé à La Mecque. Ibrāhīm est ainsi l'ancêtre commun des prophètes d'Israël et du Prophète de l'islam.",
+      "tags": [
+        "prophete:ismail",
+        "prophete:muhammad"
+      ]
+    },
+    {
+      "id": "pro-t1-0022",
+      "concept": "pro.yaqub-yusuf.puits",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que firent les frères de Yūsuf, jaloux de lui ?",
+      "choices": [
+        "Ils le jetèrent au fond d'un puits",
+        "Ils l'abandonnèrent dans le désert sans eau",
+        "Ils le vendirent à des marins",
+        "Ils l'enfermèrent dans une prison"
+      ],
+      "answer": 0,
+      "expl": "Jaloux de l'amour que leur père Yaʿqūb portait à Yūsuf, ses frères le jetèrent dans un puits, puis rapportèrent sa chemise tachée d'un faux sang. Une caravane le recueillit et le vendit en Égypte. Allah transforma cette épreuve en élévation.",
+      "src": [
+        "Coran 12:15-20"
+      ],
+      "tags": [
+        "prophete:yusuf",
+        "sourate:12"
+      ]
+    },
+    {
+      "id": "pro-t1-0023",
+      "concept": "pro.yaqub-yusuf.egypte",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle fonction Yūsuf finit-il par occuper en Égypte ?",
+      "choices": [
+        "Il devint commandant de l'armée",
+        "Il fut chargé des réserves du pays",
+        "Il devint le grand prêtre du temple",
+        "Il devint roi à la place de Pharaon"
+      ],
+      "answer": 1,
+      "expl": "Après la prison, Yūsuf interpréta le rêve du roi et proposa un plan contre la famine. Il demanda : « Confie-moi les dépôts du pays, je suis un gardien averti. » C'est ainsi qu'il retrouva ses frères, venus chercher des vivres.",
+      "src": [
+        "Coran 12:55"
+      ],
+      "tags": [
+        "prophete:yusuf",
+        "sourate:12"
+      ]
+    },
+    {
+      "id": "pro-t1-0024",
+      "concept": "pro.yaqub-yusuf.plus-belle",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 1,
+      "type": "trou",
+      "q": "Le Coran présente l'histoire de Yūsuf comme « la plus ___ des histoires ».",
+      "choices": [
+        "ancienne",
+        "triste",
+        "belle",
+        "longue"
+      ],
+      "answer": 2,
+      "expl": "« Nous te racontons le plus beau des récits » : la sourate 12 est la seule à raconter l'histoire d'un prophète d'un seul tenant, du rêve d'enfance aux retrouvailles. Elle enseigne la patience, la chasteté, le pardon et la confiance dans le plan d'Allah.",
+      "src": [
+        "Coran 12:3"
+      ],
+      "tags": [
+        "prophete:yusuf",
+        "sourate:12"
+      ]
+    },
+    {
+      "id": "pro-t1-0025",
+      "concept": "pro.yaqub-yusuf.reve",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Dans son rêve d'enfant, combien d'étoiles Yūsuf vit-il se prosterner devant lui, avec le soleil et la lune ?",
+      "answer": 11,
+      "expl": "Onze étoiles, le soleil et la lune : ses onze frères, son père et sa mère. Le rêve se réalisa des années plus tard, quand toute sa famille vint en Égypte et s'inclina devant lui en signe de respect. « Voilà l'interprétation de mon rêve d'autrefois. »",
+      "src": [
+        "Coran 12:4",
+        "Coran 12:100"
+      ],
+      "tags": [
+        "prophete:yusuf",
+        "sourate:12"
+      ]
+    },
+    {
+      "id": "pro-t1-0026",
+      "concept": "pro.yaqub-yusuf.sabr-jamil",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle parole célèbre Yaʿqūb prononça-t-il en apprenant la prétendue mort de Yūsuf ?",
+      "choices": [
+        "« Lā taqnaṭū » : ne désespérez pas",
+        "« Ḥasbiya Llāh » : Allah me suffit",
+        "« Innā li-Llāh » : nous sommes à Allah",
+        "« Fa-ṣabrun jamīl » : une belle patience"
+      ],
+      "answer": 3,
+      "expl": "Yaʿqūb dit : « Une belle patience ! C'est Allah dont on implore le secours contre ce que vous racontez. » La belle patience, c'est celle qui ne se plaint pas aux gens, mais seulement à Allah. Elle a été récompensée par les retrouvailles.",
+      "src": [
+        "Coran 12:18",
+        "Coran 12:86"
+      ],
+      "ar": {
+        "text": "فَصَبْرٌ جَمِيلٌ",
+        "tr": "fa-ṣabrun jamīl",
+        "pr": "fa-sab-roun ja-mîl",
+        "fr": "une belle patience"
+      },
+      "tags": [
+        "prophete:yaqub",
+        "sourate:12"
+      ]
+    },
+    {
+      "id": "pro-t1-0027",
+      "concept": "pro.shuayb-ayyub.madyan",
+      "domain": "prophetes",
+      "sub": "shuayb-ayyub",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel défaut le prophète Shuʿayb reprochait-il aux gens de Madyan ?",
+      "choices": [
+        "Tricher sur les mesures et le poids",
+        "Adorer le soleil",
+        "Construire des tours trop hautes",
+        "Refuser l'hospitalité"
+      ],
+      "answer": 0,
+      "expl": "« Donnez la pleine mesure et le poids exact, et ne dépréciez pas les biens des gens. » Shuʿayb liait le tawḥīd à l'honnêteté commerciale. Le message reste actuel : la foi se voit aussi dans la façon de travailler et de faire des affaires.",
+      "src": [
+        "Coran 7:85",
+        "Coran 11:84-85"
+      ],
+      "tags": [
+        "prophete:shuayb"
+      ]
+    },
+    {
+      "id": "pro-t1-0028",
+      "concept": "pro.shuayb-ayyub.ayyub",
+      "domain": "prophetes",
+      "sub": "shuayb-ayyub",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pour quelle qualité le prophète Ayyūb (Job) est-il connu ?",
+      "choices": [
+        "Sa richesse et ses troupeaux",
+        "Sa patience dans les épreuves",
+        "Sa force dans les batailles",
+        "Sa voix pour réciter les psaumes"
+      ],
+      "answer": 1,
+      "expl": "Ayyūb perdit sa santé, ses biens et ses enfants, et resta patient de longues années. Il invoqua simplement : « Le mal m'a touché, et Tu es le plus miséricordieux des miséricordieux. » Allah le guérit et lui rendit sa famille. « Nous l'avons trouvé patient. Quel bon serviteur ! »",
+      "src": [
+        "Coran 21:83-84",
+        "Coran 38:44"
+      ],
+      "ar": {
+        "text": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+        "tr": "annī massaniya ḍ-ḍurru wa anta arḥamu r-rāḥimīn",
+        "pr": "an-nî mas-sa-ni-yad-dour-rou wa an-ta ar-ha-mour-râ-hi-mîn",
+        "fr": "le mal m'a touché, et Tu es le plus miséricordieux des miséricordieux"
+      },
+      "tags": [
+        "prophete:ayyub"
+      ]
+    },
+    {
+      "id": "pro-t1-0029",
+      "concept": "pro.musa-harun.baton",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que devint le bâton de Mūsā lorsqu'il le jeta, sur l'ordre d'Allah ?",
+      "choices": [
+        "Une colombe",
+        "Une épée",
+        "Un serpent",
+        "Un arbre"
+      ],
+      "answer": 2,
+      "expl": "Allah dit à Mūsā : « Jette ton bâton », et il devint un serpent qui rampait. Devant Pharaon, il engloutit les illusions des magiciens, qui se prosternèrent et crurent. C'était l'un des neuf signes donnés à Mūsā, avec la main blanche.",
+      "src": [
+        "Coran 20:17-21",
+        "Coran 7:117-120"
+      ],
+      "tags": [
+        "prophete:musa"
+      ]
+    },
+    {
+      "id": "pro-t1-0030",
+      "concept": "pro.musa-harun.mer",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment Mūsā et les fils d'Israël échappèrent-ils à Pharaon ?",
+      "choices": [
+        "Ils traversèrent sur des bateaux",
+        "Ils se cachèrent dans les montagnes",
+        "Pharaon les laissa partir en paix",
+        "La mer s'ouvrit sous son bâton"
+      ],
+      "answer": 3,
+      "expl": "« Frappe la mer de ton bâton ! » La mer se fendit, et chaque partie fut comme une énorme montagne. Les fils d'Israël passèrent, puis les eaux se refermèrent sur Pharaon et son armée. On jeûne le jour de ʿĀshūrāʾ en remerciement de cette délivrance.",
+      "src": [
+        "Coran 26:63-66",
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:musa"
+      ]
+    },
+    {
+      "id": "pro-t1-0031",
+      "concept": "pro.musa-harun.harun",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui Mūsā demanda-t-il à Allah de lui donner comme aide dans sa mission ?",
+      "choices": [
+        "Son frère Hārūn",
+        "Son beau-père Shuʿayb",
+        "Son serviteur Yūshaʿ",
+        "Son cousin Qārūn"
+      ],
+      "answer": 0,
+      "expl": "Mūsā, qui avait du mal à s'exprimer, pria : « Donne-moi un assistant de ma famille, Hārūn, mon frère ; accrois par lui ma force. » Allah exauça sa demande, et Hārūn devint lui aussi prophète.",
+      "src": [
+        "Coran 20:29-32"
+      ],
+      "tags": [
+        "prophete:musa",
+        "prophete:harun"
+      ]
+    },
+    {
+      "id": "pro-t1-0032",
+      "concept": "pro.musa-harun.kalim",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pourquoi Mūsā est-il appelé « Kalīm Allāh » ?",
+      "choices": [
+        "Parce qu'il parlait toutes les langues",
+        "Parce qu'Allah lui a parlé directement",
+        "Parce qu'il était très éloquent",
+        "Parce qu'il a écrit la Torah de sa main"
+      ],
+      "answer": 1,
+      "expl": "« Et Allah a parlé à Mūsā de vive voix. » Allah s'adressa à lui directement, sans intermédiaire, notamment au mont Sinaï. Ironie touchante : Mūsā se disait lui-même peu éloquent.",
+      "src": [
+        "Coran 4:164"
+      ],
+      "ar": {
+        "text": "كَلِيمُ اللّٰهِ",
+        "tr": "Kalīmu Llāh",
+        "pr": "ka-lî-moul-lâh",
+        "fr": "celui à qui Allah a parlé"
+      },
+      "tags": [
+        "prophete:musa"
+      ]
+    },
+    {
+      "id": "pro-t1-0033",
+      "concept": "pro.musa-harun.plus-cite",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "vf",
+      "q": "Mūsā est le prophète le plus souvent cité par son nom dans le Coran.",
+      "answer": true,
+      "expl": "Oui, son nom revient plus de cent trente fois. Son histoire, racontée sous de nombreux angles, est riche de leçons : naissance sous la menace, exil, mission face à un tyran, patience avec son propre peuple. Le Prophète ﷺ s'en consolait souvent.",
+      "tags": [
+        "prophete:musa"
+      ]
+    },
+    {
+      "id": "pro-t1-0034",
+      "concept": "pro.adam.creation",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De quoi Allah a-t-il créé Adam, selon le Coran ?",
+      "choices": [
+        "De feu",
+        "D'eau seulement",
+        "D'argile, de terre",
+        "De lumière"
+      ],
+      "answer": 2,
+      "expl": "« Il a créé l'homme d'argile sonnante comme la poterie. » Allah façonna Adam de terre, puis lui insuffla de Son esprit. Les anges ont été créés de lumière, les djinns de feu. Le mot ādam évoque d'ailleurs la surface de la terre.",
+      "src": [
+        "Coran 55:14",
+        "Coran 15:28-29"
+      ],
+      "tags": [
+        "prophete:adam"
+      ]
+    },
+    {
+      "id": "pro-t1-0035",
+      "concept": "pro.adam.noms",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel savoir Allah enseigna-t-il à Adam, qui montra sa supériorité devant les anges ?",
+      "choices": [
+        "La date de la fin du monde",
+        "L'art de la guerre",
+        "La langue des oiseaux",
+        "Les noms de toutes choses"
+      ],
+      "answer": 3,
+      "expl": "« Et Il apprit à Adam tous les noms, puis Il les présenta aux anges. » Les anges reconnurent : « Nous n'avons de savoir que ce que Tu nous as appris. » La capacité de nommer, de connaître et d'apprendre est un honneur fait à l'être humain.",
+      "src": [
+        "Coran 2:31-33"
+      ],
+      "tags": [
+        "prophete:adam",
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "pro-t1-0036",
+      "concept": "pro.adam.khalifa",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Je vais établir sur la terre un ___ » (khalīfa), dit Allah aux anges avant de créer Adam.",
+      "choices": [
+        "lieutenant",
+        "roi",
+        "gardien du feu",
+        "messager"
+      ],
+      "answer": 0,
+      "expl": "L'être humain est khalīfa, un lieutenant ou successeur sur terre : il en a la garde et la responsabilité. Cela fonde aussi le respect de la nature, confiée à l'homme et non livrée à lui.",
+      "src": [
+        "Coran 2:30"
+      ],
+      "ar": {
+        "text": "إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
+        "tr": "innī jāʿilun fī l-arḍi khalīfa",
+        "pr": "in-nî jâ-ʿi-loun fil-ar-di kha-lî-fa",
+        "fr": "Je vais établir sur la terre un lieutenant"
+      },
+      "tags": [
+        "prophete:adam",
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "pro-t1-0037",
+      "concept": "pro.adam.hawwa",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment s'appelle l'épouse d'Adam dans la tradition musulmane ?",
+      "choices": [
+        "Maryam",
+        "Ḥawwāʾ",
+        "Sāra",
+        "Hājar"
+      ],
+      "answer": 1,
+      "expl": "Le Coran parle de l'épouse d'Adam sans la nommer ; les hadiths l'appellent Ḥawwāʾ (Ève). Selon le Coran, tous deux ont mangé de l'arbre, tous deux se sont repentis, et Allah leur a pardonné : il n'y a pas de faute originelle transmise à leurs descendants.",
+      "src": [
+        "Coran 7:19-23"
+      ],
+      "tags": [
+        "prophete:adam"
+      ]
+    },
+    {
+      "id": "pro-t1-0038",
+      "concept": "pro.nuh.appel",
+      "domain": "prophetes",
+      "sub": "nuh",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que fit Nūḥ avec son peuple pendant de longues années ?",
+      "choices": [
+        "Il construisit une ville pour les croyants",
+        "Il lui enseigna l'agriculture et l'élevage",
+        "Il l'appela à adorer Allah seul, sans relâche",
+        "Il partit loin d'eux dès le premier jour"
+      ],
+      "answer": 2,
+      "expl": "La sourate Nūḥ rapporte sa plainte : « Seigneur, j'ai appelé mon peuple nuit et jour… en public et en secret. » Malgré sa patience, peu crurent. Il est le premier des messagers envoyés à un peuple qui avait dévié du tawḥīd.",
+      "src": [
+        "Coran 71:5-9"
+      ],
+      "tags": [
+        "prophete:nuh",
+        "sourate:71"
+      ]
+    },
+    {
+      "id": "pro-t1-0039",
+      "concept": "pro.nuh.fils",
+      "domain": "prophetes",
+      "sub": "nuh",
+      "tier": 1,
+      "type": "vf",
+      "q": "Un des fils de Nūḥ refusa de monter dans l'arche et périt dans le Déluge.",
+      "answer": true,
+      "expl": "Nūḥ appela son fils : « Monte avec nous ! » Il répondit qu'il se réfugierait sur une montagne, et les vagues l'emportèrent. Allah dit à Nūḥ : « Il n'est pas de ta famille », c'est-à-dire de ceux qui ont cru. Même un prophète ne peut imposer la foi à ses enfants.",
+      "src": [
+        "Coran 11:42-46"
+      ],
+      "tags": [
+        "prophete:nuh"
+      ]
+    },
+    {
+      "id": "pro-t1-0040",
+      "concept": "pro.dawud-sulayman.jalut",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel géant le jeune Dāwūd a-t-il vaincu ?",
+      "choices": [
+        "Fir'awn",
+        "Nimrūd",
+        "Qārūn",
+        "Jālūt"
+      ],
+      "answer": 3,
+      "expl": "« Et Dāwūd tua Jālūt ; Allah lui donna la royauté et la sagesse. » Ce combat montre qu'avec la foi, un petit nombre peut l'emporter sur un grand. Namrūd est le roi qui défia Ibrāhīm ; Qārūn, l'homme riche et orgueilleux du temps de Mūsā.",
+      "src": [
+        "Coran 2:249-251"
+      ],
+      "tags": [
+        "prophete:dawud",
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "pro-t1-0041",
+      "concept": "pro.dawud-sulayman.fer",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le Coran dit qu'Allah a amolli le fer pour Dāwūd, qui fabriquait des cottes de mailles.",
+      "answer": true,
+      "expl": "« Et Nous lui avons amolli le fer : Fais des cottes de mailles complètes et mesure bien les mailles. » Dāwūd, roi et prophète, vivait du travail de ses mains. Le Prophète ﷺ a dit que nul n'a mangé meilleure nourriture que celle gagnée de ses propres mains, comme Dāwūd.",
+      "src": [
+        "Coran 34:10-11",
+        "Hadith d'al-Miqdām — Bukhari"
+      ],
+      "tags": [
+        "prophete:dawud"
+      ]
+    },
+    {
+      "id": "pro-t1-0042",
+      "concept": "pro.dawud-sulayman.jeune-dawud",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le Prophète ﷺ, quel est le jeûne surérogatoire le plus aimé d'Allah ?",
+      "choices": [
+        "Le jeûne de Dāwūd : jeûner un jour sur deux",
+        "Jeûner tous les jours de l'année",
+        "Jeûner uniquement le vendredi",
+        "Jeûner trois jours sans manger la nuit"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ a dit que le jeûne le plus aimé d'Allah est celui de Dāwūd : il jeûnait un jour et mangeait le lendemain. Il a déconseillé de jeûner tous les jours sans interruption. L'équilibre est au cœur de la Sunna.",
+      "src": [
+        "Hadith de ʿAbd Allāh ibn ʿAmr — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:dawud"
+      ]
+    },
+    {
+      "id": "pro-t1-0043",
+      "concept": "pro.dawud-sulayman.sulayman",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 1,
+      "type": "multi",
+      "q": "Quels dons Allah accorda-t-il au prophète Sulaymān ?",
+      "choices": [
+        "Comprendre le langage des oiseaux",
+        "Commander au vent",
+        "Marcher sur l'eau",
+        "Être servi par des djinns",
+        "Ressusciter les morts"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Sulaymān, fils de Dāwūd, comprenait le langage des oiseaux et des fourmis ; le vent et des djinns lui étaient soumis. Il restait pourtant reconnaissant : « Ceci est une grâce de mon Seigneur, pour m'éprouver : serai-je reconnaissant ou ingrat ? » Ressusciter les morts, avec la permission d'Allah, était un miracle de ʿĪsā.",
+      "src": [
+        "Coran 27:16-19",
+        "Coran 21:81-82",
+        "Coran 27:40"
+      ],
+      "tags": [
+        "prophete:sulayman"
+      ]
+    },
+    {
+      "id": "pro-t1-0044",
+      "concept": "pro.dawud-sulayman.huppe",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel oiseau apporta à Sulaymān des nouvelles de la reine de Saba ?",
+      "choices": [
+        "Le corbeau",
+        "La huppe",
+        "La colombe",
+        "Le faucon"
+      ],
+      "answer": 1,
+      "expl": "La huppe revint d'un long voyage et dit : « J'ai trouvé une femme qui règne sur eux… elle et son peuple se prosternent devant le soleil. » Sulaymān lui confia une lettre qui commençait par la basmala. La reine finit par se soumettre à Allah avec Sulaymān.",
+      "src": [
+        "Coran 27:20-44"
+      ],
+      "ar": {
+        "text": "الْهُدْهُد",
+        "tr": "al-hudhud",
+        "pr": "al-houd-houd",
+        "fr": "la huppe"
+      },
+      "tags": [
+        "prophete:sulayman",
+        "sourate:27"
+      ]
+    },
+    {
+      "id": "pro-t1-0045",
+      "concept": "pro.yunus-autres.idris",
+      "domain": "prophetes",
+      "sub": "yunus-autres",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit le Coran du prophète Idrīs ?",
+      "choices": [
+        "Il fut le premier à construire la Kaʿba",
+        "Il fut avalé par un grand poisson",
+        "Il était véridique, élevé à un haut rang",
+        "Il fut roi d'Égypte pendant des années"
+      ],
+      "answer": 2,
+      "expl": "« Et mentionne Idrīs dans le Livre : c'était un véridique et un prophète. Et Nous l'élevâmes à un haut rang. » Le Coran le cite aussi parmi les patients. Il est souvent identifié à Hénoch. Le prophète avalé par un poisson est Yūnus.",
+      "src": [
+        "Coran 19:56-57",
+        "Coran 21:85"
+      ],
+      "tags": [
+        "prophete:idris"
+      ]
+    },
+    {
+      "id": "pro-t1-0046",
+      "concept": "pro.yunus-autres.yunus",
+      "domain": "prophetes",
+      "sub": "yunus-autres",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pourquoi Yūnus est-il appelé « Dhū n-Nūn », l'homme au poisson ?",
+      "choices": [
+        "Il était pêcheur avant d'être prophète",
+        "Il parlait aux poissons de la mer",
+        "Il traversa la mer à dos de baleine",
+        "Un grand poisson l'avala puis le rejeta"
+      ],
+      "answer": 3,
+      "expl": "Yūnus quitta son peuple sans attendre l'ordre d'Allah ; jeté à la mer, il fut avalé par un grand poisson. Dans les ténèbres, il invoqua : « Pas de divinité à part Toi, gloire à Toi, j'ai été parmi les injustes. » Allah le sauva, et son peuple finit par croire.",
+      "src": [
+        "Coran 21:87-88",
+        "Coran 37:139-148"
+      ],
+      "tags": [
+        "prophete:yunus"
+      ]
+    },
+    {
+      "id": "pro-t1-0047",
+      "concept": "pro.zakariya-yahya.priere",
+      "domain": "prophetes",
+      "sub": "zakariya-yahya",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que demanda Zakariyyā à Allah dans sa vieillesse ?",
+      "choices": [
+        "Un enfant pour hériter de lui",
+        "Une longue vie pour finir sa mission",
+        "Une grande richesse pour son peuple",
+        "La victoire sur un roi tyrannique"
+      ],
+      "answer": 0,
+      "expl": "Zakariyyā, âgé et dont la femme était stérile, invoqua à voix basse : « Seigneur, mes os sont affaiblis et ma tête s'est enflammée de cheveux blancs… accorde-moi un descendant. » Allah lui annonça Yaḥyā. Une invitation à ne jamais cesser d'invoquer.",
+      "src": [
+        "Coran 19:2-7",
+        "Coran 3:38-39"
+      ],
+      "tags": [
+        "prophete:zakariya",
+        "prophete:yahya"
+      ]
+    },
+    {
+      "id": "pro-t1-0048",
+      "concept": "pro.zakariya-yahya.yahya",
+      "domain": "prophetes",
+      "sub": "zakariya-yahya",
+      "tier": 1,
+      "type": "qcm",
+      "q": "À qui correspond le prophète Yaḥyā dans la tradition chrétienne ?",
+      "choices": [
+        "Élie",
+        "Jean-Baptiste",
+        "Jacques",
+        "Jean l'évangéliste"
+      ],
+      "answer": 1,
+      "expl": "Yaḥyā, fils de Zakariyyā, est Jean-Baptiste. Le Coran souligne qu'Allah ne lui avait donné « aucun homonyme auparavant », et le décrit comme pieux, doux envers ses parents et ni arrogant ni désobéissant. Élie correspond à Ilyās.",
+      "src": [
+        "Coran 19:7",
+        "Coran 19:12-15"
+      ],
+      "tags": [
+        "prophete:yahya"
+      ]
+    },
+    {
+      "id": "pro-t1-0049",
+      "concept": "pro.zakariya-yahya.maryam",
+      "domain": "prophetes",
+      "sub": "zakariya-yahya",
+      "tier": 1,
+      "type": "vf",
+      "q": "Zakariyyā fut le tuteur de Maryam, la mère de ʿĪsā.",
+      "answer": true,
+      "expl": "Oui : Allah confia Maryam enfant à Zakariyyā. Chaque fois qu'il entrait dans son sanctuaire, il trouvait près d'elle de la nourriture : « D'où te vient cela ? » « Cela vient d'Allah. » Ce miracle l'encouragea à demander lui-même un enfant.",
+      "src": [
+        "Coran 3:37-38"
+      ],
+      "tags": [
+        "prophete:zakariya"
+      ]
+    },
+    {
+      "id": "pro-t1-0050",
+      "concept": "pro.isa-maryam.naissance",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment ʿĪsā est-il né, selon le Coran ?",
+      "choices": [
+        "De Maryam et de Zakariyyā",
+        "D'Āsiya, la femme de Pharaon",
+        "De Maryam, vierge, sans père",
+        "Il descendit du ciel déjà adulte"
+      ],
+      "answer": 2,
+      "expl": "L'ange annonça à Maryam un fils ; elle s'étonna : « Comment aurais-je un enfant alors qu'aucun homme ne m'a touchée ? » Il répondit : « C'est ainsi qu'Allah crée ce qu'Il veut : Il dit Sois, et c'est. » La naissance virginale est un point de foi pour les musulmans.",
+      "src": [
+        "Coran 3:47",
+        "Coran 19:20-21"
+      ],
+      "tags": [
+        "prophete:isa"
+      ]
+    },
+    {
+      "id": "pro-t1-0051",
+      "concept": "pro.isa-maryam.adam",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Pour Allah, ʿĪsā est comme ___ qu'Il créa de poussière, puis Il lui dit : Sois ! et il fut. »",
+      "choices": [
+        "Nūḥ",
+        "Yaḥyā",
+        "Ibrāhīm",
+        "Adam"
+      ],
+      "answer": 3,
+      "expl": "Le verset 3:59 répond à ceux qui voyaient dans la naissance sans père une preuve de divinité : Adam est né sans père ni mère, et il n'est pas divin. Les deux naissances sont des signes de la puissance d'Allah.",
+      "src": [
+        "Coran 3:59"
+      ],
+      "tags": [
+        "prophete:isa",
+        "prophete:adam",
+        "sourate:3"
+      ]
+    },
+    {
+      "id": "pro-t1-0052",
+      "concept": "pro.isa-maryam.berceau",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le Coran, ʿĪsā a parlé dans son berceau pour défendre sa mère.",
+      "answer": true,
+      "expl": "Quand Maryam revint avec l'enfant, les gens l'accusèrent ; elle montra le bébé, qui parla : « Je suis le serviteur d'Allah. Il m'a donné le Livre et m'a fait prophète. » Sa première parole affirme qu'il est serviteur d'Allah.",
+      "src": [
+        "Coran 19:27-33"
+      ],
+      "tags": [
+        "prophete:isa",
+        "sourate:19"
+      ]
+    },
+    {
+      "id": "pro-t1-0053",
+      "concept": "pro.isa-maryam.croix",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit le Coran de la fin de ʿĪsā sur terre ?",
+      "choices": [
+        "Ni tué ni crucifié : élevé vers Allah",
+        "Il fut crucifié puis ressuscita",
+        "Il mourut de vieillesse à Jérusalem",
+        "Il partit vivre en Inde jusqu'à sa mort"
+      ],
+      "answer": 0,
+      "expl": "« Ils ne l'ont ni tué ni crucifié, mais cela leur a semblé ainsi… Allah l'a élevé vers Lui. » C'est la position du Coran, différente de celle des chrétiens. Selon les hadiths, ʿĪsā reviendra avant la fin des temps.",
+      "src": [
+        "Coran 4:157-158"
+      ],
+      "tags": [
+        "prophete:isa",
+        "sourate:4"
+      ]
+    },
+    {
+      "id": "pro-t1-0054",
+      "concept": "pro.isa-maryam.retour",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon des hadiths authentiques, ʿĪsā reviendra sur terre avant la fin des temps.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ a annoncé que ʿĪsā, fils de Maryam, descendra comme juge équitable, brisera la croix et fera régner la justice. C'est un point de la croyance sunnite, rapporté par de nombreux hadiths.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:isa"
+      ]
+    },
+    {
+      "id": "pro-t1-0055",
+      "concept": "pro.isa-maryam.maryam",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle particularité a Maryam (Marie) dans le Coran ?",
+      "choices": [
+        "Elle était prophétesse et reçut un livre",
+        "Seule femme nommée ; une sourate porte son nom",
+        "Elle fut reine d'Égypte pendant des années",
+        "Elle construisit le temple de Jérusalem"
+      ],
+      "answer": 1,
+      "expl": "Maryam est la seule femme nommée dans le Coran, plus souvent que dans les Évangiles, et la sourate 19 porte son nom. « Ô Maryam, Allah t'a choisie et purifiée, et t'a choisie au-dessus des femmes des mondes. »",
+      "src": [
+        "Coran 3:42"
+      ],
+      "ar": {
+        "text": "مَرْيَم",
+        "tr": "Maryam",
+        "pr": "mar-yam",
+        "fr": "Marie"
+      },
+      "tags": [
+        "prophete:isa",
+        "sourate:19"
+      ]
+    },
+    {
+      "id": "pro-t1-0056",
+      "concept": "pro.isa-maryam.masih",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Par quel titre le Coran désigne-t-il ʿĪsā ?",
+      "choices": [
+        "Al-Kalīm, l'interlocuteur",
+        "Al-Fārūq, celui qui distingue",
+        "Al-Masīḥ, le Messie",
+        "Al-Khalīl, l'ami intime"
+      ],
+      "answer": 2,
+      "expl": "« Le Messie, ʿĪsā fils de Maryam, n'est qu'un messager d'Allah, Sa parole qu'Il envoya à Maryam et un esprit venant de Lui. » Le titre de Messie est reconnu, mais sans divinité. Khalīl est Ibrāhīm, Kalīm est Mūsā, al-Fārūq est ʿUmar.",
+      "src": [
+        "Coran 4:171"
+      ],
+      "ar": {
+        "text": "الْمَسِيح",
+        "tr": "al-Masīḥ",
+        "pr": "al-ma-sîh",
+        "fr": "le Messie"
+      },
+      "tags": [
+        "prophete:isa"
+      ]
+    },
+    {
+      "id": "pro-t1-0057",
+      "concept": "pro.muhammad.rahma",
+      "domain": "prophetes",
+      "sub": "muhammad",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le Coran, pour qui Allah a-t-il envoyé le Prophète Muḥammad ﷺ comme miséricorde ?",
+      "choices": [
+        "Pour les Arabes",
+        "Pour La Mecque",
+        "Pour les riches",
+        "Pour les mondes"
+      ],
+      "answer": 3,
+      "expl": "« Et Nous ne t'avons envoyé qu'en miséricorde pour les mondes. » Sa miséricorde touchait les croyants et les non-croyants, les enfants, les animaux et même les arbres. Son message est adressé à toute l'humanité.",
+      "src": [
+        "Coran 21:107"
+      ],
+      "ar": {
+        "text": "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ",
+        "tr": "wa mā arsalnāka illā raḥmatan li-l-ʿālamīn",
+        "pr": "wa mâ ar-sal-nâ-ka il-lâ rah-ma-tan lil-ʿâ-la-mîn",
+        "fr": "Nous ne t'avons envoyé qu'en miséricorde pour les mondes"
+      },
+      "tags": [
+        "prophete:muhammad",
+        "sourate:21"
+      ]
+    },
+    {
+      "id": "pro-t1-0058",
+      "concept": "pro.muhammad.universel",
+      "domain": "prophetes",
+      "sub": "muhammad",
+      "tier": 1,
+      "type": "vf",
+      "q": "Contrairement aux prophètes précédents, envoyés à leur peuple, Muḥammad ﷺ a été envoyé à toute l'humanité.",
+      "answer": true,
+      "expl": "« Nous ne t'avons envoyé qu'en annonciateur et avertisseur pour l'ensemble des hommes. » Le Prophète ﷺ a cité cela parmi les cinq choses qui lui ont été données et à aucun prophète avant lui.",
+      "src": [
+        "Coran 34:28",
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:muhammad"
+      ]
+    },
+    {
+      "id": "pro-t1-0059",
+      "concept": "pro.muhammad.nom",
+      "domain": "prophetes",
+      "sub": "muhammad",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de fois le nom « Muḥammad » apparaît-il dans le Coran ?",
+      "answer": 4,
+      "expl": "Quatre fois (3:144, 33:40, 47:2, 48:29). Il est aussi appelé « Aḥmad » une fois (61:6), dans l'annonce faite par ʿĪsā. Le plus souvent, le Coran s'adresse à lui par « Ô Prophète » ou « Ô Messager ».",
+      "src": [
+        "Coran 3:144",
+        "Coran 33:40",
+        "Coran 47:2",
+        "Coran 48:29"
+      ],
+      "tags": [
+        "prophete:muhammad"
+      ]
+    },
+    {
+      "id": "pro-t1-0060",
+      "concept": "pro.muhammad.ahmad",
+      "domain": "prophetes",
+      "sub": "muhammad",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel prophète, selon le Coran, a annoncé la venue d'un messager nommé « Aḥmad » ?",
+      "choices": [
+        "ʿĪsā",
+        "Mūsā",
+        "Ibrāhīm",
+        "Yaḥyā"
+      ],
+      "answer": 0,
+      "expl": "« Et quand ʿĪsā fils de Maryam dit : Ô fils d'Israël, je suis le messager d'Allah… annonciateur d'un messager qui viendra après moi, dont le nom sera Aḥmad. » Aḥmad, « le plus louable », est de la même racine que Muḥammad.",
+      "src": [
+        "Coran 61:6"
+      ],
+      "tags": [
+        "prophete:muhammad",
+        "prophete:isa",
+        "sourate:61"
+      ]
+    },
+    {
+      "id": "pro-t1-0061",
+      "concept": "pro.general.fiche-ulul-azm",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les 5 grands messagers (Ulū l-ʿAzm)",
+      "points": [
+        "Nūḥ (Noé) : 950 ans de prédication, l'arche",
+        "Ibrāhīm (Abraham) : le feu, la Kaʿba, l'ami d'Allah",
+        "Mūsā (Moïse) : Pharaon, la mer, la Torah",
+        "ʿĪsā (Jésus) : né de Maryam, le Messie, l'Évangile",
+        "Muḥammad ﷺ : le sceau des prophètes, le Coran"
+      ],
+      "expl": "Parmi les 25 prophètes cités dans le Coran, cinq sont appelés « doués de fermeté » pour leur patience immense. Leur histoire est racontée plusieurs fois dans le Coran.",
+      "src": [
+        "Coran 46:35",
+        "Coran 33:7"
+      ]
+    },
+    {
+      "id": "pro-t1-0062",
+      "concept": "pro.general.fiche-noms",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les prophètes et leurs noms en français",
+      "points": [
+        "Ādam = Adam · Nūḥ = Noé · Ibrāhīm = Abraham",
+        "Ismāʿīl = Ismaël · Isḥāq = Isaac · Yaʿqūb = Jacob",
+        "Yūsuf = Joseph · Mūsā = Moïse · Hārūn = Aaron",
+        "Dāwūd = David · Sulaymān = Salomon · Yūnus = Jonas",
+        "Zakariyyā = Zacharie · Yaḥyā = Jean-Baptiste · ʿĪsā = Jésus"
+      ],
+      "expl": "Beaucoup de prophètes du Coran sont aussi connus dans la Bible. Connaître les deux noms aide à dialoguer avec la famille et les amis chrétiens."
+    },
+    {
+      "id": "pro-t1-0063",
+      "concept": "pro.general.fiche-message",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Un seul message pour tous les prophètes",
+      "points": [
+        "Tous ont appelé au tawḥīd",
+        "Tous étaient des humains choisis, protégés des grands péchés",
+        "Le Coran en nomme 25, mais il y en a eu beaucoup plus",
+        "Rejeter un seul prophète, c'est rejeter le message"
+      ],
+      "expl": "De Ādam à Muḥammad ﷺ, tous les prophètes ont appelé à adorer Allah seul. Les lois ont varié selon les époques, mais la foi est la même. C'est pourquoi un musulman croit en tous les prophètes sans exception.",
+      "src": [
+        "Coran 21:25",
+        "Coran 2:285"
+      ]
+    },
+    {
+      "id": "pro-t1-0064",
+      "concept": "pro.musa-harun.fiche-histoire",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "fiche",
+      "q": "L'histoire de Mūsā en 6 étapes",
+      "points": [
+        "Bébé confié au fleuve, recueilli dans le palais de Pharaon",
+        "Exil à Madyan, mariage et travail de berger",
+        "Le buisson ardent : Allah lui parle",
+        "Face à Pharaon : le bâton-serpent, les magiciens qui croient",
+        "La mer s'ouvre, Pharaon se noie",
+        "Le Sinaï et la Torah ; le veau d'or et le pardon"
+      ],
+      "expl": "Mūsā est le prophète le plus cité dans le Coran. Son histoire est un modèle de confiance en Allah face à la tyrannie, et de patience avec son propre peuple.",
+      "tags": [
+        "prophete:musa"
+      ]
+    },
+    {
+      "id": "pro-t1-0065",
+      "concept": "pro.isa-maryam.fiche-croyance",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "fiche",
+      "q": "ʿĪsā (Jésus) dans l'islam",
+      "points": [
+        "Né miraculeusement de Maryam, sans père",
+        "Appelé al-Masīḥ (le Messie)",
+        "Prophète et serviteur d'Allah, non fils de Dieu",
+        "Ni tué ni crucifié : élevé par Allah",
+        "Il reviendra avant la fin des temps"
+      ],
+      "expl": "Les musulmans aiment et honorent ʿĪsā comme l'un des plus grands prophètes. Le Coran lui consacre de belles pages, ainsi qu'à sa mère Maryam, la seule femme nommée dans le Coran.",
+      "src": [
+        "Coran 19:16-36",
+        "Coran 4:157-158"
+      ],
+      "tags": [
+        "prophete:isa"
+      ]
+    },
+    {
+      "id": "pro-t1-0066",
+      "concept": "pro.yaqub-yusuf.fiche-histoire",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Yūsuf, « la plus belle des histoires »",
+      "points": [
+        "Son rêve d'enfant : 11 étoiles, le soleil et la lune",
+        "Jeté dans un puits par ses frères jaloux, vendu en Égypte",
+        "Il refuse la tentation et préfère la prison",
+        "Il interprète le rêve du roi et devient ministre",
+        "Il pardonne à ses frères : « Pas de reproche aujourd'hui »"
+      ],
+      "expl": "Toute la sourate 12 raconte la vie de Yūsuf : de la jalousie de ses frères jusqu'aux retrouvailles. Une histoire de patience, de chasteté, de confiance en Allah et de pardon.",
+      "src": [
+        "Coran 12:3"
+      ],
+      "tags": [
+        "prophete:yusuf",
+        "sourate:12"
+      ]
+    },
+    {
+      "id": "pro-t1-0067",
+      "concept": "pro.ibrahim.feu-dit",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit Allah au feu dans lequel on jeta Ibrāhīm ?",
+      "choices": [
+        "« Brûle tous ceux qui l'ont jeté ! »",
+        "« Sois fraîcheur et paix pour Ibrāhīm ! »",
+        "« Éteins-toi et disparais à jamais ! »",
+        "« Monte jusqu'au ciel et purifie-le ! »"
+      ],
+      "answer": 1,
+      "expl": "« Ô feu, sois pour Ibrāhīm fraîcheur et paix ! » Le feu obéit à son Créateur. Ibrāhīm avait dit en y étant jeté : « Allah me suffit, Il est le meilleur garant. »",
+      "src": [
+        "Coran 21:69",
+        "Hadith d'Ibn ʿAbbās — Bukhari"
+      ],
+      "tags": [
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "pro-t1-0068",
+      "concept": "pro.nuh.arche-qui",
+      "domain": "prophetes",
+      "sub": "nuh",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui monta dans l'arche de Nūḥ ?",
+      "choices": [
+        "Toute la population de la terre",
+        "Seulement Nūḥ et ses trois fils",
+        "Les croyants, et un couple de chaque espèce",
+        "Les animaux, mais aucun être humain"
+      ],
+      "answer": 2,
+      "expl": "« Charge dans l'arche un couple de chaque espèce, ta famille sauf celui contre qui la parole a été prononcée, et ceux qui croient. » Peu de gens crurent ; même un fils de Nūḥ refusa de monter.",
+      "src": [
+        "Coran 11:40"
+      ],
+      "tags": [
+        "prophete:nuh"
+      ]
+    },
+    {
+      "id": "pro-t1-0069",
+      "concept": "pro.yunus-autres.yunus-poisson",
+      "domain": "prophetes",
+      "sub": "yunus-autres",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit Yūnus dans le ventre du poisson ?",
+      "choices": [
+        "« Seigneur, fais-moi sortir d'ici tout de suite »",
+        "« Ô mon peuple, pardonnez-moi d'être parti »",
+        "« Seigneur, envoie-moi un ange pour m'aider »",
+        "« Pas de divinité à part Toi, gloire à Toi… »"
+      ],
+      "answer": 3,
+      "expl": "Cette invocation, appelée « duʿāʾ Dhī n-Nūn », est l'une des plus puissantes : le Prophète ﷺ a dit qu'aucun musulman ne la dit dans une épreuve sans qu'Allah lui réponde.",
+      "src": [
+        "Coran 21:87-88",
+        "Hadith de Saʿd ibn Abī Waqqāṣ — Tirmidhi"
+      ],
+      "tags": [
+        "prophete:yunus"
+      ]
+    },
+    {
+      "id": "pro-t1-0070",
+      "concept": "pro.dawud-sulayman.sulayman-pere",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui était le père du prophète Sulaymān ?",
+      "choices": [
+        "Le prophète Dāwūd",
+        "Le prophète Mūsā",
+        "Le prophète Ibrāhīm",
+        "Le roi Ṭālūt"
+      ],
+      "answer": 0,
+      "expl": "« Et Sulaymān hérita de Dāwūd. » Père et fils furent tous deux prophètes et rois. Dāwūd reçut le Zabūr ; Sulaymān comprenait le langage des animaux.",
+      "src": [
+        "Coran 27:16"
+      ],
+      "tags": [
+        "prophete:sulayman",
+        "prophete:dawud"
+      ]
+    },
+    {
+      "id": "pro-t1-0071",
+      "concept": "pro.isa-maryam.maryam-sourate",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate porte le nom de la mère de ʿĪsā ?",
+      "choices": [
+        "Āl ʿImrān",
+        "Maryam",
+        "An-Nisāʾ",
+        "Yūsuf"
+      ],
+      "answer": 1,
+      "expl": "La sourate 19 raconte la naissance de Yaḥyā et celle de ʿĪsā. Maryam est la seule femme nommée dans le Coran, et Allah dit l'avoir choisie « au-dessus des femmes des mondes ».",
+      "src": [
+        "Coran 3:42"
+      ],
+      "tags": [
+        "prophete:isa",
+        "sourate:19"
+      ]
+    },
+    {
+      "id": "pro-t1-0072",
+      "concept": "pro.musa-harun.frere",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui était Hārūn pour Mūsā ?",
+      "choices": [
+        "Son père, prêtre du temple",
+        "Son fils aîné, son héritier",
+        "Son frère, prophète lui aussi",
+        "Son serviteur, sans être prophète"
+      ],
+      "answer": 2,
+      "expl": "Mūsā demanda à Allah de lui donner son frère Hārūn comme soutien, car il parlait mieux que lui. Allah l'exauça et fit de Hārūn un prophète.",
+      "src": [
+        "Coran 20:29-36"
+      ],
+      "tags": [
+        "prophete:musa",
+        "prophete:harun"
+      ]
+    },
+    {
+      "id": "pro-t1-0073",
+      "concept": "pro.adam.pere-humanite",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pourquoi appelle-t-on Ādam « le père de l'humanité » ?",
+      "choices": [
+        "Il fut le plus âgé des prophètes",
+        "Il eut le plus d'enfants de l'histoire",
+        "Il fonda la première ville de la terre",
+        "Tous les humains descendent de lui"
+      ],
+      "answer": 3,
+      "expl": "Le Coran rappelle que tous les humains viennent d'un seul couple, ce qui fonde l'égalité entre eux : « Ô hommes, Nous vous avons créés d'un mâle et d'une femelle. »",
+      "src": [
+        "Coran 4:1",
+        "Coran 49:13"
+      ],
+      "tags": [
+        "prophete:adam"
+      ]
+    },
+    {
+      "id": "pro-t1-0074",
+      "concept": "pro.general.signes",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque prophète à un miracle ou un signe célèbre.",
+      "pairs": [
+        [
+          "Nūḥ",
+          "L'arche"
+        ],
+        [
+          "Ibrāhīm",
+          "Le feu devenu fraîcheur"
+        ],
+        [
+          "Mūsā",
+          "Le bâton et la mer ouverte"
+        ],
+        [
+          "ʿĪsā",
+          "Parler au berceau, guérir les malades"
+        ],
+        [
+          "Muḥammad ﷺ",
+          "Le Coran"
+        ]
+      ],
+      "expl": "Chaque prophète a reçu des signes. Le plus grand miracle du Prophète Muḥammad ﷺ est le Coran, car il demeure jusqu'à aujourd'hui.",
+      "tags": [
+        "prophete:nuh",
+        "prophete:ibrahim",
+        "prophete:musa",
+        "prophete:isa",
+        "prophete:muhammad"
+      ]
+    },
+    {
+      "id": "pro-t1-0075",
+      "concept": "pro.adam.fiche-adam",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Ādam, le premier homme",
+      "points": [
+        "Créé de terre (argile), premier homme et premier prophète",
+        "Iblīs refusa par orgueil : « Je suis meilleur que lui »",
+        "Pas de « péché originel » : Allah a pardonné",
+        "Leur repentir : « Seigneur, nous nous sommes fait du tort » (7:23)"
+      ],
+      "expl": "Allah créa Ādam de terre, lui insuffla une âme et lui enseigna les noms de toutes choses. Les anges se prosternèrent devant lui, sauf Iblīs, par orgueil. Après avoir mangé de l'arbre interdit, Ādam et Ḥawwāʾ se repentirent et Allah leur pardonna.",
+      "src": [
+        "Coran 7:23",
+        "Coran 2:30-37"
+      ],
+      "ar": {
+        "text": "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+        "tr": "rabbanā ẓalamnā anfusanā wa in lam taghfir lanā wa tarḥamnā la-nakūnanna mina l-khāsirīn",
+        "pr": "rab-ba-nâ dha-lam-nâ an-fou-sa-nâ wa in lam tagh-fir la-nâ wa tar-ham-nâ la-na-koû-nan-na mi-nal-khâ-si-rîn",
+        "fr": "Seigneur, nous nous sommes fait du tort ; si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous serons perdants"
+      }
+    },
+    {
+      "id": "pro-t1-0076",
+      "concept": "pro.nuh.fiche-nuh",
+      "domain": "prophetes",
+      "sub": "nuh",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Nūḥ et le déluge",
+      "points": [
+        "L'un des 5 grands messagers (Ulu l-ʿAzm)",
+        "950 ans de prédication patiente (29:14)",
+        "Son fils refusa de monter dans l'arche",
+        "Leçon : la foi ne s'hérite pas ; la patience dans l'appel"
+      ],
+      "expl": "Nūḥ (Noé) appela son peuple à adorer Allah seul pendant 950 ans. Très peu le suivirent. Allah lui ordonna de construire l'arche ; le déluge emporta les mécréants, même son propre fils.",
+      "src": [
+        "Coran 11:36-48",
+        "Coran 29:14"
+      ]
+    },
+    {
+      "id": "pro-t1-0077",
+      "concept": "pro.ibrahim.fiche-ibrahim",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Ibrāhīm, l'ami d'Allah",
+      "points": [
+        "Surnommé Khalīl Allāh, « l'ami intime d'Allah »",
+        "Le feu : « Ô feu, sois fraîcheur et paix pour Ibrāhīm » (21:69)",
+        "Père d'Ismāʿīl (ancêtre des Arabes) et d'Isḥāq (ancêtre des Israélites)",
+        "L'ʿĪd al-Aḍḥā commémore sa soumission"
+      ],
+      "expl": "Ibrāhīm (Abraham) est le père des prophètes et le modèle du monothéisme. Il brisa les idoles de son peuple, fut jeté dans le feu qui devint fraîcheur, et bâtit la Kaʿba avec son fils Ismāʿīl. Nous le mentionnons dans chaque prière.",
+      "src": [
+        "Coran 21:51-70",
+        "Coran 2:127"
+      ]
+    },
+    {
+      "id": "pro-t1-0078",
+      "concept": "pro.musa-harun.fiche-moise",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Mūsā, celui qui parla à Allah",
+      "points": [
+        "Surnommé Kalīm Allāh : Allah lui parla directement",
+        "Miracles : le bâton-serpent, la main lumineuse, la mer ouverte",
+        "Son frère Hārūn l'aida",
+        "Il reçut la Tawrāt (Torah)"
+      ],
+      "expl": "Mūsā (Moïse) est le prophète le plus cité du Coran, environ 136 fois. Sauvé bébé dans un panier sur le Nil, il grandit chez Pharaon, reçut la révélation au buisson ardent, et libéra les fils d'Israël en traversant la mer.",
+      "src": [
+        "Coran 20:9-98",
+        "Coran 4:164"
+      ]
+    },
+    {
+      "id": "pro-t1-0079",
+      "concept": "pro.isa-maryam.fiche-isa",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "fiche",
+      "q": "ʿĪsā, le Messie",
+      "points": [
+        "Appelé al-Masīḥ (le Messie) et « parole d'Allah »",
+        "Un serviteur et prophète, pas Dieu ni fils de Dieu",
+        "Il reçut l'Injīl (l'Évangile)",
+        "Il annonça la venue d'Aḥmad (61:6)"
+      ],
+      "expl": "ʿĪsā (Jésus), fils de Maryam, est un immense prophète. Né d'une mère vierge par l'ordre d'Allah, il parla au berceau et fit des miracles par la permission d'Allah. Les musulmans croient qu'il n'a pas été crucifié mais élevé vers Allah, et qu'il reviendra.",
+      "src": [
+        "Coran 19:16-36",
+        "Coran 4:157-158",
+        "Coran 61:6"
+      ]
+    },
+    {
+      "id": "pro-t1-0080",
+      "concept": "pro.yaqub-yusuf.fiche-yusuf-lecons",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Yūsuf : les leçons de sa vie",
+      "points": [
+        "La patience de son père Yaʿqūb : « une belle patience »",
+        "La chasteté de Yūsuf face à la tentation",
+        "Le pardon : « Pas de reproche contre vous aujourd'hui » (12:92)",
+        "Après l'épreuve vient la délivrance"
+      ],
+      "expl": "L'histoire de Yūsuf (Joseph) est racontée en entier dans une seule sourate. Jalousé par ses frères, jeté au puits, vendu, emprisonné injustement, il devint ministre d'Égypte et pardonna à ses frères.",
+      "src": [
+        "Coran 12"
+      ]
+    },
+    {
+      "id": "pro-t1-0081",
+      "concept": "pro.muhammad.fiche-sceau",
+      "domain": "prophetes",
+      "sub": "muhammad",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Muḥammad ﷺ, le sceau des prophètes",
+      "points": [
+        "« Le Messager d'Allah et le sceau des prophètes » (33:40)",
+        "Envoyé « en miséricorde pour les mondes » (21:107)",
+        "Il confirme les messages d'Ibrāhīm, Mūsā et ʿĪsā",
+        "Aimer le Prophète ﷺ fait partie de la foi"
+      ],
+      "expl": "Muḥammad ﷺ est le dernier prophète et messager. Son message s'adresse à toute l'humanité et confirme ceux d'avant. Après lui, il n'y aura plus de prophète.",
+      "src": [
+        "Coran 33:40",
+        "Coran 21:107"
+      ]
+    },
+    {
+      "id": "pro-t1-0082",
+      "concept": "pro.adam.iblis-ange",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Iblīs était-il un ange ?",
+      "choices": [
+        "Oui, le plus grand des anges",
+        "C'était un homme",
+        "On ne sait pas",
+        "Non, c'était un djinn, créé de feu"
+      ],
+      "answer": 3,
+      "expl": "Le Coran dit : « Il était du nombre des djinns » (18:50). Les anges obéissent toujours ; Iblīs, doué de libre arbitre, désobéit par orgueil.",
+      "src": [
+        "Coran 18:50"
+      ]
+    },
+    {
+      "id": "pro-t1-0083",
+      "concept": "pro.nuh.annees",
+      "domain": "prophetes",
+      "sub": "nuh",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pendant combien d'années Nūḥ a-t-il appelé son peuple ?",
+      "choices": [
+        "950 ans",
+        "40 ans",
+        "100 ans",
+        "23 ans"
+      ],
+      "answer": 0,
+      "expl": "« Il demeura parmi eux mille ans moins cinquante » (29:14). Un exemple de patience incroyable, malgré les moqueries.",
+      "src": [
+        "Coran 29:14"
+      ]
+    },
+    {
+      "id": "pro-t1-0084",
+      "concept": "pro.hud-salih.chamelle",
+      "domain": "prophetes",
+      "sub": "hud-salih",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel miracle Allah donna-t-il au prophète Ṣāliḥ pour le peuple de Thamūd ?",
+      "choices": [
+        "Un bâton changé en serpent",
+        "Une chamelle sortie de la roche",
+        "Une mer qui s'ouvre en deux",
+        "Un feu qui devient frais"
+      ],
+      "answer": 1,
+      "expl": "Le peuple de Thamūd exigea un miracle ; Allah fit sortir une chamelle. Ils la tuèrent malgré l'avertissement, et furent anéantis. Leurs demeures taillées dans la roche (al-Ḥijr / Madāʾin Ṣāliḥ) existent encore en Arabie.",
+      "src": [
+        "Coran 7:73-79"
+      ]
+    },
+    {
+      "id": "pro-t1-0085",
+      "concept": "pro.ibrahim.sacrifice",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'Allah a donné à Ibrāhīm à la place de son fils lors du sacrifice ?",
+      "choices": [
+        "Une colombe",
+        "Un veau",
+        "Un bélier",
+        "Un chameau"
+      ],
+      "answer": 2,
+      "expl": "Ibrāhīm et son fils se soumirent tous deux à l'ordre d'Allah. Au dernier moment, Allah racheta le fils par « une immense victime » (37:107). C'est l'origine de l'ʿĪd al-Aḍḥā.",
+      "src": [
+        "Coran 37:102-107"
+      ]
+    },
+    {
+      "id": "pro-t1-0086",
+      "concept": "pro.lut-ismail-ishaq.zamzam",
+      "domain": "prophetes",
+      "sub": "lut-ismail-ishaq",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui courut sept fois entre Ṣafā et Marwa à la recherche d'eau pour son bébé ?",
+      "choices": [
+        "Sāra",
+        "Maryam",
+        "Āsiya",
+        "Hājar"
+      ],
+      "answer": 3,
+      "expl": "Laissée avec Ismāʿīl dans la vallée de La Mecque, Hājar chercha de l'eau. Allah fit jaillir Zamzam. Les pèlerins refont sa course : c'est le saʿy.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari"
+      ]
+    },
+    {
+      "id": "pro-t1-0087",
+      "concept": "pro.lut-ismail-ishaq.lut-peuple",
+      "domain": "prophetes",
+      "sub": "lut-ismail-ishaq",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel était le grand péché du peuple de Lūṭ, en plus de leur rejet de son message ?",
+      "choices": [
+        "Une turpitude inédite, et le brigandage",
+        "L'adoration du veau d'or",
+        "La fraude sur les poids et mesures",
+        "Le meurtre de leurs prophètes"
+      ],
+      "answer": 0,
+      "expl": "Lūṭ (Loth) appela son peuple à cesser leurs turpitudes et leurs injustices. Ils refusèrent et leurs villes furent renversées. Seule sa famille croyante fut sauvée, sauf sa femme.",
+      "src": [
+        "Coran 29:28-35"
+      ]
+    },
+    {
+      "id": "pro-t1-0088",
+      "concept": "pro.yaqub-yusuf.freres",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pourquoi les frères de Yūsuf l'ont-ils jeté dans le puits ?",
+      "choices": [
+        "Parce qu'il avait volé leur troupeau",
+        "Par jalousie, car leur père le préférait",
+        "Parce qu'il refusait de travailler",
+        "Sur l'ordre d'un roi qui le cherchait"
+      ],
+      "answer": 1,
+      "expl": "Ils pensaient que leur père Yaʿqūb préférait Yūsuf et son frère Binyāmīn. La jalousie peut pousser à de grandes fautes ; Yūsuf leur pardonna pourtant des années plus tard.",
+      "src": [
+        "Coran 12:8-15"
+      ]
+    },
+    {
+      "id": "pro-t1-0089",
+      "concept": "pro.shuayb-ayyub.ayyub-dua",
+      "domain": "prophetes",
+      "sub": "shuayb-ayyub",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle était la prière d'Ayyūb pendant sa longue maladie ?",
+      "choices": [
+        "« Seigneur, rends-moi tous mes biens »",
+        "« Pourquoi m'éprouves-Tu ainsi ? »",
+        "« Le mal m'a touché, et Tu es le plus miséricordieux »",
+        "« Seigneur, fais-moi mourir maintenant »"
+      ],
+      "answer": 2,
+      "expl": "Ayyūb (Job) perdit sa santé, ses biens et ses enfants, sans jamais se plaindre d'Allah. Allah le guérit et lui rendit tout au double. Son nom est synonyme de patience.",
+      "src": [
+        "Coran 21:83-84"
+      ],
+      "ar": {
+        "text": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+        "tr": "annī massaniya ḍ-ḍurru wa anta arḥamu r-rāḥimīn",
+        "pr": "an-nî mas-sa-ni-yad-dour-rou wa an-ta ar-ha-mour-râ-hi-mîn",
+        "fr": "Le mal m'a touché, et Tu es le plus miséricordieux des miséricordieux"
+      }
+    },
+    {
+      "id": "pro-t1-0090",
+      "concept": "pro.musa-harun.panier",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment Mūsā bébé fut-il sauvé de Pharaon ?",
+      "choices": [
+        "Caché dans une grotte par son père",
+        "Emporté par un ange jusqu'au désert",
+        "Confié à une famille de bergers de Madyan",
+        "Placé dans un coffre sur le Nil, adopté chez Pharaon"
+      ],
+      "answer": 3,
+      "expl": "Pharaon faisait tuer les garçons des fils d'Israël. Sur inspiration d'Allah, la mère de Mūsā le confia au fleuve. Āsiya, la femme de Pharaon, croyante, convainquit son mari de l'adopter. Allah rendit l'enfant à sa mère comme nourrice.",
+      "src": [
+        "Coran 28:7-13"
+      ]
+    },
+    {
+      "id": "pro-t1-0091",
+      "concept": "pro.musa-harun.asiya",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui était Āsiya ?",
+      "choices": [
+        "La femme croyante de Pharaon",
+        "La mère du prophète Mūsā",
+        "La reine de Saba, convertie",
+        "La sœur de Hārūn et de Mūsā"
+      ],
+      "answer": 0,
+      "expl": "Elle crut en Allah malgré la tyrannie de son mari et demanda : « Seigneur, construis-moi auprès de Toi une maison au Paradis » (66:11). Le Prophète ﷺ la compte parmi les meilleures femmes.",
+      "src": [
+        "Coran 66:11",
+        "Hadith d'Abū Mūsā — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pro-t1-0092",
+      "concept": "pro.dawud-sulayman.saba",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle reine Sulaymān invita-t-il à l'islam après le rapport de la huppe ?",
+      "choices": [
+        "Āsiya, la reine d'Égypte",
+        "Bilqīs, la reine de Saba",
+        "Zénobie, la reine de Palmyre",
+        "Cléopâtre, la reine d'Alexandrie"
+      ],
+      "answer": 1,
+      "expl": "La huppe raconta qu'un peuple adorait le soleil. Sulaymān envoya une lettre commençant par la basmala. La reine finit par dire : « Je me soumets avec Sulaymān à Allah, Seigneur des mondes » (27:44).",
+      "src": [
+        "Coran 27:20-44"
+      ]
+    },
+    {
+      "id": "pro-t1-0093",
+      "concept": "pro.dawud-sulayman.zabur",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel livre fut révélé à Dāwūd ?",
+      "choices": [
+        "La Tawrāt",
+        "L'Injīl",
+        "Le Zabūr",
+        "Les Feuillets"
+      ],
+      "answer": 2,
+      "expl": "Dāwūd (David), roi et prophète, avait une voix magnifique : les montagnes et les oiseaux glorifiaient Allah avec lui. Il jeûnait un jour sur deux, « le jeûne le plus aimé d'Allah ».",
+      "src": [
+        "Coran 4:163",
+        "Coran 34:10",
+        "Hadith d'ʿAbd Allāh ibn ʿAmr — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pro-t1-0094",
+      "concept": "pro.yunus-autres.yunus-peuple",
+      "domain": "prophetes",
+      "sub": "yunus-autres",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que fit le peuple de Yūnus après son départ ?",
+      "choices": [
+        "Il fut détruit par un déluge",
+        "Il partit à sa recherche en mer",
+        "Il choisit un autre prophète",
+        "Il se repentit, et Allah le sauva"
+      ],
+      "answer": 3,
+      "expl": "C'est le seul peuple qui crut collectivement et échappa au châtiment (10:98). Yūnus, sorti trop tôt, fut avalé par le poisson, puis sauvé grâce à son invocation.",
+      "src": [
+        "Coran 10:98"
+      ]
+    },
+    {
+      "id": "pro-t1-0095",
+      "concept": "pro.zakariya-yahya.yahya-nom",
+      "domain": "prophetes",
+      "sub": "zakariya-yahya",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel nom, jamais donné avant, Allah choisit-il pour le fils de Zakariyyā ?",
+      "choices": [
+        "Yaḥyā",
+        "ʿĪsā",
+        "Ismāʿīl",
+        "Isḥāq"
+      ],
+      "answer": 0,
+      "expl": "Zakariyyā, très âgé et sa femme stérile, pria pour avoir un enfant. Allah lui annonça Yaḥyā, « un nom que Nous n'avons donné à personne auparavant » (19:7).",
+      "src": [
+        "Coran 19:2-15"
+      ]
+    },
+    {
+      "id": "pro-t1-0096",
+      "concept": "pro.isa-maryam.miracles",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Lequel de ces miracles le Coran attribue-t-il à ʿĪsā, par la permission d'Allah ?",
+      "choices": [
+        "Ouvrir la mer en deux pour faire passer son peuple",
+        "Guérir l'aveugle et le lépreux, ressusciter les morts",
+        "Faire sortir une chamelle vivante de la roche",
+        "Parler aux fourmis et commander au vent"
+      ],
+      "answer": 1,
+      "expl": "Le Coran précise toujours « par la permission d'Allah » (bi-idhnī) : ʿĪsā façonnait un oiseau d'argile qui prenait vie, guérissait et ressuscitait, comme preuve de sa mission.",
+      "src": [
+        "Coran 5:110"
+      ]
+    },
+    {
+      "id": "pro-t1-0097",
+      "concept": "pro.general.livres",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque prophète au livre qu'il a reçu.",
+      "pairs": [
+        [
+          "Mūsā",
+          "La Tawrāt (Torah)"
+        ],
+        [
+          "Dāwūd",
+          "Le Zabūr (Psaumes)"
+        ],
+        [
+          "ʿĪsā",
+          "L'Injīl (Évangile)"
+        ],
+        [
+          "Muḥammad ﷺ",
+          "Le Qurʾān (Coran)"
+        ]
+      ],
+      "expl": "Croire aux livres révélés est un pilier de la foi. Le Coran mentionne aussi les Feuillets d'Ibrāhīm. Il est le dernier livre et le seul préservé tel quel.",
+      "src": [
+        "Coran 4:163",
+        "Coran 87:19"
+      ]
+    },
+    {
+      "id": "pro-t1-0098",
+      "concept": "pro.general.chrono",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets ces prophètes dans l'ordre chronologique.",
+      "items": [
+        "Ādam",
+        "Nūḥ",
+        "Ibrāhīm",
+        "Mūsā",
+        "ʿĪsā",
+        "Muḥammad ﷺ"
+      ],
+      "expl": "Du premier homme au sceau des prophètes. Ibrāhīm est l'ancêtre de Mūsā, ʿĪsā et Muḥammad ﷺ."
+    },
+    {
+      "id": "pro-t1-0099",
+      "concept": "pro.figures.khidr",
+      "domain": "prophetes",
+      "sub": "figures",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui est le sage mystérieux que Mūsā suivit pour apprendre de lui (sourate al-Kahf) ?",
+      "choices": [
+        "Dhū l-Qarnayn",
+        "Hārūn",
+        "Al-Khiḍr",
+        "Luqmān"
+      ],
+      "answer": 2,
+      "expl": "Al-Khiḍr fit trois actes étranges : percer un bateau, tuer un garçon, réparer un mur. Il expliqua ensuite leur sagesse cachée. Leçon : il y a toujours une sagesse divine, même quand on ne la voit pas.",
+      "src": [
+        "Coran 18:60-82"
+      ]
+    },
+    {
+      "id": "pro-t1-0100",
+      "concept": "pro.hud-salih.hud-ad",
+      "domain": "prophetes",
+      "sub": "hud-salih",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel peuple orgueilleux, connu pour ses hautes constructions, le prophète Hūd appela-t-il ?",
+      "choices": [
+        "Le peuple de ʿĀd",
+        "Le peuple de Thamūd",
+        "Les gens de Madyan",
+        "Les Égyptiens"
+      ],
+      "answer": 0,
+      "expl": "ʿĀd se croyait invincible : « Qui est plus fort que nous ? » (41:15). Un vent violent et glacial souffla sept nuits et huit jours et les anéantit. Hūd et les croyants furent sauvés.",
+      "src": [
+        "Coran 41:15-16",
+        "Coran 69:6-7"
+      ]
+    }
+  ]
+}

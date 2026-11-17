@@ -1,0 +1,663 @@
+{
+  "pack": "sira-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "sir-t3-0001",
+      "concept": "sir.arabie.clans",
+      "domain": "sira",
+      "sub": "arabie",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque clan de Quraysh à un Compagnon ou personnage qui en était issu.",
+      "pairs": [
+        [
+          "Banū Hāshim",
+          "Le Prophète ﷺ, ʿAlī, Ḥamza"
+        ],
+        [
+          "Banū Umayya",
+          "ʿUthmān, Abū Sufyān"
+        ],
+        [
+          "Banū Makhzūm",
+          "Khālid ibn al-Walīd, Abū Jahl"
+        ],
+        [
+          "Banū Taym",
+          "Abū Bakr"
+        ],
+        [
+          "Banū ʿAdī",
+          "ʿUmar ibn al-Khaṭṭāb"
+        ]
+      ],
+      "expl": "Quraysh était divisée en clans rivaux et alliés. L'islam a traversé ces divisions : des hommes d'un même clan se sont retrouvés dans des camps opposés, et des clans rivaux ont fini par former une seule communauté."
+    },
+    {
+      "id": "sir-t3-0002",
+      "concept": "sir.arabie.abd-allah-rancon",
+      "domain": "sira",
+      "sub": "arabie",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon les récits de la Sīra, comment ʿAbd al-Muṭṭalib racheta-t-il son fils ʿAbd Allāh, futur père du Prophète ﷺ, qu'il avait fait vœu de sacrifier ?",
+      "choices": [
+        "En payant son poids en or",
+        "En sacrifiant cent chameaux",
+        "En offrant sa maison",
+        "En jeûnant un mois"
+      ],
+      "answer": 1,
+      "expl": "ʿAbd al-Muṭṭalib avait juré de sacrifier un de ses fils si Allah lui en donnait dix. Le sort tomba sur ʿAbd Allāh ; on tira au sort entre lui et dix chameaux, en augmentant jusqu'à cent. C'est pourquoi le Prophète ﷺ est appelé « le fils des deux sacrifiés », avec Ismāʿīl."
+    },
+    {
+      "id": "sir-t3-0003",
+      "concept": "sir.arabie.zamzam-redecouvert",
+      "domain": "sira",
+      "sub": "arabie",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel rôle ʿAbd al-Muṭṭalib, grand-père du Prophète ﷺ, joua-t-il pour le puits de Zamzam ?",
+      "choices": [
+        "Il le vendit",
+        "Il le creusa pour la première fois",
+        "Il le redécouvrit et le recreusa après qu'il eut été comblé et oublié",
+        "Il le ferma"
+      ],
+      "answer": 2,
+      "expl": "Le puits, comblé par la tribu de Jurhum en quittant La Mecque, fut oublié pendant des siècles. Selon la Sīra, ʿAbd al-Muṭṭalib le retrouva après des songes et le recreusa ; sa famille garda l'honneur d'abreuver les pèlerins (as-siqāya).",
+      "retired": true
+    },
+    {
+      "id": "sir-t3-0004",
+      "concept": "sir.naissance-jeunesse.umm-ayman",
+      "domain": "sira",
+      "sub": "naissance-jeunesse",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui était Umm Ayman (Baraka), que le Prophète ﷺ appelait « ma mère après ma mère » ?",
+      "choices": [
+        "La sœur de sa mère Āmina",
+        "Sa nourrice bédouine Ḥalīma",
+        "La femme de son oncle Abū Ṭālib",
+        "La servante abyssinienne qui l'éleva"
+      ],
+      "answer": 3,
+      "expl": "Baraka accompagnait Āmina lors du voyage où celle-ci mourut, et ramena l'enfant à La Mecque. Le Prophète ﷺ l'affranchit, l'honora toute sa vie, et elle fut la mère d'Usāma ibn Zayd. Après sa mort, Abū Bakr et ʿUmar allaient lui rendre visite."
+    },
+    {
+      "id": "sir-t3-0005",
+      "concept": "sir.revelation.reves",
+      "domain": "sira",
+      "sub": "revelation",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment commença la révélation, selon ʿĀʾisha, avant l'apparition de l'ange à Ḥirāʾ ?",
+      "choices": [
+        "Par des rêves véridiques, qui se réalisaient comme l'aube qui se lève",
+        "Par une voix dans le désert",
+        "Par un livre trouvé",
+        "Par une étoile filante"
+      ],
+      "answer": 0,
+      "expl": "« La première manifestation de la révélation fut les rêves véridiques dans le sommeil : il ne voyait pas un rêve sans qu'il se réalise comme l'aube. » Puis on lui fit aimer la retraite, et il se retirait à Ḥirāʾ pour adorer pendant plusieurs nuits.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "sir-t3-0006",
+      "concept": "sir.revelation.ummi",
+      "domain": "sira",
+      "sub": "revelation",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que répondit le Prophète ﷺ quand l'ange lui ordonna « Lis ! » ?",
+      "choices": [
+        "Il refusa de parler",
+        "« Je ne sais pas lire »",
+        "« Que dois-je lire ? » en ouvrant un livre",
+        "Il lut un parchemin"
+      ],
+      "answer": 1,
+      "expl": "« Mā ana bi-qāriʾ » : je ne suis pas de ceux qui lisent. Le Prophète ﷺ était « ummī », il ne savait ni lire ni écrire, ce que le Coran mentionne comme un signe : un homme illettré apportant un texte d'une telle perfection.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim",
+        "Coran 7:157"
+      ]
+    },
+    {
+      "id": "sir-t3-0007",
+      "concept": "sir.mecque.safa-abu-lahab",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle sourate fut révélée après qu'Abū Lahab eut insulté le Prophète ﷺ lors de son premier appel public sur la colline de Ṣafā ?",
+      "choices": [
+        "Al-Kawthar",
+        "Al-Ikhlāṣ",
+        "Al-Masad",
+        "Al-Fātiḥa"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ appela les clans : « Si je vous disais qu'une cavalerie arrive derrière cette colline, me croiriez-vous ? — Oui, tu n'as jamais menti. — Je suis un avertisseur… » Abū Lahab lança : « Périsse-tu ! Est-ce pour cela que tu nous as réunis ? » La sourate lui répondit.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ],
+      "tags": [
+        "sourate:111"
+      ]
+    },
+    {
+      "id": "sir-t3-0008",
+      "concept": "sir.mecque.khabbab",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que répondit le Prophète ﷺ à Khabbāb ibn al-Aratt, torturé, qui lui demandait d'invoquer Allah pour la délivrance ?",
+      "choices": [
+        "Il invoqua aussitôt contre leurs bourreaux",
+        "Il lui conseilla de renier sa foi en secret",
+        "Il lui promit de le cacher en Abyssinie",
+        "Avant eux, des croyants furent sciés sans renier"
+      ],
+      "answer": 3,
+      "expl": "Il dit : « Par Allah, cette affaire s'accomplira jusqu'à ce qu'un voyageur aille de Sanaa à Ḥaḍramawt sans craindre qu'Allah et le loup pour ses moutons ; mais vous êtes pressés. » La patience des premiers musulmans a été récompensée.",
+      "src": [
+        "Hadith de Khabbāb ibn al-Aratt — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t3-0009",
+      "concept": "sir.mecque.abu-dharr",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment Abū Dharr al-Ghifārī annonça-t-il son islam à La Mecque, malgré le conseil de la discrétion ?",
+      "choices": [
+        "Il la cria devant la Kaʿba et fut battu",
+        "Il l'écrivit sur la porte de la Kaʿba",
+        "Il l'annonça en secret à son clan",
+        "Il attendit l'Hégire pour la dire"
+      ],
+      "answer": 0,
+      "expl": "Venu de sa tribu lointaine, Abū Dharr chercha le Prophète ﷺ en secret, aidé par ʿAlī. Après sa conversion, il cria la shahāda au milieu de Quraysh, qui le frappa ; al-ʿAbbās le sauva en rappelant que sa tribu contrôlait la route du commerce. Il ramena ensuite sa tribu à l'islam.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0010",
+      "concept": "sir.isra-miraj.jerusalem-decrite",
+      "domain": "sira",
+      "sub": "isra-miraj",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ put-il décrire Jérusalem aux Quraysh qui doutaient de son voyage nocturne ?",
+      "choices": [
+        "Il l'avait visitée lors d'un voyage commercial",
+        "Allah lui montra la ville sous ses yeux",
+        "Abū Bakr la lui décrivit en secret",
+        "Un marchand de Jérusalem l'aida"
+      ],
+      "answer": 1,
+      "expl": "« Quand Quraysh me démentit, je me tins dans le Ḥijr ; Allah fit apparaître devant moi Bayt al-Maqdis, et je me mis à leur décrire ses signes en le regardant. » Plusieurs Mecquois, qui connaissaient la ville, furent stupéfaits.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0011",
+      "concept": "sir.hijra.guide",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui le Prophète ﷺ et Abū Bakr engagèrent-ils comme guide pour la route secrète de l'Hégire ?",
+      "choices": [
+        "ʿAlī",
+        "Un ange",
+        "ʿAbd Allāh ibn Urayqiṭ, un polythéiste réputé digne de confiance",
+        "Bilāl"
+      ],
+      "answer": 2,
+      "expl": "Ibn Urayqiṭ, encore païen, connaissait parfaitement les pistes. Ils lui confièrent leurs montures trois jours avant le départ. Leçon importante : on peut faire confiance à un non-musulman compétent et honnête, même dans les moments les plus décisifs.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari"
+      ],
+      "retired": true
+    },
+    {
+      "id": "sir-t3-0012",
+      "concept": "sir.hijra.quba-sejour",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Combien de temps environ le Prophète ﷺ resta-t-il à Qubāʾ avant d'entrer à Médine, selon le récit d'Anas ?",
+      "choices": [
+        "Une seule nuit, en secret",
+        "Trois mois",
+        "Un an",
+        "Environ quatorze nuits"
+      ],
+      "answer": 3,
+      "expl": "Arrivé un lundi, il séjourna chez les Banū ʿAmr ibn ʿAwf à Qubāʾ une quinzaine de nuits, y fonda la mosquée, puis partit vers Médine ; il pria en chemin la première prière du vendredi chez les Banū Sālim.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t3-0013",
+      "concept": "sir.medine.saad-muadh",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ à la mort de Saʿd ibn Muʿādh, chef des Aws ?",
+      "choices": [
+        "« Le Trône a tremblé pour sa mort »",
+        "« Il sera le premier au Paradis »",
+        "« Que personne ne pleure sur lui »",
+        "« Enterrez-le à La Mecque »"
+      ],
+      "answer": 0,
+      "expl": "Saʿd, converti grâce à Muṣʿab ibn ʿUmayr, avait entraîné toute sa tribu dans l'islam et fut blessé à la Tranchée. Sa mort fut une grande perte. Le Prophète ﷺ décrivit aussi les foulards de Saʿd au Paradis, plus beaux que la soie d'ici-bas.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0014",
+      "concept": "sir.medine.tribus-juives",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque tribu juive de Médine à ce que rapportent les sources sur son sort.",
+      "pairs": [
+        [
+          "Banū Qaynuqāʿ",
+          "Expulsés après Badr"
+        ],
+        [
+          "Banū an-Naḍīr",
+          "Expulsés vers Khaybar (an 4), évoqués dans la sourate al-Ḥashr"
+        ],
+        [
+          "Banū Qurayẓa",
+          "Jugés après la bataille de la Tranchée, accusés de trahison"
+        ]
+      ],
+      "expl": "La Constitution de Médine liait ces tribus aux musulmans par un pacte de défense. Les sources rapportent que des ruptures de ce pacte entraînèrent leur départ ou leur jugement. Ces épisodes, très discutés par les historiens, se lisent dans leur contexte de guerre.",
+      "src": [
+        "Coran 59:2"
+      ],
+      "note": "Épisodes présentés selon les sources musulmanes classiques ; leur lecture fait débat chez les historiens."
+    },
+    {
+      "id": "sir-t3-0015",
+      "concept": "sir.medine.ibn-ubayy",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui était ʿAbd Allāh ibn Ubayy ibn Salūl ?",
+      "choices": [
+        "Un poète des Anṣār converti tôt",
+        "Le chef des hypocrites de Médine",
+        "Le gardien de la clé de la Kaʿba",
+        "Le premier muezzin après Bilāl"
+      ],
+      "answer": 1,
+      "expl": "Ibn Ubayy devait devenir roi de Médine avant l'arrivée de l'islam ; il afficha la foi mais complota souvent, notamment en se retirant avec un tiers de l'armée à Uḥud. Pourtant, le Prophète ﷺ ne le fit pas tuer, pour qu'on ne dise pas qu'il tuait ses compagnons, et donna même sa chemise pour son linceul à la demande de son fils.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0016",
+      "concept": "sir.batailles.abu-jahl",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui tua Abū Jahl à la bataille de Badr ?",
+      "choices": [
+        "Ḥamza, l'oncle du Prophète ﷺ",
+        "ʿAlī, le cousin du Prophète ﷺ",
+        "Deux jeunes garçons des Anṣār",
+        "ʿUmar, d'un seul coup d'épée"
+      ],
+      "answer": 2,
+      "expl": "ʿAbd ar-Raḥmān ibn ʿAwf raconte que deux adolescents lui demandèrent qui était Abū Jahl, celui qui insultait le Prophète ﷺ. Dès qu'il le leur montra, ils s'élancèrent et le frappèrent. Les plus jeunes ont parfois le plus grand courage.",
+      "src": [
+        "Hadith d'ʿAbd ar-Raḥmān ibn ʿAwf — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0017",
+      "concept": "sir.batailles.hubab",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'a montré l'épisode d'al-Ḥubāb ibn al-Mundhir, avant Badr, sur la façon de décider du Prophète ﷺ ?",
+      "choices": [
+        "Il refusa tout conseil avant la bataille",
+        "Il tira au sort l'emplacement du camp",
+        "Il laissa les Anṣār décider seuls de tout",
+        "Il changea la position de l'armée sur un conseil"
+      ],
+      "answer": 3,
+      "expl": "Al-Ḥubāb demanda si la position était une révélation ou une stratégie ; apprenant que c'était un choix humain, il proposa de s'installer près du dernier puits pour priver l'ennemi d'eau. Le Prophète ﷺ accepta. La shūrā (consultation) était au cœur de sa méthode.",
+      "src": [
+        "Coran 3:159"
+      ]
+    },
+    {
+      "id": "sir-t3-0018",
+      "concept": "sir.batailles.abu-dujana",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 3,
+      "type": "qcm",
+      "q": "À qui le Prophète ﷺ confia-t-il son épée à Uḥud en demandant : « Qui la prendra avec son droit ? »",
+      "choices": [
+        "Abū Dujāna",
+        "ʿUmar",
+        "Abū Bakr",
+        "Ṭalḥa"
+      ],
+      "answer": 0,
+      "expl": "Plusieurs tendirent la main ; Abū Dujāna demanda quel était son droit : « Frapper l'ennemi jusqu'à ce qu'elle se torde. » Il la prit, noua un bandeau rouge sur sa tête et combattit vaillamment. Il protégea aussi le Prophète ﷺ de son dos face aux flèches.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0019",
+      "concept": "sir.batailles.nuaym",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment la coalition qui assiégeait Médine lors de la Tranchée fut-elle affaiblie, selon la Sīra ?",
+      "choices": [
+        "Une épidémie ravagea leur camp en une nuit",
+        "Nuʿaym sema la méfiance, puis un vent les dispersa",
+        "Ils se rendirent après une grande bataille",
+        "Une armée d'Abyssinie vint au secours de Médine"
+      ],
+      "answer": 1,
+      "expl": "Nuʿaym, respecté de tous les camps, alla voir chacun séparément pour semer le doute. Le Prophète ﷺ avait dit : « La guerre est ruse. » Puis le vent et le froid achevèrent de disperser les coalisés : « Allah suffit aux croyants dans le combat. »",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari & Muslim",
+        "Coran 33:25"
+      ]
+    },
+    {
+      "id": "sir-t3-0020",
+      "concept": "sir.batailles.tabuk-uthman",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle contribution de ʿUthmān à l'expédition de Tabūk fit dire au Prophète ﷺ : « Rien de ce que fera ʿUthmān après ce jour ne lui nuira » ?",
+      "choices": [
+        "Il combattit seul à l'avant-garde",
+        "Il garda Médine en l'absence du Prophète ﷺ",
+        "Il équipa une grande partie de l'armée",
+        "Il négocia la paix avec les Byzantins"
+      ],
+      "answer": 2,
+      "expl": "L'expédition de Tabūk, en pleine chaleur et période de disette, fut appelée « l'armée de la difficulté ». ʿUthmān versa mille dinars dans le giron du Prophète ﷺ, qui les retournait en répétant cette parole.",
+      "src": [
+        "Hadith d'ʿAbd ar-Raḥmān ibn Samura — Tirmidhi"
+      ]
+    },
+    {
+      "id": "sir-t3-0021",
+      "concept": "sir.traites.suhayl",
+      "domain": "sira",
+      "sub": "traites",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que se passa-t-il lors de la rédaction du traité d'al-Ḥudaybiya, quand Suhayl ibn ʿAmr refusa « Muḥammad, Messager d'Allah » ?",
+      "choices": [
+        "Il refusa et rompit les négociations",
+        "Il demanda à ʿAlī d'effacer le traité entier",
+        "Il fit écrire les deux formules côte à côte",
+        "Il accepta « fils de ʿAbd Allāh » et effaça lui-même"
+      ],
+      "answer": 3,
+      "expl": "Suhayl refusa aussi « Bismillāh ar-Raḥmān ar-Raḥīm » ; on écrivit « Bismika Llāhumma ». Le Prophète ﷺ privilégia la paix sur les formules. Suhayl, l'adversaire de ce jour, devint plus tard un musulman fervent.",
+      "src": [
+        "Hadith d'al-Miswar ibn Makhrama — Bukhari",
+        "Hadith d'al-Barāʾ ibn ʿĀzib — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0022",
+      "concept": "sir.conquete.hatib",
+      "domain": "sira",
+      "sub": "conquete",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ réagit-il quand Ḥāṭib ibn Abī Baltaʿa envoya en secret une lettre prévenant Quraysh de l'expédition vers La Mecque ?",
+      "choices": [
+        "Il écouta ses raisons et lui pardonna",
+        "Il le fit exécuter pour trahison",
+        "Il l'exila définitivement de Médine",
+        "Il lui retira tous ses biens"
+      ],
+      "answer": 0,
+      "expl": "ʿAlī intercepta la lettre. ʿUmar voulut punir Ḥāṭib comme traître ; le Prophète ﷺ dit : « Il a assisté à Badr ; et qu'en sais-tu, peut-être Allah a-t-Il regardé les gens de Badr et dit : faites ce que vous voulez, Je vous ai pardonné. » Le début de la sourate al-Mumtaḥana fut révélé.",
+      "src": [
+        "Hadith de ʿAlī ibn Abī Ṭālib — Bukhari & Muslim"
+      ],
+      "tags": [
+        "sourate:60"
+      ]
+    },
+    {
+      "id": "sir-t3-0023",
+      "concept": "sir.fin.choix",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle parole du Prophète ﷺ, lors d'un de ses derniers sermons, fit pleurer Abū Bakr qui en comprit le sens ?",
+      "choices": [
+        "« Préparez-vous à la conquête de la Perse »",
+        "« Allah a laissé à un serviteur le choix… »",
+        "« Construisez une nouvelle mosquée »",
+        "« Gardez mes épouses en sécurité »"
+      ],
+      "answer": 1,
+      "expl": "Les gens s'étonnèrent des larmes d'Abū Bakr ; il avait compris que ce serviteur était le Prophète ﷺ lui-même. Le Prophète ﷺ ajouta : « Fermez toutes les portes donnant sur la mosquée, sauf celle d'Abū Bakr. »",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0024",
+      "concept": "sir.fin.bouclier",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 3,
+      "type": "vf",
+      "q": "Au moment de sa mort, le Prophète ﷺ avait laissé son bouclier en gage chez un juif de Médine contre de l'orge pour sa famille.",
+      "answer": true,
+      "expl": "ʿĀʾisha rapporte que son bouclier était engagé contre trente mesures d'orge. Le maître de l'Arabie mourut sans fortune, et commerçait honnêtement avec des non-musulmans.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t3-0025",
+      "concept": "sir.fin.fatima-secret",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pourquoi Fāṭima pleura puis sourit, lors d'une confidence du Prophète ﷺ pendant sa maladie ?",
+      "choices": [
+        "Il lui raconta une histoire drôle",
+        "Il lui annonça un mariage",
+        "Il lui annonça sa mort prochaine, puis qu'elle serait la première de sa famille à le rejoindre",
+        "Il lui offrit un cadeau"
+      ],
+      "answer": 2,
+      "expl": "Fāṭima garda le secret jusqu'à la mort de son père, puis le raconta à ʿĀʾisha. Elle mourut environ six mois après lui. Le Prophète ﷺ lui dit aussi qu'elle serait la maîtresse des femmes du Paradis.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "sir-t3-0026",
+      "concept": "sir.famille.zayd-coran",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel est le seul Compagnon du Prophète ﷺ cité par son nom dans le Coran ?",
+      "choices": [
+        "Abū Bakr aṣ-Ṣiddīq",
+        "ʿUmar ibn al-Khaṭṭāb",
+        "ʿAlī ibn Abī Ṭālib",
+        "Zayd ibn Ḥāritha"
+      ],
+      "answer": 3,
+      "expl": "« Puis quand Zayd eut cessé toute relation avec elle… » (33:37). Zayd, enlevé enfant et vendu comme esclave, fut affranchi et adopté par le Prophète ﷺ ; quand son père vint le chercher, il préféra rester avec lui. Il mourut à Muʾta à la tête de l'armée.",
+      "src": [
+        "Coran 33:37"
+      ],
+      "tags": [
+        "sourate:33"
+      ]
+    },
+    {
+      "id": "sir-t3-0027",
+      "concept": "sir.famille.longues-mains",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 3,
+      "type": "qcm",
+      "q": "« La première d'entre vous à me rejoindre sera celle qui a les plus longues mains », dit le Prophète ﷺ à ses épouses. Qui était-ce ?",
+      "choices": [
+        "Zaynab bint Jaḥsh, la plus généreuse",
+        "Sawda, la plus grande de taille",
+        "ʿĀʾisha, la plus jeune",
+        "Ḥafṣa, la plus savante en écriture"
+      ],
+      "answer": 0,
+      "expl": "Les épouses mesuraient leurs bras pour savoir ; mais quand Zaynab mourut la première, elles comprirent que les « longues mains » désignaient la générosité. Zaynab tannait des peaux et donnait le fruit de son travail.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0028",
+      "concept": "sir.famille.collier",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que fit le Prophète ﷺ quand sa fille Zaynab envoya, pour racheter son mari captif à Badr, le collier offert par sa mère Khadīja ?",
+      "choices": [
+        "Il garda le collier en souvenir de Khadīja",
+        "Ému, il proposa de libérer le captif et rendre le collier",
+        "Il refusa toute rançon pour ce captif",
+        "Il vendit le collier pour équiper l'armée"
+      ],
+      "answer": 1,
+      "expl": "Abū l-ʿĀṣ, mari de Zaynab, combattait avec Quraysh. En reconnaissant le collier de Khadīja, le Prophète ﷺ fut bouleversé. Abū l-ʿĀṣ, libéré, laissa Zaynab partir à Médine, puis embrassa l'islam plus tard, et ils furent réunis.",
+      "src": [
+        "Hadith de ʿĀʾisha — Abu Dawud"
+      ]
+    },
+    {
+      "id": "sir-t3-0029",
+      "concept": "sir.caractere.manteau",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ réagit-il quand un Bédouin tira brutalement son manteau au point de lui marquer le cou, en réclamant de l'argent ?",
+      "choices": [
+        "Il le fit arrêter par ses Compagnons",
+        "Il le chassa de la mosquée",
+        "Il sourit et lui fit donner quelque chose",
+        "Il lui interdit de revenir à Médine"
+      ],
+      "answer": 2,
+      "expl": "Anas raconte que le Bédouin dit : « Ô Muḥammad, ordonne qu'on me donne de l'argent d'Allah que tu as ! » Le Prophète ﷺ sourit et le fit servir. La patience face à la grossièreté était l'une de ses marques.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0030",
+      "concept": "sir.caractere.pas-exalter",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que demanda le Prophète ﷺ pour qu'on ne tombe pas dans l'excès à son égard ?",
+      "choices": [
+        "« Appelez-moi le roi des Arabes »",
+        "« Priez devant ma tombe après ma mort »",
+        "« Construisez des statues en mon honneur »",
+        "« Dites : le serviteur d'Allah et Son messager »"
+      ],
+      "answer": 3,
+      "expl": "ʿUmar rapporte cette parole. L'amour du Prophète ﷺ est immense en islam, mais il ne doit jamais faire oublier qu'il est un serviteur d'Allah, comme le dit la shahāda.",
+      "src": [
+        "Hadith de ʿUmar ibn al-Khaṭṭāb — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t3-0031",
+      "concept": "sir.caractere.bague",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que portait-on gravé sur la bague en argent que le Prophète ﷺ utilisait comme sceau pour ses lettres ?",
+      "choices": [
+        "« Muḥammad Rasūl Allāh »",
+        "« Lā ilāha illā Llāh »",
+        "« Allāhu akbar »",
+        "« Bismillāh »"
+      ],
+      "answer": 0,
+      "expl": "Quand il voulut écrire aux rois, on lui dit qu'ils n'acceptaient que les lettres scellées. Il fit faire une bague en argent gravée sur trois lignes : Muḥammad, Rasūl, Allāh. Elle passa à Abū Bakr, ʿUmar, puis ʿUthmān, qui la perdit dans un puits.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t3-0032",
+      "concept": "sir.caractere.cheveux-blancs",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 3,
+      "type": "nombre",
+      "q": "Combien de cheveux blancs environ le Prophète ﷺ avait-il dans la barbe et les cheveux à sa mort, selon Anas ?",
+      "answer": 20,
+      "tolerance": 2,
+      "expl": "Anas rapporte qu'il n'avait pas vingt poils blancs dans la tête et la barbe. Il dit pourtant que les sourates Hūd et ses semblables avaient fait blanchir ses cheveux, tant elles évoquent la gravité du Jour dernier.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    }
+  ]
+}

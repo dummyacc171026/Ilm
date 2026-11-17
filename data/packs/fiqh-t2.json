@@ -1,0 +1,1087 @@
+{
+  "pack": "fiqh-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "fiq-t2-0001",
+      "concept": "fiq.statuts.ayn-kifaya",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque obligation à son type.",
+      "pairs": [
+        [
+          "Les cinq prières",
+          "Farḍ ʿayn : obligatoire pour chacun"
+        ],
+        [
+          "La prière funéraire",
+          "Farḍ kifāya : si certains la font, les autres sont dispensés"
+        ],
+        [
+          "Former des médecins dans la communauté",
+          "Farḍ kifāya"
+        ],
+        [
+          "Le jeûne de Ramadan",
+          "Farḍ ʿayn"
+        ]
+      ],
+      "expl": "Le farḍ ʿayn s'impose à chaque personne ; le farḍ kifāya est une obligation collective : si un nombre suffisant l'accomplit, les autres sont dispensés ; si personne ne le fait, tous sont fautifs. Médecine, enseignement, ou laver les défunts en font partie."
+    },
+    {
+      "id": "fiq-t2-0002",
+      "concept": "fiq.statuts.rukhsa",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que désigne la « rukhṣa » en fiqh ?",
+      "choices": [
+        "Une obligation supplémentaire en voyage",
+        "Une facilité accordée dans une situation particulière",
+        "Une punition pour les retardataires",
+        "Une prière ajoutée le vendredi"
+      ],
+      "answer": 1,
+      "expl": "La rukhṣa (roukh-sa) est un allègement : raccourcir la prière en voyage, rompre le jeûne si l'on est malade, faire le tayammum. Le Prophète ﷺ a dit : « Allah aime qu'on profite de Ses facilités comme Il aime qu'on accomplisse Ses obligations. »",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Ahmad"
+      ]
+    },
+    {
+      "id": "fiq-t2-0003",
+      "concept": "fiq.statuts.wajib",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 2,
+      "type": "vf",
+      "q": "Pour l'école malikite, « farḍ » et « wājib » désignent la même chose : l'obligation.",
+      "answer": true,
+      "expl": "Les malikites, chaféites et hanbalites emploient les deux mots comme synonymes. Les hanafites distinguent le farḍ, établi par une preuve certaine, du wājib, établi par une preuve moins forte, comme la prière du witr ou le sacrifice de l'Aïd.",
+      "note": "Les hanafites distinguent farḍ (preuve certaine) et wājib (preuve probable)."
+    },
+    {
+      "id": "fiq-t2-0004",
+      "concept": "fiq.sources.ijma",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle source du droit est propre à l'école de l'imam Mālik ?",
+      "choices": [
+        "Le vote des savants",
+        "La coutume de chaque pays",
+        "La pratique des gens de Médine",
+        "Les rêves des pieux"
+      ],
+      "answer": 2,
+      "expl": "Pour Mālik, la pratique transmise des gens de Médine (ʿamal ahl al-Madīna, ʿa-mal ahl al-ma-dî-na), la ville où le Prophète ﷺ a vécu et où ses Compagnons ont transmis sa façon de faire, est une preuve forte, parfois préférée à un hadith isolé. Les autres écoles ne la retiennent pas de la même manière."
+    },
+    {
+      "id": "fiq-t2-0005",
+      "concept": "fiq.sources.maslaha",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'appelle-t-on la « maṣlaḥa mursala », source importante chez les malikites ?",
+      "choices": [
+        "L'avis personnel d'un seul imam",
+        "La coutume d'un seul village",
+        "Une règle venue d'un autre pays",
+        "L'intérêt général conforme aux finalités"
+      ],
+      "answer": 3,
+      "expl": "Quand aucun texte ne parle d'une question, les malikites prennent en compte l'intérêt général qui sert les finalités de la Charia. Exemples : la compilation du Coran, les registres de ʿUmar, le code de la route. C'est une marque de souplesse de l'école."
+    },
+    {
+      "id": "fiq-t2-0006",
+      "concept": "fiq.sources.urf",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit la règle « al-ʿāda muḥakkama » ?",
+      "choices": [
+        "La coutume fait règle sans texte contraire",
+        "La coutume l'emporte toujours sur le Coran",
+        "La coutume est toujours interdite",
+        "Seule la coutume arabe compte"
+      ],
+      "answer": 0,
+      "expl": "L'ʿurf (coutume) est pris en compte : la valeur d'une dot raisonnable, la façon de conclure une vente, ce qu'est une tenue décente peuvent dépendre des usages, tant qu'ils ne contredisent pas un texte. Les malikites y accordent une grande place."
+    },
+    {
+      "id": "fiq-t2-0007",
+      "concept": "fiq.sources.sadd",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que signifie « sadd adh-dharāʾiʿ », principe très utilisé par les malikites ?",
+      "choices": [
+        "Ouvrir toutes les portes de la mosquée",
+        "Fermer les portes qui mènent à l'interdit",
+        "Construire des murs autour des villes",
+        "Interdire tout commerce le vendredi"
+      ],
+      "answer": 1,
+      "expl": "Une chose permise en soi peut être déconseillée ou interdite si elle mène presque toujours à un mal. Exemple : interdire la vente d'armes à quelqu'un qui veut agresser. Le Coran interdit d'insulter les idoles des autres, pour qu'ils n'insultent pas Allah en retour (6:108).",
+      "src": [
+        "Coran 6:108"
+      ]
+    },
+    {
+      "id": "fiq-t2-0008",
+      "concept": "fiq.ecoles.ijtihad",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith, le juge qui fait un effort sincère de réflexion (ijtihād) et se trompe reçoit quand même une récompense.",
+      "answer": true,
+      "expl": "« Si le juge fait un effort de réflexion et atteint le vrai, il a deux récompenses ; s'il se trompe, il en a une. » Ce hadith explique pourquoi les savants se respectaient malgré leurs divergences : chacun cherchait sincèrement la vérité.",
+      "src": [
+        "Hadith d'ʿAmr ibn al-ʿĀṣ — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t2-0009",
+      "concept": "fiq.ecoles.zahiri",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle école, aujourd'hui disparue, s'en tenait au sens apparent des textes, avec Ibn Ḥazm en Andalousie comme grand représentant ?",
+      "choices": [
+        "L'école ash'arite",
+        "L'école hanafite",
+        "L'école ẓāhirite",
+        "L'école malikite"
+      ],
+      "answer": 2,
+      "expl": "L'école ẓāhirite, fondée par Dāwūd aẓ-Ẓāhirī au IXe siècle, refusait le raisonnement par analogie. Ibn Ḥazm de Cordoue (mort en 1064) en fut le plus célèbre défenseur. Elle n'a plus de communauté, mais ses livres sont toujours étudiés."
+    },
+    {
+      "id": "fiq-t2-0010",
+      "concept": "fiq.ecoles.taqlid",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que fait, selon la majorité des savants, un musulman qui n'est pas spécialiste du fiqh ?",
+      "choices": [
+        "Il décide seul à partir des textes",
+        "Il suit son intuition personnelle",
+        "Il évite toute question religieuse",
+        "Il suit un savant ou une école reconnue"
+      ],
+      "answer": 3,
+      "expl": "Le Coran dit : « Demandez aux gens du Rappel si vous ne savez pas » (16:43). Suivre une école reconnue, comme l'école malikite au Maroc, n'est pas une faiblesse : c'est s'appuyer sur des siècles de travail rigoureux.",
+      "src": [
+        "Coran 16:43"
+      ]
+    },
+    {
+      "id": "fiq-t2-0011",
+      "concept": "fiq.maliki.livres",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque livre de l'école malikite à son auteur.",
+      "pairs": [
+        [
+          "Al-Muwaṭṭaʾ",
+          "L'imam Mālik"
+        ],
+        [
+          "Al-Mudawwana",
+          "Saḥnūn, d'après Ibn al-Qāsim"
+        ],
+        [
+          "Ar-Risāla",
+          "Ibn Abī Zayd al-Qayrawānī"
+        ],
+        [
+          "Al-Mukhtaṣar",
+          "Khalīl ibn Isḥāq"
+        ],
+        [
+          "Al-Murshid al-Muʿīn",
+          "Ibn ʿĀshir"
+        ]
+      ],
+      "expl": "Ces cinq livres jalonnent l'histoire de l'école : le recueil fondateur de Mālik (VIIIe s.), les réponses de son disciple Ibn al-Qāsim mises en ordre par Saḥnūn à Kairouan (IXe s.), l'abrégé d'Ibn Abī Zayd (Xe s.), le Mukhtaṣar très concis de Khalīl (XIVe s.) et le poème d'Ibn ʿĀshir (XVIIe s.)."
+    },
+    {
+      "id": "fiq-t2-0012",
+      "concept": "fiq.maliki.ibn-qasim",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel disciple de l'imam Mālik est la principale source de ses avis dans l'école ?",
+      "choices": [
+        "Ibn al-Qāsim",
+        "Ibn Rushd",
+        "Saḥnūn",
+        "Khalīl"
+      ],
+      "answer": 0,
+      "expl": "Ibn al-Qāsim (mort en 806), Égyptien, resta une vingtaine d'années auprès de Mālik. Ses réponses aux questions d'Asad ibn al-Furāt puis de Saḥnūn forment la Mudawwana. Quand les avis divergent dans l'école, on retient souvent le sien."
+    },
+    {
+      "id": "fiq-t2-0013",
+      "concept": "fiq.maliki.risala",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel surnom donnait-on à Ibn Abī Zayd al-Qayrawānī, auteur de la célèbre Risāla ?",
+      "choices": [
+        "« Le sabre de l'école »",
+        "« Mālik le jeune »",
+        "« Le savant de Fès »",
+        "« Le juge des juges »"
+      ],
+      "answer": 1,
+      "expl": "Ibn Abī Zayd (mort en 996), savant de Kairouan, composa sa Risāla pour enseigner aux enfants l'essentiel de la croyance et du fiqh malikite. Elle fut l'un des manuels les plus étudiés au Maghreb et en Afrique de l'Ouest."
+    },
+    {
+      "id": "fiq-t2-0014",
+      "concept": "fiq.maliki.kairouan",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Par quelle ville l'école malikite s'est-elle d'abord diffusée au Maghreb ?",
+      "choices": [
+        "Fès",
+        "Cordoue",
+        "Kairouan",
+        "Le Caire"
+      ],
+      "answer": 2,
+      "expl": "Kairouan, fondée en 670, devint un grand centre malikite grâce à Saḥnūn et ses élèves. De là, l'école gagna tout le Maghreb et l'Andalousie, où elle devint officielle. Le Maroc lui est resté fidèle depuis plus de mille ans."
+    },
+    {
+      "id": "fiq-t2-0015",
+      "concept": "fiq.halal-haram.chasse",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Coran à propos du gibier attrapé par un chien de chasse dressé ?",
+      "choices": [
+        "Toujours interdit, car le chien est impur",
+        "Permis seulement s'il est encore vivant",
+        "Permis seulement pendant le pèlerinage",
+        "Permis si le chien est dressé et Allah nommé"
+      ],
+      "answer": 3,
+      "expl": "« Mangez de ce qu'ils (les animaux dressés) capturent pour vous, et prononcez dessus le nom d'Allah. » La chasse est permise en dehors de l'état d'iḥrām, à condition de respecter ces règles et de ne pas chasser par simple jeu.",
+      "src": [
+        "Coran 5:4"
+      ],
+      "tags": [
+        "sourate:5"
+      ]
+    },
+    {
+      "id": "fiq-t2-0016",
+      "concept": "fiq.halal-haram.enivrant",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 2,
+      "type": "trou",
+      "q": "« Ce qui enivre en grande quantité, sa petite quantité est ___. »",
+      "choices": [
+        "interdite",
+        "permise",
+        "déconseillée",
+        "recommandée"
+      ],
+      "answer": 0,
+      "expl": "Ce hadith ferme la porte au « juste un verre » : peu importe la quantité, toute boisson enivrante est interdite. Les savants y rattachent par analogie les drogues qui altèrent l'esprit.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "fiq-t2-0017",
+      "concept": "fiq.halal-haram.necessite",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Coran à celui qui est contraint, par nécessité vitale, de manger une nourriture interdite ?",
+      "choices": [
+        "Un péché grave à expier",
+        "Pas de péché, sans abus",
+        "Il doit jeûner un mois",
+        "Il doit vomir ensuite"
+      ],
+      "answer": 1,
+      "expl": "« Celui qui est contraint, sans être rebelle ni transgresseur, pas de péché pour lui ; Allah est Pardonneur et Miséricordieux. » D'où la règle : la nécessité rend permis l'interdit, dans la mesure du besoin.",
+      "src": [
+        "Coran 2:173"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "fiq-t2-0018",
+      "concept": "fiq.halal-haram.fauves",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos des animaux carnassiers à crocs (lion, loup, chien…) ?",
+      "choices": [
+        "Ils sont permis s'ils sont égorgés",
+        "Ils ne sont interdits qu'aux femmes",
+        "Le Prophète ﷺ a interdit de les manger",
+        "Ils sont recommandés"
+      ],
+      "answer": 2,
+      "expl": "Abū Thaʿlaba rapporte que le Prophète ﷺ a interdit la viande de tout fauve doté de crocs, et Ibn ʿAbbās celle des oiseaux à serres. L'imam Mālik cite ce hadith dans le Muwaṭṭaʾ ; certains malikites ultérieurs ont parlé de forte détestation plutôt que d'interdiction stricte.",
+      "src": [
+        "Hadith d'Abū Thaʿlaba al-Khushanī — Bukhari & Muslim"
+      ],
+      "note": "L'interdiction est retenue par la majorité ; une partie des malikites parlent de forte détestation."
+    },
+    {
+      "id": "fiq-t2-0019",
+      "concept": "fiq.halal-haram.alcool-travail",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, combien de personnes le Prophète ﷺ a-t-il maudites en rapport avec le vin, du producteur au consommateur ?",
+      "choices": [
+        "Dix",
+        "Une seule",
+        "Deux",
+        "Cent"
+      ],
+      "answer": 0,
+      "expl": "Il maudit dix personnes : celui qui le presse, celui pour qui on le presse, celui qui le boit, celui qui le transporte, celui à qui on le porte, celui qui le sert, celui qui le vend, celui qui profite de son prix, celui qui l'achète et celui pour qui on l'achète. D'où la prudence vis-à-vis des métiers liés à l'alcool.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Tirmidhi"
+      ]
+    },
+    {
+      "id": "fiq-t2-0020",
+      "concept": "fiq.finance.gharar",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce que le « gharar », interdit dans les transactions ?",
+      "choices": [
+        "Le prêt sans intérêt entre amis",
+        "Le don fait à un pauvre",
+        "La vente à crédit d'un objet connu",
+        "L'incertitude excessive dans une vente"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ a interdit la vente comportant du gharar, comme vendre le poisson encore dans l'eau ou le fruit d'un arbre avant qu'il ne paraisse. Le contrat doit être clair pour les deux parties, pour éviter les conflits et l'injustice.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "ar": {
+        "text": "الْغَرَر",
+        "tr": "al-gharar",
+        "pr": "al-gha-rar",
+        "fr": "l'incertitude, l'aléa"
+      }
+    },
+    {
+      "id": "fiq-t2-0021",
+      "concept": "fiq.finance.credit-france",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disent les savants contemporains du crédit immobilier à intérêt pour acheter sa résidence en France ?",
+      "choices": [
+        "Avis divergents : majorité contre, certains pour en cas de besoin",
+        "Tous les savants l'autorisent sans condition",
+        "Tous l'interdisent, sans aucun avis contraire nulle part",
+        "La question n'a jamais été étudiée"
+      ],
+      "answer": 0,
+      "expl": "L'intérêt (ribā) est interdit par le Coran. Le Conseil européen de la fatwa a toutefois permis, en 1999, l'emprunt pour une résidence principale en l'absence d'alternative, au nom du besoin ; d'autres savants rejettent cet avis. Des offres de financement islamique (murābaḥa…) existent aussi.",
+      "note": "Sujet de divergence contemporaine ; chacun peut consulter un savant de confiance."
+    },
+    {
+      "id": "fiq-t2-0022",
+      "concept": "fiq.finance.livret",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseillent beaucoup de savants à propos des intérêts reçus sur un compte d'épargne ?",
+      "choices": [
+        "Les garder pour soi, c'est permis",
+        "Les donner à des œuvres utiles, sans attendre de récompense",
+        "Les brûler devant témoins",
+        "Les donner à la mosquée pour décorer la salle de prière"
+      ],
+      "answer": 1,
+      "expl": "Beaucoup de savants contemporains conseillent de ne pas profiter personnellement de l'intérêt reçu, mais de le reverser à des causes d'intérêt général (aide aux pauvres, travaux), avec l'intention de s'en débarrasser plutôt que de faire une aumône. Mieux vaut choisir, si possible, des placements sans intérêt.",
+      "note": "Les modalités font l'objet de divergences."
+    },
+    {
+      "id": "fiq-t2-0023",
+      "concept": "fiq.finance.vendre-pas-possede",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a interdit de vendre ce que l'on ne possède pas encore.",
+      "answer": true,
+      "expl": "« Ne vends pas ce qui n'est pas chez toi. » Ce hadith interdit de vendre un bien qu'on n'a pas en sa possession, pour éviter tromperie et conflits. Les savants ont précisé des exceptions, comme le salam (vente à terme d'une marchandise bien décrite, payée d'avance).",
+      "src": [
+        "Hadith de Ḥakīm ibn Ḥizām — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "fiq-t2-0024",
+      "concept": "fiq.finance.takaful",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle alternative les savants proposent-ils souvent à l'assurance classique ?",
+      "choices": [
+        "Aucune assurance du tout",
+        "L'assurance-vie classique",
+        "L'assurance coopérative (takāful)",
+        "Le jeu de hasard organisé"
+      ],
+      "answer": 2,
+      "expl": "Le takāful repose sur un fonds commun auquel chacun contribue, utilisé pour aider les membres touchés. L'assurance classique est discutée (gharar, intérêts) ; beaucoup de savants permettent les assurances obligatoires par la loi, comme l'assurance auto en France.",
+      "note": "L'assurance conventionnelle fait l'objet d'avis divers."
+    },
+    {
+      "id": "fiq-t2-0025",
+      "concept": "fiq.mariage.idda",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle est la durée de la période d'attente (ʿidda) d'une veuve, selon le Coran ?",
+      "choices": [
+        "Trois mois exactement",
+        "Un an entier",
+        "Quarante jours",
+        "Quatre mois et dix jours"
+      ],
+      "answer": 3,
+      "expl": "« Ceux d'entre vous que la mort frappe et qui laissent des épouses : celles-ci doivent observer un délai d'attente de quatre mois et dix jours. » Pour la femme divorcée, c'est trois cycles ; pour la femme enceinte, jusqu'à l'accouchement.",
+      "src": [
+        "Coran 2:234",
+        "Coran 2:228",
+        "Coran 65:4"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "fiq-t2-0026",
+      "concept": "fiq.mariage.khul",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment s'appelle la séparation demandée par l'épouse, qui rend la dot à son mari ?",
+      "choices": [
+        "Le khulʿ",
+        "Le ṭalāq",
+        "Le ẓihār",
+        "Le liʿān"
+      ],
+      "answer": 0,
+      "expl": "La femme de Thābit ibn Qays vint dire au Prophète ﷺ qu'elle ne lui reprochait rien dans sa religion ni son caractère, mais ne supportait plus de vivre avec lui. Il lui demanda si elle rendrait le jardin reçu en dot ; elle accepta, et la séparation fut prononcée. La femme a aussi son droit de partir.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari"
+      ],
+      "ar": {
+        "text": "الْخُلْع",
+        "tr": "al-khulʿ",
+        "pr": "al-khoulʿ",
+        "fr": "la séparation à la demande de l'épouse"
+      }
+    },
+    {
+      "id": "fiq-t2-0027",
+      "concept": "fiq.mariage.talaq",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "trou",
+      "q": "« Le divorce est permis deux fois. Alors, c'est soit la reprise conformément à la bienséance, soit la libération avec ___. »",
+      "choices": [
+        "témoins armés",
+        "gentillesse",
+        "colère",
+        "rapidité"
+      ],
+      "answer": 1,
+      "expl": "Le verset 2:229 encadre le divorce : même la séparation doit se faire dans la bienséance (bi-iḥsān). Avant cela, le Coran conseille de désigner un arbitre de chaque famille pour tenter la réconciliation (4:35).",
+      "src": [
+        "Coran 2:229",
+        "Coran 4:35"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "fiq-t2-0028",
+      "concept": "fiq.mariage.moudawana",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "multi",
+      "q": "Quelles sont des dispositions du Code de la famille marocain (Moudawana) réformé en 2004 ?",
+      "choices": [
+        "L'âge minimum du mariage fixé à 18 ans, sauf dérogation du juge",
+        "La polygamie soumise à l'autorisation du juge",
+        "L'interdiction totale du mariage religieux",
+        "La femme majeure peut conclure elle-même son mariage",
+        "Le divorce placé sous contrôle judiciaire",
+        "L'obligation d'avoir quatre témoins"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "La réforme de 2004, adoptée sous Mohammed VI après de longs débats, a renforcé les droits des femmes en s'appuyant sur l'ijtihād malikite : responsabilité conjointe de la famille, tutelle matrimoniale facultative pour la femme majeure, restrictions de la polygamie et divorce judiciaire.",
+      "note": "Une nouvelle réforme de la Moudawana était en discussion au milieu des années 2020."
+    },
+    {
+      "id": "fiq-t2-0029",
+      "concept": "fiq.mariage.droits-epouse",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Lequel de ces droits appartient à l'épouse dans le mariage musulman ?",
+      "choices": [
+        "Ne jamais pouvoir demander la séparation",
+        "Ne pas pouvoir hériter de son mari",
+        "Recevoir sa dot et être entretenue par son mari",
+        "Remettre tous ses biens à son mari"
+      ],
+      "answer": 2,
+      "expl": "L'épouse a droit à sa dot, à l'entretien (nafaqa : logement, nourriture, vêtements), à un bon traitement et à garder la propriété de ses biens. Le Coran dit : « Elles ont des droits équivalents à leurs obligations, conformément à la bienséance » (2:228).",
+      "src": [
+        "Coran 2:228",
+        "Coran 4:19"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "fiq-t2-0030",
+      "concept": "fiq.sources.istishab",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le principe de « l'istiṣḥāb » utilisé par les juristes ?",
+      "choices": [
+        "Tout doit être prouvé à nouveau chaque jour",
+        "Le doute l'emporte toujours sur la certitude",
+        "Une situation établie est présumée continuer",
+        "La majorité décide de tout"
+      ],
+      "answer": 2,
+      "expl": "Celui qui est sûr d'avoir fait ses ablutions reste en état de pureté tant qu'il n'est pas sûr de les avoir perdues ; un bien appartient à son propriétaire tant qu'on ne prouve pas le contraire. Ce principe apaise les doutes."
+    },
+    {
+      "id": "fiq-t2-0031",
+      "concept": "fiq.ecoles.pourquoi-divergence",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi les grands imams ont-ils parfois des avis différents ?",
+      "choices": [
+        "Par rivalité",
+        "Parce qu'ils ne connaissaient pas le Coran",
+        "Pour plaire aux califes",
+        "Un hadith n'était pas parvenu à l'un, ou ils comprenaient différemment un texte, ou ils jugeaient différemment sa fiabilité"
+      ],
+      "answer": 3,
+      "expl": "Les divergences viennent de la richesse des textes et de la rigueur des savants, non de leurs caprices. Ibn Taymiyya a écrit un livre entier pour les justifier : « Levée du blâme sur les grands imams ». La divergence légitime est une miséricorde.",
+      "retired": true
+    },
+    {
+      "id": "fiq-t2-0032",
+      "concept": "fiq.ecoles.malik-tombe",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disait l'imam Mālik en montrant la tombe du Prophète ﷺ ?",
+      "choices": [
+        "« Chacun peut être contredit, sauf l'occupant de cette tombe »",
+        "« Suivez mon avis en tout, car je suis à Médine »",
+        "« Ne priez jamais près de cette tombe »",
+        "« Personne ne doit visiter cette tombe »"
+      ],
+      "answer": 0,
+      "expl": "Cette phrase résume l'humilité des imams : leurs avis sont des efforts humains, seule la parole du Prophète ﷺ fait autorité absolue. Ash-Shāfiʿī disait de même : « Si un hadith est authentique, c'est mon école. »"
+    },
+    {
+      "id": "fiq-t2-0033",
+      "concept": "fiq.maliki.amal-fasi",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce que le « ʿamal fāsī » dans l'école malikite marocaine ?",
+      "choices": [
+        "Le marché aux épices de Fès",
+        "La pratique judiciaire des juges de Fès",
+        "Une prière propre aux habitants de Fès",
+        "Un livre de poésie de Fès"
+      ],
+      "answer": 1,
+      "expl": "Les juges de Fès ont retenu, sur certaines questions, l'avis qui servait le mieux l'intérêt général, même s'il n'était pas le plus connu dans l'école. Cette « pratique » (ʿamal) montre la souplesse du malikisme face aux réalités."
+    },
+    {
+      "id": "fiq-t2-0034",
+      "concept": "fiq.maliki.khalil",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel manuel, écrit au XIVe siècle par un savant égyptien, est la référence du fiqh malikite ?",
+      "choices": [
+        "La Risāla",
+        "Al-Muwaṭṭaʾ",
+        "Le Mukhtaṣar de Khalīl",
+        "Al-Mudawwana de Saḥnūn"
+      ],
+      "answer": 2,
+      "expl": "Khalīl ibn Isḥāq (m. 1365), savant du Caire, condensa le fiqh malikite en un texte très dense, appris par cœur et commenté dans tout le Maghreb et l'Afrique de l'Ouest. Pour débuter, on étudie plutôt Ibn ʿĀshir puis la Risāla."
+    },
+    {
+      "id": "fiq-t2-0035",
+      "concept": "fiq.halal-haram.ane",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de la viande d'âne domestique ?",
+      "choices": [
+        "Recommandée en voyage",
+        "Permise sans restriction",
+        "Obligatoire pour l'Aïd",
+        "Interdite le jour de Khaybar"
+      ],
+      "answer": 3,
+      "expl": "Le jour de Khaybar, le Prophète ﷺ fit renverser les marmites où cuisait de la viande d'âne domestique et l'interdit (Bukhari et Muslim). L'âne sauvage (onagre), lui, est permis.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t2-0036",
+      "concept": "fiq.halal-haram.vinaigre",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Le vinaigre de vin est-il permis chez les malikites ?",
+      "choices": [
+        "Oui : devenu vinaigre, il est licite",
+        "Non, il reste toujours interdit",
+        "Seulement en petite quantité",
+        "Seulement pour les malades"
+      ],
+      "answer": 0,
+      "expl": "Quand le vin se transforme en vinaigre, il perd son pouvoir enivrant et devient licite. Le Prophète ﷺ dit : « Quel bon condiment que le vinaigre ! » (Muslim). Les savants divergent sur le fait de provoquer volontairement la transformation.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t2-0037",
+      "concept": "fiq.halal-haram.sauterelles",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels animaux morts sont licites sans égorgement, selon le hadith ?",
+      "choices": [
+        "Aucun",
+        "Le poisson et les sauterelles",
+        "Les poules et les canards",
+        "Les moutons et les chèvres"
+      ],
+      "answer": 1,
+      "expl": "« Deux bêtes mortes et deux sangs nous ont été rendus licites : les deux bêtes mortes sont le poisson et la sauterelle ; les deux sangs sont le foie et la rate » (Aḥmad ; Ibn Mājah). Les animaux de la mer sont licites sans égorgement.",
+      "src": [
+        "Aḥmad ; Ibn Mājah"
+      ]
+    },
+    {
+      "id": "fiq-t2-0038",
+      "concept": "fiq.finance.qard-hasan",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'un « qarḍ ḥasan » ?",
+      "choices": [
+        "Un prêt à fort intérêt",
+        "Une aumône obligatoire",
+        "Un prêt sans intérêt",
+        "Une dette de jeu"
+      ],
+      "answer": 2,
+      "expl": "Le « beau prêt » est rendu sans aucun supplément. Allah l'appelle même ainsi : « Qui fera à Allah un prêt sincère, pour qu'Il le lui multiplie ? » (2:245). Prêter à quelqu'un dans le besoin est une immense récompense.",
+      "src": [
+        "Coran 2:245"
+      ]
+    },
+    {
+      "id": "fiq-t2-0039",
+      "concept": "fiq.finance.murabaha",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment fonctionne une « murābaḥa », utilisée par les banques participatives au Maroc ?",
+      "choices": [
+        "Un prêt classique avec intérêt variable",
+        "Un don de la banque au client",
+        "Une location sans fin du bien",
+        "Achat par la banque, revente avec marge connue"
+      ],
+      "answer": 3,
+      "expl": "Au lieu de prêter avec intérêt, la banque achète le bien (une voiture, un logement) et le revend avec un bénéfice fixé à l'avance. Les banques participatives sont autorisées au Maroc depuis 2017."
+    },
+    {
+      "id": "fiq-t2-0040",
+      "concept": "fiq.finance.ihtikar",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith de celui qui stocke une marchandise de première nécessité pour faire monter les prix (iḥtikār) ?",
+      "choices": [
+        "« Ne stocke ainsi qu'un pécheur »",
+        "C'est une bonne gestion",
+        "C'est recommandé en période de crise",
+        "C'est permis aux riches"
+      ],
+      "answer": 0,
+      "expl": "« Ne pratique l'accaparement qu'un pécheur » (Muslim). Retenir les biens dont les gens ont besoin pour s'enrichir de leur détresse est interdit. Les juristes malikites autorisent les autorités à forcer la vente.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t2-0041",
+      "concept": "fiq.mariage.wali-maliki",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, une femme peut-elle se marier sans tuteur (walī) ?",
+      "choices": [
+        "Oui, toujours, sans condition",
+        "Non : le walī est une condition",
+        "Oui, si elle a plus de vingt ans",
+        "Oui, si elle est veuve"
+      ],
+      "answer": 1,
+      "expl": "Chez les malikites, chaféites et hanbalites, le mariage requiert un tuteur : « Pas de mariage sans walī » (Abū Dāwūd ; Tirmidhi). Le walī ne peut pas la marier contre son gré. Les hanafites permettent à la femme majeure de se marier seule. La Moudawana marocaine de 2004 rend le tuteur facultatif pour la femme majeure.",
+      "src": [
+        "Abū Dāwūd ; Tirmidhi"
+      ],
+      "note": "Hanafites et Moudawana de 2004 : tuteur facultatif pour la femme majeure."
+    },
+    {
+      "id": "fiq-t2-0042",
+      "concept": "fiq.mariage.mahr-minimum",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, quel est le montant minimum de la dot ?",
+      "choices": [
+        "Cent dinars d'or",
+        "Rien du tout",
+        "Un quart de dinar d'or",
+        "Un chameau"
+      ],
+      "answer": 2,
+      "expl": "Les malikites fixent un minimum d'un quart de dinar, par analogie avec le seuil du vol. Il n'y a pas de maximum, mais le Prophète ﷺ encourageait la simplicité : « Le mariage le plus béni est le moins coûteux » (Aḥmad).",
+      "note": "Chaféites et hanbalites : aucun minimum."
+    },
+    {
+      "id": "fiq-t2-0043",
+      "concept": "fiq.mariage.polygamie",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quelle condition le Coran permet-il à un homme d'avoir jusqu'à quatre épouses ?",
+      "choices": [
+        "Une grande richesse",
+        "L'accord du juge",
+        "Vivre à la campagne",
+        "La justice entre elles"
+      ],
+      "answer": 3,
+      "expl": "« Épousez, comme il vous plaira, deux, trois ou quatre. Mais si vous craignez de ne pas être justes, alors une seule » (4:3). Le Coran ajoute : « Vous ne pourrez jamais être parfaitement justes entre vos femmes » (4:129). Au Maroc, la Moudawana la soumet à l'autorisation d'un juge et à l'information de l'épouse.",
+      "src": [
+        "Coran 4:3 ; 4:129"
+      ]
+    },
+    {
+      "id": "fiq-t2-0044",
+      "concept": "fiq.mariage.mixte",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'avis classique des quatre écoles, avec qui un musulman peut-il se marier, en dehors des musulmanes ?",
+      "choices": [
+        "Une juive ou une chrétienne",
+        "Une femme de toute religion",
+        "Aucune autre femme",
+        "Une bouddhiste ou une hindoue"
+      ],
+      "answer": 0,
+      "expl": "« Vous sont permises les femmes vertueuses parmi ceux à qui le Livre a été donné avant vous » (5:5). L'inverse, une musulmane épousant un non-musulman, n'est pas admis selon l'avis classique. Les savants recommandent de bien réfléchir à l'éducation religieuse des enfants.",
+      "src": [
+        "Coran 5:5"
+      ]
+    },
+    {
+      "id": "fiq-t2-0045",
+      "concept": "fiq.heritage.fille-moitie",
+      "domain": "fiqh",
+      "sub": "heritage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi, dans le Coran, la part d'héritage d'une fille est-elle souvent la moitié de celle d'un fils ?",
+      "choices": [
+        "Les filles sont moins aimées que les fils",
+        "L'homme a la charge financière de la famille",
+        "C'était une coutume arabe sans raison",
+        "Les femmes ne peuvent pas posséder de biens"
+      ],
+      "answer": 1,
+      "expl": "« Au fils, une part équivalente à celle de deux filles » (4:11). Les savants rappellent que l'homme doit payer la dot et entretenir sa femme et ses enfants, tandis que la femme n'a aucune obligation de dépense. Dans plusieurs cas, la femme hérite autant ou plus que l'homme.",
+      "src": [
+        "Coran 4:11"
+      ]
+    },
+    {
+      "id": "fiq-t2-0046",
+      "concept": "fiq.heritage.tiers",
+      "domain": "fiqh",
+      "sub": "heritage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle part de ses biens peut-on léguer librement par testament (waṣiyya) ?",
+      "choices": [
+        "La moitié, au plus",
+        "La totalité",
+        "Un tiers au maximum",
+        "Un dixième"
+      ],
+      "answer": 2,
+      "expl": "Saʿd ibn Abī Waqqāṣ, malade, voulut léguer toute sa fortune. « Le tiers, et le tiers c'est beaucoup. Mieux vaut laisser tes héritiers riches que pauvres, tendant la main » (Bukhari et Muslim). Le reste se partage selon les parts fixées par le Coran.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t2-0047",
+      "concept": "fiq.heritage.legs-heritier",
+      "domain": "fiqh",
+      "sub": "heritage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Peut-on faire un legs supplémentaire à quelqu'un qui hérite déjà ?",
+      "choices": [
+        "Oui, sans aucune limite",
+        "Oui, mais seulement à l'aîné",
+        "Oui, si c'est une fille",
+        "Non, sauf accord des autres héritiers"
+      ],
+      "answer": 3,
+      "expl": "« Allah a donné à chacun son droit : pas de legs à un héritier » (Abū Dāwūd ; Tirmidhi). Le legs du tiers sert à aider ceux qui n'héritent pas : proches éloignés, amis, œuvres de bien.",
+      "src": [
+        "Abū Dāwūd ; Tirmidhi"
+      ]
+    },
+    {
+      "id": "fiq-t2-0048",
+      "concept": "fiq.heritage.non-musulman",
+      "domain": "fiqh",
+      "sub": "heritage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Un musulman hérite-t-il de ses parents non musulmans, selon l'avis majoritaire ?",
+      "choices": [
+        "Non ; dons et legs restent possibles",
+        "Oui, comme un héritier musulman",
+        "Oui, mais seulement la moitié",
+        "Seulement s'il se convertit après"
+      ],
+      "answer": 0,
+      "expl": "« Le musulman n'hérite pas du non-musulman, ni le non-musulman du musulman » (Bukhari et Muslim). Pour un converti, cela n'empêche ni les donations du vivant, ni les legs dans la limite du tiers, ni la bonté envers sa famille.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t2-0049",
+      "concept": "fiq.principes.facilite",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit la règle juridique « al-mashaqqa tajlibu t-taysīr » ?",
+      "choices": [
+        "La facilité entraîne la paresse",
+        "La difficulté entraîne la facilité",
+        "La difficulté est une punition",
+        "Il faut toujours choisir le plus dur"
+      ],
+      "answer": 1,
+      "expl": "C'est l'une des cinq grandes règles du fiqh : quand une obligation devient trop pénible, elle s'allège (voyage, maladie, grossesse…). « Allah veut pour vous la facilité, Il ne veut pas la difficulté » (2:185).",
+      "src": [
+        "Coran 2:185"
+      ]
+    },
+    {
+      "id": "fiq-t2-0050",
+      "concept": "fiq.principes.intentions",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle grande règle du fiqh découle du hadith « les actes ne valent que par les intentions » ?",
+      "choices": [
+        "« La coutume l'emporte sur tout le reste »",
+        "« Le doute annule tout acte »",
+        "« Les choses sont jugées selon leurs finalités »",
+        "« La nécessité rend tout permis »"
+      ],
+      "answer": 2,
+      "expl": "Un même geste change de valeur selon l'intention : se laver peut être une hygiène ou un ghusl, dormir peut devenir une adoration si l'on se repose pour mieux prier. C'est la première des cinq grandes règles."
+    },
+    {
+      "id": "fiq-t2-0051",
+      "concept": "fiq.principes.maqasid",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelles sont les cinq finalités (maqāṣid) que la Loi islamique vise à protéger, selon l'imam malikite ash-Shāṭibī ?",
+      "choices": [
+        "La prière, le jeûne, la zakāt, le pèlerinage et la shahāda",
+        "La famille, la tribu, le pays, la langue et le roi",
+        "L'or, l'argent, le blé, l'orge et les dattes",
+        "La religion, la vie, la raison, la descendance et les biens"
+      ],
+      "answer": 3,
+      "expl": "Ash-Shāṭibī (m. 1388), savant de Grenade, a systématisé la théorie des finalités dans al-Muwāfaqāt. Toute règle sert à protéger l'un de ces cinq biens : c'est pourquoi l'alcool (la raison) ou le vol (les biens) sont interdits."
+    },
+    {
+      "id": "fiq-t2-0052",
+      "concept": "fiq.principes.fiche-regles",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Les cinq grandes règles du fiqh",
+      "points": [
+        "Les actes sont jugés selon leurs intentions",
+        "La certitude n'est pas levée par le doute",
+        "La difficulté entraîne la facilité",
+        "Le préjudice doit être supprimé",
+        "La coutume fait loi (quand elle ne contredit pas un texte)"
+      ],
+      "expl": "Les juristes ont résumé des milliers de règles en cinq principes, qui aident à comprendre l'esprit de la Loi."
+    },
+    {
+      "id": "fiq-t2-0053",
+      "concept": "fiq.mariage.mutaa",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disent les quatre écoles sunnites du mariage temporaire (mutʿa) ?",
+      "choices": [
+        "Il est permis en voyage",
+        "Il est interdit, abrogé par le Prophète ﷺ",
+        "Il est recommandé aux jeunes non mariés",
+        "Il est obligatoire en guerre"
+      ],
+      "answer": 1,
+      "expl": "ʿAlī rapporte que le Prophète ﷺ interdit le mariage de jouissance (mutʿa) le jour de Khaybar (Bukhari et Muslim), et cette interdiction fut confirmée ensuite. Le mariage en islam vise la durée et la stabilité.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t2-0054",
+      "concept": "fiq.sources.istihsan",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce que l'istiḥsān, méthode utilisée par les hanafites et les malikites ?",
+      "choices": [
+        "Suivre toujours l'analogie stricte",
+        "Choisir l'avis le plus facile",
+        "Préférer une solution plus juste que l'analogie",
+        "Tirer au sort entre deux avis"
+      ],
+      "answer": 2,
+      "expl": "Mālik disait : « L'istiḥsān représente les neuf dixièmes de la science. » Quand l'analogie aboutit à une solution injuste ou trop dure dans un cas précis, le juriste s'en écarte pour une preuve plus forte (intérêt, nécessité, coutume)."
+    },
+    {
+      "id": "fiq-t2-0055",
+      "concept": "fiq.halal-haram.drogue",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le fiqh des drogues comme le cannabis ?",
+      "choices": [
+        "Permises en petite quantité",
+        "Permises si elles sont légales dans le pays",
+        "Recommandées pour la méditation",
+        "Interdites : « tout ce qui enivre est interdit »"
+      ],
+      "answer": 3,
+      "expl": "« Tout enivrant est khamr, et tout khamr est interdit » (Muslim). Les savants y incluent tout ce qui altère la raison. La protection de la raison est l'une des cinq finalités de la Loi. Un usage médical encadré est un autre sujet.",
+      "src": [
+        "Muslim"
+      ]
+    }
+  ]
+}

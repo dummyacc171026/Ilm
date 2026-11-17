@@ -1,0 +1,1190 @@
+{
+  "pack": "calendrier-t1",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "cal-t1-0001",
+      "concept": "cal.hegirien.lunaire",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Sur quoi repose le calendrier hégirien (musulman) ?",
+      "choices": [
+        "Sur les cycles de la Lune",
+        "Sur la course du Soleil",
+        "Sur les saisons agricoles",
+        "Sur les étoiles"
+      ],
+      "answer": 0,
+      "expl": "Chaque mois commence avec l'apparition du nouveau croissant de lune et dure 29 ou 30 jours. Une année compte 12 mois lunaires, soit environ 354 jours. Allah dit : « Ils t'interrogent sur les nouvelles lunes. Dis : elles servent aux gens pour compter le temps, et pour le pèlerinage. »",
+      "src": [
+        "Coran 2:189",
+        "Coran 9:36"
+      ]
+    },
+    {
+      "id": "cal-t1-0002",
+      "concept": "cal.hegirien.decalage",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Chaque année, de combien de jours environ Ramadan avance-t-il dans le calendrier grégorien ?",
+      "answer": 11,
+      "tolerance": 1,
+      "unit": "jours",
+      "expl": "L'année lunaire (environ 354 jours) est plus courte d'une dizaine de jours que l'année solaire (365 jours). Ramadan avance donc d'environ 11 jours par an et fait le tour des saisons en 33 ans environ : on le vit en hiver, puis en été, au fil de sa vie.",
+      "src": [
+        "Coran 9:36"
+      ]
+    },
+    {
+      "id": "cal-t1-0003",
+      "concept": "cal.aid.mois-fetes",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque événement à son mois hégirien.",
+      "pairs": [
+        [
+          "Le jeûne obligatoire",
+          "Ramaḍān"
+        ],
+        [
+          "L'Aïd al-Fiṭr",
+          "Shawwāl"
+        ],
+        [
+          "L'Aïd al-Aḍḥā",
+          "Dhū l-Ḥijja"
+        ],
+        [
+          "ʿĀshūrāʾ",
+          "Muḥarram"
+        ]
+      ],
+      "expl": "Ramadan est le 9e mois ; l'Aïd al-Fiṭr, fête de la rupture du jeûne, tombe le 1er Shawwāl. L'Aïd al-Aḍḥā, fête du sacrifice, est le 10 Dhū l-Ḥijja, mois du pèlerinage. ʿĀshūrāʾ, jour de jeûne recommandé, est le 10 Muḥarram, premier mois de l'année.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās (ʿĀshūrāʾ) — Bukhari & Muslim"
+      ],
+      "extra": "Au Maroc, l'Aïd al-Aḍḥā s'appelle souvent « l'Aïd al-Kabīr », la grande fête, et l'Aïd al-Fiṭr « l'Aïd aṣ-Ṣaghīr », la petite fête."
+    },
+    {
+      "id": "cal-t1-0004",
+      "concept": "cal.aid.adha-sens",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que commémore l'Aïd al-Aḍḥā ?",
+      "choices": [
+        "L'épreuve d'Ibrāhīm, prêt à sacrifier son fils",
+        "La naissance du Prophète ﷺ à La Mecque",
+        "La fin du jeûne du mois de Ramadan",
+        "La victoire des musulmans à Badr"
+      ],
+      "answer": 0,
+      "expl": "Ibrāhīm vit en rêve qu'il sacrifiait son fils ; tous deux se soumirent à l'ordre d'Allah, qui racheta l'enfant par « une immense offrande ». En souvenir, les familles qui en ont les moyens sacrifient un mouton, et en partagent la viande avec les proches et les pauvres.",
+      "src": [
+        "Coran 37:100-111"
+      ],
+      "note": "Pour la grande majorité des savants, le fils en question est Ismāʿīl ; quelques-uns ont dit Isḥāq.",
+      "tags": [
+        "prophete:ibrahim",
+        "prophete:ismail"
+      ]
+    },
+    {
+      "id": "cal-t1-0005",
+      "concept": "cal.mosquee.tahiyya",
+      "domain": "calendrier",
+      "sub": "mosquee",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que recommande la Sunna en entrant dans une mosquée, avant de s'asseoir ?",
+      "choices": [
+        "Prier deux rak'at, la « salutation de la mosquée »",
+        "Réciter la sourate al-Kahf",
+        "Saluer l'imam en premier",
+        "Faire sept fois le tour de la salle"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ a dit : « Quand l'un de vous entre dans la mosquée, qu'il ne s'asseye pas avant d'avoir prié deux rak'at. » C'est la taḥiyyat al-masjid. Il est aussi recommandé d'entrer du pied droit en invoquant : « Allāhumma ftaḥ lī abwāba raḥmatik » (ô Allah, ouvre-moi les portes de Ta miséricorde).",
+      "src": [
+        "Hadith d'Abū Qatāda — Bukhari & Muslim",
+        "Hadith d'Abū Ḥumayd — Muslim"
+      ],
+      "note": "Chez les malikites, on ne la prie pas pendant le sermon du vendredi, ni aux moments où la prière surérogatoire est déconseillée (après le ʿAṣr, par exemple) ; les shafi'ites la prient même pendant le sermon.",
+      "retired": true
+    },
+    {
+      "id": "cal-t1-0006",
+      "concept": "cal.hegirien.mois-1",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre les six premiers mois du calendrier hégirien.",
+      "items": [
+        "Muḥarram",
+        "Ṣafar",
+        "Rabīʿ al-Awwal",
+        "Rabīʿ ath-Thānī",
+        "Jumādā l-Ūlā",
+        "Jumādā l-Ākhira"
+      ],
+      "expl": "L'année commence par Muḥarram. Rabīʿ al-Awwal est le mois de la naissance du Prophète ﷺ.",
+      "pron": {
+        "Muḥarram": "mou-har-ram",
+        "Ṣafar": "sa-far",
+        "Rabīʿ al-Awwal": "ra-bîʿ al-aw-wal",
+        "Rabīʿ ath-Thānī": "ra-bîʿ ath-thâ-nî",
+        "Jumādā l-Ūlā": "jou-mâ-dal-oû-lâ",
+        "Jumādā l-Ākhira": "jou-mâ-dal-â-khi-ra"
+      }
+    },
+    {
+      "id": "cal-t1-0007",
+      "concept": "cal.hegirien.mois-2",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Les mois 7 à 12 : de Rajab au mois du pèlerinage, remets-les dans l'ordre.",
+      "items": [
+        "Rajab",
+        "Shaʿbān",
+        "Ramaḍān",
+        "Shawwāl",
+        "Dhū l-Qaʿda",
+        "Dhū l-Ḥijja"
+      ],
+      "expl": "Rajab, puis Shaʿbān qui prépare Ramadan, Ramadan le mois du jeûne, Shawwāl qui s'ouvre par l'Aïd al-Fiṭr, Dhū l-Qaʿda, et Dhū l-Ḥijja, le mois du pèlerinage et de l'Aïd al-Aḍḥā.",
+      "pron": {
+        "Rajab": "ra-jab",
+        "Shaʿbān": "chaʿ-bân",
+        "Ramaḍān": "ra-ma-dân",
+        "Shawwāl": "chaw-wâl",
+        "Dhū l-Qaʿda": "dhoul-qaʿ-da",
+        "Dhū l-Ḥijja": "dhoul-hij-ja"
+      }
+    },
+    {
+      "id": "cal-t1-0008",
+      "concept": "cal.hegirien.sacres",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquels font partie des quatre mois sacrés ?",
+      "choices": [
+        "Muḥarram",
+        "Rajab",
+        "Ramaḍān",
+        "Dhū l-Qaʿda",
+        "Dhū l-Ḥijja",
+        "Shawwāl"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "« Le nombre des mois auprès d'Allah est de douze… dont quatre sont sacrés. » Le Prophète ﷺ les a nommés : Dhū l-Qaʿda, Dhū l-Ḥijja, Muḥarram et Rajab. On y évite encore plus l'injustice et on y multiplie le bien. Ramadan est béni, mais n'est pas compté parmi eux.",
+      "src": [
+        "Coran 9:36",
+        "Hadith d'Abū Bakra — Bukhari & Muslim"
+      ],
+      "tags": [
+        "sourate:9"
+      ]
+    },
+    {
+      "id": "cal-t1-0009",
+      "concept": "cal.hegirien.douze",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de mois compte l'année hégirienne ?",
+      "answer": 12,
+      "expl": "Douze mois lunaires de 29 ou 30 jours, soit environ 354 jours. Le Coran le dit : « Le nombre des mois, auprès d'Allah, est de douze. »",
+      "src": [
+        "Coran 9:36"
+      ]
+    },
+    {
+      "id": "cal-t1-0010",
+      "concept": "cal.hegirien.hilal",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment détermine-t-on traditionnellement le début d'un mois hégirien, comme Ramadan ?",
+      "choices": [
+        "Par un calcul fixé à l'avance",
+        "Par l'annonce d'un pays voisin",
+        "Par l'observation du croissant",
+        "Par le premier vendredi du mois"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ a dit : « Jeûnez à sa vue et rompez à sa vue ; s'il est caché, complétez trente jours. » Le Maroc s'appuie sur l'observation à l'œil nu dans tout le royaume, ce qui peut créer un décalage d'un jour avec d'autres pays.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْهِلَال",
+        "tr": "al-hilāl",
+        "pr": "al-hi-lâl",
+        "fr": "le croissant de lune"
+      },
+      "note": "Certains pays et organisations utilisent le calcul astronomique ; d'autres suivent l'annonce de l'Arabie saoudite."
+    },
+    {
+      "id": "cal-t1-0011",
+      "concept": "cal.aid.fitr-manger",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que recommande la Sunna le matin de l'Aïd al-Fiṭr, avant d'aller à la prière ?",
+      "choices": [
+        "Jeûner jusqu'après la prière",
+        "Ne rien boire",
+        "Aller à la mosquée sans s'être lavé",
+        "Manger quelques dattes, en nombre impair"
+      ],
+      "answer": 3,
+      "expl": "Anas rapporte que le Prophète ﷺ ne partait pas le jour de l'Aïd al-Fiṭr sans avoir mangé quelques dattes, en nombre impair. Le jour de l'Aïd al-Aḍḥā, au contraire, il ne mangeait qu'après la prière, de la viande de son sacrifice.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "cal-t1-0012",
+      "concept": "cal.aid.sunnas",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquelles sont des sunnas du jour de l'Aïd ?",
+      "choices": [
+        "Faire le grand lavage (ghusl)",
+        "Mettre ses plus beaux vêtements",
+        "Jeûner le jour de l'Aïd",
+        "Dire les takbīrs en allant à la prière",
+        "Revenir par un chemin différent de l'aller",
+        "Rester seul à la maison"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Le jour de l'Aïd, on se lave, on se parfume, on met ses plus beaux habits, on dit les takbīrs et l'on change de chemin au retour, comme le faisait le Prophète ﷺ, pour saluer plus de monde. Jeûner le jour de l'Aïd est interdit : c'est un jour de fête.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari",
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0013",
+      "concept": "cal.aid.takbir",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "trou",
+      "q": "Les takbīrs de l'Aïd : « Allāhu akbar, Allāhu akbar, lā ilāha illā Llāh, wa Llāhu akbar, Allāhu akbar, wa li-Llāhi l-___. »",
+      "choices": [
+        "ḥamd",
+        "mulk",
+        "ʿizza",
+        "shukr"
+      ],
+      "answer": 0,
+      "expl": "« Allah est le plus grand… et à Allah la louange. » On répète ces takbīrs en se rendant à la prière de l'Aïd. Le Coran dit, à la fin du jeûne : « … afin que vous proclamiez la grandeur d'Allah pour vous avoir guidés. »",
+      "src": [
+        "Coran 2:185"
+      ],
+      "ar": {
+        "text": "اللّٰهُ أَكْبَرُ اللّٰهُ أَكْبَرُ وَلِلّٰهِ الْحَمْدُ",
+        "tr": "Allāhu akbar, Allāhu akbar, wa li-Llāhi l-ḥamd",
+        "pr": "al-lâ-hou ak-bar, al-lâ-hou ak-bar, wa lil-lâ-hil-hamd",
+        "fr": "Allah est le plus grand, Allah est le plus grand, et à Allah la louange"
+      }
+    },
+    {
+      "id": "cal-t1-0014",
+      "concept": "cal.aid.jeune-interdit",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "vf",
+      "q": "Il est interdit de jeûner le jour de l'Aïd al-Fiṭr et le jour de l'Aïd al-Aḍḥā.",
+      "answer": true,
+      "expl": "Abū Saʿīd rapporte que le Prophète ﷺ a interdit le jeûne de ces deux jours. Allah veut que Ses serviteurs se réjouissent, mangent et partagent. La fête fait partie de la religion.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0015",
+      "concept": "cal.aid.deux-aid",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque Aïd à sa date et à son nom marocain.",
+      "pairs": [
+        [
+          "Aïd al-Fiṭr (« l'Aïd ṣ-ṣghīr »)",
+          "1er Shawwāl, à la fin de Ramadan"
+        ],
+        [
+          "Aïd al-Aḍḥā (« l'Aïd al-Kbīr »)",
+          "10 Dhū l-Ḥijja, pendant le pèlerinage"
+        ],
+        [
+          "Le jour de ʿArafa",
+          "9 Dhū l-Ḥijja, la veille de l'Aïd al-Aḍḥā"
+        ]
+      ],
+      "expl": "Au Maroc, on appelle l'Aïd al-Fiṭr « la petite fête » et l'Aïd al-Aḍḥā « la grande fête », celle du mouton. Le jour de ʿArafa, la veille, les non-pèlerins jeûnent : ce jeûne efface les péchés de deux années.",
+      "src": [
+        "Hadith d'Abū Qatāda — Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0016",
+      "concept": "cal.dates.achoura",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle récompense le Prophète ﷺ a-t-il associée au jeûne du jour de ʿĀshūrāʾ (10 Muḥarram) ?",
+      "choices": [
+        "Il dispense de la zakat",
+        "Il efface les péchés de l'année précédente",
+        "Il remplace le jeûne de Ramadan",
+        "Il efface les péchés de toute la vie"
+      ],
+      "answer": 1,
+      "expl": "Le jeûne de ʿĀshūrāʾ efface les péchés de l'année écoulée ; celui de ʿArafa, ceux de l'année passée et de l'année suivante. Il est recommandé de jeûner aussi le 9 Muḥarram, selon le souhait exprimé par le Prophète ﷺ.",
+      "src": [
+        "Hadith d'Abū Qatāda — Muslim",
+        "Hadith d'Ibn ʿAbbās — Muslim"
+      ],
+      "ar": {
+        "text": "عَاشُورَاء",
+        "tr": "ʿĀshūrāʾ",
+        "pr": "ʿâ-choû-râʾ",
+        "fr": "le dixième (jour)"
+      }
+    },
+    {
+      "id": "cal-t1-0017",
+      "concept": "cal.dates.achoura-musa",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que commémore le jeûne de ʿĀshūrāʾ, selon le hadith d'Ibn ʿAbbās ?",
+      "choices": [
+        "Le jour où Nūḥ sortit de l'arche",
+        "Le jour de la naissance d'Ibrāhīm",
+        "Le jour où Mūsā fut sauvé de Pharaon",
+        "Le jour où la Kaʿba fut construite"
+      ],
+      "answer": 2,
+      "expl": "Arrivé à Médine, le Prophète ﷺ vit les juifs jeûner ce jour-là, en souvenir de la délivrance de Mūsā. Il dit : « Nous avons plus de droit sur Mūsā que vous », jeûna et demanda de jeûner. Une fête partagée avec la mémoire des prophètes.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:musa"
+      ]
+    },
+    {
+      "id": "cal-t1-0018",
+      "concept": "cal.dates.arafa-jeune",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pour celui qui ne fait pas le pèlerinage, quel jeûne efface les péchés de deux années ?",
+      "choices": [
+        "Le jeûne du 1er Muḥarram",
+        "Le jeûne du 27 Ramadan",
+        "Le jeûne du jour de l'Aïd",
+        "Le jeûne du jour de ʿArafa (9 Dhū l-Ḥijja)"
+      ],
+      "answer": 3,
+      "expl": "Le jeûne de ʿArafa efface les péchés de l'année passée et de l'année à venir. Les pèlerins, eux, ne jeûnent pas ce jour-là, pour avoir la force d'invoquer sur le mont ʿArafa.",
+      "src": [
+        "Hadith d'Abū Qatāda — Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "cal-t1-0019",
+      "concept": "cal.dates.mawlid",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que célèbre-t-on lors du Mawlid, le 12 Rabīʿ al-Awwal ?",
+      "choices": [
+        "La naissance du Prophète ﷺ",
+        "La fin de Ramadan",
+        "Le Nouvel An hégirien",
+        "Le pèlerinage"
+      ],
+      "answer": 0,
+      "expl": "Le Mawlid commémore la naissance du Prophète ﷺ. Au Maroc, c'est un jour férié : on récite des poèmes à sa louange, comme la Burda d'al-Būṣīrī, et l'on se réunit en famille. Ailleurs, certains savants l'encouragent, d'autres le considèrent comme une innovation : un débat ancien, à aborder avec respect.",
+      "ar": {
+        "text": "الْمَوْلِد النَّبَوِيّ",
+        "tr": "al-mawlid an-nabawiyy",
+        "pr": "al-maw-lid an-na-ba-wiyy",
+        "fr": "la naissance du Prophète"
+      },
+      "note": "Célébré dans la tradition malikite marocaine ; jugé innovation par d'autres savants, notamment d'orientation salafie."
+    },
+    {
+      "id": "cal-t1-0020",
+      "concept": "cal.dates.nouvel-an",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "À quel mois correspond le Nouvel An hégirien ?",
+      "choices": [
+        "Le 1er Rajab",
+        "Le 1er Muḥarram",
+        "Le 1er Ramaḍān",
+        "Le 1er Shawwāl"
+      ],
+      "answer": 1,
+      "expl": "L'année hégirienne commence le 1er Muḥarram. Le choix de ce mois, fait sous ʿUmar, correspond au retour des pèlerins et à la période où le Prophète ﷺ prit la décision de l'Hégire. Au Maroc, c'est un jour férié."
+    },
+    {
+      "id": "cal-t1-0021",
+      "concept": "cal.dates.shawwal",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le hadith, jeûner six jours du mois de Shawwāl après Ramadan équivaut à jeûner toute l'année.",
+      "answer": true,
+      "expl": "« Celui qui jeûne Ramadan, puis le fait suivre de six jours de Shawwāl, c'est comme s'il avait jeûné toute l'année. » Les savants expliquent : chaque bonne action vaut dix, donc 30 + 6 = 36 jours valent 360.",
+      "src": [
+        "Hadith d'Abū Ayyūb al-Anṣārī — Muslim"
+      ],
+      "note": "L'imam Mālik ne faisait pas de ces six jours une pratique particulière, de peur qu'on les croie obligatoires ; beaucoup de malikites les recommandent aujourd'hui."
+    },
+    {
+      "id": "cal-t1-0022",
+      "concept": "cal.mosquee.masjid",
+      "domain": "calendrier",
+      "sub": "mosquee",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le mot « masjid » (mosquée) ?",
+      "choices": [
+        "Le lieu de réunion",
+        "La maison d'Allah uniquement à La Mecque",
+        "Le lieu de prosternation",
+        "La maison de la lecture"
+      ],
+      "answer": 2,
+      "expl": "Masjid (mas-jid) vient de sajada, se prosterner : c'est le lieu où l'on se prosterne. Le mot français « mosquée » en dérive. On dit aussi jāmiʿ pour la grande mosquée où se tient la prière du vendredi.",
+      "ar": {
+        "text": "مَسْجِد",
+        "tr": "masjid",
+        "pr": "mas-jid",
+        "fr": "le lieu de prosternation"
+      }
+    },
+    {
+      "id": "cal-t1-0023",
+      "concept": "cal.mosquee.devant",
+      "domain": "calendrier",
+      "sub": "mosquee",
+      "tier": 1,
+      "type": "vf",
+      "q": "Il ne faut pas passer juste devant quelqu'un qui est en train de prier.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ a dit que si celui qui passe devant une personne en prière savait la gravité de son acte, il préférerait attendre quarante plutôt que de passer. On passe derrière, ou au-delà de l'objet (sutra) placé devant celui qui prie.",
+      "src": [
+        "Hadith d'Abū Juhaym — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0024",
+      "concept": "cal.mosquee.parties",
+      "domain": "calendrier",
+      "sub": "mosquee",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque partie d'une mosquée à sa fonction.",
+      "pairs": [
+        [
+          "La salle des ablutions",
+          "Se purifier avant la prière"
+        ],
+        [
+          "La cour (ṣaḥn)",
+          "Espace ouvert, souvent avec une fontaine"
+        ],
+        [
+          "Le miḥrāb",
+          "Indiquer la qibla"
+        ],
+        [
+          "L'espace des femmes",
+          "Permettre aux femmes de prier dans l'intimité"
+        ]
+      ],
+      "expl": "La plupart des mosquées ont une salle d'ablutions, une salle de prière tournée vers la qibla avec son miḥrāb, souvent une cour et un espace pour les femmes. Le Prophète ﷺ a dit : « N'empêchez pas les servantes d'Allah d'aller aux mosquées d'Allah. »",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0025",
+      "concept": "cal.mosquee.rangs",
+      "domain": "calendrier",
+      "sub": "mosquee",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que demandait le Prophète ﷺ au moment de former les rangs de la prière ?",
+      "choices": [
+        "Laisser de grands espaces entre chacun",
+        "Prier en cercle",
+        "Se mettre où l'on veut",
+        "Les aligner et les serrer, épaule contre épaule"
+      ],
+      "answer": 3,
+      "expl": "« Alignez vos rangs, car l'alignement fait partie de la perfection de la prière. » Les Compagnons collaient épaule contre épaule et pied contre pied. Les rangs bien droits expriment l'unité : riches et pauvres côte à côte.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0026",
+      "concept": "cal.mosquee.chaussures",
+      "domain": "calendrier",
+      "sub": "mosquee",
+      "tier": 1,
+      "type": "vf",
+      "q": "On se déchausse généralement avant d'entrer dans la salle de prière d'une mosquée.",
+      "answer": true,
+      "expl": "On retire ses chaussures pour préserver la propreté des tapis sur lesquels on se prosterne. On les range dans les casiers prévus. Au temps du Prophète ﷺ, le sol était de sable et il lui arrivait de prier avec ses sandales propres.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "cal-t1-0027",
+      "concept": "cal.maroc.iftar",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle soupe est le plat emblématique de l'iftar marocain ?",
+      "choices": [
+        "La ḥrīra",
+        "La chorba aux vermicelles d'Algérie",
+        "Le couscous",
+        "La pastilla"
+      ],
+      "answer": 0,
+      "expl": "La ḥrīra, à base de tomates, lentilles, pois chiches, herbes et farine, est servie à la rupture du jeûne avec des dattes, des œufs durs, de la chebakia (gâteau frit au miel et au sésame) et du sellou. Le couscous se mange plutôt le vendredi."
+    },
+    {
+      "id": "cal-t1-0028",
+      "concept": "cal.maroc.laylat-27",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle nuit de Ramadan est traditionnellement célébrée au Maroc comme la Nuit du Destin ?",
+      "choices": [
+        "La 27e",
+        "La 15e",
+        "La 1re",
+        "La 30e"
+      ],
+      "answer": 0,
+      "expl": "Au Maroc, on célèbre surtout la nuit du 27 Ramadan : les mosquées sont pleines, on termine souvent la lecture du Coran, et les enfants font parfois leur premier jeûne, habillés en tenue traditionnelle. Le Prophète ﷺ a conseillé de chercher cette nuit dans toutes les nuits impaires des dix dernières.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari"
+      ]
+    },
+    {
+      "id": "cal-t1-0029",
+      "concept": "cal.maroc.msid",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que le « msīd » au Maroc ?",
+      "choices": [
+        "Le marché du vendredi, après la prière",
+        "L'école coranique traditionnelle",
+        "La fête du quartier",
+        "La maison du caïd"
+      ],
+      "answer": 1,
+      "expl": "Au msīd, le fqīh apprend aux enfants à lire et mémoriser le Coran, écrit sur une planchette de bois (lūḥ) avec une encre de laine brûlée (ṣmagh), puis effacée à l'eau. Des générations de Marocains y ont appris leurs premières sourates."
+    },
+    {
+      "id": "cal-t1-0030",
+      "concept": "cal.maroc.achoura-maroc",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment l'Achoura est-elle fêtée traditionnellement au Maroc ?",
+      "choices": [
+        "Un grand jeûne de trois jours",
+        "Un pèlerinage à Moulay Idrīs",
+        "Jouets, fruits secs et jeux d'eau",
+        "Un sacrifice dans chaque famille"
+      ],
+      "answer": 2,
+      "expl": "Au Maroc, ʿĀshūrāʾ est une fête familiale : on offre des jouets et des taʿrija (petits tambourins) aux enfants, on partage des fruits secs, et le lendemain, le jour de « Zemzem », on s'asperge d'eau. Beaucoup de familles donnent aussi leur zakat à cette période. On n'oublie pas le jeûne recommandé."
+    },
+    {
+      "id": "cal-t1-0031",
+      "concept": "cal.maroc.nffar",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui, dans la tradition marocaine, réveille les gens pour le suḥūr pendant Ramadan ?",
+      "choices": [
+        "Le muezzin",
+        "Le caïd",
+        "Le fqih",
+        "Le neffār"
+      ],
+      "answer": 3,
+      "expl": "Le neffār (nef-fâr) parcourt les rues de la médina avant l'aube en soufflant dans une longue trompette (nfīr) pour réveiller les habitants. Cette tradition se perd, mais existe encore dans les vieilles villes comme Fès ou Meknès."
+    },
+    {
+      "id": "cal-t1-0032",
+      "concept": "cal.monde.indonesie",
+      "domain": "calendrier",
+      "sub": "monde",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel est le pays qui compte le plus de musulmans au monde ?",
+      "choices": [
+        "L'Indonésie",
+        "L'Arabie saoudite",
+        "L'Égypte",
+        "La Turquie"
+      ],
+      "answer": 0,
+      "expl": "L'Indonésie compte plus de 230 millions de musulmans, devant le Pakistan, l'Inde et le Bangladesh. Contrairement à une idée reçue, la majorité des musulmans ne sont pas arabes : les Arabes en représentent environ un cinquième.",
+      "retired": true
+    },
+    {
+      "id": "cal-t1-0033",
+      "concept": "cal.monde.nombre",
+      "domain": "calendrier",
+      "sub": "monde",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Combien de musulmans y a-t-il environ dans le monde aujourd'hui ?",
+      "choices": [
+        "Près de deux milliards",
+        "Environ 100 millions",
+        "Environ 500 millions",
+        "Environ 5 milliards"
+      ],
+      "answer": 0,
+      "expl": "On estime le nombre de musulmans à environ 1,9 à 2 milliards, soit à peu près un quart de l'humanité. C'est la deuxième religion du monde par le nombre de fidèles, après le christianisme."
+    },
+    {
+      "id": "cal-t1-0034",
+      "concept": "cal.monde.arabes",
+      "domain": "calendrier",
+      "sub": "monde",
+      "tier": 1,
+      "type": "vf",
+      "q": "La majorité des musulmans dans le monde sont arabes.",
+      "answer": false,
+      "expl": "Faux : les Arabes ne représentent qu'environ 20 % des musulmans. La plupart vivent en Asie (Indonésie, Pakistan, Inde, Bangladesh), puis en Afrique. L'islam est une religion universelle, et la diversité de ses fidèles en est le témoin."
+    },
+    {
+      "id": "cal-t1-0035",
+      "concept": "cal.maroc.the",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle boisson est le symbole de l'hospitalité marocaine ?",
+      "choices": [
+        "Le café noir épicé",
+        "Le jus d'orange pressé",
+        "Le lait aux dattes",
+        "Le thé vert à la menthe"
+      ],
+      "answer": 3,
+      "expl": "Le thé à la menthe (« atay ») accompagne chaque visite. On le verse de haut pour former de la mousse, et on le sert souvent trois fois. Le thé est arrivé au Maroc aux XVIIIe et XIXe siècles par le commerce avec l'Angleterre, et s'est imposé dans tout le pays."
+    },
+    {
+      "id": "cal-t1-0036",
+      "concept": "cal.maroc.djellaba",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel vêtement traditionnel marocain, long et à capuche, porte-t-on souvent pour aller à la mosquée ou pour l'Aïd ?",
+      "choices": [
+        "La djellaba",
+        "Le kimono",
+        "Le sari",
+        "Le poncho"
+      ],
+      "answer": 0,
+      "expl": "La djellaba est portée par les hommes et les femmes, avec des babouches. Pour l'Aïd et la prière du vendredi, beaucoup de Marocains sortent leur plus belle djellaba, souvent blanche pour les hommes. Le caftan est la robe de fête des femmes."
+    },
+    {
+      "id": "cal-t1-0037",
+      "concept": "cal.maroc.couscous",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel plat, inscrit au patrimoine de l'UNESCO en 2020 par les pays du Maghreb, est traditionnellement servi le vendredi au Maroc ?",
+      "choices": [
+        "La ḥrīra",
+        "Le couscous",
+        "La paella",
+        "Le tajine de poisson"
+      ],
+      "answer": 1,
+      "expl": "Le couscous a été inscrit ensemble par le Maroc, l'Algérie, la Tunisie et la Mauritanie. Au Maroc, on le partage en famille le vendredi après la prière, souvent avec les sept légumes, et on en apporte aux voisins et aux nécessiteux."
+    },
+    {
+      "id": "cal-t1-0038",
+      "concept": "cal.maroc.ftour",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment appelle-t-on en darija marocaine le repas de rupture du jeûne ?",
+      "choices": [
+        "Le shour",
+        "La walīma",
+        "Le ftour",
+        "Le brunch"
+      ],
+      "answer": 2,
+      "expl": "Le ftour (de fiṭr, rupture) se prend au coucher du soleil, à l'appel du Maghrib : dattes, lait, ḥrīra, chebakia, msemen, œufs… Le repas d'avant l'aube s'appelle le s'ḥour."
+    },
+    {
+      "id": "cal-t1-0039",
+      "concept": "cal.maroc.tbourida",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle tradition équestre marocaine, inscrite à l'UNESCO en 2021, met en scène des cavaliers qui tirent en même temps à la poudre ?",
+      "choices": [
+        "L'ahidous",
+        "Le gnaoua",
+        "La dakka",
+        "La tbourida"
+      ],
+      "answer": 3,
+      "expl": "Dans la tbourida, une troupe de cavaliers en tenue traditionnelle s'élance au galop et fait parler la poudre au même instant. Elle anime les moussems et les fêtes. Le cheval barbe est au cœur de cette tradition."
+    },
+    {
+      "id": "cal-t1-0040",
+      "concept": "cal.maroc.henne",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quand le henné est-il traditionnellement appliqué au Maroc ?",
+      "choices": [
+        "Lors des fêtes : mariages, Aïd, naissances",
+        "Seulement pendant les enterrements",
+        "Chaque vendredi avant la prière",
+        "Uniquement pendant le mois de Ramadan"
+      ],
+      "answer": 0,
+      "expl": "Le henné décore les mains et les pieds des femmes lors des grandes occasions, notamment la nuit du henné avant le mariage. Il colore la peau sans faire écran à l'eau des ablutions."
+    },
+    {
+      "id": "cal-t1-0041",
+      "concept": "cal.hegirien.fiche-mois",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les 12 mois du calendrier hégirien",
+      "points": [
+        "1 Muḥarram · 2 Ṣafar · 3 Rabīʿ al-awwal · 4 Rabīʿ ath-thānī",
+        "5 Jumādā l-ūlā · 6 Jumādā l-ākhira · 7 Rajab · 8 Shaʿbān",
+        "9 Ramaḍān · 10 Shawwāl · 11 Dhū l-Qaʿda · 12 Dhū l-Ḥijja",
+        "Mois sacrés : Muḥarram, Rajab, Dhū l-Qaʿda, Dhū l-Ḥijja"
+      ],
+      "expl": "Le calendrier musulman suit la lune : chaque mois commence avec l'apparition du croissant. L'année dure environ 354 jours, onze de moins que l'année solaire. Les fêtes avancent donc d'environ 11 jours chaque année.",
+      "src": [
+        "Coran 9:36"
+      ]
+    },
+    {
+      "id": "cal-t1-0042",
+      "concept": "cal.dates.fiche-annee",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "fiche",
+      "q": "L'année du musulman en un coup d'œil",
+      "points": [
+        "1er Muḥarram : nouvel an de l'Hégire",
+        "10 Muḥarram : ʿĀshūrāʾ (jeûne recommandé)",
+        "12 Rabīʿ al-awwal : naissance du Prophète ﷺ (Mawlid, fêté au Maroc)",
+        "Ramaḍān : le jeûne ; Laylat al-Qadr dans les 10 dernières nuits",
+        "1er Shawwāl : ʿĪd al-Fiṭr",
+        "9 Dhū l-Ḥijja : ʿArafa ; 10 : ʿĪd al-Aḍḥā"
+      ],
+      "expl": "Chaque année musulmane a ses temps forts. Les connaître aide à ne pas les manquer."
+    },
+    {
+      "id": "cal-t1-0043",
+      "concept": "cal.aid.fiche-aid-matin",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Le matin de l'ʿĪd, pas à pas",
+      "points": [
+        "Faire le ghusl et mettre ses plus beaux habits",
+        "ʿĪd al-Fiṭr : manger des dattes (nombre impair) avant de sortir ; donner la zakat al-fiṭr avant la prière",
+        "ʿĪd al-Aḍḥā : ne pas manger avant la prière",
+        "Réciter le takbīr en chemin ; aller par une route, revenir par une autre",
+        "Se souhaiter « ʿĪd mubārak » ou « Taqabbala Llāhu minnā wa minkum »"
+      ],
+      "expl": "L'ʿĪd est un jour de joie voulu par Allah. La Sunna en fait un moment beau et rassembleur.",
+      "src": [
+        "Hadith d'Anas — Bukhari",
+        "Hadith de Jābir — Bukhari"
+      ]
+    },
+    {
+      "id": "cal-t1-0044",
+      "concept": "cal.maroc.fiche-ramadan-maroc",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Le Ramadan au Maroc",
+      "points": [
+        "Le ftour : ḥarīra, dattes, chebbakia, sellou, msemmen, œufs durs",
+        "Le nffār et le tabbāl réveillent pour le suḥūr",
+        "La 27e nuit : les enfants jeûnent leur premier jour, habits traditionnels",
+        "Les Causeries ḥassaniennes : leçons religieuses devant le roi"
+      ],
+      "expl": "Au Maroc, le Ramadan transforme les villes : rythme de nuit, mosquées pleines pour les tarāwīḥ, solidarité. Beaucoup de traditions viennent de là, à découvrir avec la famille de Meknès."
+    },
+    {
+      "id": "cal-t1-0045",
+      "concept": "cal.mosquee.fiche-mosquee",
+      "domain": "calendrier",
+      "sub": "mosquee",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Entrer à la mosquée",
+      "points": [
+        "Entrer du pied droit en disant : « Allāhumma ftaḥ lī abwāba raḥmatik »",
+        "Prier deux rakʿa de salutation (taḥiyyat al-masjid) avant de s'asseoir",
+        "Ne pas passer devant quelqu'un qui prie",
+        "Sortir du pied gauche : « Allāhumma innī asʾaluka min faḍlik »"
+      ],
+      "expl": "La mosquée est la maison d'Allah. Quelques gestes simples montrent le respect et rapportent des récompenses.",
+      "src": [
+        "Hadith d'Abū Ḥumayd — Muslim",
+        "Hadith d'Abū Qatāda — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "اللّٰهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "tr": "Allāhumma ftaḥ lī abwāba raḥmatik",
+        "pr": "al-lâ-houm-maf-tah lî ab-wâ-ba rah-ma-tik",
+        "fr": "Ô Allah, ouvre-moi les portes de Ta miséricorde"
+      }
+    },
+    {
+      "id": "cal-t1-0046",
+      "concept": "cal.hegirien.ramadan-mois",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Le Ramadan est quel mois du calendrier hégirien ?",
+      "choices": [
+        "Le 7e",
+        "Le 9e",
+        "Le 1er",
+        "Le 12e"
+      ],
+      "answer": 1,
+      "expl": "Ramaḍān est le 9e mois. Il vient après Shaʿbān (8e) et avant Shawwāl (10e), dont le premier jour est l'ʿĪd al-Fiṭr."
+    },
+    {
+      "id": "cal-t1-0047",
+      "concept": "cal.hegirien.hajj-mois",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans quel mois a lieu le pèlerinage (ḥajj) ?",
+      "choices": [
+        "Muḥarram",
+        "Rajab",
+        "Dhū l-Ḥijja, le 12e mois",
+        "Ramaḍān"
+      ],
+      "answer": 2,
+      "expl": "Son nom veut dire « celui du pèlerinage ». Les rites principaux ont lieu du 8 au 13 Dhū l-Ḥijja.",
+      "retired": true
+    },
+    {
+      "id": "cal-t1-0048",
+      "concept": "cal.hegirien.jours-annee",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de jours dure environ une année lunaire hégirienne ?",
+      "answer": 354,
+      "expl": "12 mois de 29 ou 30 jours, soit 354 ou 355 jours. C'est pourquoi le Ramadan arrive environ 11 jours plus tôt chaque année et fait le tour des saisons en 33 ans."
+    },
+    {
+      "id": "cal-t1-0049",
+      "concept": "cal.hegirien.jour-coucher",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 1,
+      "type": "vf",
+      "q": "Dans le calendrier musulman, le jour commence au coucher du soleil.",
+      "answer": true,
+      "expl": "La nuit précède le jour : la nuit de jeudi à vendredi est déjà « la nuit du vendredi ». C'est pourquoi on commence les tarāwīḥ le soir avant le premier jour de Ramadan."
+    },
+    {
+      "id": "cal-t1-0050",
+      "concept": "cal.dates.laylat-qadr",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans quelle période cherche-t-on Laylat al-Qadr ?",
+      "choices": [
+        "Le premier jour de Ramadan",
+        "La nuit de l'ʿĪd",
+        "En Muḥarram",
+        "Les nuits impaires des dix dernières nuits de Ramadan"
+      ],
+      "answer": 3,
+      "expl": "« La nuit du Destin vaut mieux que mille mois » (97:3). Le Prophète ﷺ redoublait d'efforts dans les dix dernières nuits. Au Maroc, on la célèbre particulièrement la 27e nuit.",
+      "src": [
+        "Coran 97:3",
+        "Hadith de ʿĀʾisha — Bukhari"
+      ],
+      "retired": true
+    },
+    {
+      "id": "cal-t1-0051",
+      "concept": "cal.dates.isra",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel événement est traditionnellement commémoré le 27 Rajab ?",
+      "choices": [
+        "Le Voyage nocturne et l'Ascension",
+        "La naissance du Prophète ﷺ",
+        "La bataille de Badr",
+        "La première révélation"
+      ],
+      "answer": 0,
+      "expl": "C'est la date la plus répandue, même si les savants ont donné d'autres dates. Lors de ce voyage, les cinq prières quotidiennes furent prescrites."
+    },
+    {
+      "id": "cal-t1-0052",
+      "concept": "cal.dates.six-shawwal",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que recommande le Prophète ﷺ après le Ramadan ?",
+      "choices": [
+        "Jeûner le jour de l'ʿĪd",
+        "Jeûner six jours de Shawwāl",
+        "Jeûner tout Shawwāl",
+        "Ne plus jeûner pendant un mois"
+      ],
+      "answer": 1,
+      "expl": "« Celui qui jeûne le Ramadan puis le fait suivre de six jours de Shawwāl, c'est comme s'il avait jeûné toute l'année. » Ils peuvent être consécutifs ou non. L'imam Mālik ne les recommandait pas juste après l'ʿĪd, pour éviter qu'on les croie obligatoires.",
+      "src": [
+        "Hadith d'Abū Ayyūb — Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0053",
+      "concept": "cal.dates.jumua",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel est le meilleur jour de la semaine selon les hadiths ?",
+      "choices": [
+        "Le lundi",
+        "Le samedi",
+        "Le vendredi",
+        "Le dimanche"
+      ],
+      "answer": 2,
+      "expl": "« Le meilleur jour où le soleil se lève est le vendredi : Ādam y fut créé… » Sunnas : ghusl, sourate al-Kahf, beaucoup de prières sur le Prophète ﷺ, et une heure où les invocations sont exaucées.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0054",
+      "concept": "cal.dates.lundi-jeudi",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quels jours de la semaine le Prophète ﷺ jeûnait-il souvent ?",
+      "choices": [
+        "Le vendredi et le samedi",
+        "Le mardi et le mercredi",
+        "Le dimanche",
+        "Le lundi et le jeudi"
+      ],
+      "answer": 3,
+      "expl": "Les actes sont présentés à Allah le lundi et le jeudi, et il aimait qu'on présente ses actes pendant qu'il jeûnait. Le lundi est aussi le jour de sa naissance.",
+      "src": [
+        "Hadith d'Abū Hurayra — Tirmidhi",
+        "Hadith d'Abū Qatāda — Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0055",
+      "concept": "cal.aid.fitr-zakat",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que faut-il donner avant la prière de l'ʿĪd al-Fiṭr ?",
+      "choices": [
+        "La zakat al-fiṭr",
+        "Un mouton",
+        "Le dixième de ses biens",
+        "Rien"
+      ],
+      "answer": 0,
+      "expl": "Une petite aumône obligatoire (environ 2,5 kg de nourriture de base par personne, ou sa valeur selon les avis) pour que les pauvres puissent aussi fêter l'ʿĪd. Le chef de famille la paie pour chaque membre.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cal-t1-0056",
+      "concept": "cal.aid.adha-maroc",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment appelle-t-on souvent l'ʿĪd al-Aḍḥā au Maroc ?",
+      "choices": [
+        "Al-ʿĪd aṣ-Ṣghīr",
+        "Al-ʿĪd al-Kbīr",
+        "ʿĀshūrāʾ",
+        "Le Mawlid"
+      ],
+      "answer": 1,
+      "expl": "L'ʿĪd al-Fiṭr est la « petite fête » (l-ʿīd ṣ-ṣghīr) et l'ʿĪd al-Aḍḥā « la grande fête » (l-ʿīd l-kbīr), avec le sacrifice du mouton en souvenir d'Ibrāhīm."
+    },
+    {
+      "id": "cal-t1-0057",
+      "concept": "cal.mosquee.mihrab",
+      "domain": "calendrier",
+      "sub": "mosquee",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment s'appelle la niche dans le mur de la mosquée qui indique la direction de La Mecque ?",
+      "choices": [
+        "Le minaret",
+        "La qubba",
+        "Le miḥrāb",
+        "Le minbar"
+      ],
+      "answer": 2,
+      "expl": "Le miḥrāb montre la qibla. Le minbar est la chaire à marches d'où l'imam fait le sermon du vendredi. La forme de l'arche du miḥrāb inspire le design de cette application."
+    },
+    {
+      "id": "cal-t1-0058",
+      "concept": "cal.monde.pays-musulmans",
+      "domain": "calendrier",
+      "sub": "monde",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Environ combien de musulmans y a-t-il dans le monde ?",
+      "choices": [
+        "Environ 200 millions",
+        "Environ 500 millions",
+        "Environ 5 milliards",
+        "Environ 2 milliards"
+      ],
+      "answer": 3,
+      "expl": "Les musulmans représentent environ un quart de l'humanité, de l'Indonésie au Maroc en passant par l'Afrique et l'Europe. C'est la religion qui grandit le plus vite."
+    },
+    {
+      "id": "cal-t1-0059",
+      "concept": "cal.monde.france-musulmans",
+      "domain": "calendrier",
+      "sub": "monde",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Où se trouve l'une des plus anciennes grandes mosquées de France, inaugurée en 1926 ?",
+      "choices": [
+        "À Paris",
+        "À Marseille",
+        "À Lyon",
+        "À Strasbourg"
+      ],
+      "answer": 0,
+      "expl": "Elle fut construite en hommage aux soldats musulmans morts pour la France pendant la Première Guerre mondiale, avec l'aide d'artisans marocains (zellige, bois sculpté)."
+    },
+    {
+      "id": "cal-t1-0060",
+      "concept": "cal.maroc.mawlid-sale",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle ville marocaine est connue pour sa procession des cierges la veille du Mawlid ?",
+      "choices": [
+        "Ouarzazate",
+        "Salé",
+        "Agadir",
+        "Tanger"
+      ],
+      "answer": 1,
+      "expl": "Le « Moussem des cierges » de Salé, tradition datant des Saadiens (XVIe s.), est inscrit au patrimoine immatériel de l'UNESCO. Le Mawlid est un jour férié au Maroc."
+    }
+  ]
+}

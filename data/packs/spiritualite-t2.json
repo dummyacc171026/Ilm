@@ -1,0 +1,1117 @@
+{
+  "pack": "spiritualite-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "spi-t2-0001",
+      "concept": "spi.intention.emigration",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se termine le hadith « Les actes ne valent que par les intentions » ?",
+      "choices": [
+        "« … et Allah préfère ceux qui émigrent vite »",
+        "« … chacun aura selon ce vers quoi il a émigré »",
+        "« … et l'émigration remplace la prière »",
+        "« … et seule Médine compte »"
+      ],
+      "answer": 1,
+      "expl": "Le même geste, quitter La Mecque pour Médine, avait une valeur totalement différente selon l'intention. Ce hadith, le premier des Quarante d'an-Nawawī, est considéré comme un tiers de la religion.",
+      "src": [
+        "Hadith de ʿUmar ibn al-Khaṭṭāb — Bukhari & Muslim"
+      ],
+      "tags": [
+        "nawawi:1"
+      ]
+    },
+    {
+      "id": "spi-t2-0002",
+      "concept": "spi.intention.aumone-voleur",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon un hadith, un homme donna en secret son aumône successivement à un voleur, à une femme de mauvaise vie et à un riche, et son aumône fut acceptée grâce à son intention.",
+      "answer": true,
+      "expl": "Le matin, les gens disaient : « On a fait l'aumône à un voleur ! » Il dit chaque fois : « Ô Allah, louange à Toi. » Il lui fut dit en rêve que son aumône était acceptée : le voleur cesserait peut-être de voler, la femme deviendrait chaste, le riche apprendrait à donner. L'intention sincère suffit.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0003",
+      "concept": "spi.intention.accepte",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith rapporté par an-Nasāʾī, quels actes Allah accepte-t-Il ?",
+      "choices": [
+        "Ceux faits devant beaucoup de gens",
+        "Ceux qui coûtent beaucoup d'argent",
+        "Ceux faits sincèrement pour Lui",
+        "Ceux faits seulement le vendredi"
+      ],
+      "answer": 2,
+      "expl": "« Allah n'accepte de l'acte que ce qui est fait sincèrement pour Lui, en recherchant Sa face. » Les savants disent qu'un acte accepté a deux conditions : la sincérité (ikhlāṣ) et la conformité à la Sunna.",
+      "src": [
+        "Hadith d'Abū Umāma — Nasai"
+      ]
+    },
+    {
+      "id": "spi-t2-0004",
+      "concept": "spi.intention.trois-premiers",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que montre le hadith des trois premiers jugés (un savant, un combattant et un généreux qui agissaient pour être vus) ?",
+      "choices": [
+        "Le savoir suffit pour entrer au Paradis",
+        "La générosité efface toujours tout, même sans intention",
+        "Le combat est l'acte le plus sûr",
+        "Sans sincérité, même les grands actes perdent leur valeur"
+      ],
+      "answer": 3,
+      "expl": "Ce hadith, qui faisait pleurer Abū Hurayra en le racontant, décrit des personnes ayant accompli de grandes œuvres pour qu'on dise d'elles : quel savant, quel brave, quel généreux ! On leur répond qu'elles ont déjà reçu ce qu'elles cherchaient. Une invitation à vérifier régulièrement son intention, sans tomber dans l'angoisse.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0005",
+      "concept": "spi.repentir.droits-gens",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faut-il faire, en plus du regret, pour se repentir d'un tort fait à une autre personne ?",
+      "choices": [
+        "Lui rendre son droit ou obtenir son pardon",
+        "Jeûner trois jours de suite",
+        "Faire un pèlerinage",
+        "Donner de l'argent à la mosquée"
+      ],
+      "answer": 0,
+      "expl": "Pour les péchés envers Allah, le repentir sincère suffit. Pour les torts faits aux gens (argent pris, honneur blessé), il faut en plus réparer ou demander pardon. « Que celui qui a commis une injustice envers son frère s'en fasse pardonner aujourd'hui, avant le jour où il n'y aura ni dinar ni dirham. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari"
+      ]
+    },
+    {
+      "id": "spi-t2-0006",
+      "concept": "spi.repentir.nasuh",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 2,
+      "type": "trou",
+      "q": "« Ô vous qui croyez ! Repentez-vous à Allah d'un repentir ___. »",
+      "choices": [
+        "partiel",
+        "sincère",
+        "rapide",
+        "public"
+      ],
+      "answer": 1,
+      "expl": "« Tawbatan naṣūḥā » (66:8) : un repentir pur, sans arrière-pensée de recommencer. Les savants le décrivent comme : regretter, s'arrêter, et décider fermement de ne pas revenir à la faute.",
+      "src": [
+        "Coran 66:8"
+      ],
+      "ar": {
+        "text": "تَوْبَةً نَصُوحًا",
+        "tr": "tawbatan naṣūḥā",
+        "pr": "taw-ba-tan na-soû-hâ",
+        "fr": "un repentir sincère"
+      },
+      "tags": [
+        "sourate:66"
+      ]
+    },
+    {
+      "id": "spi-t2-0007",
+      "concept": "spi.repentir.jusqua-quand",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Jusqu'à quand le repentir est-il accepté, selon le hadith ?",
+      "choices": [
+        "Jusqu'à 40 ans",
+        "Jusqu'au mariage",
+        "Jusqu'à l'agonie",
+        "Une seule fois"
+      ],
+      "answer": 2,
+      "expl": "« Allah accepte le repentir du serviteur tant qu'il n'est pas à l'agonie. » Et pour l'humanité, jusqu'à ce que le soleil se lève à l'ouest. Il n'est jamais trop tard tant qu'on vit.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Tirmidhi"
+      ]
+    },
+    {
+      "id": "spi-t2-0008",
+      "concept": "spi.repentir.peuple-qui-peche",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith, si les gens ne commettaient pas de péchés, Allah les remplacerait par un peuple qui pèche, puis demande pardon, et qu'Il pardonnerait.",
+      "answer": true,
+      "expl": "« Par Celui qui tient mon âme dans Sa main, si vous ne péchiez pas, Allah vous ferait disparaître et ferait venir un peuple qui pèche, puis demande pardon, et Il leur pardonnerait. » Ce hadith n'encourage pas le péché : il montre combien Allah aime pardonner.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0009",
+      "concept": "spi.vertus.oiseaux",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quoi le Prophète ﷺ compara-t-il la subsistance de celui qui place vraiment sa confiance en Allah ?",
+      "choices": [
+        "Aux fourmis qui font des réserves pour l'hiver",
+        "Aux poissons qui suivent le courant",
+        "Aux chameaux qui jeûnent longtemps",
+        "Aux oiseaux qui partent affamés et rentrent rassasiés"
+      ],
+      "answer": 3,
+      "expl": "« Si vous placiez votre confiance en Allah comme il se doit, Il vous nourrirait comme Il nourrit les oiseaux : ils partent le matin affamés et reviennent le soir rassasiés. » Les oiseaux sortent chercher : le tawakkul n'est pas l'inaction.",
+      "src": [
+        "Hadith de ʿUmar ibn al-Khaṭṭāb — Tirmidhi"
+      ]
+    },
+    {
+      "id": "spi-t2-0010",
+      "concept": "spi.vertus.richesse-ame",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, qu'est-ce que la vraie richesse ?",
+      "choices": [
+        "La richesse de l'âme (le contentement)",
+        "L'abondance des biens",
+        "La propriété de terres",
+        "La célébrité"
+      ],
+      "answer": 0,
+      "expl": "« La richesse n'est pas dans l'abondance des biens ; la vraie richesse est la richesse de l'âme. » Le contentement (qanāʿa) libère de la course sans fin. Un autre hadith dit : « A réussi celui qui a embrassé l'islam, a reçu le nécessaire, et qu'Allah a rendu satisfait de ce qu'Il lui a donné. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim",
+        "Hadith d'ʿAbd Allāh ibn ʿAmr — Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "spi-t2-0011",
+      "concept": "spi.vertus.humilite",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que révéla Allah au Prophète ﷺ à propos de l'humilité, selon le hadith d'ʿIyāḍ ibn Ḥimār ?",
+      "choices": [
+        "« Soyez fiers de votre tribu »",
+        "« Soyez humbles, que nul ne s'enorgueillisse »",
+        "« Montrez votre force aux autres »",
+        "« Cachez vos biens aux voisins »"
+      ],
+      "answer": 1,
+      "expl": "L'humilité (tawāḍuʿ) est d'abord une attitude envers les autres : ne pas se croire supérieur, ne pas écraser. Le Prophète ﷺ, maître de l'Arabie, raccommodait ses vêtements et s'asseyait avec les pauvres.",
+      "src": [
+        "Hadith d'ʿIyāḍ ibn Ḥimār — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0012",
+      "concept": "spi.vertus.aime",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque groupe de personnes que le Coran dit aimées d'Allah au verset correspondant.",
+      "pairs": [
+        [
+          "Ceux qui font le bien (al-muḥsinīn)",
+          "Coran 2:195"
+        ],
+        [
+          "Ceux qui se repentent et se purifient",
+          "Coran 2:222"
+        ],
+        [
+          "Ceux qui patientent (aṣ-ṣābirīn)",
+          "Coran 3:146"
+        ],
+        [
+          "Ceux qui placent leur confiance en Lui",
+          "Coran 3:159"
+        ]
+      ],
+      "expl": "« Allah aime les bienfaisants », « Allah aime ceux qui se repentent et se purifient », « Allah aime les patients », « Allah aime ceux qui placent leur confiance en Lui ». Le Coran trace ainsi un chemin vers l'amour d'Allah, accessible à chacun.",
+      "src": [
+        "Coran 2:195",
+        "Coran 2:222",
+        "Coran 3:146",
+        "Coran 3:159"
+      ]
+    },
+    {
+      "id": "spi-t2-0013",
+      "concept": "spi.maladies-coeur.deux-vallees",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith sur l'avidité du fils d'Adam ?",
+      "choices": [
+        "Il serait enfin satisfait",
+        "Il donnerait tout aux pauvres",
+        "Il voudrait une troisième vallée d'or",
+        "Il partirait en pèlerinage"
+      ],
+      "answer": 2,
+      "expl": "« Si le fils d'Adam avait une vallée d'or, il aimerait en avoir deux ; et rien ne remplira sa bouche que la terre. Et Allah accepte le repentir de celui qui se repent. » Le remède : la gratitude et le souvenir de la mort.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0014",
+      "concept": "spi.maladies-coeur.mort",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que recommandait le Prophète ﷺ de se rappeler souvent, comme remède contre l'attachement excessif à ce monde ?",
+      "choices": [
+        "La richesse",
+        "Le voyage",
+        "La famille",
+        "La mort"
+      ],
+      "answer": 3,
+      "expl": "« Multipliez le souvenir de la destructrice des plaisirs : la mort. » Se rappeler la mort n'est pas morbide : cela remet les priorités en place, apaise les rancunes et pousse à faire le bien maintenant.",
+      "src": [
+        "Hadith d'Abū Hurayra — Tirmidhi"
+      ]
+    },
+    {
+      "id": "spi-t2-0015",
+      "concept": "spi.maladies-coeur.rancune",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 2,
+      "type": "trou",
+      "q": "Invocation contre la rancune : « Seigneur, ne mets pas dans nos cœurs de ___ envers ceux qui ont cru. »",
+      "choices": [
+        "rancœur",
+        "tristesse",
+        "peur",
+        "oubli"
+      ],
+      "answer": 0,
+      "expl": "« Seigneur, pardonne-nous ainsi qu'à nos frères qui nous ont précédés dans la foi, et ne mets pas dans nos cœurs de rancœur envers ceux qui ont cru. » Le Prophète ﷺ annonça à ses Compagnons un homme du Paradis : ʿAbd Allāh ibn ʿAmr découvrit que son secret était de ne garder de rancune envers personne en se couchant.",
+      "src": [
+        "Coran 59:10"
+      ],
+      "tags": [
+        "sourate:59"
+      ]
+    },
+    {
+      "id": "spi-t2-0016",
+      "concept": "spi.maladies-coeur.ujb",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce que le ʿujb, maladie du cœur dont parlent les maîtres spirituels ?",
+      "choices": [
+        "La colère",
+        "L'autosatisfaction",
+        "La tristesse",
+        "La peur"
+      ],
+      "answer": 1,
+      "expl": "Le ʿujb consiste à se trouver formidable pour sa prière, son savoir ou ses aumônes. Le remède est de se souvenir que toute capacité vient d'Allah, et que nul n'entre au Paradis par ses œuvres seules, mais par la miséricorde d'Allah.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0017",
+      "concept": "spi.maladies-coeur.ghafla",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment appelle-t-on l'insouciance qui fait oublier Allah et l'au-delà dans la course de la vie ?",
+      "choices": [
+        "Le ṣabr",
+        "Le shukr",
+        "La ghafla",
+        "Le yaqīn"
+      ],
+      "answer": 2,
+      "expl": "« Rapproché est, pour les gens, leur jugement, alors qu'ils se détournent dans l'insouciance » (21:1). Le dhikr est le remède principal à la ghafla : il réveille le cœur plusieurs fois par jour.",
+      "src": [
+        "Coran 21:1"
+      ],
+      "tags": [
+        "sourate:21"
+      ]
+    },
+    {
+      "id": "spi-t2-0018",
+      "concept": "spi.amour.nawafil",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith qudsī (n° 38 des Quarante), comment le serviteur obtient-il l'amour d'Allah ?",
+      "choices": [
+        "Par la richesse et les cadeaux",
+        "Par l'isolement total du monde",
+        "Par la naissance dans une bonne famille",
+        "Par les obligations, puis les œuvres surérogatoires"
+      ],
+      "answer": 3,
+      "expl": "« Mon serviteur ne se rapproche pas de Moi par une chose que J'aime plus que ce que Je lui ai prescrit ; et il ne cesse de se rapprocher de Moi par les œuvres surérogatoires jusqu'à ce que Je l'aime. Quand Je l'aime, Je suis son ouïe par laquelle il entend, sa vue par laquelle il voit… »",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari"
+      ],
+      "tags": [
+        "nawawi:38"
+      ]
+    },
+    {
+      "id": "spi-t2-0019",
+      "concept": "spi.amour.jibril-annonce",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que se passe-t-il, selon le hadith, quand Allah aime un serviteur ?",
+      "choices": [
+        "Jibrīl l'aime, puis le ciel, puis la terre l'accepte",
+        "Il devient riche dès le lendemain",
+        "Il ne connaît plus aucune épreuve de toute sa vie",
+        "Il devient roi de son pays"
+      ],
+      "answer": 0,
+      "expl": "« Quand Allah aime un serviteur, Il appelle Jibrīl : J'aime untel, aime-le. Jibrīl l'aime et appelle les gens du ciel… puis l'acceptation lui est placée sur terre. » C'est pourquoi on dit parfois que l'affection sincère des gens pour quelqu'un est un bon signe.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0020",
+      "concept": "spi.amour.freres",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a dit qu'il aurait aimé voir « ses frères » : ceux qui viendraient après lui et croiraient en lui sans l'avoir vu.",
+      "answer": true,
+      "expl": "Les Compagnons demandèrent : « Ne sommes-nous pas tes frères ? — Vous êtes mes Compagnons ; mes frères sont ceux qui ne sont pas encore venus. » Chaque croyant d'aujourd'hui, converti ou non, est concerné par cette tendresse.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0021",
+      "concept": "spi.amour.vendredi-salat",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel jour le Prophète ﷺ recommanda-t-il particulièrement de multiplier les prières sur lui ?",
+      "choices": [
+        "Le jour de l'Aïd seulement",
+        "Le vendredi",
+        "Le lundi",
+        "Le samedi"
+      ],
+      "answer": 1,
+      "expl": "« Le meilleur de vos jours est le vendredi ; multipliez-y les prières sur moi, car vos prières me sont présentées. » Beaucoup récitent la ṣalāt ibrāhīmiyya ou des formules simples comme « Allāhumma ṣalli ʿalā Muḥammad » tout au long du vendredi.",
+      "src": [
+        "Hadith d'Aws ibn Aws — Abu Dawud"
+      ]
+    },
+    {
+      "id": "spi-t2-0022",
+      "concept": "spi.tasawwuf.junayd",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était al-Junayd, dont le Maroc suit officiellement la voie spirituelle ?",
+      "choices": [
+        "Un sultan mérinide de Fès",
+        "Un calife omeyyade de Damas",
+        "Un maître soufi sobre de Bagdad",
+        "Un poète andalou de Cordoue"
+      ],
+      "answer": 2,
+      "expl": "Al-Junayd, surnommé « le maître de la confrérie » (sayyid aṭ-ṭāʾifa), disait : « Notre voie est liée au Livre et à la Sunna ; celui qui n'a pas appris le Coran ni écrit le hadith ne peut être suivi dans cette voie. » Il incarne un soufisme équilibré, loin des excès."
+    },
+    {
+      "id": "spi-t2-0023",
+      "concept": "spi.tasawwuf.vocabulaire",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque terme du soufisme à son sens.",
+      "pairs": [
+        [
+          "Zāwiya",
+          "Lieu de rassemblement, d'enseignement et de dhikr d'une confrérie"
+        ],
+        [
+          "Ṭarīqa",
+          "Voie spirituelle, confrérie"
+        ],
+        [
+          "Wird",
+          "Ensemble de dhikr récité régulièrement"
+        ],
+        [
+          "Shaykh",
+          "Maître spirituel qui guide les disciples"
+        ]
+      ],
+      "expl": "Au Maroc, les zāwiyas ont joué un grand rôle dans l'enseignement, la solidarité et la défense du pays. Les avis sur certaines pratiques des confréries varient selon les savants.",
+      "pron": {
+        "Zāwiya": "zâ-wi-ya",
+        "Ṭarīqa": "ta-rî-qa",
+        "Wird": "wird",
+        "Shaykh": "chaykh"
+      }
+    },
+    {
+      "id": "spi-t2-0024",
+      "concept": "spi.tasawwuf.confreries",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque confrérie présente au Maroc à son fondateur.",
+      "pairs": [
+        [
+          "Tijāniyya",
+          "Aḥmad at-Tijānī (enterré à Fès)"
+        ],
+        [
+          "Qādiriyya",
+          "ʿAbd al-Qādir al-Jīlānī (Bagdad)"
+        ],
+        [
+          "Shādhiliyya",
+          "Abū l-Ḥasan ash-Shādhilī (originaire du nord du Maroc)"
+        ],
+        [
+          "Darqāwiyya",
+          "Mawlāy al-ʿArabī ad-Darqāwī"
+        ]
+      ],
+      "expl": "Ces confréries, présentées ici de manière factuelle, comptent de nombreux adeptes au Maroc et au-delà : la Tijāniyya est très répandue en Afrique de l'Ouest, et sa zāwiya de Fès attire des visiteurs du Sénégal. La Būtshīshiyya, branche qādirie basée à Madagh près de Berkane, est aujourd'hui très active.",
+      "note": "Les confréries et leurs pratiques font l'objet d'appréciations diverses parmi les savants."
+    },
+    {
+      "id": "spi-t2-0025",
+      "concept": "spi.tasawwuf.dhikr-coeur",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est, selon les maîtres soufis, le cœur de la pratique spirituelle ?",
+      "choices": [
+        "La musique et la danse avant tout",
+        "L'isolement loin de toute prière",
+        "L'abandon des obligations",
+        "Le dhikr, dans le respect de la Charia"
+      ],
+      "answer": 3,
+      "expl": "Les maîtres de la voie insistent sur le dhikr, la purification du cœur et le bon caractère, toujours dans le cadre de la Charia. Ibn ʿĀshir termine son poème par la voie d'al-Junayd : se repentir, craindre Allah, observer son cœur et suivre la Sunna.",
+      "src": [
+        "Coran 33:41",
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ]
+    },
+    {
+      "id": "spi-t2-0026",
+      "concept": "spi.dhikr.coeur-langue",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon les maîtres spirituels, quel est le dhikr le plus complet ?",
+      "choices": [
+        "Celui qui est crié",
+        "Celui qui est fait seul la nuit uniquement",
+        "Celui où le cœur est présent à ce que dit la langue",
+        "Celui qui est dit le plus vite"
+      ],
+      "answer": 2,
+      "expl": "Le dhikr de la langue seule est déjà un bien ; le dhikr du cœur seul aussi ; mais le plus complet unit les deux. Ibn ʿAṭāʾ Allāh conseille de ne pas abandonner le dhikr de la langue sous prétexte que le cœur est absent : il finira par suivre."
+    },
+    {
+      "id": "spi-t2-0027",
+      "concept": "spi.dhikr.distraits",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Coran à propos du dhikr dans le verset 7:205 ?",
+      "choices": [
+        "« Invoque ton Seigneur en criant très fort »",
+        "« N'invoque ton Seigneur qu'à la mosquée »",
+        "« N'invoque ton Seigneur qu'en Ramadan »",
+        "« Invoque ton Seigneur en toi-même, avec humilité »"
+      ],
+      "answer": 3,
+      "expl": "Le Coran décrit un dhikr intérieur, humble, à voix basse, régulier. La ghafla, l'oubli distrait, est présentée comme le contraire du dhikr.",
+      "src": [
+        "Coran 7:205"
+      ]
+    },
+    {
+      "id": "spi-t2-0028",
+      "concept": "spi.dhikr.doigts",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ comptait-il ses glorifications ?",
+      "choices": [
+        "Sur les doigts de sa main droite",
+        "Avec un chapelet de pierres précieuses",
+        "En les écrivant",
+        "Il ne les comptait pas"
+      ],
+      "answer": 0,
+      "expl": "ʿAbdallāh ibn ʿAmr dit l'avoir vu compter le tasbīḥ sur sa main droite (Abū Dāwūd), et il recommanda aux femmes de compter sur leurs doigts, « car ils seront interrogés et ils parleront » (Abū Dāwūd ; Tirmidhi). Le chapelet (misbaḥa) est permis par la plupart des savants.",
+      "src": [
+        "Abū Dāwūd ; Tirmidhi"
+      ]
+    },
+    {
+      "id": "spi-t2-0029",
+      "concept": "spi.dhikr.wird",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'un « wird » ?",
+      "choices": [
+        "Un pèlerinage annuel",
+        "Une part régulière de dhikr chaque jour",
+        "Une aumône obligatoire versée chaque mois",
+        "Un jeûne de trois jours"
+      ],
+      "answer": 1,
+      "expl": "Le wird est un programme quotidien, souvent matin et soir : quelques versets, des invocations, des formules répétées. Au Maroc, on récite le ḥizb ou le wird d'une voie spirituelle. L'important est la régularité, même modeste."
+    },
+    {
+      "id": "spi-t2-0030",
+      "concept": "spi.intention.sommeil",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que répondit Muʿādh ibn Jabal quand on lui demanda comment il priait la nuit ?",
+      "choices": [
+        "« Je ne dors jamais de la nuit »",
+        "« Je prie seulement avant l'aube, une heure au plus »",
+        "« J'espère pour mon sommeil ce que j'espère pour ma veille »",
+        "« Je dors toute la nuit sans prier »"
+      ],
+      "answer": 2,
+      "expl": "Muʿādh dormait avec l'intention de reprendre des forces pour adorer Allah : son sommeil devenait ainsi une adoration (Bukhari). L'intention transforme les actes ordinaires.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "spi-t2-0031",
+      "concept": "spi.repentir.kab",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que fit Kaʿb ibn Mālik après être resté à Médine sans excuse pendant l'expédition de Tabūk ?",
+      "choices": [
+        "Il inventa une excuse et fut cru",
+        "Il quitta Médine",
+        "Il rejoignit l'ennemi",
+        "Il dit la vérité au Prophète ﷺ au lieu d'inventer une excuse, et Allah accepta son repentir cinquante jours plus tard"
+      ],
+      "answer": 3,
+      "expl": "Les hypocrites présentèrent de fausses excuses ; Kaʿb et deux autres avouèrent. Pendant cinquante nuits, on ne leur adressa plus la parole. Puis fut révélé leur pardon (9:118). Kaʿb dit : « C'est la vérité qui m'a sauvé » (Bukhari).",
+      "src": [
+        "Bukhari et Muslim ; Coran 9:118"
+      ],
+      "retired": true
+    },
+    {
+      "id": "spi-t2-0032",
+      "concept": "spi.vertus.zuhd",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment les savants définissent-ils le zuhd (détachement) ?",
+      "choices": [
+        "Ce monde dans la main, pas dans le cœur",
+        "Vivre seul au désert, loin de tous",
+        "Ne rien posséder du tout",
+        "Refuser tout travail"
+      ],
+      "answer": 0,
+      "expl": "Le zuhd n'est pas la misère : ʿUthmān et ʿAbd ar-Raḥmān ibn ʿAwf étaient riches et détachés. C'est ne pas être possédé par ce qu'on possède : ne pas désespérer de ce qu'on perd, ne pas s'enorgueillir de ce qu'on reçoit (57:23).",
+      "src": [
+        "Coran 57:23"
+      ]
+    },
+    {
+      "id": "spi-t2-0033",
+      "concept": "spi.vertus.wara",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce que le « waraʿ » ?",
+      "choices": [
+        "Tout essayer pour se faire un avis",
+        "Laisser le douteux par crainte de l'interdit",
+        "Suivre l'avis le plus facile",
+        "Éviter tout contact avec les gens"
+      ],
+      "answer": 1,
+      "expl": "« Celui qui se préserve des choses douteuses préserve sa religion et son honneur » (Bukhari et Muslim). Le waraʿ demande du discernement : il ne doit pas tourner à l'obsession ni rendre la vie impossible.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0034",
+      "concept": "spi.vertus.sidq",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Où mène la véracité (ṣidq), selon le hadith ?",
+      "choices": [
+        "À la solitude",
+        "Au pouvoir",
+        "À la piété, et la piété mène au Paradis",
+        "À la richesse"
+      ],
+      "answer": 2,
+      "expl": "« La véracité mène à la piété, et la piété mène au Paradis. L'homme ne cesse de dire vrai jusqu'à être inscrit auprès d'Allah comme véridique. Le mensonge mène à la perversion, et la perversion au Feu » (Bukhari et Muslim).",
+      "src": [
+        "Bukhari et Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "spi-t2-0035",
+      "concept": "spi.vertus.yaqin",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que désigne le « yaqīn » ?",
+      "choices": [
+        "La crainte du châtiment",
+        "La joie de la fête",
+        "La tristesse du deuil",
+        "La certitude de la foi"
+      ],
+      "answer": 3,
+      "expl": "Le yaqīn est le sommet de la foi : une certitude du cœur. Le Coran distingue la science de certitude, l'œil de certitude et la vérité de certitude (102:5-7 ; 56:95). Ibrāhīm demanda à voir « pour que mon cœur soit rassuré »."
+    },
+    {
+      "id": "spi-t2-0036",
+      "concept": "spi.maladies-coeur.point-noir",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que se passe-t-il dans le cœur quand on commet un péché, selon le hadith ?",
+      "choices": [
+        "Un point noir que le repentir polit",
+        "Rien, le cœur reste intact",
+        "Le cœur s'arrête un instant",
+        "Une lumière s'y allume"
+      ],
+      "answer": 0,
+      "expl": "« Quand le croyant commet un péché, un point noir apparaît sur son cœur. S'il se repent et demande pardon, son cœur est poli. S'il continue, le point grandit. C'est la « rouille » dont parle Allah : « Ce qu'ils ont acquis a recouvert leurs cœurs » (83:14) » (Tirmidhi).",
+      "src": [
+        "Tirmidhi ; Coran 83:14"
+      ]
+    },
+    {
+      "id": "spi-t2-0037",
+      "concept": "spi.maladies-coeur.mauvaise-opinion",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle maladie du cœur le Prophète ﷺ appelle-t-il « la plus mensongère des paroles » ?",
+      "choices": [
+        "La médisance sur les absents",
+        "La mauvaise opinion sur les autres",
+        "La colère contre les proches",
+        "L'avarice envers les pauvres"
+      ],
+      "answer": 1,
+      "expl": "« Gardez-vous de la conjecture, car la conjecture est la plus mensongère des paroles » (Bukhari et Muslim). Juger les intentions des autres sans preuve nourrit la rancune et la médisance.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0038",
+      "concept": "spi.amour.umar-maintenant",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que répondit le Prophète ﷺ à ʿUmar, qui disait l'aimer plus que tout sauf lui-même ?",
+      "choices": [
+        "« C'est bien, cela suffit amplement »",
+        "« Aime d'abord ta famille, ʿUmar »",
+        "« Pas avant que je te sois plus cher que toi-même »",
+        "« Personne ne doit m'aimer autant »"
+      ],
+      "answer": 2,
+      "expl": "« Non, par Celui qui tient mon âme dans Sa main, pas avant que je te sois plus cher que toi-même. » ʿUmar dit : « Maintenant, par Allah, tu m'es plus cher que moi-même. — Maintenant, ô ʿUmar » (Bukhari). Cet amour se traduit par l'imitation de sa Sunna.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "spi-t2-0039",
+      "concept": "spi.tasawwuf.hikam",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle œuvre d'Ibn ʿAṭāʾ Allāh al-Iskandarī, maître de la voie shādhilite, est l'un des livres de spiritualité les plus lus ?",
+      "choices": [
+        "L'Iḥyāʾ",
+        "La Risāla",
+        "Le Mathnawī",
+        "Les Ḥikam"
+      ],
+      "answer": 3,
+      "expl": "Ibn ʿAṭāʾ Allāh (m. 1309) a condensé la spiritualité en quelque 260 sentences brèves, comme : « Parfois Il te donne et te prive, et parfois Il te prive et te donne. » Elles sont commentées et apprises au Maroc depuis des siècles."
+    },
+    {
+      "id": "spi-t2-0040",
+      "concept": "spi.tasawwuf.ihya",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel immense ouvrage d'al-Ghazālī unit le fiqh, l'éthique et la spiritualité ?",
+      "choices": [
+        "Iḥyāʾ ʿulūm ad-dīn",
+        "Les Ḥikam",
+        "La Muqaddima",
+        "Al-Muwaṭṭaʾ"
+      ],
+      "answer": 0,
+      "expl": "Après une crise intérieure, al-Ghazālī (m. 1111) quitta son poste prestigieux à Bagdad pour une vie de retraite, et écrivit l'Iḥyāʾ en quarante livres : les actes d'adoration, les coutumes, les vices, les vertus. Un pont entre la loi et le cœur."
+    },
+    {
+      "id": "spi-t2-0041",
+      "concept": "spi.tasawwuf.maqamat",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que désignent les « stations » (maqāmāt) dans la spiritualité musulmane ?",
+      "choices": [
+        "Les lieux de pèlerinage du Maroc",
+        "Les étapes du cheminement du cœur",
+        "Les prières de la journée",
+        "Les grades des savants"
+      ],
+      "answer": 1,
+      "expl": "Les maîtres décrivent un chemin intérieur par étapes, chacune acquise par l'effort : la tawba, le waraʿ, le zuhd, le ṣabr, le shukr, le tawakkul, la riḍā… Al-Qushayrī les a décrites dans sa célèbre Risāla."
+    },
+    {
+      "id": "spi-t2-0042",
+      "concept": "spi.tasawwuf.sharia-junayd",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disait al-Junayd du lien entre la spiritualité et la Loi ?",
+      "choices": [
+        "« Les saints sont au-dessus de la prière »",
+        "« La spiritualité remplace le fiqh »",
+        "« Notre voie est encadrée par le Coran et la Sunna »",
+        "« La Loi est pour les débutants »"
+      ],
+      "answer": 2,
+      "expl": "Al-Junayd affirmait : « Toutes les voies sont fermées, sauf pour celui qui suit les traces du Messager ﷺ. » Le Maroc se réclame de ce soufisme sobre, inséparable de la pratique et du fiqh malikite."
+    },
+    {
+      "id": "spi-t2-0043",
+      "concept": "spi.dhikr.fiche-dhikr-quotidien",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Le dhikr au fil de la journée",
+      "points": [
+        "Au réveil : « al-ḥamdu lillāhi lladhī aḥyānā… »",
+        "Après chaque prière : 33 subḥāna llāh, 33 al-ḥamdu lillāh, 33 Allāhu akbar",
+        "Matin et soir : sayyid al-istighfār, les trois dernières sourates",
+        "Dans les transports : « astaghfiru llāh », la prière sur le Prophète ﷺ",
+        "Avant de dormir : Āyat al-Kursī, les deux derniers versets de la Baqara"
+      ],
+      "expl": "Le dhikr n'a ni lieu ni horaire : il accompagne la vie. Quelques minutes bien réparties suffisent à garder le cœur vivant."
+    },
+    {
+      "id": "spi-t2-0044",
+      "concept": "spi.vertus.husn-zann",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit Allah dans le hadith qudsī : « Je suis tel que Mon serviteur pense de Moi » ?",
+      "choices": [
+        "Avoir une bonne opinion d'Allah",
+        "Allah ignore ce que l'on pense",
+        "Il faut avoir peur sans espoir",
+        "Seuls les actes comptent, pas le cœur"
+      ],
+      "answer": 0,
+      "expl": "« Je suis tel que Mon serviteur pense de Moi, et Je suis avec lui quand il se souvient de Moi » (Bukhari et Muslim). Le Prophète ﷺ dit aussi : « Que nul ne meure sans avoir une bonne opinion d'Allah » (Muslim).",
+      "src": [
+        "Bukhari et Muslim ; Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0045",
+      "concept": "spi.vertus.shukr-niveaux",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon les savants, par quoi remercie-t-on Allah ?",
+      "choices": [
+        "Par l'argent seulement",
+        "Par le cœur, la langue et les membres",
+        "Par le silence total",
+        "Par des voyages lointains vers les lieux saints"
+      ],
+      "answer": 1,
+      "expl": "« Œuvrez, famille de Dāwūd, en remerciement » (34:13). La gratitude n'est pas qu'un mot : utiliser ses yeux, ses mains, son argent pour ce qu'Allah aime est la forme la plus haute du shukr.",
+      "src": [
+        "Coran 34:13"
+      ]
+    },
+    {
+      "id": "spi-t2-0046",
+      "concept": "spi.vertus.muhasaba",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseillait ʿUmar ibn al-Khaṭṭāb à propos de l'examen de conscience ?",
+      "choices": [
+        "« Ne pensez jamais à vos fautes »",
+        "« Comptez votre argent chaque soir »",
+        "« Faites vos comptes avant qu'on ne les fasse »",
+        "« Laissez les autres vous juger »"
+      ],
+      "answer": 2,
+      "expl": "« Faites vos comptes avant qu'on ne les fasse pour vous, et pesez-vous avant qu'on ne vous pèse » (rapporté par at-Tirmidhī). La muḥāsaba, faire le point chaque soir, aide à progresser sans se juger durement."
+    },
+    {
+      "id": "spi-t2-0047",
+      "concept": "spi.vertus.muraqaba",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que désigne la « murāqaba » dans la spiritualité musulmane ?",
+      "choices": [
+        "Surveiller les autres pour les corriger",
+        "Observer les étoiles",
+        "Garder sa maison",
+        "Se savoir constamment vu par Allah"
+      ],
+      "answer": 3,
+      "expl": "C'est vivre l'iḥsān : « adorer Allah comme si tu Le voyais, car si tu ne Le vois pas, Lui te voit » (Muslim). Cette conscience protège du péché et apporte une présence douce.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0048",
+      "concept": "spi.maladies-coeur.long-espoir",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelles deux choses, selon le hadith, rajeunissent dans le cœur de l'homme même quand il vieillit ?",
+      "choices": [
+        "L'amour de la richesse et le long espoir",
+        "L'amour des enfants et des voyages",
+        "La force du corps et la beauté",
+        "La mémoire et la vue"
+      ],
+      "answer": 0,
+      "expl": "« Le fils d'Ādam vieillit, et deux choses grandissent en lui : l'amour de la richesse et le long espoir » (Bukhari et Muslim). Croire qu'on a toujours le temps fait remettre le repentir et le bien à plus tard.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "spi-t2-0049",
+      "concept": "spi.amour.allah-aime",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui Allah aime-t-Il, selon le verset 2:222 ?",
+      "choices": [
+        "Ceux qui sont riches et puissants",
+        "Ceux qui se repentent et se purifient",
+        "Ceux qui sont beaux et forts",
+        "Ceux qui ne se trompent jamais"
+      ],
+      "answer": 1,
+      "expl": "« Allah aime ceux qui se repentent, et Il aime ceux qui se purifient » (2:222). Le Coran nomme aussi ceux qu'Allah aime : les bienfaisants, les patients, ceux qui Lui font confiance, les équitables, les pieux.",
+      "src": [
+        "Coran 2:222"
+      ]
+    },
+    {
+      "id": "spi-t2-0050",
+      "concept": "spi.intention.intention-nuit",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que gagne celui qui se couche avec l'intention de se lever pour prier la nuit, mais que le sommeil emporte ?",
+      "choices": [
+        "Rien, car il n'a pas prié",
+        "Un péché pour avoir dormi",
+        "La récompense voulue, et son sommeil est une aumône",
+        "La moitié de la récompense seulement, et rien pour son sommeil"
+      ],
+      "answer": 2,
+      "expl": "« Celui qui va au lit avec l'intention de se lever pour prier la nuit, et que le sommeil emporte jusqu'au matin, se voit inscrire ce qu'il avait l'intention de faire, et son sommeil est une aumône que lui fait son Seigneur » (an-Nasāʾī ; Ibn Mājah).",
+      "src": [
+        "an-Nasāʾī ; Ibn Mājah"
+      ]
+    },
+    {
+      "id": "spi-t2-0051",
+      "concept": "spi.dhikr.coran-meilleur",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon les savants, quel est le meilleur des dhikr ?",
+      "choices": [
+        "Les poèmes religieux",
+        "Les chants des fêtes",
+        "Les contes des anciens",
+        "La récitation du Coran"
+      ],
+      "answer": 3,
+      "expl": "Le Coran est la Parole d'Allah : sa récitation est le dhikr par excellence. Parmi les formules, le Prophète ﷺ dit : « Le meilleur dhikr est lā ilāha illā llāh » (Tirmidhi). Chacun peut alterner selon son état.",
+      "src": [
+        "Tirmidhi"
+      ]
+    },
+    {
+      "id": "spi-t2-0052",
+      "concept": "spi.tasawwuf.adab",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment beaucoup de maîtres définissaient-ils le soufisme ?",
+      "choices": [
+        "Comme le bon comportement envers Allah et les créatures",
+        "Comme une façon de fuir toute obligation",
+        "Comme un ensemble de pouvoirs magiques",
+        "Comme une religion séparée de l'islam"
+      ],
+      "answer": 0,
+      "expl": "« Le soufisme, c'est tout entier adab », disaient plusieurs maîtres. Ou encore : « Le soufisme, c'est le bon caractère ; celui qui te surpasse en caractère te surpasse en soufisme. » Une spiritualité qui se voit dans les actes."
+    },
+    {
+      "id": "spi-t2-0053",
+      "concept": "spi.tasawwuf.khalwa",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle retraite spirituelle (khalwa) le Prophète ﷺ pratiquait-il avant la révélation ?",
+      "choices": [
+        "Un long voyage en Syrie",
+        "Des nuits de méditation à Ḥirāʾ",
+        "Un jeûne de quarante jours",
+        "Une retraite dans la Kaʿba"
+      ],
+      "answer": 1,
+      "expl": "« La solitude lui devint chère : il se retirait dans la grotte de Ḥirāʾ, où il s'adonnait à l'adoration plusieurs nuits » (Bukhari). L'iʿtikāf des dix dernières nuits du Ramadan perpétue cette retraite.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "spi-t2-0054",
+      "concept": "spi.vertus.fiche-vertus",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Les vertus du cœur",
+      "points": [
+        "Tawba : revenir à Allah, encore et encore",
+        "Ṣabr : tenir bon dans l'épreuve et l'obéissance",
+        "Shukr : reconnaître et bien utiliser les bienfaits",
+        "Tawakkul : agir, puis s'en remettre à Allah",
+        "Riḍā : être content de ce qu'Allah décrète",
+        "Ḥusn aẓ-ẓann : avoir une belle opinion d'Allah"
+      ],
+      "expl": "Les maîtres spirituels décrivent les vertus comme des étapes qu'on ne franchit jamais une fois pour toutes, mais qu'on cultive chaque jour."
+    },
+    {
+      "id": "spi-t2-0055",
+      "concept": "spi.repentir.quotidien",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Le repentir est-il seulement pour les grands péchés ?",
+      "choices": [
+        "Oui, uniquement pour les grands",
+        "Non, il n'existe pas en islam",
+        "Oui, et une seule fois dans la vie",
+        "Non : on revient vers Allah chaque jour"
+      ],
+      "answer": 3,
+      "expl": "« Ô croyants, repentez-vous tous à Allah, afin que vous réussissiez » (24:31). Le Prophète ﷺ se repentait cent fois par jour (Muslim). La tawba est une respiration de l'âme, pas un événement exceptionnel.",
+      "src": [
+        "Coran 24:31 ; Muslim"
+      ]
+    }
+  ]
+}

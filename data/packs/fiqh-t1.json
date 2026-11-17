@@ -1,0 +1,984 @@
+{
+  "pack": "fiqh-t1",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "fiq-t1-0001",
+      "concept": "fiq.statuts.echelle",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Range les cinq statuts des actes, du plus demandé au plus interdit.",
+      "items": [
+        "Obligatoire (farḍ / wājib)",
+        "Recommandé (mandūb / sunna)",
+        "Permis (mubāḥ)",
+        "Déconseillé (makrūh)",
+        "Interdit (ḥarām)"
+      ],
+      "expl": "Tout acte entre dans l'une de ces cinq cases. L'obligatoire est récompensé et son abandon est un péché ; le recommandé est récompensé sans que son abandon soit un péché ; le permis est neutre ; s'abstenir du déconseillé est récompensé ; l'interdit est un péché, et s'en abstenir pour Allah est récompensé.",
+      "src": [
+        "Ibn Abī Zayd al-Qayrawānī, ar-Risāla"
+      ],
+      "extra": "La grande majorité des choses de la vie sont simplement permises : le principe de base, pour les choses ordinaires, est la permission."
+    },
+    {
+      "id": "fiq-t1-0002",
+      "concept": "fiq.ecoles.maroc-maliki",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle école juridique (madhhab) est suivie au Maroc ?",
+      "choices": [
+        "L'école malikite",
+        "L'école hanafite",
+        "L'école shafi'ite",
+        "L'école hanbalite"
+      ],
+      "answer": 0,
+      "expl": "Le Maroc, comme toute l'Afrique du Nord et de l'Ouest, suit l'école de l'imam Mālik ibn Anas, l'imam de Médine. Les quatre écoles sunnites sont toutes reconnues : elles s'accordent sur l'essentiel et diffèrent sur des détails, par exemple la position des bras dans la prière.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ],
+      "note": "Les hanafites sont majoritaires en Turquie et en Asie du Sud, les shafi'ites en Égypte, en Indonésie et en Afrique de l'Est, les hanbalites dans la péninsule Arabique."
+    },
+    {
+      "id": "fiq-t1-0003",
+      "concept": "fiq.halal-haram.interdits-alimentaires",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquels sont interdits (ḥarām) à la consommation ?",
+      "choices": [
+        "La viande de porc",
+        "Le vin et toute boisson enivrante",
+        "Le poisson",
+        "Le sang qui s'écoule",
+        "Le pain"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Le Coran interdit la bête morte (non égorgée), le sang qui s'écoule, la viande de porc et ce qui est sacrifié à autre qu'Allah. Il interdit aussi le vin, et le Prophète ﷺ a précisé : « Tout ce qui enivre est ḥarām. » Les produits de la mer sont permis.",
+      "src": [
+        "Coran 5:3",
+        "Coran 5:90",
+        "Hadith d'Ibn ʿUmar — Muslim"
+      ],
+      "note": "Chez les malikites, presque tout ce qui vit dans la mer est permis ; les hanafites limitent la permission aux poissons proprement dits."
+    },
+    {
+      "id": "fiq-t1-0004",
+      "concept": "fiq.sources.deux-premieres",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelles sont les deux sources premières de l'islam ?",
+      "choices": [
+        "Le Coran et la Sunna",
+        "Le Coran et la Torah",
+        "Les avis des savants et la coutume",
+        "La Sunna et le consensus"
+      ],
+      "answer": 0,
+      "expl": "Le Coran, parole d'Allah, et la Sunna, l'exemple du Prophète ﷺ, sont les deux sources révélées. Les savants en tirent ensuite d'autres outils : le consensus (ijmāʿ) et le raisonnement par analogie (qiyās). L'école malikite ajoute la pratique des gens de Médine (ʿamal ahl al-Madīna).",
+      "src": [
+        "Coran 4:59",
+        "Ibn Abī Zayd al-Qayrawānī, ar-Risāla"
+      ]
+    },
+    {
+      "id": "fiq-t1-0005",
+      "concept": "fiq.maliki.imam-malik-medine",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 1,
+      "type": "vf",
+      "q": "L'imam Mālik, fondateur de l'école malikite, a vécu toute sa vie à Médine.",
+      "answer": true,
+      "expl": "Mālik ibn Anas (711-795 environ) est né, a vécu et est mort à Médine, la ville du Prophète ﷺ ; il n'en sortait que pour le pèlerinage. C'est pour cela qu'il donnait tant de poids à la pratique des Médinois, héritée des compagnons. Son livre, al-Muwaṭṭaʾ, est l'un des premiers recueils de hadiths et de fiqh.",
+      "src": [
+        "Al-Qāḍī ʿIyāḍ, Tartīb al-madārik"
+      ],
+      "extra": "Par respect pour le Prophète ﷺ, on raconte que Mālik ne montait jamais à cheval dans Médine, la terre où il était enterré."
+    },
+    {
+      "id": "fiq-t1-0006",
+      "concept": "fiq.statuts.exemples",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque acte à son statut le plus courant.",
+      "pairs": [
+        [
+          "Les cinq prières quotidiennes",
+          "Obligatoire (farḍ)"
+        ],
+        [
+          "La prière du witr",
+          "Sunna très recommandée"
+        ],
+        [
+          "Manger une pomme",
+          "Permis (mubāḥ)"
+        ],
+        [
+          "Manger de l'ail cru juste avant d'aller à la mosquée",
+          "Déconseillé (makrūh)"
+        ],
+        [
+          "Boire du vin",
+          "Interdit (ḥarām)"
+        ]
+      ],
+      "expl": "Chaque acte a un statut. Le Prophète ﷺ a demandé à celui qui a mangé de l'ail ou de l'oignon cru de ne pas s'approcher de la mosquée, pour ne pas gêner les fidèles : c'est déconseillé, non interdit. La grande majorité des actes de la vie sont simplement permis.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t1-0007",
+      "concept": "fiq.statuts.recompense-sunna",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que se passe-t-il pour celui qui délaisse une sunna, comme les prières surérogatoires ?",
+      "choices": [
+        "Un péché grave, à expier",
+        "Sa prière obligatoire est annulée",
+        "Pas de péché, mais une récompense manquée",
+        "Il doit jeûner un jour pour réparer"
+      ],
+      "answer": 2,
+      "expl": "La sunna (ou mandūb) est récompensée quand on la fait, sans péché quand on la laisse. L'obligation (farḍ), elle, est récompensée quand on la fait et entraîne un péché quand on la délaisse sans excuse. Les sunnas protègent et complètent les obligations."
+    },
+    {
+      "id": "fiq-t1-0008",
+      "concept": "fiq.statuts.makruh",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie qu'un acte est « makrūh » (déconseillé) ?",
+      "choices": [
+        "Interdit, avec un péché si on le fait",
+        "Obligatoire, avec un péché si on le laisse",
+        "Sans aucune importance dans la religion",
+        "Récompensé si on l'évite, sans péché sinon"
+      ],
+      "answer": 3,
+      "expl": "Le makrūh est un acte qu'il vaut mieux éviter : celui qui s'en abstient pour Allah est récompensé, celui qui le fait ne commet pas de péché. C'est le pendant de la sunna. Exemple : gaspiller l'eau dans les ablutions."
+    },
+    {
+      "id": "fiq-t1-0009",
+      "concept": "fiq.statuts.mubah-intention",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 1,
+      "type": "vf",
+      "q": "Un acte permis (mubāḥ), comme dormir ou manger, peut devenir récompensé grâce à une bonne intention.",
+      "answer": true,
+      "expl": "Oui : dormir pour avoir la force de prier, manger pour être en bonne santé, travailler pour nourrir sa famille deviennent des actes récompensés. Le Prophète ﷺ a dit que même la bouchée qu'on met dans la bouche de son épouse est une aumône.",
+      "src": [
+        "Hadith de Saʿd ibn Abī Waqqāṣ — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t1-0010",
+      "concept": "fiq.sources.sunna-explique",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le nombre de rak'at de chaque prière n'est pas indiqué dans le Coran : il est connu par la Sunna.",
+      "answer": true,
+      "expl": "Le Coran ordonne la prière, la zakat et le pèlerinage ; la Sunna en détaille la pratique. Le Prophète ﷺ a dit : « Priez comme vous m'avez vu prier. » C'est pourquoi on ne peut pas pratiquer l'islam avec le seul Coran, sans la Sunna.",
+      "src": [
+        "Hadith de Mālik ibn al-Ḥuwayrith — Bukhari",
+        "Coran 16:44"
+      ]
+    },
+    {
+      "id": "fiq-t1-0011",
+      "concept": "fiq.sources.ordre",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre les quatre sources principales du fiqh, de la première à la dernière.",
+      "items": [
+        "Le Coran",
+        "La Sunna",
+        "Le consensus des savants (ijmāʿ)",
+        "Le raisonnement par analogie (qiyās)"
+      ],
+      "expl": "On cherche d'abord dans le Coran, puis dans la Sunna, puis dans le consensus des savants, enfin on raisonne par analogie à partir d'un cas connu. Les malikites y ajoutent notamment la pratique des gens de Médine (ʿamal ahl al-Madīna) et l'intérêt général (maṣlaḥa)."
+    },
+    {
+      "id": "fiq-t1-0012",
+      "concept": "fiq.sources.qiyas",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que le qiyās en fiqh ?",
+      "choices": [
+        "Appliquer à un cas nouveau la règle d'un cas semblable",
+        "Suivre l'avis du savant le plus âgé",
+        "Faire voter les savants et suivre la majorité",
+        "Ne rien décider sans un verset exact"
+      ],
+      "answer": 0,
+      "expl": "Exemple classique : le Coran interdit le vin parce qu'il enivre ; toute boisson ou drogue qui enivre prend donc le même statut. Le qiyās (qi-yâs) permet d'apporter des réponses aux situations que les textes ne nomment pas.",
+      "ar": {
+        "text": "الْقِيَاس",
+        "tr": "al-qiyās",
+        "pr": "al-qi-yâs",
+        "fr": "l'analogie"
+      }
+    },
+    {
+      "id": "fiq-t1-0013",
+      "concept": "fiq.ecoles.pays",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque école à une région où elle est majoritaire.",
+      "pairs": [
+        [
+          "Malikite",
+          "Maroc et Afrique du Nord et de l'Ouest"
+        ],
+        [
+          "Hanafite",
+          "Turquie et sous-continent indien"
+        ],
+        [
+          "Chaféite",
+          "Indonésie et Malaisie"
+        ],
+        [
+          "Hanbalite",
+          "Arabie saoudite"
+        ]
+      ],
+      "expl": "Les quatre écoles sunnites se sont répandues selon l'histoire : les malikites au Maghreb et en Andalousie, les hanafites sous les Ottomans et en Asie, les chaféites dans l'océan Indien, les hanbalites en Arabie. En France, on trouve toutes les écoles."
+    },
+    {
+      "id": "fiq-t1-0014",
+      "concept": "fiq.ecoles.toutes-valables",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les quatre écoles juridiques sunnites sont toutes considérées comme valables.",
+      "answer": true,
+      "expl": "Oui : leurs divergences portent sur des détails de pratique, pas sur les fondements de la foi. Les imams se respectaient mutuellement. Suivre l'école de son pays, comme l'école malikite au Maroc, apporte cohérence et stabilité."
+    },
+    {
+      "id": "fiq-t1-0015",
+      "concept": "fiq.ecoles.quatre",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien y a-t-il de grandes écoles juridiques (madhhab) sunnites ?",
+      "answer": 4,
+      "expl": "Quatre : hanafite, malikite, chaféite et hanbalite, du nom de leurs fondateurs Abū Ḥanīfa, Mālik, ash-Shāfiʿī et Aḥmad ibn Ḥanbal. D'autres écoles ont existé, mais n'ont pas survécu durablement."
+    },
+    {
+      "id": "fiq-t1-0016",
+      "concept": "fiq.maliki.muwatta-imposer",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le récit célèbre, que répondit l'imam Mālik quand le calife voulut imposer son Muwaṭṭaʾ à tout l'empire ?",
+      "choices": [
+        "Il brûla son livre",
+        "Il refusa, car les Compagnons s'étaient dispersés et chaque région avait reçu une partie du savoir",
+        "Il accepta avec joie",
+        "Il demanda une récompense"
+      ],
+      "answer": 1,
+      "expl": "Mālik expliqua que les Compagnons étaient partis dans différentes régions avec leur savoir, et que chaque peuple avait ses pratiques fondées. Cette humilité face à la diversité est une belle leçon de tolérance entre écoles.",
+      "retired": true
+    },
+    {
+      "id": "fiq-t1-0017",
+      "concept": "fiq.maliki.amal",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 1,
+      "type": "vf",
+      "q": "L'école malikite accorde une grande importance à la pratique des habitants de Médine (ʿamal ahl al-Madīna).",
+      "answer": true,
+      "expl": "Pour Mālik, ce que les gens de Médine pratiquaient collectivement, de génération en génération depuis les Compagnons, est une transmission vivante de la Sunna, parfois plus forte qu'un hadith isolé. C'est une particularité de l'école."
+    },
+    {
+      "id": "fiq-t1-0018",
+      "concept": "fiq.halal-haram.dhabiha",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment se fait l'égorgement rituel (dhabīḥa) d'un animal ?",
+      "choices": [
+        "En assommant l'animal sans rien dire",
+        "En le laissant mourir de faim",
+        "Au nom d'Allah, en tranchant la gorge",
+        "Par électrocution, sans prière"
+      ],
+      "answer": 2,
+      "expl": "On prononce « bismillāh, Allāhu akbar », puis on tranche d'un coup net la trachée et l'œsophage, ainsi que les veines jugulaires, avec une lame bien aiguisée, pour que le sang s'écoule. On évite de faire souffrir l'animal. Un animal mort étouffé ou non égorgé est interdit.",
+      "src": [
+        "Coran 5:3",
+        "Coran 6:121"
+      ]
+    },
+    {
+      "id": "fiq-t1-0019",
+      "concept": "fiq.halal-haram.gens-livre",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit le Coran de la nourriture des gens du Livre (juifs et chrétiens) ?",
+      "choices": [
+        "Elle est interdite",
+        "Elle n'est permise qu'en voyage",
+        "Le Coran n'en parle pas",
+        "Elle est permise aux musulmans"
+      ],
+      "answer": 3,
+      "expl": "« La nourriture de ceux à qui le Livre a été donné vous est permise. » Les savants discutent de l'application aujourd'hui : beaucoup exigent que l'animal soit réellement égorgé et non tué par électrocution ou par balle, ce qui n'est pas le cas de la plupart des viandes industrielles en Europe.",
+      "src": [
+        "Coran 5:5"
+      ],
+      "note": "Les avis contemporains divergent sur la viande vendue en Europe ; beaucoup recommandent de choisir une viande certifiée halal.",
+      "tags": [
+        "sourate:5"
+      ]
+    },
+    {
+      "id": "fiq-t1-0020",
+      "concept": "fiq.halal-haram.mer",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon l'école malikite, tous les animaux marins (poissons, crevettes, calamars…) sont licites.",
+      "answer": true,
+      "expl": "Oui : les malikites s'appuient sur le verset « La chasse en mer vous est permise » et sur le hadith sur l'eau de mer et ses animaux morts. Pas besoin d'égorgement pour eux. Les hanafites, eux, n'autorisent que les poissons.",
+      "src": [
+        "Coran 5:96",
+        "Hadith d'Abū Hurayra — Abu Dawud & Tirmidhi"
+      ],
+      "note": "Pour les hanafites, seuls les poissons sont licites parmi les animaux marins."
+    },
+    {
+      "id": "fiq-t1-0021",
+      "concept": "fiq.halal-haram.gelatine",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que disent la plupart des savants de la gélatine de porc dans les bonbons ?",
+      "choices": [
+        "À éviter ; bœuf halal ou poisson permis",
+        "Elle est permise sans aucun problème",
+        "Elle est obligatoire pour les enfants",
+        "Toute gélatine est interdite"
+      ],
+      "answer": 0,
+      "expl": "La majorité des savants considèrent la gélatine de porc comme interdite. Certains estiment qu'une transformation chimique complète (istiḥāla) change son statut, mais la prudence est de l'éviter. On trouve facilement des bonbons à la gélatine halal, végétale ou de poisson.",
+      "note": "L'avis de la transformation totale (istiḥāla) est soutenu par certains savants, notamment hanafites ; la majorité reste prudente."
+    },
+    {
+      "id": "fiq-t1-0022",
+      "concept": "fiq.halal-haram.alcool-cuisine",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon l'école malikite et la majorité, peut-on cuisiner un plat avec du vin, même si l'alcool s'évapore à la cuisson ?",
+      "choices": [
+        "Oui, pendant les fêtes",
+        "Non, c'est interdit",
+        "Oui, si l'alcool s'évapore",
+        "Oui, seulement pour les sauces"
+      ],
+      "answer": 1,
+      "expl": "Le vin (khamr) est interdit et, pour les malikites, impur : l'ajouter à un plat le rend illicite, qu'il s'évapore ou non. On peut le remplacer par du bouillon, du jus de raisin ou du vinaigre (le vinaigre de vin, transformé, est permis).",
+      "src": [
+        "Coran 5:90"
+      ]
+    },
+    {
+      "id": "fiq-t1-0023",
+      "concept": "fiq.finance.riba",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Allah a rendu licite le commerce et illicite le ___ » (l'intérêt usuraire).",
+      "choices": [
+        "prêt gratuit",
+        "don",
+        "ribā",
+        "partage"
+      ],
+      "answer": 2,
+      "expl": "Le ribā (ri-bâ) désigne l'intérêt exigé sur un prêt d'argent. Le Coran l'interdit fortement, alors qu'il encourage le commerce, où l'on partage le risque. Le prêt gratuit (qarḍ ḥasan), lui, est très récompensé.",
+      "src": [
+        "Coran 2:275"
+      ],
+      "ar": {
+        "text": "الرِّبَا",
+        "tr": "ar-ribā",
+        "pr": "ar-ri-bâ",
+        "fr": "l'usure, l'intérêt"
+      },
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "fiq-t1-0024",
+      "concept": "fiq.finance.maysir",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'interdit le Coran avec le mot « maysir » ?",
+      "choices": [
+        "Le commerce",
+        "Le prêt entre amis",
+        "Le jeu d'échecs entre enfants",
+        "Les jeux de hasard et d'argent"
+      ],
+      "answer": 3,
+      "expl": "« Le vin, les jeux de hasard (maysir), les pierres dressées et les flèches divinatoires ne sont qu'une souillure, œuvre du Shayṭān : écartez-vous-en. » Les jeux d'argent (casino, paris, loto) créent hostilité et dépendance, et enrichissent sans travail aux dépens des autres.",
+      "src": [
+        "Coran 5:90-91"
+      ],
+      "tags": [
+        "sourate:5"
+      ]
+    },
+    {
+      "id": "fiq-t1-0025",
+      "concept": "fiq.mariage.conditions",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquels sont des éléments du mariage selon l'école malikite ?",
+      "choices": [
+        "Le tuteur (walī) de la femme",
+        "La dot (ṣadāq) versée à l'épouse",
+        "Une grande fête obligatoire",
+        "Des témoins",
+        "Le consentement des époux",
+        "Un contrat signé à la mosquée uniquement"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Pour les malikites, le mariage requiert le tuteur de la femme, la dot, la formule d'accord des deux parties, et des témoins (au plus tard avant la consommation). La fête (walīma) est une sunna, non une condition. Au Maroc, l'acte est aussi établi par des adouls.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ],
+      "note": "Les hanafites ne considèrent pas le tuteur comme une condition pour la femme majeure."
+    },
+    {
+      "id": "fiq-t1-0026",
+      "concept": "fiq.mariage.consentement",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le hadith, une femme ne peut être mariée sans son consentement.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ a dit : la femme déjà mariée ne se remarie qu'après avoir été consultée, et la jeune fille qu'avec sa permission. Une jeune femme vint se plaindre d'avoir été mariée contre son gré ; le Prophète ﷺ lui laissa le choix d'annuler le mariage.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t1-0027",
+      "concept": "fiq.mariage.dot",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 1,
+      "type": "qcm",
+      "q": "À qui appartient la dot (ṣadāq) dans le mariage musulman ?",
+      "choices": [
+        "À l'épouse elle-même",
+        "Au père de l'épouse",
+        "Aux deux familles",
+        "À la mosquée"
+      ],
+      "answer": 0,
+      "expl": "« Et donnez aux épouses leur dot, de bonne grâce. » La dot appartient à l'épouse seule ; ni son père ni son mari ne peuvent la prendre sans son accord. Elle peut être modeste : le Prophète ﷺ a dit que le mariage le plus béni est le moins coûteux.",
+      "src": [
+        "Coran 4:4"
+      ],
+      "ar": {
+        "text": "الصَّدَاق",
+        "tr": "aṣ-ṣadāq",
+        "pr": "as-sa-dâq",
+        "fr": "la dot"
+      },
+      "tags": [
+        "sourate:4"
+      ]
+    },
+    {
+      "id": "fiq-t1-0028",
+      "concept": "fiq.mariage.walima",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que la walīma ?",
+      "choices": [
+        "La dot versée à la mariée",
+        "Le repas offert pour le mariage",
+        "Le contrat signé devant l'imam",
+        "La fête du septième jour"
+      ],
+      "answer": 1,
+      "expl": "La walīma (wa-lî-ma) est le repas de noces. Le Prophète ﷺ dit à ʿAbd ar-Raḥmān ibn ʿAwf : « Offre un repas, ne serait-ce qu'avec un mouton. » Elle annonce le mariage publiquement et partage la joie, sans besoin de luxe.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t1-0029",
+      "concept": "fiq.statuts.fiche-cinq",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les 5 statuts des actes",
+      "points": [
+        "Farḍ / wājib (obligatoire) : récompensé, et le délaisser est un péché",
+        "Mandūb / sunna (recommandé) : récompensé, pas de péché si on le laisse",
+        "Mubāḥ (permis) : neutre",
+        "Makrūh (déconseillé) : mieux vaut l'éviter",
+        "Ḥarām (interdit) : péché si on le fait, récompense si on s'en abstient pour Allah"
+      ],
+      "expl": "En islam, chaque acte a un statut. Les connaître aide à savoir ce qui est obligatoire et ce qui est simplement bien ou à éviter."
+    },
+    {
+      "id": "fiq-t1-0030",
+      "concept": "fiq.sources.fiche-sources",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les sources de la loi islamique",
+      "points": [
+        "1. Le Coran, parole d'Allah",
+        "2. La Sunna, la voie du Prophète ﷺ",
+        "3. L'ijmāʿ : le consensus des savants",
+        "4. Le qiyās : le raisonnement par analogie",
+        "Pour Mālik : aussi la pratique des gens de Médine (ʿamal)"
+      ],
+      "expl": "Le fiqh, c'est la compréhension des règles pratiques. Les savants les tirent de sources classées par ordre d'importance."
+    },
+    {
+      "id": "fiq-t1-0031",
+      "concept": "fiq.ecoles.fiche-maliki",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 1,
+      "type": "fiche",
+      "q": "L'école malikite, celle du Maroc",
+      "points": [
+        "Prière bras le long du corps (sadl), comme beaucoup de Marocains",
+        "Ablutions : frotter les membres (dalk)",
+        "Les livres de base au Maroc : le Muwaṭṭaʾ, la Risāla, Ibn ʿĀshir",
+        "Le Maroc suit Mālik depuis plus de mille ans"
+      ],
+      "expl": "L'école de l'imam Mālik est suivie au Maghreb, en Afrique de l'Ouest et longtemps en al-Andalus. Elle donne une grande place à la pratique de Médine et à l'intérêt général. Les autres écoles sont aussi valables."
+    },
+    {
+      "id": "fiq-t1-0032",
+      "concept": "fiq.halal-haram.fiche-interdits",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les grands interdits alimentaires",
+      "points": [
+        "La viande de porc",
+        "L'animal mort sans abattage (charogne) et le sang",
+        "Ce qui est sacrifié pour autre qu'Allah",
+        "L'alcool et tout ce qui enivre",
+        "En cas de nécessité vitale, ce qui est interdit devient permis"
+      ],
+      "expl": "Le principe : tout est permis sauf ce qu'Allah a interdit. La liste des interdits est courte et claire.",
+      "src": [
+        "Coran 5:3",
+        "Coran 5:90",
+        "Coran 2:173"
+      ]
+    },
+    {
+      "id": "fiq-t1-0033",
+      "concept": "fiq.principes.fiche-facilite",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Cinq grandes règles du fiqh",
+      "points": [
+        "Les actes valent par les intentions",
+        "La certitude n'est pas levée par le doute",
+        "La difficulté appelle la facilité",
+        "Le mal doit être écarté",
+        "La coutume (ʿurf) est prise en compte"
+      ],
+      "expl": "Les savants ont résumé l'esprit du fiqh en quelques grandes règles. Elles montrent que la religion est miséricorde.",
+      "src": [
+        "Coran 2:185"
+      ]
+    },
+    {
+      "id": "fiq-t1-0034",
+      "concept": "fiq.statuts.priere-fard",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel est le statut des cinq prières quotidiennes ?",
+      "choices": [
+        "Recommandé",
+        "Obligatoire",
+        "Facultatif",
+        "Déconseillé"
+      ],
+      "answer": 1,
+      "expl": "Les cinq prières sont le deuxième pilier de l'islam, obligatoires pour tout musulman pubère et sain d'esprit. Les rakʿa supplémentaires (rawātib, witr) sont recommandées."
+    },
+    {
+      "id": "fiq-t1-0035",
+      "concept": "fiq.statuts.siwak",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Utiliser le siwāk (bâtonnet pour les dents) avant la prière est…",
+      "choices": [
+        "Obligatoire",
+        "Interdit",
+        "Recommandé",
+        "Déconseillé"
+      ],
+      "answer": 2,
+      "expl": "« Si je ne craignais pas de faire peser une charge sur ma communauté, je leur aurais ordonné le siwāk avant chaque prière. » Il est donc fortement recommandé, pas obligatoire.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t1-0036",
+      "concept": "fiq.statuts.taklif",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les obligations religieuses commencent à la puberté.",
+      "answer": true,
+      "expl": "On devient mukallaf (responsable) à la puberté, si l'on est sain d'esprit. Avant, on habitue l'enfant : le Prophète ﷺ conseillait de lui apprendre la prière dès 7 ans.",
+      "src": [
+        "Hadith d'ʿAmr ibn Shuʿayb — Abu Dawud"
+      ]
+    },
+    {
+      "id": "fiq-t1-0037",
+      "concept": "fiq.halal-haram.base-permis",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est la règle de base pour la nourriture et les choses du quotidien ?",
+      "choices": [
+        "Tout est interdit, sauf le permis clair",
+        "Il faut demander pour chaque chose",
+        "Seule la nourriture arabe est permise",
+        "Tout est permis, sauf l'interdit clair"
+      ],
+      "answer": 3,
+      "expl": "Les savants disent : « Le principe pour les choses est la permission. » Pour l'adoration, c'est l'inverse : on ne fait que ce qui est enseigné."
+    },
+    {
+      "id": "fiq-t1-0038",
+      "concept": "fiq.halal-haram.clair-douteux",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "qcm",
+      "q": "« Le licite est clair et l'illicite est clair, et entre les deux il y a des choses douteuses… » Que conseille ce hadith ?",
+      "choices": [
+        "Éviter le douteux pour protéger sa religion",
+        "Tout essayer pour se faire un avis",
+        "Demander toujours au plus riche",
+        "Ne jamais manger hors de chez soi"
+      ],
+      "answer": 0,
+      "expl": "Celui qui évite le douteux préserve sa religion et son honneur. Ce hadith est l'un des fondements de l'islam.",
+      "src": [
+        "Hadith d'an-Nuʿmān ibn Bashīr — Bukhari & Muslim"
+      ],
+      "tags": [
+        "nawawi:6"
+      ]
+    },
+    {
+      "id": "fiq-t1-0039",
+      "concept": "fiq.halal-haram.bismillah-dhabiha",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit-on au moment de l'abattage rituel ?",
+      "choices": [
+        "« Āmīn »",
+        "« Bismillāh, Allāhu akbar »",
+        "« Astaghfiru Llāha l-ʿaẓīm »",
+        "« Subḥāna Llāh »"
+      ],
+      "answer": 1,
+      "expl": "On nomme Allah, on utilise un couteau bien aiguisé et on évite de faire souffrir l'animal. Le Prophète ﷺ disait : « Allah a prescrit l'excellence en toute chose. »",
+      "src": [
+        "Hadith de Shaddād ibn Aws — Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t1-0040",
+      "concept": "fiq.halal-haram.tabac",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que disent la plupart des savants contemporains du tabac ?",
+      "choices": [
+        "Recommandé pour la digestion",
+        "Permis sans aucune réserve, comme le thé",
+        "Interdit, ou au moins fortement déconseillé",
+        "Obligatoire lors des fêtes"
+      ],
+      "answer": 2,
+      "expl": "Le Coran dit : « Ne vous jetez pas de vos propres mains dans la destruction » (2:195). Face aux preuves médicales, la plupart des savants actuels l'interdisent.",
+      "src": [
+        "Coran 2:195"
+      ]
+    },
+    {
+      "id": "fiq-t1-0041",
+      "concept": "fiq.finance.riba-def",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que la ribā ?",
+      "choices": [
+        "Un don fait aux pauvres",
+        "Un impôt annuel payé au calife",
+        "Le partage d'un héritage",
+        "L'intérêt : rendre plus qu'emprunté"
+      ],
+      "answer": 3,
+      "expl": "« Allah a rendu licite le commerce et illicite la ribā » (2:275). C'est l'un des grands péchés. Pour les crédits en Europe, les savants donnent des avis différents selon la nécessité.",
+      "src": [
+        "Coran 2:275"
+      ]
+    },
+    {
+      "id": "fiq-t1-0042",
+      "concept": "fiq.mariage.temoins-maliki",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon les malikites, quels éléments sont nécessaires au mariage ?",
+      "choices": [
+        "Tuteur, dot, témoins et consentement",
+        "Une fête de sept jours obligatoire",
+        "L'accord écrit de l'imam du quartier",
+        "Un repas pour cent invités"
+      ],
+      "answer": 0,
+      "expl": "Le walī, la dot (ṣadāq), le consentement des deux époux et la formule de mariage, avec la publicité (deux témoins). Le Prophète ﷺ a dit : « Le meilleur mariage est le plus simple. »"
+    },
+    {
+      "id": "fiq-t1-0043",
+      "concept": "fiq.mariage.walima-sunna",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que la walīma ?",
+      "choices": [
+        "Le contrat",
+        "Le repas de noces offert pour célébrer le mariage",
+        "La dot",
+        "La lune de miel"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ dit à ʿAbd ar-Raḥmān ibn ʿAwf : « Fais une walīma, ne serait-ce qu'avec un mouton. » Répondre à l'invitation de noces est un devoir.",
+      "src": [
+        "Hadith d'Anas — Bukhari & Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fiq-t1-0044",
+      "concept": "fiq.heritage.coran-parts",
+      "domain": "fiqh",
+      "sub": "heritage",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Où sont fixées les parts d'héritage en islam ?",
+      "choices": [
+        "Dans la loi du pays",
+        "Chez le notaire",
+        "Dans le Coran",
+        "Dans la coutume"
+      ],
+      "answer": 2,
+      "expl": "Les versets 11, 12 et 176 de la sourate an-Nisāʾ fixent les parts. Le défunt peut léguer librement jusqu'à un tiers, mais pas à un héritier.",
+      "src": [
+        "Coran 4:11-12",
+        "Hadith de Saʿd ibn Abī Waqqāṣ — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t1-0045",
+      "concept": "fiq.principes.necessite",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 1,
+      "type": "qcm",
+      "q": "« La nécessité rend licite l'interdit. » Un exemple ?",
+      "choices": [
+        "Boire du vin pour fêter un mariage",
+        "Voler pour s'acheter des vêtements",
+        "Mentir pour gagner un procès",
+        "Manger du porc pour ne pas mourir de faim"
+      ],
+      "answer": 3,
+      "expl": "Le Coran le permet à celui qui y est contraint « sans désir ni excès » (2:173). On prend seulement ce qui est nécessaire.",
+      "src": [
+        "Coran 2:173"
+      ]
+    },
+    {
+      "id": "fiq-t1-0046",
+      "concept": "fiq.principes.doute-wudu",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Je suis sûr d'avoir fait mes ablutions, puis je doute de les avoir annulées. Quelle règle s'applique ?",
+      "choices": [
+        "Le doute ne lève pas la certitude : je reste pur",
+        "Je dois refaire mes ablutions à chaque doute",
+        "Je ne prie pas jusqu'à en être sûr",
+        "Je fais le ghusl complet par précaution"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ a dit de ne pas quitter la prière « tant qu'on n'entend pas un son ou qu'on ne sent pas une odeur ». Pour les malikites, la règle a des nuances dans la prière, mais le principe aide contre les doutes excessifs (waswās).",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn Zayd — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t1-0047",
+      "concept": "fiq.ecoles.divergence",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pourquoi les quatre écoles ont-elles parfois des avis différents ?",
+      "choices": [
+        "Ils se disputaient le pouvoir",
+        "Textes compris différemment, hadiths pas tous connus",
+        "Chaque école a son propre Coran, un peu différent",
+        "Ils ne lisaient pas les mêmes langues"
+      ],
+      "answer": 1,
+      "expl": "Les divergences portent sur des détails, pas sur les bases (tous prient 5 fois, jeûnent, etc.). Les imams se respectaient : ash-Shāfiʿī fut l'élève de Mālik, et Aḥmad celui d'ash-Shāfiʿī."
+    },
+    {
+      "id": "fiq-t1-0048",
+      "concept": "fiq.maliki.risala",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel petit livre de fiqh malikite, écrit à Kairouan, a été étudié pendant des siècles au Maroc ?",
+      "choices": [
+        "Le Muwaṭṭaʾ de Mālik",
+        "Le Mukhtaṣar de Khalīl",
+        "La Risāla d'Ibn Abī Zayd",
+        "Le Ṣaḥīḥ d'al-Bukhārī"
+      ],
+      "answer": 2,
+      "expl": "Ibn Abī Zayd (m. 996), surnommé « le petit Mālik », a résumé l'essentiel du fiqh malikite. Avec le poème d'Ibn ʿĀshir, c'est une base de l'enseignement traditionnel au Maroc."
+    },
+    {
+      "id": "fiq-t1-0049",
+      "concept": "fiq.maliki.sadl",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Pourquoi beaucoup de Marocains prient-ils les bras le long du corps ?",
+      "choices": [
+        "C'est une coutume amazighe sans lien religieux",
+        "C'est une obligation pour toutes les écoles",
+        "C'est une pratique réservée aux imams",
+        "C'est la position retenue par les malikites"
+      ],
+      "answer": 3,
+      "expl": "L'imam Mālik a rapporté des deux pratiques ; les malikites ont retenu le sadl dans les prières obligatoires. D'autres écoles placent la main droite sur la gauche. Les deux sont légitimes."
+    },
+    {
+      "id": "fiq-t1-0050",
+      "concept": "fiq.sources.ijma",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que l'ijmāʿ ?",
+      "choices": [
+        "Un impôt sur les terres",
+        "Une prière collective",
+        "Le consensus des savants",
+        "Le Coran lui-même"
+      ],
+      "answer": 2,
+      "expl": "Par exemple, il y a consensus sur le fait que les prières obligatoires sont cinq. Le Prophète ﷺ a dit que sa communauté ne s'accorderait pas sur une erreur.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Tirmidhi"
+      ]
+    }
+  ]
+}

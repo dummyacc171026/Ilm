@@ -1,0 +1,2594 @@
+{
+  "pack": "coran-t1",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "cor-t1-0001",
+      "concept": "cor.structure.nb-sourates",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de sourates compte le Coran ?",
+      "answer": 114,
+      "expl": "Le Coran compte 114 sourates (chapitres), de longueurs très différentes : la plus longue, al-Baqara, a 286 versets, et la plus courte, al-Kawthar, n'en a que 3. Il est aussi divisé en 30 parties (juz') pour faciliter la lecture, par exemple une partie par jour pendant Ramadan.",
+      "src": [
+        "Coran 2",
+        "Coran 108"
+      ]
+    },
+    {
+      "id": "cor-t1-0002",
+      "concept": "cor.bases.langue",
+      "domain": "coran",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "En quelle langue le Coran a-t-il été révélé ?",
+      "choices": [
+        "En arabe",
+        "En araméen",
+        "En hébreu",
+        "En persan"
+      ],
+      "answer": 0,
+      "expl": "Allah dit : « Nous l'avons fait descendre, un Coran en arabe, afin que vous raisonniez. » Les traductions aident à comprendre le sens, mais seul le texte arabe est le Coran lui-même : c'est pourquoi on parle de « traduction du sens ».",
+      "src": [
+        "Coran 12:2"
+      ],
+      "ar": {
+        "text": "قُرْآنًا عَرَبِيًّا",
+        "tr": "qurʾānan ʿarabiyyan",
+        "fr": "un Coran en arabe",
+        "pr": "qour-ʾâ-nan ʿa-ra-biy-yan"
+      },
+      "tags": [
+        "sourate:12"
+      ]
+    },
+    {
+      "id": "cor-t1-0003",
+      "concept": "cor.fatiha.verset-2",
+      "domain": "coran",
+      "sub": "fatiha",
+      "tier": 1,
+      "type": "trou",
+      "q": "Complète le verset de la Fātiḥa : « Al-ḥamdu lillāhi ___ al-ʿālamīn ».",
+      "choices": [
+        "rabbi",
+        "māliki",
+        "ilāhi",
+        "nūri"
+      ],
+      "answer": 0,
+      "expl": "« Al-ḥamdu lillāhi rabbi l-ʿālamīn » : louange à Allah, Seigneur des mondes. « Rabb », c'est le Seigneur qui crée, possède, nourrit et prend soin de toute chose. « Māliki » vient plus loin dans la sourate : « Māliki yawmi d-dīn », Maître du Jour de la rétribution.",
+      "src": [
+        "Coran 1:2"
+      ],
+      "ar": {
+        "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "tr": "al-ḥamdu lillāhi rabbi l-ʿālamīn",
+        "fr": "Louange à Allah, Seigneur des mondes",
+        "pr": "al-ham-dou lil-lâ-hi rab-bil-ʿâ-la-mîn"
+      },
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cor-t1-0004",
+      "concept": "cor.revelation.jibril",
+      "domain": "coran",
+      "sub": "revelation",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Par quel ange le Coran a-t-il été transmis au Prophète ﷺ ?",
+      "choices": [
+        "Jibrīl (Gabriel)",
+        "Mīkāʾīl (Michel)",
+        "Isrāfīl",
+        "Mālik"
+      ],
+      "answer": 0,
+      "expl": "C'est l'ange Jibrīl qui a transmis la révélation au Prophète ﷺ, pendant environ 23 ans. Le Coran l'appelle aussi « l'Esprit fidèle » (ar-rūḥ al-amīn). Mīkāʾīl est chargé de la pluie, Isrāfīl soufflera dans la Trompe, et Mālik est le gardien de l'Enfer.",
+      "src": [
+        "Coran 2:97",
+        "Coran 26:193"
+      ]
+    },
+    {
+      "id": "cor-t1-0005",
+      "concept": "cor.juz-amma.ikhlas",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qsj",
+      "q": "Qui suis-je ?",
+      "clues": [
+        "Je suis l'une des plus courtes sourates du Coran, avec seulement 4 versets.",
+        "Le Prophète ﷺ a dit que je vaux le tiers du Coran.",
+        "Mon nom signifie « le culte pur », et je commence par « Qul huwa Allāhu aḥad »."
+      ],
+      "choices": [
+        "Al-Ikhlāṣ",
+        "Al-Fātiḥa",
+        "Al-Kawthar",
+        "An-Nās"
+      ],
+      "answer": 0,
+      "expl": "Al-Ikhlāṣ (sourate 112) résume le tawḥīd en quatre versets : Allah est Un, Il est l'Absolu (aṣ-Ṣamad) dont tout dépend, Il n'engendre pas et n'a pas été engendré, et nul ne Lui est égal. Le Prophète ﷺ a dit qu'elle équivaut au tiers du Coran.",
+      "src": [
+        "Coran 112",
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari"
+      ],
+      "ar": {
+        "text": "قُلْ هُوَ اللّٰهُ أَحَدٌ",
+        "tr": "qul huwa Allāhu aḥad",
+        "fr": "Dis : Il est Allah, Unique",
+        "pr": "qoul hou-wal-lâ-hou a-had"
+      },
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cor-t1-0006",
+      "concept": "cor.structure.ordre",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les sourates du Coran sont rangées dans l'ordre chronologique de leur révélation.",
+      "answer": false,
+      "expl": "Non. Les sourates sont rangées à peu près de la plus longue à la plus courte, selon un ordre que les savants rattachent à l'enseignement du Prophète ﷺ. Les tout premiers versets révélés sont le début de la sourate al-ʿAlaq (96) : « Lis, au nom de ton Seigneur qui a créé ».",
+      "src": [
+        "Coran 96:1-5",
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "tags": [
+        "sourate:96"
+      ]
+    },
+    {
+      "id": "cor-t1-0007",
+      "concept": "cor.bases.sens-mot",
+      "domain": "coran",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le mot « Qurʾān » ?",
+      "choices": [
+        "Le livre sacré écrit sur du cuir",
+        "La loi",
+        "La lumière",
+        "La lecture, la récitation"
+      ],
+      "answer": 3,
+      "expl": "Qurʾān vient de la racine q-r-ʾ, lire ou réciter : c'est « ce qui est récité ». Le premier mot révélé est d'ailleurs « Iqraʾ », lis ! Le Coran est fait pour être récité à voix haute, mémorisé et médité, pas seulement lu des yeux.",
+      "src": [
+        "Coran 96:1"
+      ],
+      "ar": {
+        "text": "الْقُرْآن",
+        "tr": "al-Qurʾān",
+        "pr": "al-qour-ʾân",
+        "fr": "la Récitation"
+      }
+    },
+    {
+      "id": "cor-t1-0008",
+      "concept": "cor.bases.parole",
+      "domain": "coran",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que représente le Coran pour les musulmans ?",
+      "choices": [
+        "La parole d'Allah, révélée au Prophète ﷺ",
+        "Un recueil de poèmes arabes anciens",
+        "Les paroles du Prophète ﷺ mises par écrit",
+        "Un livre écrit par les Compagnons après lui"
+      ],
+      "answer": 0,
+      "expl": "Pour les musulmans, le Coran est la parole d'Allah elle-même, révélée en arabe au Prophète ﷺ. Les paroles du Prophète ﷺ, elles, forment les hadiths. C'est pourquoi on récite le Coran dans la prière, et jamais les hadiths.",
+      "src": [
+        "Coran 9:6"
+      ]
+    },
+    {
+      "id": "cor-t1-0009",
+      "concept": "cor.bases.noms",
+      "domain": "coran",
+      "sub": "bases",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque nom du Coran à son sens.",
+      "pairs": [
+        [
+          "al-Kitāb",
+          "Le Livre"
+        ],
+        [
+          "al-Furqān",
+          "Le Discernement (entre vrai et faux)"
+        ],
+        [
+          "adh-Dhikr",
+          "Le Rappel"
+        ],
+        [
+          "an-Nūr",
+          "La Lumière"
+        ]
+      ],
+      "expl": "Le Coran se donne plusieurs noms, chacun révélant une facette : le Livre écrit et préservé, le critère qui distingue le vrai du faux, le rappel qui réveille le cœur, la lumière qui guide.",
+      "src": [
+        "Coran 2:2",
+        "Coran 25:1",
+        "Coran 15:9",
+        "Coran 4:174"
+      ],
+      "pron": {
+        "al-Kitāb": "al-ki-tâb",
+        "al-Furqān": "al-four-qân",
+        "adh-Dhikr": "adh-dhikr",
+        "an-Nūr": "an-noûr"
+      }
+    },
+    {
+      "id": "cor-t1-0010",
+      "concept": "cor.bases.preservation",
+      "domain": "coran",
+      "sub": "bases",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le Coran, Allah Lui-même s'est engagé à préserver le Coran.",
+      "answer": true,
+      "expl": "« C'est Nous qui avons fait descendre le Rappel, et c'est Nous qui en sommes les gardiens. » Cette garantie s'est réalisée par la mémorisation de millions de personnes à chaque génération et par la mise par écrit très tôt du texte. Un ḥāfiẓ de Meknès récite le même texte qu'un ḥāfiẓ d'Indonésie.",
+      "src": [
+        "Coran 15:9"
+      ],
+      "ar": {
+        "text": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+        "tr": "innā naḥnu nazzalnā dh-dhikra wa innā lahu la-ḥāfiẓūn",
+        "pr": "in-nâ nah-nou naz-zal-nadh-dhik-ra wa in-nâ la-hou la-hâ-fi-zoûn",
+        "fr": "c'est Nous qui avons fait descendre le Rappel, et c'est Nous qui en sommes les gardiens"
+      },
+      "tags": [
+        "sourate:15"
+      ]
+    },
+    {
+      "id": "cor-t1-0011",
+      "concept": "cor.revelation.premiers-versets",
+      "domain": "coran",
+      "sub": "revelation",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quels sont les premiers versets révélés du Coran ?",
+      "choices": [
+        "« Au nom d'Allah, le Tout Miséricordieux »",
+        "« Lis, au nom de ton Seigneur qui a créé »",
+        "« Dis : Il est Allah, l'Unique »",
+        "« Ô toi, l'enveloppé, lève-toi et avertis »"
+      ],
+      "answer": 1,
+      "expl": "Les cinq premiers versets de la sourate al-ʿAlaq (96) furent révélés dans la grotte de Ḥirāʾ : « Lis, au nom de ton Seigneur qui a créé, qui a créé l'homme d'une adhérence… » Le tout premier ordre de la révélation est donc d'apprendre. La Fātiḥa, elle, ouvre le muṣḥaf, mais n'a pas été révélée la première.",
+      "src": [
+        "Coran 96:1-5",
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+        "tr": "iqraʾ bi-smi rabbika lladhī khalaq",
+        "pr": "iq-raʾ bis-mi rab-bi-kal-la-dhî kha-laq",
+        "fr": "Lis, au nom de ton Seigneur qui a créé"
+      },
+      "tags": [
+        "sourate:96"
+      ]
+    },
+    {
+      "id": "cor-t1-0012",
+      "concept": "cor.revelation.duree",
+      "domain": "coran",
+      "sub": "revelation",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Pendant combien d'années environ le Coran a-t-il été révélé ?",
+      "answer": 23,
+      "tolerance": 0,
+      "unit": "ans",
+      "expl": "Environ 23 ans : de 610, quand le Prophète ﷺ avait quarante ans, jusqu'à sa mort en 632. Treize ans à La Mecque, dix à Médine. Cette révélation progressive permettait aux croyants d'appliquer chaque enseignement peu à peu, en réponse aux événements.",
+      "src": [
+        "Coran 17:106"
+      ]
+    },
+    {
+      "id": "cor-t1-0013",
+      "concept": "cor.revelation.hira",
+      "domain": "coran",
+      "sub": "revelation",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans quel lieu le Prophète ﷺ a-t-il reçu la première révélation ?",
+      "choices": [
+        "La mosquée de Qubāʾ",
+        "La Kaʿba, à La Mecque",
+        "La grotte de Ḥirāʾ",
+        "Le mont ʿArafa"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ aimait se retirer dans la grotte de Ḥirāʾ, sur la montagne de la Lumière (Jabal an-Nūr), pour méditer. C'est là que Jibrīl lui apparut et lui dit : « Lis ! » La grotte de Thawr est celle où il se cacha plus tard, lors de l'Hégire.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "غَارُ حِرَاءٍ",
+        "tr": "ghāru Ḥirāʾ",
+        "pr": "ghâ-rou hi-râʾ",
+        "fr": "la grotte de Ḥirāʾ"
+      }
+    },
+    {
+      "id": "cor-t1-0014",
+      "concept": "cor.revelation.qadr",
+      "domain": "coran",
+      "sub": "revelation",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le Coran, la révélation du Coran a commencé pendant la Nuit du Destin (Laylat al-Qadr).",
+      "answer": true,
+      "expl": "« Nous l'avons fait descendre pendant la Nuit du Destin. » Cette nuit se trouve en Ramadan, ce qui fait de ce mois celui du Coran. Les savants expliquent que le Coran est descendu cette nuit-là vers le ciel de ce monde, puis a été révélé au Prophète ﷺ progressivement.",
+      "src": [
+        "Coran 97:1",
+        "Coran 2:185"
+      ],
+      "tags": [
+        "sourate:97"
+      ]
+    },
+    {
+      "id": "cor-t1-0015",
+      "concept": "cor.structure.juz",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "nombre",
+      "q": "En combien de parties (juzʾ) le Coran est-il divisé pour la lecture ?",
+      "answer": 30,
+      "expl": "Trente juzʾ, de longueur à peu près égale. Lire un juzʾ par jour permet de terminer le Coran en un mois, ce que beaucoup font pendant Ramadan. Le dernier juzʾ, « juzʾ ʿAmma », contient les courtes sourates que l'on apprend en premier.",
+      "ar": {
+        "text": "جُزْء",
+        "tr": "juzʾ",
+        "pr": "jouzʾ",
+        "fr": "une partie"
+      }
+    },
+    {
+      "id": "cor-t1-0016",
+      "concept": "cor.structure.hizb",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "nombre",
+      "q": "En combien de ḥizb le Coran est-il divisé ?",
+      "answer": 60,
+      "expl": "Soixante ḥizb (deux par juzʾ). Au Maroc, on compte surtout en ḥizb : dans les mosquées, on récite chaque jour en groupe deux ḥizb (le ḥizb rātib), après le Ṣubḥ et après le Maghrib, ce qui permet de terminer le Coran chaque mois.",
+      "ar": {
+        "text": "حِزْب",
+        "tr": "ḥizb",
+        "pr": "hizb",
+        "fr": "une section"
+      }
+    },
+    {
+      "id": "cor-t1-0017",
+      "concept": "cor.structure.aya",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le mot « āya », employé pour un verset du Coran ?",
+      "choices": [
+        "Une phrase",
+        "Une loi",
+        "Une prière",
+        "Un signe"
+      ],
+      "answer": 3,
+      "expl": "Āya veut dire « signe » : chaque verset est un signe d'Allah, comme les étoiles, la pluie ou l'alternance du jour et de la nuit, que le Coran appelle aussi des āyāt. Le Coran compte 6 236 versets selon le décompte le plus courant.",
+      "ar": {
+        "text": "آيَة",
+        "tr": "āya",
+        "pr": "â-ya",
+        "fr": "un signe, un verset"
+      }
+    },
+    {
+      "id": "cor-t1-0018",
+      "concept": "cor.structure.plus-longue",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est la plus longue sourate du Coran ?",
+      "choices": [
+        "Al-Baqara (la Vache)",
+        "Āl ʿImrān (la Famille d'ʿImrān)",
+        "An-Nisāʾ (les Femmes)",
+        "Yā-Sīn"
+      ],
+      "answer": 0,
+      "expl": "Al-Baqara, la deuxième sourate, compte 286 versets. Elle contient Āyat al-Kursī, le plus long verset du Coran (le verset de la dette, 2:282) et de nombreuses règles. Le Prophète ﷺ a dit que le Shayṭān fuit la maison où on la récite.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cor-t1-0019",
+      "concept": "cor.structure.plus-courte",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate, avec seulement trois versets très courts, est la plus brève du Coran ?",
+      "choices": [
+        "Yā-Sīn",
+        "Al-Kawthar (l'Abondance)",
+        "Al-Fātiḥa (l'Ouverture)",
+        "Al-Ikhlāṣ (le Monothéisme pur)"
+      ],
+      "answer": 1,
+      "expl": "Al-Kawthar (108) ne compte que trois versets courts. Al-ʿAṣr et an-Naṣr ont aussi trois versets, mais un peu plus longs. Al-Ikhlāṣ en a quatre et la Fātiḥa sept.",
+      "src": [
+        "Coran 108:1-3"
+      ],
+      "tags": [
+        "sourate:108"
+      ]
+    },
+    {
+      "id": "cor-t1-0020",
+      "concept": "cor.structure.plus-longue",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de versets compte la sourate al-Baqara ?",
+      "answer": 286,
+      "expl": "286 versets, ce qui en fait la plus longue sourate. Ses deux derniers versets (285-286), « Āmana r-rasūl… », sont parmi les plus récités chaque soir.",
+      "src": [
+        "Coran 2:286"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cor-t1-0021",
+      "concept": "cor.structure.tawba",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate ne commence pas par la basmala ?",
+      "choices": [
+        "An-Naml (les Fourmis), sourate 27",
+        "Al-Ikhlāṣ, sourate 112",
+        "At-Tawba (le Repentir), sourate 9",
+        "Al-Fātiḥa, sourate 1"
+      ],
+      "answer": 2,
+      "expl": "At-Tawba est la seule sourate sans basmala au début. À l'inverse, la sourate an-Naml contient la basmala deux fois : au début et au verset 30, dans la lettre de Sulaymān à la reine de Saba. Il y a donc bien 114 basmala dans le Coran.",
+      "src": [
+        "Coran 27:30"
+      ],
+      "tags": [
+        "sourate:9",
+        "sourate:27"
+      ]
+    },
+    {
+      "id": "cor-t1-0022",
+      "concept": "cor.structure.warsh",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle lecture (riwāya) du Coran est traditionnellement utilisée au Maroc ?",
+      "choices": [
+        "La lecture de Ḥafṣ, d'après ʿĀṣim",
+        "La lecture d'ad-Dūrī",
+        "La lecture de Qālūn seule",
+        "La lecture de Warsh, d'après Nāfiʿ"
+      ],
+      "answer": 3,
+      "expl": "Au Maroc et dans une grande partie de l'Afrique du Nord et de l'Ouest, on récite selon Warsh, transmetteur de l'imam Nāfiʿ de Médine. La lecture de Ḥafṣ est la plus répandue dans le monde. Ce sont des manières authentiques de réciter le même Coran, avec de légères différences de prononciation.",
+      "ar": {
+        "text": "وَرْشٌ عَنْ نَافِعٍ",
+        "tr": "Warshun ʿan Nāfiʿ",
+        "pr": "war-choun ʿan nâ-fiʿ",
+        "fr": "Warsh d'après Nāfiʿ"
+      }
+    },
+    {
+      "id": "cor-t1-0023",
+      "concept": "cor.fatiha.noms",
+      "domain": "coran",
+      "sub": "fatiha",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Lequel de ces noms est donné à la sourate al-Fātiḥa ?",
+      "choices": [
+        "Umm al-Kitāb, la Mère du Livre",
+        "Qalb al-Qurʾān, le Cœur du Coran",
+        "Sanām al-Qurʾān, le Sommet du Coran",
+        "ʿArūs al-Qurʾān, la Fiancée du Coran"
+      ],
+      "answer": 0,
+      "expl": "La Fātiḥa est appelée Umm al-Kitāb (la Mère du Livre), car elle résume le Coran : louange, foi au Jour dernier, adoration, demande de guidance. On l'appelle aussi as-Sabʿ al-Mathānī, « les sept versets répétés ». Les autres titres sont donnés par la tradition à d'autres sourates.",
+      "src": [
+        "Coran 15:87"
+      ],
+      "ar": {
+        "text": "أُمُّ الْكِتَاب",
+        "tr": "Ummu l-Kitāb",
+        "pr": "oum-moul-ki-tâb",
+        "fr": "la Mère du Livre"
+      },
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cor-t1-0024",
+      "concept": "cor.fatiha.noms",
+      "domain": "coran",
+      "sub": "fatiha",
+      "tier": 1,
+      "type": "trou",
+      "q": "La Fātiḥa est appelée « as-Sabʿ al-Mathānī », les ___ versets répétés.",
+      "choices": [
+        "trois",
+        "sept",
+        "cinq",
+        "dix"
+      ],
+      "answer": 1,
+      "expl": "« Nous t'avons donné les sept répétés et le Coran sublime. » Sept, car elle compte sept versets ; répétés, car on la récite dans chaque rak'a, au moins dix-sept fois par jour dans les prières obligatoires.",
+      "src": [
+        "Coran 15:87"
+      ],
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cor-t1-0025",
+      "concept": "cor.fatiha.sens",
+      "domain": "coran",
+      "sub": "fatiha",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre le sens des versets de la Fātiḥa (après la basmala).",
+      "items": [
+        "Louange à Allah, Seigneur des mondes",
+        "Le Tout Miséricordieux, le Très Miséricordieux",
+        "Maître du Jour de la Rétribution",
+        "C'est Toi seul que nous adorons, et Toi seul dont nous implorons le secours",
+        "Guide-nous sur le droit chemin",
+        "Le chemin de ceux que Tu as comblés de faveurs, non de ceux qui ont encouru la colère, ni des égarés"
+      ],
+      "expl": "La sourate monte de la louange vers la demande : on loue Allah, on reconnaît Sa miséricorde et Son jugement, on s'engage à L'adorer, puis on demande la guidance. Dans un hadith qudsī, Allah répond à chaque verset récité.",
+      "src": [
+        "Coran 1:1-7"
+      ],
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cor-t1-0026",
+      "concept": "cor.fatiha.guidance",
+      "domain": "coran",
+      "sub": "fatiha",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Ihdinā ___ l-mustaqīm » : guide-nous sur le droit chemin.",
+      "choices": [
+        "n-nūra",
+        "l-ḥaqqa",
+        "ṣ-ṣirāṭa",
+        "d-dīna"
+      ],
+      "answer": 2,
+      "expl": "C'est la grande demande de la Fātiḥa, que l'on répète dans chaque rak'a : la guidance vers le droit chemin. Même le croyant guidé la demande sans cesse, car on a besoin d'être guidé à chaque instant et dans chaque choix.",
+      "src": [
+        "Coran 1:6"
+      ],
+      "ar": {
+        "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "tr": "ihdinā ṣ-ṣirāṭa l-mustaqīm",
+        "pr": "ih-di-nas-si-râ-tal-mous-ta-qîm",
+        "fr": "guide-nous sur le droit chemin"
+      },
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cor-t1-0027",
+      "concept": "cor.fatiha.hadith-qudsi",
+      "domain": "coran",
+      "sub": "fatiha",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon un hadith qudsī, comment Allah décrit-Il la récitation de la Fātiḥa dans la prière ?",
+      "choices": [
+        "Une simple formule d'ouverture, sans réponse",
+        "Une prière réservée aux anges du ciel",
+        "Une récitation qui remplace toute la prière",
+        "Partagée entre Lui et Son serviteur, qui reçoit Sa réponse"
+      ],
+      "answer": 3,
+      "expl": "Allah dit : « J'ai partagé la prière entre Moi et Mon serviteur en deux moitiés, et Mon serviteur aura ce qu'il demande. » Quand le serviteur dit « Louange à Allah », Allah répond : « Mon serviteur M'a loué. » La Fātiḥa est un vrai dialogue.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cor-t1-0028",
+      "concept": "cor.fatiha.obligatoire",
+      "domain": "coran",
+      "sub": "fatiha",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a dit : « Pas de prière pour celui qui ne récite pas la Fātiḥa. »",
+      "answer": true,
+      "expl": "C'est un hadith authentique. La Fātiḥa est un pilier de chaque rak'a, pour celui qui prie seul ou qui dirige la prière. Chez les malikites, celui qui suit l'imam l'écoute en silence dans les rak'at à voix haute, et la récite dans les rak'at à voix basse.",
+      "src": [
+        "Hadith de ʿUbāda ibn aṣ-Ṣāmit — Bukhari & Muslim"
+      ],
+      "note": "Pour les chaféites, celui qui suit l'imam récite la Fātiḥa dans toutes les rak'at ; pour les hanafites, il ne la récite jamais.",
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cor-t1-0029",
+      "concept": "cor.fatiha.maliki-yawm",
+      "domain": "coran",
+      "sub": "fatiha",
+      "tier": 1,
+      "type": "vf",
+      "q": "Dans la lecture de Warsh récitée au Maroc, le verset 4 de la Fātiḥa se lit « maliki yawmi d-dīn » (Roi du Jour de la Rétribution), sans voyelle longue.",
+      "answer": true,
+      "expl": "Oui : selon les lectures, on dit « māliki » (Maître) ou « maliki » (Roi). Ḥafṣ lit māliki, Warsh lit maliki. Les deux sont authentiques et se complètent : Allah est à la fois le Maître et le Roi de ce Jour.",
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cor-t1-0030",
+      "concept": "cor.grands-versets.kursi",
+      "domain": "coran",
+      "sub": "grands-versets",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel est, selon le Prophète ﷺ, le plus grand verset du Coran ?",
+      "choices": [
+        "Āyat al-Kursī",
+        "Le premier verset de la Fātiḥa",
+        "Le dernier verset révélé",
+        "Le verset de la lumière"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ demanda à Ubayy ibn Kaʿb quel était le plus grand verset ; Ubayy répondit Āyat al-Kursī, et le Prophète ﷺ le félicita pour son savoir. Ce verset rassemble l'unicité, la vie, la science et la puissance d'Allah.",
+      "src": [
+        "Hadith d'Ubayy ibn Kaʿb — Muslim",
+        "Coran 2:255"
+      ],
+      "ar": {
+        "text": "آيَةُ الْكُرْسِيِّ",
+        "tr": "āyatu l-kursiyy",
+        "pr": "â-ya-toul-kour-siyy",
+        "fr": "le verset du Trône"
+      },
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cor-t1-0031",
+      "concept": "cor.grands-versets.kursi",
+      "domain": "coran",
+      "sub": "grands-versets",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon un hadith d'al-Bukhārī, réciter Āyat al-Kursī avant de dormir apporte une protection d'Allah jusqu'au matin.",
+      "answer": true,
+      "expl": "Dans un récit rapporté par Abū Hurayra, celui qui récite Āyat al-Kursī en se couchant reste sous la garde d'Allah et aucun démon ne l'approche jusqu'au matin. Le Prophète ﷺ confirma cet enseignement. Une belle habitude à prendre en famille.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cor-t1-0032",
+      "concept": "cor.grands-versets.kursi",
+      "domain": "coran",
+      "sub": "grands-versets",
+      "tier": 1,
+      "type": "trou",
+      "q": "Āyat al-Kursī : « Son Trône (kursī) déborde les cieux et la ___. »",
+      "choices": [
+        "montagne",
+        "terre",
+        "mer",
+        "lune"
+      ],
+      "answer": 1,
+      "expl": "« Son Kursī englobe les cieux et la terre, et leur garde ne Lui coûte aucune peine. Et Il est le Très-Haut, l'Immense. » L'image dit la grandeur d'Allah : tout l'univers est petit devant Sa création, et Il le maintient sans effort.",
+      "src": [
+        "Coran 2:255"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cor-t1-0033",
+      "concept": "cor.grands-versets.fin-baqara",
+      "domain": "coran",
+      "sub": "grands-versets",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Allah n'impose à aucune âme une charge supérieure à sa ___. »",
+      "choices": [
+        "fortune",
+        "jeunesse",
+        "capacité",
+        "volonté"
+      ],
+      "answer": 2,
+      "expl": "Ce verset (2:286) est l'un des plus consolants du Coran : ce qu'Allah demande, ou les épreuves qu'Il envoie, ne dépassent jamais ce que l'on peut porter. Le verset se termine par une invocation que l'on peut faire sienne : « Seigneur, ne nous punis pas si nous oublions ou commettons une erreur. »",
+      "src": [
+        "Coran 2:286"
+      ],
+      "ar": {
+        "text": "لَا يُكَلِّفُ اللّٰهُ نَفْسًا إِلَّا وُسْعَهَا",
+        "tr": "lā yukallifu Llāhu nafsan illā wusʿahā",
+        "pr": "lâ you-kal-li-fou l-lâ-hou naf-san il-lâ wous-ʿa-hâ",
+        "fr": "Allah n'impose à aucune âme que selon sa capacité"
+      },
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cor-t1-0034",
+      "concept": "cor.grands-versets.fin-baqara",
+      "domain": "coran",
+      "sub": "grands-versets",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Par quelle invocation se termine la sourate al-Baqara ?",
+      "choices": [
+        "« Seigneur, accorde-nous une belle part ici-bas… »",
+        "« Gloire à Toi, nous n'avons de savoir que… »",
+        "« Seigneur, augmente-moi en science… »",
+        "« Seigneur, ne nous punis pas si nous oublions… »"
+      ],
+      "answer": 3,
+      "expl": "Le dernier verset d'al-Baqara contient une suite de demandes : ne pas être puni pour l'oubli et l'erreur, ne pas être chargé au-delà de ses forces, recevoir le pardon et la miséricorde. Le Prophète ﷺ a enseigné que ces deux derniers versets suffisent à celui qui les récite la nuit.",
+      "src": [
+        "Coran 2:286",
+        "Hadith d'Abū Masʿūd al-Badrī — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا",
+        "tr": "rabbanā lā tuʾākhidhnā in nasīnā aw akhṭaʾnā",
+        "pr": "rab-ba-nâ lâ tou-ʾâ-khidh-nâ in na-sî-nâ aw akh-taʾ-nâ",
+        "fr": "Seigneur, ne nous punis pas si nous oublions ou commettons une erreur"
+      },
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cor-t1-0035",
+      "concept": "cor.adab.istiadha",
+      "domain": "coran",
+      "sub": "adab",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit-on avant de commencer à réciter le Coran ?",
+      "choices": [
+        "« Aʿūdhu bi-Llāhi mina sh-shayṭāni r-rajīm »",
+        "« Allāhu akbar », trois fois de suite",
+        "« Ṣadaqa Llāhu l-ʿaẓīm », à voix haute",
+        "« Subḥāna Llāhi wa bi-ḥamdih »"
+      ],
+      "answer": 0,
+      "expl": "« Je cherche refuge auprès d'Allah contre le Shayṭān le lapidé. » C'est l'istiʿādha, demandée par le Coran : « Lorsque tu lis le Coran, demande la protection d'Allah contre le Shayṭān. » On la fait suivre de la basmala au début d'une sourate.",
+      "src": [
+        "Coran 16:98"
+      ],
+      "ar": {
+        "text": "أَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "tr": "aʿūdhu bi-Llāhi mina sh-shayṭāni r-rajīm",
+        "pr": "a-ʿoû-dhou bil-lâ-hi mi-nach-chay-tâ-nir-ra-jîm",
+        "fr": "je cherche refuge auprès d'Allah contre le Shayṭān le lapidé"
+      },
+      "tags": [
+        "sourate:16"
+      ]
+    },
+    {
+      "id": "cor-t1-0036",
+      "concept": "cor.adab.purete",
+      "domain": "coran",
+      "sub": "adab",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon l'école malikite, il faut être en état d'ablutions pour toucher un exemplaire papier du Coran (muṣḥaf).",
+      "answer": true,
+      "expl": "Oui : les malikites, comme la majorité, demandent les ablutions pour toucher le muṣḥaf, en s'appuyant sur le verset « que seuls les purifiés touchent » et sur la lettre du Prophète ﷺ à ʿAmr ibn Ḥazm. Réciter de mémoire sans ablutions reste permis (sauf en état de janāba).",
+      "src": [
+        "Coran 56:79",
+        "Mālik, al-Muwaṭṭaʾ"
+      ],
+      "note": "Les malikites font une exception pour l'enfant et pour celui qui apprend ou enseigne le Coran. Beaucoup de savants contemporains permettent de lire sur un téléphone sans ablutions, car ce n'est pas un muṣḥaf."
+    },
+    {
+      "id": "cor-t1-0037",
+      "concept": "cor.adab.tartil",
+      "domain": "coran",
+      "sub": "adab",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment le Coran demande-t-il qu'on le récite ?",
+      "choices": [
+        "Le plus vite possible",
+        "Lentement et distinctement",
+        "En chantant sur une musique",
+        "Toujours en silence"
+      ],
+      "answer": 1,
+      "expl": "« Et récite le Coran lentement et clairement (tartīl). » On prend le temps de bien prononcer et de réfléchir au sens. Le Prophète ﷺ récitait en détachant chaque verset et aimait qu'on embellisse sa voix pour le Coran.",
+      "src": [
+        "Coran 73:4"
+      ],
+      "ar": {
+        "text": "وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+        "tr": "wa rattili l-Qurʾāna tartīlā",
+        "pr": "wa rat-ti-lil-qour-ʾâ-na tar-tî-lâ",
+        "fr": "et récite le Coran lentement et clairement"
+      },
+      "tags": [
+        "sourate:73"
+      ]
+    },
+    {
+      "id": "cor-t1-0038",
+      "concept": "cor.adab.recompense",
+      "domain": "coran",
+      "sub": "adab",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le hadith, chaque lettre du Coran récitée vaut une bonne action, multipliée par dix.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ a dit : « Celui qui lit une lettre du Livre d'Allah a une bonne action, et la bonne action vaut dix fois autant. Je ne dis pas que Alif Lām Mīm est une lettre, mais Alif est une lettre, Lām une lettre et Mīm une lettre. » Même celui qui lit avec difficulté a une double récompense.",
+      "src": [
+        "Hadith d'Ibn Masʿūd — Tirmidhi",
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cor-t1-0039",
+      "concept": "cor.juz-amma.noms-sens",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque sourate à la traduction de son nom.",
+      "pairs": [
+        [
+          "Al-Fīl (105)",
+          "L'Éléphant"
+        ],
+        [
+          "Al-Māʿūn (107)",
+          "L'Ustensile, l'aide"
+        ],
+        [
+          "Al-Kawthar (108)",
+          "L'Abondance"
+        ],
+        [
+          "An-Naṣr (110)",
+          "Le Secours"
+        ],
+        [
+          "Al-Falaq (113)",
+          "L'Aube naissante"
+        ],
+        [
+          "An-Nās (114)",
+          "Les Hommes"
+        ]
+      ],
+      "expl": "Ces courtes sourates sont souvent les premières qu'on apprend, pour les réciter dans la prière. Connaître le sens de leur nom aide à se souvenir de leur thème.",
+      "tags": [
+        "sourate:105",
+        "sourate:107",
+        "sourate:108",
+        "sourate:110",
+        "sourate:113",
+        "sourate:114"
+      ],
+      "pron": {
+        "Al-Fīl (105)": "al-fîl",
+        "Al-Māʿūn (107)": "al-mâ-ʿoûn",
+        "Al-Kawthar (108)": "al-kaw-thar",
+        "An-Naṣr (110)": "an-nasr",
+        "Al-Falaq (113)": "al-fa-laq",
+        "An-Nās (114)": "an-nâs"
+      }
+    },
+    {
+      "id": "cor-t1-0040",
+      "concept": "cor.juz-amma.ordre-fin",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets ces dernières sourates dans l'ordre du muṣḥaf.",
+      "items": [
+        "Al-Kawthar",
+        "Al-Kāfirūn",
+        "An-Naṣr",
+        "Al-Masad",
+        "Al-Ikhlāṣ",
+        "Al-Falaq",
+        "An-Nās"
+      ],
+      "expl": "Ce sont les sourates 108 à 114, la toute fin du Coran. Les connaître dans l'ordre aide à réviser et à les enchaîner. Les trois dernières (al-Ikhlāṣ, al-Falaq, an-Nās) sont souvent récitées ensemble, matin et soir.",
+      "tags": [
+        "sourate:108",
+        "sourate:109",
+        "sourate:110",
+        "sourate:111",
+        "sourate:112",
+        "sourate:113",
+        "sourate:114"
+      ]
+    },
+    {
+      "id": "cor-t1-0041",
+      "concept": "cor.juz-amma.fil",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De quel événement parle la sourate al-Fīl (l'Éléphant) ?",
+      "choices": [
+        "La bataille de Badr, gagnée par les croyants",
+        "Le déluge de Nūḥ, qui couvrit la terre",
+        "La traversée de la mer par Mūsā",
+        "L'armée d'Abraha, anéantie par des oiseaux"
+      ],
+      "answer": 3,
+      "expl": "Abraha, gouverneur du Yémen, marcha sur La Mecque avec des éléphants pour détruire la Kaʿba. Allah envoya des nuées d'oiseaux (abābīl) qui lancèrent sur l'armée des pierres d'argile. Cela se passa l'année même de la naissance du Prophète ﷺ, appelée « l'année de l'Éléphant ».",
+      "src": [
+        "Coran 105:1-5"
+      ],
+      "ar": {
+        "text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+        "tr": "a-lam tara kayfa faʿala rabbuka bi-aṣḥābi l-fīl",
+        "pr": "a-lam ta-ra kay-fa fa-ʿa-la rab-bou-ka bi-as-hâ-bil-fîl",
+        "fr": "N'as-tu pas vu comment ton Seigneur a agi envers les gens de l'Éléphant ?"
+      },
+      "tags": [
+        "sourate:105"
+      ]
+    },
+    {
+      "id": "cor-t1-0042",
+      "concept": "cor.juz-amma.fil",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "trou",
+      "q": "Sourate al-Fīl : Allah envoya contre l'armée des oiseaux par ___ (abābīl).",
+      "choices": [
+        "nuées",
+        "paires",
+        "milliers",
+        "rangées"
+      ],
+      "answer": 0,
+      "expl": "« Et Il envoya contre eux des oiseaux par nuées, qui leur lançaient des pierres d'argile. » La sourate rappelle aux Mecquois la protection d'Allah sur Sa Maison, quelques décennies avant qu'ils ne refusent le message.",
+      "src": [
+        "Coran 105:3-4"
+      ],
+      "tags": [
+        "sourate:105"
+      ]
+    },
+    {
+      "id": "cor-t1-0043",
+      "concept": "cor.juz-amma.quraysh",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quels voyages la sourate Quraysh rappelle-t-elle ?",
+      "choices": [
+        "Les migrations vers l'Abyssinie",
+        "Les caravanes d'hiver et d'été",
+        "Les pèlerinages à Jérusalem",
+        "Les voyages en mer vers l'Inde"
+      ],
+      "answer": 1,
+      "expl": "La tribu de Quraysh organisait deux grandes caravanes : l'hiver vers le Yémen, l'été vers la Syrie. La sourate leur rappelle que cette sécurité et cette prospérité viennent du Seigneur de la Kaʿba, « qui les a nourris contre la faim et rassurés contre la peur ».",
+      "src": [
+        "Coran 106:1-4"
+      ],
+      "tags": [
+        "sourate:106"
+      ]
+    },
+    {
+      "id": "cor-t1-0044",
+      "concept": "cor.juz-amma.quraysh",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon la sourate Quraysh, qui les Quraysh doivent-ils adorer ?",
+      "choices": [
+        "Les idoles de leurs ancêtres",
+        "Les rois de Perse et de Byzance",
+        "Le Seigneur de cette Maison",
+        "Le soleil et la lune"
+      ],
+      "answer": 2,
+      "expl": "« Qu'ils adorent donc le Seigneur de cette Maison, qui les a nourris contre la faim et rassurés contre la peur. » La reconnaissance pour les bienfaits doit mener à l'adoration de Celui qui les donne. Une leçon valable pour nous aussi : la sécurité et la nourriture sont des grâces.",
+      "src": [
+        "Coran 106:3-4"
+      ],
+      "ar": {
+        "text": "فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِ",
+        "tr": "fa-l-yaʿbudū rabba hādhā l-bayt",
+        "pr": "fal-yaʿ-bou-doû rab-ba hâ-dhal-bayt",
+        "fr": "qu'ils adorent donc le Seigneur de cette Maison"
+      },
+      "tags": [
+        "sourate:106"
+      ]
+    },
+    {
+      "id": "cor-t1-0045",
+      "concept": "cor.juz-amma.maun",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "multi",
+      "q": "Quels comportements la sourate al-Māʿūn critique-t-elle ?",
+      "choices": [
+        "Repousser l'orphelin",
+        "Ne pas encourager à nourrir le pauvre",
+        "Voyager",
+        "Être négligent dans sa prière",
+        "Prier pour être vu",
+        "Faire du commerce"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "La sourate décrit celui qui dément la Rétribution : il repousse l'orphelin, n'incite pas à nourrir le pauvre, néglige sa prière, agit par ostentation et refuse même de prêter un ustensile. Elle lie la foi au comportement envers les plus faibles.",
+      "src": [
+        "Coran 107:1-7"
+      ],
+      "tags": [
+        "sourate:107"
+      ]
+    },
+    {
+      "id": "cor-t1-0046",
+      "concept": "cor.juz-amma.maun",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que désigne « al-māʿūn », qui a donné son nom à la sourate 107 ?",
+      "choices": [
+        "Les prières faites en retard",
+        "Les biens volés aux orphelins de la tribu",
+        "Les animaux du sacrifice",
+        "Les petits services qu'on refuse de prêter"
+      ],
+      "answer": 3,
+      "expl": "Al-māʿūn désigne l'aide la plus simple : un ustensile, un seau, du sel, un petit service entre voisins. La sourate se termine par ceux « qui refusent l'ustensile » : même les plus petits gestes de solidarité comptent aux yeux d'Allah.",
+      "src": [
+        "Coran 107:7"
+      ],
+      "tags": [
+        "sourate:107"
+      ]
+    },
+    {
+      "id": "cor-t1-0047",
+      "concept": "cor.juz-amma.kawthar",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'al-Kawthar, promis au Prophète ﷺ ?",
+      "choices": [
+        "Une abondance de biens, dont un fleuve",
+        "Une armée d'anges venue l'aider",
+        "Une victoire militaire sur La Mecque",
+        "Une longue vie sans maladie"
+      ],
+      "answer": 0,
+      "expl": "« Nous t'avons accordé l'Abondance (al-Kawthar). » Le Prophète ﷺ a expliqué que c'est un fleuve que son Seigneur lui a promis au Paradis, avec un bien immense. Le verset suivant demande en retour la prière et le sacrifice.",
+      "src": [
+        "Coran 108:1",
+        "Hadith d'Anas ibn Mālik — Muslim"
+      ],
+      "ar": {
+        "text": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+        "tr": "innā aʿṭaynāka l-kawthar",
+        "pr": "in-nâ aʿ-tay-nâ-kal-kaw-thar",
+        "fr": "Nous t'avons accordé l'Abondance"
+      },
+      "tags": [
+        "sourate:108"
+      ]
+    },
+    {
+      "id": "cor-t1-0048",
+      "concept": "cor.juz-amma.kawthar",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "vf",
+      "q": "La sourate al-Kawthar a consolé le Prophète ﷺ, que ses ennemis disaient « sans postérité » après la mort de ses fils.",
+      "answer": true,
+      "expl": "Les fils du Prophète ﷺ moururent en bas âge, et certains Mecquois le disaient abtar, « coupé », sans descendance. La sourate répond : « C'est celui qui te hait qui sera sans postérité. » Aujourd'hui, son nom est prononcé des milliards de fois chaque jour.",
+      "src": [
+        "Coran 108:3"
+      ],
+      "tags": [
+        "sourate:108"
+      ]
+    },
+    {
+      "id": "cor-t1-0049",
+      "concept": "cor.juz-amma.kafirun",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "trou",
+      "q": "Sourate al-Kāfirūn : « À vous votre ___, et à moi la mienne. »",
+      "choices": [
+        "voie",
+        "religion",
+        "récompense",
+        "terre"
+      ],
+      "answer": 1,
+      "expl": "Les chefs de Quraysh avaient proposé au Prophète ﷺ d'adorer leurs idoles une année, et Allah l'année suivante. La sourate refuse tout mélange dans l'adoration, tout en posant une coexistence : chacun sa religion. Elle est récitée souvent dans les deux rak'at du Fajr.",
+      "src": [
+        "Coran 109:6"
+      ],
+      "ar": {
+        "text": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "tr": "lakum dīnukum wa liya dīn",
+        "pr": "la-koum dî-nou-koum wa li-ya dîn",
+        "fr": "à vous votre religion, et à moi ma religion"
+      },
+      "tags": [
+        "sourate:109"
+      ]
+    },
+    {
+      "id": "cor-t1-0050",
+      "concept": "cor.juz-amma.kafirun",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de versets courts composent la sourate al-Kāfirūn (109) ?",
+      "answer": 6,
+      "expl": "Six versets, qui répètent avec force : je n'adore pas ce que vous adorez, et vous n'adorez pas ce que j'adore. La répétition marque la fermeté sur le tawḥīd, sans agressivité.",
+      "src": [
+        "Coran 109:1-6"
+      ],
+      "tags": [
+        "sourate:109"
+      ]
+    },
+    {
+      "id": "cor-t1-0051",
+      "concept": "cor.juz-amma.nasr",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De quelle victoire parle la sourate an-Naṣr ?",
+      "choices": [
+        "La victoire de Badr",
+        "La bataille d'Uḥud",
+        "La conquête de La Mecque",
+        "La paix de Ḥudaybiya"
+      ],
+      "answer": 2,
+      "expl": "« Quand vient le secours d'Allah ainsi que la victoire, et que tu vois les gens entrer en foule dans la religion d'Allah… » Après la conquête de La Mecque, les tribus arabes vinrent en délégations embrasser l'islam. La réaction demandée n'est pas l'orgueil, mais la louange et la demande de pardon.",
+      "src": [
+        "Coran 110:1-3"
+      ],
+      "tags": [
+        "sourate:110"
+      ]
+    },
+    {
+      "id": "cor-t1-0052",
+      "concept": "cor.juz-amma.nasr",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "vf",
+      "q": "Ibn ʿAbbās comprenait la sourate an-Naṣr comme l'annonce de la fin prochaine de la vie du Prophète ﷺ.",
+      "answer": true,
+      "expl": "ʿUmar interrogea les Compagnons sur cette sourate ; le jeune Ibn ʿAbbās répondit qu'elle annonçait le terme de la vie du Prophète ﷺ : sa mission étant accomplie, il devait se préparer à rencontrer son Seigneur. ʿUmar approuva.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari"
+      ],
+      "tags": [
+        "sourate:110"
+      ]
+    },
+    {
+      "id": "cor-t1-0053",
+      "concept": "cor.juz-amma.masad",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De qui parle la sourate al-Masad (ou al-Lahab) ?",
+      "choices": [
+        "D'Abū Ṭālib, oncle protecteur du Prophète ﷺ",
+        "De Pharaon et de Hāmān",
+        "D'Abraha, le roi de l'Éléphant",
+        "D'Abū Lahab, oncle du Prophète ﷺ, et de sa femme"
+      ],
+      "answer": 3,
+      "expl": "Abū Lahab, oncle du Prophète ﷺ, fut l'un de ses ennemis les plus acharnés, et sa femme semait des épines sur son chemin. La sourate annonce leur perte. Abū Ṭālib, l'autre oncle, protégea au contraire son neveu toute sa vie.",
+      "src": [
+        "Coran 111:1-5"
+      ],
+      "tags": [
+        "sourate:111"
+      ]
+    },
+    {
+      "id": "cor-t1-0054",
+      "concept": "cor.juz-amma.falaq",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Contre quoi la sourate al-Falaq fait-elle chercher refuge ?",
+      "choices": [
+        "Le mal des créatures, de la nuit et de l'envieux",
+        "La faim, la soif et la fatigue du voyage",
+        "Les ennemis de l'islam et leurs armées",
+        "La pauvreté et les dettes"
+      ],
+      "answer": 0,
+      "expl": "« Dis : je cherche refuge auprès du Seigneur de l'aube naissante, contre le mal de ce qu'Il a créé, contre le mal de l'obscurité quand elle s'étend, contre le mal de celles qui soufflent sur les nœuds, et contre le mal de l'envieux quand il envie. » Une protection complète contre les maux extérieurs.",
+      "src": [
+        "Coran 113:1-5"
+      ],
+      "ar": {
+        "text": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+        "tr": "qul aʿūdhu bi-rabbi l-falaq",
+        "pr": "qoul a-ʿoû-dhou bi-rab-bil-fa-laq",
+        "fr": "Dis : je cherche refuge auprès du Seigneur de l'aube naissante"
+      },
+      "tags": [
+        "sourate:113"
+      ]
+    },
+    {
+      "id": "cor-t1-0055",
+      "concept": "cor.juz-amma.nas",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Contre quel mal la sourate an-Nās fait-elle chercher refuge ?",
+      "choices": [
+        "Les animaux sauvages et les serpents",
+        "Le tentateur qui souffle le mal dans les cœurs",
+        "Les maladies et les épidémies",
+        "Les tempêtes et les tremblements de terre"
+      ],
+      "answer": 1,
+      "expl": "An-Nās invoque Allah par trois noms (Seigneur, Roi et Dieu des hommes) contre « le mal du mauvais conseiller furtif (al-waswās al-khannās), qui souffle le mal dans les poitrines des hommes, qu'il soit djinn ou humain ». Al-Falaq protège des maux extérieurs, an-Nās des maux intérieurs.",
+      "src": [
+        "Coran 114:1-6"
+      ],
+      "ar": {
+        "text": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+        "tr": "min sharri l-waswāsi l-khannās",
+        "pr": "min char-ril-was-wâ-sil-khan-nâs",
+        "fr": "contre le mal du mauvais conseiller furtif"
+      },
+      "tags": [
+        "sourate:114"
+      ]
+    },
+    {
+      "id": "cor-t1-0056",
+      "concept": "cor.juz-amma.nas",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe les trois qualités d'Allah citées au début de la sourate an-Nās.",
+      "pairs": [
+        [
+          "Rabb an-nās",
+          "Le Seigneur des hommes"
+        ],
+        [
+          "Malik an-nās",
+          "Le Roi des hommes"
+        ],
+        [
+          "Ilāh an-nās",
+          "Le Dieu des hommes"
+        ]
+      ],
+      "expl": "La sourate an-Nās invoque Allah comme Seigneur (Celui qui crée et prend soin), Roi (Celui qui gouverne) et Dieu (Celui qui seul est adoré) des hommes. On y retrouve les trois aspects du tawḥīd.",
+      "src": [
+        "Coran 114:1-3"
+      ],
+      "tags": [
+        "sourate:114"
+      ],
+      "pron": {
+        "Rabb an-nās": "rab-bin-nâs",
+        "Malik an-nās": "ma-li-kin-nâs",
+        "Ilāh an-nās": "i-lâ-hin-nâs"
+      }
+    },
+    {
+      "id": "cor-t1-0057",
+      "concept": "cor.juz-amma.muawwidhatayn",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le Prophète ﷺ, avant de dormir, récitait al-Ikhlāṣ, al-Falaq et an-Nās, soufflait dans ses mains et les passait sur son corps.",
+      "answer": true,
+      "expl": "ʿĀʾisha rapporte que chaque soir, il joignait ses mains, y soufflait en récitant ces trois sourates, puis les passait sur tout le corps qu'il pouvait atteindre, en commençant par la tête et le visage, trois fois. Un geste simple pour se confier à Allah chaque nuit.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari"
+      ],
+      "tags": [
+        "sourate:112",
+        "sourate:113",
+        "sourate:114"
+      ]
+    },
+    {
+      "id": "cor-t1-0058",
+      "concept": "cor.juz-amma.qsj-kafirun",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qsj",
+      "q": "Qui suis-je ?",
+      "clues": [
+        "J'ai été révélée en réponse à une proposition de compromis sur l'adoration.",
+        "Je compte six versets.",
+        "Je me termine par : « À vous votre religion, et à moi ma religion. »"
+      ],
+      "choices": [
+        "An-Naṣr",
+        "Al-Māʿūn",
+        "Al-Kāfirūn",
+        "Al-Ikhlāṣ"
+      ],
+      "answer": 2,
+      "expl": "C'est la sourate al-Kāfirūn (109). Le Prophète ﷺ la récitait souvent avec al-Ikhlāṣ dans les deux rak'at avant le Ṣubḥ. Elle affirme la pureté de l'adoration et le respect des choix de chacun.",
+      "src": [
+        "Coran 109:1-6"
+      ],
+      "tags": [
+        "sourate:109"
+      ]
+    },
+    {
+      "id": "cor-t1-0059",
+      "concept": "cor.juz-amma.qsj-fil",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qsj",
+      "q": "Qui suis-je ?",
+      "clues": [
+        "Je raconte un événement survenu l'année de la naissance du Prophète ﷺ.",
+        "On y voit des oiseaux envoyés par nuées.",
+        "Mon nom est celui d'un grand animal."
+      ],
+      "choices": [
+        "Quraysh",
+        "Al-Falaq",
+        "Al-Masad",
+        "Al-Fīl"
+      ],
+      "answer": 3,
+      "expl": "C'est la sourate al-Fīl (105), qui raconte la destruction de l'armée d'Abraha et de ses éléphants devant La Mecque. La sourate suivante, Quraysh, lui fait suite : la protection de la Kaʿba a permis aux Quraysh de vivre en sécurité.",
+      "src": [
+        "Coran 105:1-5"
+      ],
+      "tags": [
+        "sourate:105"
+      ]
+    },
+    {
+      "id": "cor-t1-0060",
+      "concept": "cor.recits.caverne",
+      "domain": "coran",
+      "sub": "recits",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que raconte l'histoire des « gens de la Caverne » (sourate al-Kahf) ?",
+      "choices": [
+        "Des jeunes croyants endormis plus de trois siècles",
+        "Des prophètes réfugiés dans une grotte pour prier",
+        "Une armée cachée dans une grotte pour attaquer",
+        "Des marchands perdus dans le désert pendant des années"
+      ],
+      "answer": 0,
+      "expl": "Fuyant un roi qui les forçait à adorer des idoles, des jeunes gens se réfugièrent dans une grotte avec leur chien. Allah les fit dormir 309 ans, puis les réveilla, comme un signe de la Résurrection. Le mur contre Gog et Magog est une autre histoire de la même sourate, celle de Dhū l-Qarnayn.",
+      "src": [
+        "Coran 18:9-26"
+      ],
+      "tags": [
+        "sourate:18"
+      ]
+    },
+    {
+      "id": "cor-t1-0061",
+      "concept": "cor.recits.caverne",
+      "domain": "coran",
+      "sub": "recits",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien d'années les gens de la Caverne ont-ils dormi, selon le Coran ?",
+      "answer": 309,
+      "unit": "ans",
+      "expl": "« Ils demeurèrent dans leur caverne trois cents ans, et en ajoutèrent neuf. » Les savants notent que 300 années solaires correspondent à peu près à 309 années lunaires. Le Coran ajoute : « Allah sait mieux combien de temps ils y demeurèrent. »",
+      "src": [
+        "Coran 18:25"
+      ],
+      "tags": [
+        "sourate:18"
+      ]
+    },
+    {
+      "id": "cor-t1-0062",
+      "concept": "cor.recits.kahf-vendredi",
+      "domain": "coran",
+      "sub": "recits",
+      "tier": 1,
+      "type": "vf",
+      "q": "Il est recommandé de lire la sourate al-Kahf le vendredi.",
+      "answer": true,
+      "expl": "Des hadiths jugés authentiques par plusieurs savants rapportent que celui qui lit al-Kahf le vendredi est éclairé d'une lumière jusqu'au vendredi suivant. Le Prophète ﷺ a aussi dit que mémoriser ses dix premiers versets protège du Dajjāl.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Hakim",
+        "Hadith d'Abū d-Dardāʾ — Muslim"
+      ],
+      "tags": [
+        "sourate:18"
+      ]
+    },
+    {
+      "id": "cor-t1-0063",
+      "concept": "cor.recits.salih",
+      "domain": "coran",
+      "sub": "recits",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel signe Allah donna-t-il au peuple de Thamūd par l'intermédiaire du prophète Ṣāliḥ ?",
+      "choices": [
+        "Un feu qui ne brûlait pas",
+        "Une chamelle, qu'ils devaient laisser en paix",
+        "Un bâton qui se changeait en serpent",
+        "Une arche"
+      ],
+      "answer": 1,
+      "expl": "Ṣāliḥ demanda à son peuple de laisser paître en paix la « chamelle d'Allah » et de partager l'eau avec elle. Ils la tuèrent par défi, et furent anéantis par un cri terrible. Le bâton est le signe de Mūsā, l'arche celui de Nūḥ, le feu celui d'Ibrāhīm.",
+      "src": [
+        "Coran 7:73-79",
+        "Coran 91:11-15"
+      ],
+      "tags": [
+        "prophete:salih"
+      ]
+    },
+    {
+      "id": "cor-t1-0064",
+      "concept": "cor.recits.pharaon",
+      "domain": "coran",
+      "sub": "recits",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit le Coran à propos du corps de Pharaon, noyé en poursuivant Mūsā ?",
+      "choices": [
+        "Il fut emporté au fond de la mer",
+        "Il fut enterré dans une pyramide",
+        "Allah l'a préservé comme signe",
+        "Il fut brûlé par son peuple"
+      ],
+      "answer": 2,
+      "expl": "« Aujourd'hui, Nous allons épargner ton corps, afin que tu deviennes un signe pour tes successeurs. » Pharaon, qui avait dit « Je suis votre seigneur suprême », se noya en poursuivant les fils d'Israël, et ne se soumit qu'au moment où il était trop tard.",
+      "src": [
+        "Coran 10:90-92",
+        "Coran 79:24"
+      ],
+      "tags": [
+        "prophete:musa",
+        "sourate:10"
+      ]
+    },
+    {
+      "id": "cor-t1-0065",
+      "concept": "cor.structure.mushaf-maroc",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel muṣḥaf officiel, calligraphié en écriture maghribī selon la lecture de Warsh, a été publié au Maroc en 2010 ?",
+      "choices": [
+        "Le muṣḥaf d'al-Azhar",
+        "Le Muṣḥaf Muḥammadī",
+        "Le muṣḥaf de Médine",
+        "Le muṣḥaf de ʿUthmān original"
+      ],
+      "answer": 1,
+      "expl": "Le Muṣḥaf Muḥammadī, réalisé par une fondation royale, a été calligraphié par des artistes marocains et distribué dans les mosquées du royaume. Il respecte la lecture de Warsh et l'écriture maghribī traditionnelle."
+    },
+    {
+      "id": "cor-t1-0066",
+      "concept": "cor.fatiha.fiche-texte",
+      "domain": "coran",
+      "sub": "fatiha",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Al-Fātiḥa, l'Ouverture (sourate 1)",
+      "points": [
+        "7 versets, la « Mère du Livre »",
+        "Obligatoire dans chaque rak'a",
+        "On l'apprend en premier, verset par verset"
+      ],
+      "expl": "C'est la sourate la plus importante : on la récite dans chaque rak'a, au moins 17 fois par jour. Elle résume tout le Coran : louange, miséricorde, Jour dernier, adoration, demande de guidance. On termine par « Āmīn ».",
+      "src": [
+        "Coran 1:1-7"
+      ],
+      "ar": {
+        "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِينَ ۝ الرَّحْمٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        "tr": "bismi Llāhi r-raḥmāni r-raḥīm · al-ḥamdu li-Llāhi rabbi l-ʿālamīn · ar-raḥmāni r-raḥīm · māliki yawmi d-dīn · iyyāka naʿbudu wa iyyāka nastaʿīn · ihdinā ṣ-ṣirāṭa l-mustaqīm · ṣirāṭa lladhīna anʿamta ʿalayhim ghayri l-maghḍūbi ʿalayhim wa lā ḍ-ḍāllīn",
+        "pr": "bis-mil-lâ-hir-rah-mâ-nir-ra-hîm · al-ham-dou lil-lâ-hi rab-bil-ʿâ-la-mîn · ar-rah-mâ-nir-ra-hîm · mâ-li-ki yaw-mid-dîn · iy-yâ-ka naʿ-bou-dou wa iy-yâ-ka nas-ta-ʿîn · ih-di-nas-si-râ-tal-mous-ta-qîm · si-râ-tal-la-dhî-na an-ʿam-ta ʿa-lay-him ghay-ril-magh-doû-bi ʿa-lay-him wa lad-dâl-lîn",
+        "fr": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux. Louange à Allah, Seigneur des mondes, le Tout Miséricordieux, le Très Miséricordieux, Maître du Jour de la Rétribution. C'est Toi seul que nous adorons, et c'est Toi seul dont nous implorons le secours. Guide-nous sur le droit chemin, le chemin de ceux que Tu as comblés de faveurs, non de ceux qui ont encouru la colère, ni des égarés."
+      },
+      "note": "Au Maroc, on récite selon Warsh : « maliki yawmi d-dīn » (Roi du Jour…) et quelques petites différences de prononciation ; les deux lectures sont authentiques.",
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cor-t1-0067",
+      "concept": "cor.juz-amma.ikhlas-texte",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Al-Ikhlāṣ, le Monothéisme pur (sourate 112)",
+      "points": [
+        "Allah est Unique",
+        "Tous ont besoin de Lui, Il n'a besoin de rien",
+        "Ni père ni fils, et rien ne Lui est égal"
+      ],
+      "expl": "Quatre versets qui valent un tiers du Coran, selon le Prophète ﷺ : toute la croyance en Allah y est résumée. C'est souvent la première sourate qu'on apprend après la Fātiḥa.",
+      "src": [
+        "Coran 112:1-4"
+      ],
+      "ar": {
+        "text": "قُلْ هُوَ اللّٰهُ أَحَدٌ ۝ اللّٰهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+        "tr": "qul huwa Llāhu aḥad · Allāhu ṣ-ṣamad · lam yalid wa lam yūlad · wa lam yakun lahu kufuwan aḥad",
+        "pr": "qoul hou-wal-lâ-hou a-had · al-lâ-hous-sa-mad · lam ya-lid wa lam yoû-lad · wa lam ya-koun la-hou kou-fou-wan a-had",
+        "fr": "Dis : Il est Allah, Unique. Allah, le Seul à être imploré pour ce que nous désirons. Il n'a jamais engendré, n'a pas été engendré, et nul n'est égal à Lui."
+      },
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cor-t1-0068",
+      "concept": "cor.juz-amma.falaq-texte",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Al-Falaq, l'Aube naissante (sourate 113)",
+      "points": [
+        "Refuge auprès du Seigneur de l'aube",
+        "Contre le mal des créatures et de la nuit",
+        "Contre la sorcellerie et l'envieux"
+      ],
+      "expl": "Avec an-Nās, c'est l'une des deux « protectrices » (al-muʿawwidhatān). On les récite matin et soir, après chaque prière et avant de dormir. Al-Falaq protège surtout des maux venant de l'extérieur.",
+      "src": [
+        "Coran 113:1-5"
+      ],
+      "ar": {
+        "text": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِنْ شَرِّ مَا خَلَقَ ۝ وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "tr": "qul aʿūdhu bi-rabbi l-falaq · min sharri mā khalaq · wa min sharri ghāsiqin idhā waqab · wa min sharri n-naffāthāti fī l-ʿuqad · wa min sharri ḥāsidin idhā ḥasad",
+        "pr": "qoul a-ʿoû-dhou bi-rab-bil-fa-laq · min char-ri mâ kha-laq · wa min char-ri ghâ-si-qin i-dhâ wa-qab · wa min char-rin-naf-fâ-thâ-ti fil-ʿou-qad · wa min char-ri hâ-si-din i-dhâ ha-sad",
+        "fr": "Dis : Je cherche protection auprès du Seigneur de l'aube naissante, contre le mal des êtres qu'Il a créés, contre le mal de l'obscurité quand elle s'approfondit, contre le mal de celles qui soufflent sur les nœuds, et contre le mal de l'envieux quand il envie."
+      },
+      "tags": [
+        "sourate:113"
+      ]
+    },
+    {
+      "id": "cor-t1-0069",
+      "concept": "cor.juz-amma.nas-texte",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "fiche",
+      "q": "An-Nās, les Hommes (sourate 114)",
+      "points": [
+        "Seigneur, Roi et Dieu des hommes",
+        "Contre le tentateur qui chuchote puis se cache",
+        "Qu'il soit djinn ou humain"
+      ],
+      "expl": "La dernière sourate du Coran. Elle protège surtout des maux intérieurs : les mauvaises pensées et suggestions que le Shayṭān souffle dans le cœur. On l'invoque par trois noms d'Allah : Seigneur, Roi et Dieu des hommes.",
+      "src": [
+        "Coran 114:1-6"
+      ],
+      "ar": {
+        "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝ إِلٰهِ النَّاسِ ۝ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ",
+        "tr": "qul aʿūdhu bi-rabbi n-nās · maliki n-nās · ilāhi n-nās · min sharri l-waswāsi l-khannās · alladhī yuwaswisu fī ṣudūri n-nās · mina l-jinnati wa n-nās",
+        "pr": "qoul a-ʿoû-dhou bi-rab-bin-nâs · ma-li-kin-nâs · i-lâ-hin-nâs · min char-ril-was-wâ-sil-khan-nâs · al-la-dhî you-was-wi-sou fî sou-doû-rin-nâs · mi-nal-jin-na-ti wan-nâs",
+        "fr": "Dis : Je cherche protection auprès du Seigneur des hommes, le Roi des hommes, le Dieu des hommes, contre le mal du mauvais conseiller, furtif, qui souffle le mal dans les poitrines des hommes, qu'il soit djinn ou humain."
+      },
+      "tags": [
+        "sourate:114"
+      ]
+    },
+    {
+      "id": "cor-t1-0070",
+      "concept": "cor.juz-amma.kawthar-texte",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Al-Kawthar, l'Abondance (sourate 108)",
+      "points": [
+        "3 versets seulement",
+        "Al-Kawthar : un fleuve au Paradis",
+        "« Prie et sacrifie pour ton Seigneur »"
+      ],
+      "expl": "La plus courte sourate du Coran, idéale pour débuter dans la prière. Elle console le Prophète ﷺ en lui promettant al-Kawthar, un fleuve du Paradis, et lui demande en retour la prière et le sacrifice.",
+      "src": [
+        "Coran 108:1-3"
+      ],
+      "ar": {
+        "text": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ ۝ فَصَلِّ لِرَبِّكَ وَانْحَرْ ۝ إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+        "tr": "innā aʿṭaynāka l-kawthar · fa-ṣalli li-rabbika wa nḥar · inna shāniʾaka huwa l-abtar",
+        "pr": "in-nâ aʿ-tay-nâ-kal-kaw-thar · fa-sal-li li-rab-bi-ka wan-har · in-na châ-ni-ʾa-ka hou-wal-ab-tar",
+        "fr": "Nous t'avons certes accordé l'Abondance. Accomplis donc la prière pour ton Seigneur et sacrifie. Celui qui te hait sera, lui, sans postérité."
+      },
+      "tags": [
+        "sourate:108"
+      ]
+    },
+    {
+      "id": "cor-t1-0071",
+      "concept": "cor.juz-amma.asr-texte",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Al-ʿAṣr, le Temps (sourate 103)",
+      "points": [
+        "Par le Temps : l'homme est en perte",
+        "Sauf ceux qui croient et font le bien",
+        "Et qui s'encouragent à la vérité et à la patience"
+      ],
+      "expl": "Trois versets qui contiennent tout un programme de vie. L'imam ash-Shāfiʿī aurait dit que si les gens ne méditaient que cette sourate, elle leur suffirait.",
+      "src": [
+        "Coran 103:1-3"
+      ],
+      "ar": {
+        "text": "وَالْعَصْرِ ۝ إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "tr": "wa l-ʿaṣr · inna l-insāna la-fī khusr · illā lladhīna āmanū wa ʿamilū ṣ-ṣāliḥāti wa tawāṣaw bi-l-ḥaqqi wa tawāṣaw bi-ṣ-ṣabr",
+        "pr": "wal-ʿasr · in-nal-in-sâ-na la-fî khousr · il-lal-la-dhî-na â-ma-noû wa ʿa-mi-lous-sâ-li-hâ-ti wa ta-wâ-saw bil-haq-qi wa ta-wâ-saw bis-sabr",
+        "fr": "Par le Temps ! L'homme est certes en perdition, sauf ceux qui croient, accomplissent les bonnes œuvres, s'enjoignent mutuellement la vérité et s'enjoignent mutuellement la patience."
+      },
+      "tags": [
+        "sourate:103"
+      ]
+    },
+    {
+      "id": "cor-t1-0072",
+      "concept": "cor.juz-amma.nasr-texte",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "fiche",
+      "q": "An-Naṣr, le Secours (sourate 110)",
+      "points": [
+        "La victoire vient d'Allah",
+        "Les gens entrent dans l'islam en foule",
+        "Réponse : louange et demande de pardon"
+      ],
+      "expl": "Révélée vers la fin de la vie du Prophète ﷺ, après la conquête de La Mecque. Elle enseigne qu'au moment de la victoire, on ne s'enorgueillit pas : on glorifie Allah et on Lui demande pardon.",
+      "src": [
+        "Coran 110:1-3"
+      ],
+      "ar": {
+        "text": "إِذَا جَاءَ نَصْرُ اللّٰهِ وَالْفَتْحُ ۝ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللّٰهِ أَفْوَاجًا ۝ فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا",
+        "tr": "idhā jāʾa naṣru Llāhi wa l-fatḥ · wa raʾayta n-nāsa yadkhulūna fī dīni Llāhi afwājā · fa-sabbiḥ bi-ḥamdi rabbika wa staghfirh, innahu kāna tawwābā",
+        "pr": "i-dhâ jâ-ʾa nas-roul-lâ-hi wal-fath · wa ra-ʾay-tan-nâ-sa yad-khou-loû-na fî dî-nil-lâ-hi af-wâ-jâ · fa-sab-bih bi-ham-di rab-bi-ka was-tagh-fir-h, in-na-hou kâ-na taw-wâ-bâ",
+        "fr": "Lorsque vient le secours d'Allah ainsi que la victoire, et que tu vois les gens entrer en foule dans la religion d'Allah, alors glorifie ton Seigneur par Sa louange et implore Son pardon : Il est Celui qui accueille toujours le repentir."
+      },
+      "tags": [
+        "sourate:110"
+      ]
+    },
+    {
+      "id": "cor-t1-0073",
+      "concept": "cor.juz-amma.kafirun-texte",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Al-Kāfirūn, les Mécréants (sourate 109)",
+      "points": [
+        "Pas de mélange dans l'adoration",
+        "Respect : chacun sa religion",
+        "Récitée dans les 2 rak'at avant le Ṣubḥ"
+      ],
+      "expl": "Révélée quand Quraysh proposa d'alterner les cultes. Elle affirme fermement le tawḥīd tout en posant la coexistence : « À vous votre religion, à moi ma religion. » On la récite souvent avec al-Ikhlāṣ.",
+      "src": [
+        "Coran 109:1-6"
+      ],
+      "ar": {
+        "text": "قُلْ يَا أَيُّهَا الْكَافِرُونَ ۝ لَا أَعْبُدُ مَا تَعْبُدُونَ ۝ وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ ۝ وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ ۝ وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ ۝ لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "tr": "qul yā ayyuhā l-kāfirūn · lā aʿbudu mā taʿbudūn · wa lā antum ʿābidūna mā aʿbud · wa lā ana ʿābidun mā ʿabadtum · wa lā antum ʿābidūna mā aʿbud · lakum dīnukum wa liya dīn",
+        "pr": "qoul yâ ay-you-hal-kâ-fi-roûn · lâ aʿ-bou-dou mâ taʿ-bou-doûn · wa lâ an-toum ʿâ-bi-doû-na mâ aʿ-boud · wa lâ a-na ʿâ-bi-doun mâ ʿa-bad-toum · wa lâ an-toum ʿâ-bi-doû-na mâ aʿ-boud · la-koum dî-nou-koum wa li-ya dîn",
+        "fr": "Dis : Ô vous les mécréants ! Je n'adore pas ce que vous adorez, et vous n'adorez pas ce que j'adore. Je ne suis pas adorateur de ce que vous adorez, et vous n'êtes pas adorateurs de ce que j'adore. À vous votre religion, et à moi ma religion."
+      },
+      "tags": [
+        "sourate:109"
+      ]
+    },
+    {
+      "id": "cor-t1-0074",
+      "concept": "cor.juz-amma.fil-texte",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Al-Fīl, l'Éléphant (sourate 105)",
+      "points": [
+        "L'armée de l'Éléphant d'Abraha",
+        "Des oiseaux par nuées lançant des pierres",
+        "L'année de la naissance du Prophète ﷺ"
+      ],
+      "expl": "Elle raconte l'armée d'Abraha et de ses éléphants, venue détruire la Kaʿba l'année de la naissance du Prophète ﷺ, et anéantie par des oiseaux. Un rappel : Allah protège Sa Maison.",
+      "src": [
+        "Coran 105:1-5"
+      ],
+      "ar": {
+        "text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ ۝ أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ ۝ وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ ۝ تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ ۝ فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+        "tr": "a-lam tara kayfa faʿala rabbuka bi-aṣḥābi l-fīl · a-lam yajʿal kaydahum fī taḍlīl · wa arsala ʿalayhim ṭayran abābīl · tarmīhim bi-ḥijāratin min sijjīl · fa-jaʿalahum ka-ʿaṣfin maʾkūl",
+        "pr": "a-lam ta-ra kay-fa fa-ʿa-la rab-bou-ka bi-as-hâ-bil-fîl · a-lam yaj-ʿal kay-da-houm fî tad-lîl · wa ar-sa-la ʿa-lay-him tay-ran a-bâ-bîl · tar-mî-him bi-hi-jâ-ra-tin min sij-jîl · fa-ja-ʿa-la-houm ka-ʿas-fin maʾ-koûl",
+        "fr": "N'as-tu pas vu comment ton Seigneur a agi envers les gens de l'Éléphant ? N'a-t-Il pas rendu leur ruse complètement vaine ? Il envoya contre eux des oiseaux par nuées, qui leur lançaient des pierres d'argile. Et Il les rendit semblables à de la paille mâchée."
+      },
+      "tags": [
+        "sourate:105"
+      ]
+    },
+    {
+      "id": "cor-t1-0075",
+      "concept": "cor.juz-amma.quraysh-texte",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Quraysh (sourate 106)",
+      "points": [
+        "Les caravanes d'hiver et d'été",
+        "Allah les a nourris et rassurés",
+        "Adorer le Seigneur de la Kaʿba"
+      ],
+      "expl": "Elle suit al-Fīl : grâce à la protection de la Kaʿba, la tribu de Quraysh vivait en sécurité et commerçait l'hiver vers le Yémen, l'été vers la Syrie. En retour, elle doit adorer le Seigneur de cette Maison.",
+      "src": [
+        "Coran 106:1-4"
+      ],
+      "ar": {
+        "text": "لِإِيلَافِ قُرَيْشٍ ۝ إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ ۝ فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِ ۝ الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+        "tr": "li-īlāfi quraysh · īlāfihim riḥlata sh-shitāʾi wa ṣ-ṣayf · fa-l-yaʿbudū rabba hādhā l-bayt · alladhī aṭʿamahum min jūʿin wa āmanahum min khawf",
+        "pr": "li-î-lâ-fi qou-raych · î-lâ-fi-him rih-la-tach-chi-tâ-ʾi was-sayf · fal-yaʿ-bou-doû rab-ba hâ-dhal-bayt · al-la-dhî at-ʿa-ma-houm min joû-ʿin wa â-ma-na-houm min khawf",
+        "fr": "À cause du pacte des Quraysh, leur pacte concernant les voyages d'hiver et d'été, qu'ils adorent donc le Seigneur de cette Maison, qui les a nourris contre la faim et rassurés de la crainte."
+      },
+      "tags": [
+        "sourate:106"
+      ]
+    },
+    {
+      "id": "cor-t1-0076",
+      "concept": "cor.grands-versets.kursi-texte",
+      "domain": "coran",
+      "sub": "grands-versets",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Āyat al-Kursī, le verset du Trône (2:255)",
+      "points": [
+        "Le plus grand verset du Coran",
+        "Après chaque prière et avant de dormir",
+        "Résumé de l'unicité et de la grandeur d'Allah"
+      ],
+      "expl": "Le plus grand verset du Coran selon le Prophète ﷺ. On le récite après chaque prière, le matin, le soir et avant de dormir, pour se placer sous la protection d'Allah. Il décrit Sa vie, Sa science, Sa puissance et Sa royauté.",
+      "src": [
+        "Coran 2:255",
+        "Hadith d'Ubayy ibn Kaʿb — Muslim"
+      ],
+      "ar": {
+        "text": "اللّٰهُ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+        "tr": "Allāhu lā ilāha illā huwa l-ḥayyu l-qayyūm, lā taʾkhudhuhu sinatun wa lā nawm, lahu mā fī s-samāwāti wa mā fī l-arḍ, man dhā lladhī yashfaʿu ʿindahu illā bi-idhnih, yaʿlamu mā bayna aydīhim wa mā khalfahum, wa lā yuḥīṭūna bi-shayʾin min ʿilmihi illā bimā shāʾ, wasiʿa kursiyyuhu s-samāwāti wa l-arḍ, wa lā yaʾūduhu ḥifẓuhumā, wa huwa l-ʿaliyyu l-ʿaẓīm",
+        "pr": "al-lâ-hou lâ i-lâ-ha il-lâ hou-wal-hay-youl-qay-yoûm, lâ taʾ-khou-dhou-hou si-na-toun wa lâ nawm, la-hou mâ fis-sa-mâ-wâ-ti wa mâ fil-ard, man dhal-la-dhî yach-fa-ʿou ʿin-da-hou il-lâ bi-idh-nih, yaʿ-la-mou mâ bay-na ay-dî-him wa mâ khal-fa-houm, wa lâ you-hî-toû-na bi-chay-ʾin min ʿil-mi-hi il-lâ bi-mâ châʾ, wa-si-ʿa kour-siy-you-hous-sa-mâ-wâ-ti wal-ard, wa lâ ya-ʾoû-dou-hou hif-zou-hou-mâ, wa hou-wal-ʿa-liy-youl-ʿa-zîm",
+        "fr": "Allah ! Point de divinité à part Lui, le Vivant, Celui qui subsiste par Lui-même. Ni somnolence ni sommeil ne Le saisissent. À Lui appartient tout ce qui est dans les cieux et sur la terre. Qui peut intercéder auprès de Lui sans Sa permission ? Il connaît leur passé et leur futur, et ils n'embrassent de Sa science que ce qu'Il veut. Son Trône déborde les cieux et la terre, dont la garde ne Lui coûte aucune peine. Et Il est le Très-Haut, l'Immense."
+      },
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cor-t1-0077",
+      "concept": "cor.structure.fiche-chiffres",
+      "domain": "coran",
+      "sub": "structure",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Le Coran en chiffres",
+      "points": [
+        "114 sourates, 6 236 versets (décompte courant)",
+        "30 juzʾ et 60 ḥizb",
+        "Révélé en 23 ans (610-632)",
+        "86 sourates mecquoises, 28 médinoises environ",
+        "Lu au Maroc selon Warsh d'après Nāfiʿ"
+      ],
+      "expl": "Ces repères aident à se situer dans le muṣḥaf. Au Maroc, on récite surtout en ḥizb : deux ḥizb chaque jour à la mosquée (le ḥizb rātib), ce qui fait le Coran entier chaque mois."
+    },
+    {
+      "id": "cor-t1-0078",
+      "concept": "cor.juz-amma.kawthar-trou",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Innā aʿṭaynāka l-___ » : Nous t'avons accordé l'Abondance.",
+      "choices": [
+        "furqān",
+        "kitāb",
+        "kawthar",
+        "fātiḥa"
+      ],
+      "answer": 2,
+      "expl": "Al-Kawthar, l'Abondance : un fleuve du Paradis et tout le bien promis au Prophète ﷺ. Avec trois versets, c'est la sourate idéale pour commencer à varier ses récitations dans la prière.",
+      "src": [
+        "Coran 108:1"
+      ],
+      "tags": [
+        "sourate:108"
+      ]
+    },
+    {
+      "id": "cor-t1-0079",
+      "concept": "cor.juz-amma.asr-trou",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "trou",
+      "q": "Sourate al-ʿAṣr : « Inna l-insāna la-fī ___ » : l'homme est certes en perdition.",
+      "choices": [
+        "naʿīm",
+        "jannāt",
+        "nūr",
+        "khusr"
+      ],
+      "answer": 3,
+      "expl": "Khusr veut dire perte. Le temps qui passe nous rapproche de la fin ; seuls ceux qui croient, agissent bien et s'encouragent à la vérité et à la patience y échappent.",
+      "src": [
+        "Coran 103:2"
+      ],
+      "tags": [
+        "sourate:103"
+      ]
+    },
+    {
+      "id": "cor-t1-0080",
+      "concept": "cor.juz-amma.nas-trou",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "trou",
+      "q": "Sourate an-Nās : « Qul aʿūdhu bi-rabbi n-nās, maliki n-nās, ___ n-nās ».",
+      "choices": [
+        "ilāhi",
+        "rabbi",
+        "ʿabdi",
+        "nūri"
+      ],
+      "answer": 0,
+      "expl": "« Je cherche refuge auprès du Seigneur des hommes, du Roi des hommes, du Dieu (ilāh) des hommes. » Les trois noms correspondent aux trois aspects de l'unicité d'Allah.",
+      "src": [
+        "Coran 114:1-3"
+      ],
+      "tags": [
+        "sourate:114"
+      ]
+    },
+    {
+      "id": "cor-t1-0081",
+      "concept": "cor.juz-amma.ikhlas-trou4",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "trou",
+      "q": "Dernier verset d'al-Ikhlāṣ : « Wa lam yakun lahu ___ aḥad ».",
+      "choices": [
+        "malikun",
+        "kufuwan",
+        "waladun",
+        "rabbun"
+      ],
+      "answer": 1,
+      "expl": "« Et nul n'est égal (kufuw) à Lui. » Rien ni personne ne peut être comparé à Allah. Ce verset clôt la sourate qui résume la foi en l'unicité.",
+      "src": [
+        "Coran 112:4"
+      ],
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cor-t1-0082",
+      "concept": "cor.juz-amma.falaq-trou",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "trou",
+      "q": "Al-Falaq : « … wa min sharri ḥāsidin idhā ___ » : et contre le mal de l'envieux quand il envie.",
+      "choices": [
+        "waqab",
+        "ʿaqad",
+        "ḥasad",
+        "khalaq"
+      ],
+      "answer": 2,
+      "expl": "La sourate se termine par l'envie (ḥasad), source du mauvais œil. On s'en protège en récitant al-Falaq, et en disant « mā shāʾa Llāh » devant ce qui nous plaît chez les autres.",
+      "src": [
+        "Coran 113:5"
+      ],
+      "tags": [
+        "sourate:113"
+      ]
+    },
+    {
+      "id": "cor-t1-0083",
+      "concept": "cor.juz-amma.muawwidhatan",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment appelle-t-on ensemble les sourates al-Falaq et an-Nās ?",
+      "choices": [
+        "Az-zahrāwān, les deux lumineuses",
+        "As-sabʿ al-mathānī",
+        "Al-ḥawāmīm",
+        "Al-muʿawwidhatān, les deux protectrices"
+      ],
+      "answer": 3,
+      "expl": "Muʿawwidhatān vient de ʿawdh, chercher refuge : les deux sourates commencent par « Dis : je cherche refuge… ». Az-zahrāwān désigne al-Baqara et Āl ʿImrān.",
+      "tags": [
+        "sourate:113",
+        "sourate:114"
+      ]
+    },
+    {
+      "id": "cor-t1-0084",
+      "concept": "cor.juz-amma.ordre-courtes",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate vient juste avant al-Ikhlāṣ dans le muṣḥaf ?",
+      "choices": [
+        "Al-Masad",
+        "Al-Falaq",
+        "An-Nās",
+        "Al-Kawthar"
+      ],
+      "answer": 0,
+      "expl": "L'ordre de la fin est : al-Kawthar (108), al-Kāfirūn (109), an-Naṣr (110), al-Masad (111), al-Ikhlāṣ (112), al-Falaq (113), an-Nās (114).",
+      "tags": [
+        "sourate:111",
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cor-t1-0085",
+      "concept": "cor.bases.prescription-lire",
+      "domain": "coran",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que gagne celui qui lit le Coran avec difficulté, en butant sur les mots ?",
+      "choices": [
+        "Aucune récompense",
+        "Une double récompense",
+        "Une demi-récompense",
+        "Un péché"
+      ],
+      "answer": 1,
+      "expl": "« Celui qui lit le Coran avec aisance sera avec les nobles anges scribes ; et celui qui le lit en butant, avec peine, aura deux récompenses. » Les débutants sont donc particulièrement récompensés.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cor-t1-0086",
+      "concept": "cor.adab.ecouter-coran",
+      "domain": "coran",
+      "sub": "adab",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que gagne celui qui écoute le Coran avec attention ?",
+      "choices": [
+        "Rien, il faut réciter",
+        "La moitié d'une prière",
+        "La miséricorde d'Allah",
+        "Une richesse rapide"
+      ],
+      "answer": 2,
+      "expl": "« Quand on lit le Coran, écoutez-le attentivement et faites silence, afin qu'on vous fasse miséricorde » (7:204). Écouter une récitation en voiture ou à la maison est donc aussi un acte d'adoration.",
+      "src": [
+        "Coran 7:204"
+      ],
+      "tags": [
+        "sourate:7"
+      ]
+    },
+    {
+      "id": "cor-t1-0087",
+      "concept": "cor.sourates.fiche-yasin",
+      "domain": "coran",
+      "sub": "sourates",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Sourate Yā-Sīn (36)",
+      "points": [
+        "83 versets, révélée à La Mecque",
+        "Commence par les lettres Yā-Sīn",
+        "L'histoire de l'homme venu du bout de la ville (36:20-27)",
+        "Le verset : « Son ordre, quand Il veut une chose, est de dire : Sois ! et elle est » (36:82)"
+      ],
+      "expl": "Souvent appelée « le cœur du Coran » dans la tradition. Elle parle de l'unicité d'Allah, des signes dans la création, de la résurrection et du Paradis. Au Maroc, on la récite beaucoup, notamment pour les défunts et le vendredi.",
+      "src": [
+        "Coran 36:1-2",
+        "Coran 36:82"
+      ],
+      "ar": {
+        "text": "يسٓ ۝ وَالْقُرْآنِ الْحَكِيمِ",
+        "tr": "yā-sīn, wa l-qurʾāni l-ḥakīm",
+        "pr": "yâ-sîn, wal-qour-ʾâ-nil-ha-kîm",
+        "fr": "Yā-Sīn. Par le Coran plein de sagesse"
+      }
+    },
+    {
+      "id": "cor-t1-0088",
+      "concept": "cor.sourates.fiche-mulk",
+      "domain": "coran",
+      "sub": "sourates",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Sourate al-Mulk (67) : la protectrice",
+      "points": [
+        "30 versets, début du 29e juzʾ",
+        "Thème : la royauté d'Allah et Ses signes",
+        "Protège du châtiment de la tombe selon les hadiths",
+        "À réciter le soir avant de dormir"
+      ],
+      "expl": "Une sourate de 30 versets qui intercède pour celui qui la récite jusqu'à ce qu'il soit pardonné. Le Prophète ﷺ ne dormait pas avant de l'avoir récitée. Bon objectif d'apprentissage après les petites sourates.",
+      "src": [
+        "Hadith d'Abū Hurayra — Abu Dawud, Tirmidhi",
+        "Hadith de Jābir — Tirmidhi"
+      ],
+      "ar": {
+        "text": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "tr": "tabāraka lladhī bi-yadihi l-mulku wa huwa ʿalā kulli shayʾin qadīr",
+        "pr": "ta-bâ-ra-kal-la-dhî bi-ya-di-hil-moul-kou wa hou-wa ʿa-lâ koul-li chay-ʾin qa-dîr",
+        "fr": "Béni soit Celui dans la main de qui est la royauté, et Il est capable de toute chose"
+      }
+    },
+    {
+      "id": "cor-t1-0089",
+      "concept": "cor.sourates.fiche-kahf",
+      "domain": "coran",
+      "sub": "sourates",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Sourate al-Kahf (18) : la lumière du vendredi",
+      "points": [
+        "Les gens de la Caverne : l'épreuve de la foi",
+        "Le propriétaire des deux jardins : l'épreuve de la richesse",
+        "Mūsā et al-Khiḍr : l'épreuve du savoir",
+        "Dhū l-Qarnayn : l'épreuve du pouvoir"
+      ],
+      "expl": "Quatre récits pour quatre épreuves de la vie. La lire le vendredi illumine le croyant d'une lumière jusqu'au vendredi suivant, et ses dix premiers versets protègent du Dajjāl.",
+      "src": [
+        "Hadith d'Abū Saʿīd — Hakim, Bayhaqi",
+        "Hadith d'Abū d-Dardāʾ — Muslim"
+      ]
+    },
+    {
+      "id": "cor-t1-0090",
+      "concept": "cor.grands-versets.fiche-nur",
+      "domain": "coran",
+      "sub": "grands-versets",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Le verset de la Lumière (24:35)",
+      "points": [
+        "Sourate an-Nūr (La Lumière), verset 35",
+        "« Lumière sur lumière. Allah guide vers Sa lumière qui Il veut »"
+      ],
+      "expl": "Un des versets les plus beaux et les plus médités du Coran. Allah y compare Sa lumière à une lampe dans une niche, brillant comme un astre.",
+      "src": [
+        "Coran 24:35"
+      ],
+      "ar": {
+        "text": "اللّٰهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "tr": "Allāhu nūru s-samāwāti wa l-arḍ",
+        "pr": "al-lâ-hou noû-rous-sa-mâ-wâ-ti wal-ard",
+        "fr": "Allah est la Lumière des cieux et de la terre"
+      }
+    },
+    {
+      "id": "cor-t1-0091",
+      "concept": "cor.grands-versets.fiche-baqara-286",
+      "domain": "coran",
+      "sub": "grands-versets",
+      "tier": 1,
+      "type": "fiche",
+      "q": "La fin de sourate al-Baqara (2:285-286)",
+      "points": [
+        "« Seigneur, ne nous châtie pas si nous oublions ou commettons une erreur »",
+        "« Pardonne-nous, fais-nous miséricorde, Tu es notre Maître »"
+      ],
+      "expl": "Ces deux versets furent donnés au Prophète ﷺ lors du Miʿrāj. Celui qui les récite la nuit, ils lui suffisent. Ils se terminent par une magnifique invocation.",
+      "src": [
+        "Coran 2:286",
+        "Hadith d'Abū Masʿūd — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "لَا يُكَلِّفُ اللّٰهُ نَفْسًا إِلَّا وُسْعَهَا",
+        "tr": "lā yukallifu Llāhu nafsan illā wusʿahā",
+        "pr": "lâ you-kal-li-fou l-lâ-hou naf-san il-lâ wous-ʿa-hâ",
+        "fr": "Allah n'impose à aucune âme une charge supérieure à sa capacité"
+      }
+    },
+    {
+      "id": "cor-t1-0092",
+      "concept": "cor.recits.fiche-recits",
+      "domain": "coran",
+      "sub": "recits",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les grands récits du Coran",
+      "points": [
+        "Yūsuf : « la plus belle des histoires » (sourate 12)",
+        "Mūsā et Pharaon : le récit le plus répété",
+        "Maryam et la naissance de ʿĪsā (sourate 19)",
+        "Les gens de la Caverne (sourate 18)",
+        "Luqmān et les conseils à son fils (sourate 31)"
+      ],
+      "expl": "Un tiers du Coran environ raconte des histoires : prophètes, peuples anciens, gens pieux. Ce ne sont pas des contes mais des leçons pour notre vie.",
+      "src": [
+        "Coran 12:3",
+        "Coran 12:111"
+      ]
+    },
+    {
+      "id": "cor-t1-0093",
+      "concept": "cor.revelation.fiche-mecque-medine",
+      "domain": "coran",
+      "sub": "revelation",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Sourates mecquoises et médinoises",
+      "points": [
+        "Mecquoises (86 environ) : foi, unicité, au-delà, récits ; versets courts et puissants",
+        "Médinoises (28 environ) : lois, famille, société, relations avec les autres",
+        "Le muṣḥaf indique pour chaque sourate si elle est mecquoise ou médinoise"
+      ],
+      "expl": "Le Coran fut révélé en 23 ans : 13 à La Mecque, 10 à Médine. Le style change avec les besoins de la communauté."
+    },
+    {
+      "id": "cor-t1-0094",
+      "concept": "cor.sourates.yasin-coeur",
+      "domain": "coran",
+      "sub": "sourates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate la tradition appelle-t-elle souvent « le cœur du Coran » ?",
+      "choices": [
+        "Al-Fātiḥa",
+        "Al-Ikhlāṣ",
+        "Al-Baqara",
+        "Yā-Sīn"
+      ],
+      "answer": 3,
+      "expl": "Ce titre vient d'un hadith rapporté par at-Tirmidhī (dont l'authenticité est discutée). Yā-Sīn reste très aimée et récitée, notamment au Maroc.",
+      "src": [
+        "Hadith d'Anas — Tirmidhi"
+      ]
+    },
+    {
+      "id": "cor-t1-0095",
+      "concept": "cor.sourates.mulk-protectrice",
+      "domain": "coran",
+      "sub": "sourates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate de 30 versets intercède pour son lecteur et protège du châtiment de la tombe ?",
+      "choices": [
+        "Al-Mulk",
+        "Al-Kahf",
+        "Yā-Sīn",
+        "Ar-Raḥmān"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ la récitait chaque nuit avant de dormir. Elle est au début du 29e juzʾ, juste avant le juzʾ ʿAmma qui est le 30e.",
+      "src": [
+        "Hadith d'Abū Hurayra — Abu Dawud, Tirmidhi"
+      ]
+    },
+    {
+      "id": "cor-t1-0096",
+      "concept": "cor.sourates.rahman-refrain",
+      "domain": "coran",
+      "sub": "sourates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate répète 31 fois : « Lequel donc des bienfaits de votre Seigneur nierez-vous ? »",
+      "choices": [
+        "Al-Mulk",
+        "Ar-Raḥmān",
+        "Yā-Sīn",
+        "Al-Wāqiʿa"
+      ],
+      "answer": 1,
+      "expl": "Ar-Raḥmān, « le Tout-Miséricordieux », énumère les bienfaits d'Allah : la création, le Coran, les mers, le Paradis. Les djinns y sont aussi interpellés.",
+      "src": [
+        "Coran 55:13"
+      ],
+      "ar": {
+        "text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "tr": "fa-bi-ayyi ālāʾi rabbikumā tukadhdhibān",
+        "pr": "fa-bi-ay-yi â-lâ-ʾi rab-bi-kou-mâ tou-kadh-dhi-bân",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous tous deux ?"
+      }
+    },
+    {
+      "id": "cor-t1-0097",
+      "concept": "cor.sourates.maryam-nom",
+      "domain": "coran",
+      "sub": "sourates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est la seule femme nommée par son nom dans le Coran ?",
+      "choices": [
+        "Āsiya",
+        "Ḥawwāʾ",
+        "Maryam",
+        "Khadīja"
+      ],
+      "answer": 2,
+      "expl": "Maryam est citée environ 34 fois, plus que dans tout le Nouveau Testament, et une sourate porte son nom. Le Coran la déclare choisie « au-dessus des femmes des mondes » (3:42).",
+      "src": [
+        "Coran 3:42"
+      ]
+    },
+    {
+      "id": "cor-t1-0098",
+      "concept": "cor.sourates.sourate-sans-basmala",
+      "domain": "coran",
+      "sub": "sourates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate ne commence pas par « Bismillāh ar-Raḥmān ar-Raḥīm » ?",
+      "choices": [
+        "Al-Fātiḥa",
+        "Al-Baqara",
+        "Al-Ikhlāṣ",
+        "At-Tawba"
+      ],
+      "answer": 3,
+      "expl": "At-Tawba (le Repentir) commence sans basmala. En compensation, la basmala apparaît deux fois dans an-Naml (27) : au début et dans la lettre de Sulaymān à la reine de Saba."
+    },
+    {
+      "id": "cor-t1-0099",
+      "concept": "cor.sourates.luqman",
+      "domain": "coran",
+      "sub": "sourates",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel sage du Coran donne de beaux conseils à son fils (ne pas associer, honorer ses parents, prier, être humble) ?",
+      "choices": [
+        "Luqmān",
+        "Al-Khiḍr",
+        "Dhū l-Qarnayn",
+        "ʿUzayr"
+      ],
+      "answer": 0,
+      "expl": "La sourate 31 porte son nom. Il dit : « Ô mon fils, n'associe rien à Allah, car l'association est une injustice énorme » (31:13). Un modèle d'éducation tout en douceur.",
+      "src": [
+        "Coran 31:12-19"
+      ]
+    },
+    {
+      "id": "cor-t1-0100",
+      "concept": "cor.revelation.progressif",
+      "domain": "coran",
+      "sub": "revelation",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le Coran a été révélé en une seule fois au Prophète ﷺ.",
+      "answer": false,
+      "expl": "Il descendit d'un coup au ciel de ce monde pendant Laylat al-Qadr, puis fut révélé progressivement sur environ 23 ans, selon les événements. Cela aidait les croyants à l'apprendre et à l'appliquer petit à petit.",
+      "src": [
+        "Coran 25:32",
+        "Coran 17:106"
+      ]
+    },
+    {
+      "id": "cor-t1-0101",
+      "concept": "cor.revelation.dernier-verset",
+      "domain": "coran",
+      "sub": "revelation",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel est, selon de nombreux savants, l'un des derniers versets révélés ?",
+      "choices": [
+        "« Lis, au nom de ton Seigneur qui a créé »",
+        "« Et craignez un jour où vous serez ramenés vers Allah »",
+        "« Ô toi, l'enveloppé, lève-toi et avertis »",
+        "« Dis : Il est Allah, l'Unique, Allah le Seul »"
+      ],
+      "answer": 1,
+      "expl": "Ibn ʿAbbās le considérait comme le dernier verset révélé, quelques jours avant la mort du Prophète ﷺ. D'autres citent le verset 5:3 « Aujourd'hui J'ai parachevé pour vous votre religion », révélé à ʿArafa.",
+      "src": [
+        "Coran 2:281",
+        "Coran 5:3"
+      ]
+    },
+    {
+      "id": "cor-t1-0102",
+      "concept": "cor.compilation.abu-bakr",
+      "domain": "coran",
+      "sub": "compilation",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Sous quel calife le Coran a-t-il été rassemblé pour la première fois en un seul volume ?",
+      "choices": [
+        "ʿAlī",
+        "Muʿāwiya",
+        "Abū Bakr",
+        "ʿUthmān"
+      ],
+      "answer": 2,
+      "expl": "Après la mort de nombreux mémorisateurs à la bataille de Yamāma, ʿUmar convainquit Abū Bakr. Zayd ibn Thābit rassembla les feuillets. Plus tard, ʿUthmān fit faire les copies officielles.",
+      "src": [
+        "Hadith de Zayd ibn Thābit — Bukhari"
+      ]
+    },
+    {
+      "id": "cor-t1-0103",
+      "concept": "cor.compilation.huffaz",
+      "domain": "coran",
+      "sub": "compilation",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment le Coran a-t-il surtout été préservé du vivant du Prophète ﷺ ?",
+      "choices": [
+        "Uniquement par écrit, sur du papier",
+        "Seul le Prophète ﷺ le connaissait",
+        "Il n'a été mis par écrit qu'un siècle plus tard",
+        "Par la mémorisation, et par écrit"
+      ],
+      "answer": 3,
+      "expl": "Des centaines de Compagnons le savaient par cœur, et des scribes comme Zayd ibn Thābit l'écrivaient sur des os, du cuir et des feuilles de palmier. Aujourd'hui, des millions de musulmans le connaissent par cœur (ḥuffāẓ).",
+      "src": [
+        "Coran 15:9"
+      ]
+    },
+    {
+      "id": "cor-t1-0104",
+      "concept": "cor.lectures-tajwid.tajwid",
+      "domain": "coran",
+      "sub": "lectures-tajwid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que le tajwīd ?",
+      "choices": [
+        "L'art de bien prononcer chaque lettre",
+        "La traduction du Coran en français",
+        "L'explication des versets difficiles",
+        "La calligraphie des versets"
+      ],
+      "answer": 0,
+      "expl": "Tajwīd vient de « jawwada », embellir. Il fixe la prononciation de chaque lettre, les allongements, les nasalisations, les pauses. On l'apprend avec un professeur, à l'oral."
+    },
+    {
+      "id": "cor-t1-0105",
+      "concept": "cor.lectures-tajwid.warsh-maroc",
+      "domain": "coran",
+      "sub": "lectures-tajwid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle lecture du Coran (riwāya) est la plus utilisée au Maroc ?",
+      "choices": [
+        "Ad-Dūrī",
+        "Warsh, d'après Nāfiʿ",
+        "Ḥafṣ, d'après ʿĀṣim",
+        "Qālūn"
+      ],
+      "answer": 1,
+      "expl": "Le Coran a été transmis par plusieurs lectures authentiques, avec de petites différences de prononciation. Le Maghreb suit Warsh (lecture de Médine), tandis que la majorité du monde suit Ḥafṣ."
+    },
+    {
+      "id": "cor-t1-0106",
+      "concept": "cor.adab.coran-intercede",
+      "domain": "coran",
+      "sub": "adab",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que fera le Coran pour ceux qui le lisent, selon un hadith ?",
+      "choices": [
+        "Il les rendra riches",
+        "Il leur donnera une longue vie",
+        "Il intercédera pour eux",
+        "Il effacera le jeûne"
+      ],
+      "answer": 2,
+      "expl": "« Lisez le Coran, car il viendra le Jour de la Résurrection intercéder pour ses compagnons. » Al-Baqara et Āl ʿImrān viendront comme deux nuages pour protéger leur lecteur.",
+      "src": [
+        "Hadith d'Abū Umāma — Muslim"
+      ]
+    },
+    {
+      "id": "cor-t1-0107",
+      "concept": "cor.adab.maher",
+      "domain": "coran",
+      "sub": "adab",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ de celui qui lit le Coran avec difficulté, en butant sur les mots ?",
+      "choices": [
+        "Il ne doit pas lire",
+        "Il n'a pas de récompense",
+        "Il doit attendre de le maîtriser",
+        "Il a une double récompense"
+      ],
+      "answer": 3,
+      "expl": "« Celui qui récite le Coran avec aisance sera avec les nobles anges scribes ; celui qui le lit en bégayant, avec difficulté, aura deux récompenses. » Très encourageant pour un débutant !",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cor-t1-0108",
+      "concept": "cor.bases.dix-bonnes",
+      "domain": "coran",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Combien de bonnes actions vaut chaque lettre lue du Coran ?",
+      "choices": [
+        "Dix",
+        "Une",
+        "Cent",
+        "Mille"
+      ],
+      "answer": 0,
+      "expl": "« Celui qui lit une lettre du Livre d'Allah a une bonne action, et la bonne action vaut dix fois autant. Je ne dis pas que alif-lām-mīm est une lettre : alif est une lettre, lām est une lettre, mīm est une lettre. »",
+      "src": [
+        "Hadith d'Ibn Masʿūd — Tirmidhi"
+      ]
+    },
+    {
+      "id": "cor-t1-0109",
+      "concept": "cor.juz-amma.asr-sens",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De quoi parle la sourate al-ʿAṣr ?",
+      "choices": [
+        "Le temps des prières de la journée",
+        "L'homme est en perte, sauf les croyants qui s'entraident",
+        "La création du ciel et de la terre en six jours",
+        "L'histoire du peuple de ʿĀd"
+      ],
+      "answer": 1,
+      "expl": "L'imam ash-Shāfiʿī disait que si les gens méditaient seulement cette sourate, elle leur suffirait. Trois versets, tout un programme de vie.",
+      "src": [
+        "Coran 103"
+      ]
+    },
+    {
+      "id": "cor-t1-0110",
+      "concept": "cor.juz-amma.zalzala",
+      "domain": "coran",
+      "sub": "juz-amma",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle sourate décrit la terre qui tremble et révèle tout ce qu'on a fait, même le poids d'un atome ?",
+      "choices": [
+        "Al-Qāriʿa",
+        "At-Takwīr",
+        "Az-Zalzala",
+        "Al-Infiṭār"
+      ],
+      "answer": 2,
+      "expl": "« Quiconque fait un bien du poids d'un atome le verra, et quiconque fait un mal du poids d'un atome le verra » (99:7-8). Aucun bien n'est trop petit.",
+      "src": [
+        "Coran 99:7-8"
+      ],
+      "ar": {
+        "text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "tr": "fa-man yaʿmal mithqāla dharratin khayran yarah",
+        "pr": "fa-man yaʿ-mal mith-qâ-la dhar-ra-tin khay-ran ya-rah",
+        "fr": "Quiconque fait un bien du poids d'un atome le verra"
+      }
+    }
+  ]
+}

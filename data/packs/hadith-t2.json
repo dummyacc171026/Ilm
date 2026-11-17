@@ -1,0 +1,1279 @@
+{
+  "pack": "hadith-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "had-t2-0001",
+      "concept": "had.bases.classification",
+      "domain": "hadith",
+      "sub": "bases",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque terme à son sens dans la science du hadith.",
+      "pairs": [
+        [
+          "Mutawātir",
+          "Rapporté par tant de personnes à chaque génération qu'une erreur collective est impossible"
+        ],
+        [
+          "Āḥād",
+          "Rapporté par un nombre limité de chaînes"
+        ],
+        [
+          "Ḥasan",
+          "Bon, un peu en dessous du ṣaḥīḥ mais acceptable"
+        ],
+        [
+          "Mawḍūʿ",
+          "Forgé, inventé"
+        ]
+      ],
+      "expl": "Les savants classent les hadiths selon le nombre de chaînes (mutawātir, āḥād) et selon leur fiabilité (ṣaḥīḥ, ḥasan, ḍaʿīf, mawḍūʿ). On ne fonde ni croyance ni pratique sur un hadith forgé, et l'on ne le cite pas comme parole du Prophète ﷺ."
+    },
+    {
+      "id": "had-t2-0002",
+      "concept": "had.bases.conditions-sahih",
+      "domain": "hadith",
+      "sub": "bases",
+      "tier": 2,
+      "type": "multi",
+      "q": "Lesquelles font partie des conditions d'un hadith authentique (ṣaḥīḥ) ?",
+      "choices": [
+        "Une chaîne de transmission continue",
+        "Des transmetteurs intègres",
+        "Un texte très long",
+        "Des transmetteurs à la mémoire précise",
+        "L'absence de défaut caché",
+        "Un narrateur célèbre dans sa ville"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Un hadith ṣaḥīḥ a une chaîne ininterrompue, des transmetteurs intègres (ʿadl) et précis (ḍābiṭ), sans contradiction avec plus fiable (shudhūdh) ni défaut caché (ʿilla). Ces critères, élaborés aux premiers siècles, sont d'une rigueur remarquable."
+    },
+    {
+      "id": "had-t2-0003",
+      "concept": "had.bases.mentir",
+      "domain": "hadith",
+      "sub": "bases",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le hadith « Celui qui ment sur moi intentionnellement, qu'il se prépare sa place dans le Feu » est l'un des hadiths les plus largement transmis (mutawātir).",
+      "answer": true,
+      "expl": "Ce hadith est rapporté par plusieurs dizaines de Compagnons. C'est pourquoi les savants ont été si exigeants : attribuer au Prophète ﷺ une parole qu'il n'a pas dite est très grave. Il vaut mieux dire « on rapporte » ou se taire en cas de doute.",
+      "src": [
+        "Hadith d'al-Mughīra ibn Shuʿba — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0004",
+      "concept": "had.recueils.six-livres",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 2,
+      "type": "multi",
+      "q": "Lesquels font partie des « six livres » (al-kutub as-sitta), principaux recueils de hadiths sunnites ?",
+      "choices": [
+        "Le Ṣaḥīḥ d'al-Bukhārī",
+        "Le Ṣaḥīḥ de Muslim",
+        "Le Muwaṭṭaʾ de Mālik",
+        "Les Sunan d'Abū Dāwūd",
+        "Le Jāmiʿ d'at-Tirmidhī",
+        "Riyāḍ aṣ-Ṣāliḥīn"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Les six livres sont : les deux Ṣaḥīḥ (al-Bukhārī, Muslim) et les quatre Sunan (Abū Dāwūd, at-Tirmidhī, an-Nasāʾī, Ibn Mājah). Certains savants placent le Muwaṭṭaʾ à la place d'Ibn Mājah. Riyāḍ aṣ-Ṣāliḥīn est une anthologie d'an-Nawawī."
+    },
+    {
+      "id": "had-t2-0005",
+      "concept": "had.recueils.six-livres",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Combien de recueils composent les « kutub as-sitta » ?",
+      "answer": 6,
+      "expl": "Six : Bukhārī, Muslim, Abū Dāwūd, Tirmidhī, Nasāʾī et Ibn Mājah. Leurs auteurs ont tous vécu au IIIe siècle de l'Hégire, l'âge d'or de la compilation du hadith."
+    },
+    {
+      "id": "had-t2-0006",
+      "concept": "had.recueils.types",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque type de recueil à sa façon d'organiser les hadiths.",
+      "pairs": [
+        [
+          "Ṣaḥīḥ",
+          "Ne retient que des hadiths jugés authentiques"
+        ],
+        [
+          "Sunan",
+          "Classés par chapitres de fiqh (ablutions, prière…)"
+        ],
+        [
+          "Musnad",
+          "Classés par Compagnon narrateur"
+        ]
+      ],
+      "expl": "Le Musnad d'Aḥmad regroupe les hadiths de chaque Compagnon ; les Sunan d'Abū Dāwūd suivent les chapitres du fiqh ; les Ṣaḥīḥ cherchent l'authenticité stricte. Connaître le type de livre aide à chercher un hadith."
+    },
+    {
+      "id": "had-t2-0007",
+      "concept": "had.recueils.fath",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le plus célèbre commentaire du Ṣaḥīḥ d'al-Bukhārī ?",
+      "choices": [
+        "Riyāḍ aṣ-Ṣāliḥīn",
+        "Fatḥ al-Bārī",
+        "Al-Muwaṭṭaʾ",
+        "Ash-Shifāʾ"
+      ],
+      "answer": 1,
+      "expl": "Ibn Ḥajar (mort en 1449), savant égyptien, consacra un quart de siècle à Fatḥ al-Bārī, commentaire monumental d'al-Bukhārī. On disait : « Pas d'Hégire après la conquête », pour dire qu'aucun commentaire ne le surpasserait."
+    },
+    {
+      "id": "had-t2-0008",
+      "concept": "had.recueils.riyad",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le titre de la célèbre anthologie de hadiths sur le comportement composée par an-Nawawī ?",
+      "choices": [
+        "Fatḥ al-Bārī",
+        "Al-Muwaṭṭaʾ",
+        "Riyāḍ aṣ-Ṣāliḥīn",
+        "Al-Adab al-Mufrad"
+      ],
+      "answer": 2,
+      "expl": "Riyāḍ aṣ-Ṣāliḥīn rassemble près de deux mille hadiths classés par thèmes : sincérité, repentir, patience, bon caractère, invocations… C'est l'un des livres les plus lus dans les mosquées et les familles."
+    },
+    {
+      "id": "had-t2-0009",
+      "concept": "had.nawawi.h20-pudeur",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "trou",
+      "q": "Hadith n° 20 : « Parmi ce que les gens ont retenu des paroles des premiers prophètes : si tu n'as pas de ___, fais ce que tu veux. »",
+      "choices": [
+        "argent",
+        "famille",
+        "patience",
+        "pudeur"
+      ],
+      "answer": 3,
+      "expl": "La pudeur (ḥayāʾ) est un frein intérieur : sans elle, on se permet tout. Les savants comprennent aussi : si une action n'est pas honteuse devant Allah, tu peux la faire sans crainte.",
+      "src": [
+        "Hadith d'Abū Masʿūd al-Badrī — Bukhari"
+      ],
+      "tags": [
+        "nawawi:20"
+      ]
+    },
+    {
+      "id": "had-t2-0010",
+      "concept": "had.nawawi.h21-istiqama",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel conseil complet le Prophète ﷺ donna-t-il à Sufyān ibn ʿAbd Allāh, qui demandait une parole sur l'islam qu'il n'aurait à demander à personne d'autre ?",
+      "choices": [
+        "« Dis : je crois en Allah, puis sois droit »",
+        "« Prie la nuit et jeûne le jour »",
+        "« Pars faire le pèlerinage chaque année »",
+        "« Donne tout ton argent aux pauvres »"
+      ],
+      "answer": 0,
+      "expl": "« Qul āmantu bi-Llāhi thumma staqim. » La foi, puis la droiture (istiqāma) constante. Le Coran promet aux croyants droits la descente des anges qui les rassurent (41:30).",
+      "src": [
+        "Hadith de Sufyān ibn ʿAbd Allāh — Muslim"
+      ],
+      "ar": {
+        "text": "قُلْ آمَنْتُ بِاللّٰهِ ثُمَّ اسْتَقِمْ",
+        "tr": "qul āmantu bi-Llāhi thumma staqim",
+        "pr": "qoul â-man-tou bil-lâ-hi thoum-mas-ta-qim",
+        "fr": "dis : je crois en Allah, puis sois droit"
+      },
+      "tags": [
+        "nawawi:21"
+      ]
+    },
+    {
+      "id": "had-t2-0011",
+      "concept": "had.nawawi.h22-suffit",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith n° 22, un homme demanda s'il entrerait au Paradis en faisant les prières obligatoires, en jeûnant Ramadan, en tenant le licite pour licite et l'illicite pour illicite, sans rien de plus ; le Prophète ﷺ répondit oui.",
+      "answer": true,
+      "expl": "Ce hadith rassure : les obligations accomplies avec sincérité suffisent pour le salut. Les actes surérogatoires élèvent les degrés et comblent les manques, mais la base est accessible à tous.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ],
+      "tags": [
+        "nawawi:22"
+      ]
+    },
+    {
+      "id": "had-t2-0012",
+      "concept": "had.nawawi.h24-injustice",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment commence le hadith qudsī n° 24 des Quarante ?",
+      "choices": [
+        "« Ô Mes serviteurs, priez-Moi cinq fois par jour… »",
+        "« Ô Mes serviteurs, Je Me suis interdit l'injustice… »",
+        "« Ô Mes serviteurs, Je suis le Roi des rois… »",
+        "« Ô Mes serviteurs, jeûnez le mois de Ramadan… »"
+      ],
+      "answer": 1,
+      "expl": "Ce long hadith qudsī rapporté par Abū Dharr continue : « Vous êtes tous égarés, sauf celui que Je guide : demandez-Moi la guidance… » Il rappelle notre dépendance totale envers Allah et Sa générosité infinie.",
+      "src": [
+        "Hadith d'Abū Dharr — Muslim"
+      ],
+      "tags": [
+        "nawawi:24"
+      ]
+    },
+    {
+      "id": "had-t2-0013",
+      "concept": "had.nawawi.h25-riches",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Des Compagnons pauvres se plaignirent que les riches obtenaient plus de récompense grâce à leurs aumônes. Que leur répondit le Prophète ﷺ (hadith n° 25) ?",
+      "choices": [
+        "Il leur conseilla d'emprunter pour donner",
+        "Il leur dit que la pauvreté est une punition",
+        "Chaque tasbīḥ et chaque bonne parole est une aumône",
+        "Il leur promit des richesses l'année suivante"
+      ],
+      "answer": 2,
+      "expl": "« Chaque Subḥāna Llāh est une aumône, chaque Allāhu akbar est une aumône… ordonner le bien est une aumône, interdire le mal est une aumône, et même dans l'acte intime de l'un de vous il y a une aumône. » La porte du bien est ouverte à tous.",
+      "src": [
+        "Hadith d'Abū Dharr — Muslim"
+      ],
+      "tags": [
+        "nawawi:25"
+      ]
+    },
+    {
+      "id": "had-t2-0014",
+      "concept": "had.nawawi.h26-articulations",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "multi",
+      "q": "Selon le hadith n° 26, quelles actions comptent comme l'aumône due chaque jour pour chaque articulation du corps ?",
+      "choices": [
+        "Réconcilier deux personnes",
+        "Aider quelqu'un à monter sur sa monture",
+        "Acheter des vêtements neufs",
+        "Dire une bonne parole",
+        "Retirer un obstacle du chemin",
+        "Dormir tard"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "« Chaque articulation des gens doit une aumône chaque jour où le soleil se lève. » Le hadith cite la justice entre deux personnes, l'aide, la bonne parole, chaque pas vers la prière et le retrait d'un obstacle. Le corps entier devient reconnaissant.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "tags": [
+        "nawawi:26"
+      ]
+    },
+    {
+      "id": "had-t2-0015",
+      "concept": "had.nawawi.h27-birr",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ définit-il la piété (al-birr) et le péché dans le hadith n° 27 ?",
+      "choices": [
+        "La piété : prier beaucoup ; le péché : rater une prière",
+        "La piété : être riche ; le péché : être pauvre",
+        "La piété : obéir au roi ; le péché : le contredire",
+        "La piété : le bon caractère ; le péché : ce qui trouble l'âme"
+      ],
+      "answer": 3,
+      "expl": "An-Nawwās ibn Samʿān rapporte cette définition qui fait appel à la conscience. Dans une autre version, le Prophète ﷺ dit à Wābiṣa : « Consulte ton cœur… même si les gens te donnent des avis. »",
+      "src": [
+        "Hadith d'an-Nawwās ibn Samʿān — Muslim"
+      ],
+      "tags": [
+        "nawawi:27"
+      ]
+    },
+    {
+      "id": "had-t2-0016",
+      "concept": "had.nawawi.h28-sunna",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle recommandation le Prophète ﷺ donna-t-il dans un sermon émouvant (hadith n° 28) qui fit pleurer les Compagnons ?",
+      "choices": [
+        "Tenir à sa Sunna et à celle des califes bien guidés",
+        "Partir conquérir de nouvelles terres",
+        "Construire des mosquées dans chaque ville",
+        "Obéir aveuglément à tout gouverneur"
+      ],
+      "answer": 0,
+      "expl": "Al-ʿIrbāḍ ibn Sāriya rapporte un sermon d'adieu : crainte d'Allah, écoute et obéissance, et : « Attachez-vous à ma Sunna et à celle des califes bien guidés, mordez-y avec vos molaires. »",
+      "src": [
+        "Hadith d'al-ʿIrbāḍ ibn Sāriya — Abu Dawud & Tirmidhi"
+      ],
+      "tags": [
+        "nawawi:28"
+      ]
+    },
+    {
+      "id": "had-t2-0017",
+      "concept": "had.nawawi.h29-langue",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À la fin du long hadith n° 29, que conseilla le Prophète ﷺ à Muʿādh en lui montrant sa langue ?",
+      "choices": [
+        "« Ne prie qu'en silence »",
+        "« Retiens ceci »",
+        "« Parle plus fort »",
+        "« Apprends plusieurs langues »"
+      ],
+      "answer": 1,
+      "expl": "Après avoir cité les portes du bien (le jeûne est un bouclier, l'aumône éteint les fautes comme l'eau éteint le feu, la prière de la nuit), il prit sa langue : « Retiens ceci. » Muʿādh s'étonna ; il répondit que la langue est la cause de beaucoup de maux.",
+      "src": [
+        "Hadith de Muʿādh ibn Jabal — Tirmidhi"
+      ],
+      "tags": [
+        "nawawi:29"
+      ]
+    },
+    {
+      "id": "had-t2-0018",
+      "concept": "had.nawawi.h29-jeune",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "trou",
+      "q": "Hadith n° 29 : « Le jeûne est un ___, et l'aumône éteint les fautes comme l'eau éteint le feu. »",
+      "choices": [
+        "repas",
+        "fardeau",
+        "bouclier",
+        "voyage"
+      ],
+      "answer": 2,
+      "expl": "Le jeûne protège comme un bouclier : contre les passions ici-bas et contre le Feu dans l'au-delà. Muʿādh avait demandé quel acte fait entrer au Paradis et éloigne de l'Enfer.",
+      "src": [
+        "Hadith de Muʿādh ibn Jabal — Tirmidhi"
+      ],
+      "tags": [
+        "nawawi:29"
+      ]
+    },
+    {
+      "id": "had-t2-0019",
+      "concept": "had.nawawi.h30-silence",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith n° 30 à propos des choses sur lesquelles Allah a gardé le silence ?",
+      "choices": [
+        "Par oubli : il faut combler ce manque",
+        "Elles sont toutes interdites",
+        "Elles sont toutes obligatoires",
+        "Par miséricorde : ne les recherchez pas"
+      ],
+      "answer": 3,
+      "expl": "« Allah a prescrit des obligations, ne les négligez pas ; fixé des limites, ne les transgressez pas ; interdit des choses, ne les violez pas ; et Il s'est tu sur des choses par miséricorde envers vous, non par oubli, ne les recherchez pas. » Base de la règle : par défaut, les choses sont permises.",
+      "src": [
+        "Hadith d'Abū Thaʿlaba al-Khushanī — Dāraquṭnī, dans les 40 d'an-Nawawī"
+      ],
+      "tags": [
+        "nawawi:30"
+      ]
+    },
+    {
+      "id": "had-t2-0020",
+      "concept": "had.nawawi.narrateurs-2",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque hadith des Quarante à son narrateur.",
+      "pairs": [
+        [
+          "Dis : je crois en Allah, puis sois droit",
+          "Sufyān ibn ʿAbd Allāh"
+        ],
+        [
+          "La piété est le bon caractère",
+          "An-Nawwās ibn Samʿān"
+        ],
+        [
+          "Attachez-vous à ma Sunna",
+          "Al-ʿIrbāḍ ibn Sāriya"
+        ],
+        [
+          "Retiens ta langue",
+          "Muʿādh ibn Jabal"
+        ]
+      ],
+      "expl": "Retenir les narrateurs aide à situer les hadiths. Muʿādh, envoyé au Yémen, a transmis plusieurs conseils intimes du Prophète ﷺ, qui lui dit un jour : « Ô Muʿādh, par Allah, je t'aime. »",
+      "tags": [
+        "nawawi:21",
+        "nawawi:27",
+        "nawawi:28",
+        "nawawi:29"
+      ]
+    },
+    {
+      "id": "had-t2-0021",
+      "concept": "had.celebres.fort",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos du croyant fort ?",
+      "choices": [
+        "Plus aimé d'Allah, et en chacun il y a du bien",
+        "Seul le croyant fort entrera au Paradis",
+        "Le croyant faible n'a aucune valeur",
+        "La force du corps n'a aucun rapport"
+      ],
+      "answer": 0,
+      "expl": "« Le croyant fort est meilleur et plus aimé d'Allah que le croyant faible, et en chacun il y a du bien. Recherche ce qui t'est utile, demande l'aide d'Allah et ne baisse pas les bras. » La force ici est celle de la foi, de la volonté et de l'action.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0022",
+      "concept": "had.celebres.edifice",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quoi le Prophète ﷺ compara-t-il les croyants entre eux ?",
+      "choices": [
+        "À des étoiles dans le ciel",
+        "À un édifice qui se soutient",
+        "À des arbres dans une forêt",
+        "À des vagues de la mer"
+      ],
+      "answer": 1,
+      "expl": "« Le croyant est pour le croyant comme un édifice dont les parties se soutiennent », et il entrecroisa ses doigts. Chacun est une brique : si l'une manque, tout l'édifice est fragilisé.",
+      "src": [
+        "Hadith d'Abū Mūsā al-Ashʿarī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0023",
+      "concept": "had.celebres.remercier",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, qui ne remercie pas Allah ?",
+      "choices": [
+        "Celui qui voyage beaucoup",
+        "Celui qui ne sait pas lire",
+        "Celui qui ne remercie pas les gens",
+        "Celui qui ne prie pas le vendredi"
+      ],
+      "answer": 2,
+      "expl": "« Celui qui ne remercie pas les gens ne remercie pas Allah. » La gratitude envers ceux qui nous font du bien est une partie de la gratitude envers Allah, qui a fait d'eux un moyen de Ses bienfaits.",
+      "src": [
+        "Hadith d'Abū Hurayra — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "had-t2-0024",
+      "concept": "had.celebres.cacher",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promet le hadith à celui qui couvre les fautes d'un musulman ?",
+      "choices": [
+        "Il deviendra très riche",
+        "Il vivra plus longtemps",
+        "Il sera honoré par le roi",
+        "Allah couvrira les siennes"
+      ],
+      "answer": 3,
+      "expl": "« Celui qui couvre un musulman, Allah le couvrira au Jour de la Résurrection. » Ne pas exposer les erreurs des autres, ne pas les répandre sur les réseaux sociaux : une miséricorde qui nous revient.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0025",
+      "concept": "had.celebres.mines",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quoi le Prophète ﷺ compara-t-il les gens, dont les meilleurs avant l'islam restent les meilleurs en islam ?",
+      "choices": [
+        "À des mines d'or et d'argent",
+        "À des arbres fruitiers",
+        "À des étoiles du ciel",
+        "À des chevaux de course"
+      ],
+      "answer": 0,
+      "expl": "« Les gens sont comme des mines d'or et d'argent ; les meilleurs d'entre eux dans la Jāhiliyya sont les meilleurs dans l'islam, s'ils acquièrent la compréhension. » Les qualités naturelles de chacun sont précieuses et l'islam les fait briller.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0026",
+      "concept": "had.celebres.souhaiter-mort",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a interdit de souhaiter la mort à cause d'un malheur qui nous frappe.",
+      "answer": true,
+      "expl": "« Que nul d'entre vous ne souhaite la mort à cause d'un mal qui l'a atteint. S'il doit absolument le faire, qu'il dise : Ô Allah, fais-moi vivre tant que la vie est un bien pour moi, et fais-moi mourir quand la mort est un bien pour moi. »",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0027",
+      "concept": "had.celebres.meilleur-utile",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon un hadith rapporté par aṭ-Ṭabarānī, qui sont les meilleurs des gens ?",
+      "choices": [
+        "Les plus âgés",
+        "Les plus utiles aux gens",
+        "Les plus riches",
+        "Les plus savants seulement"
+      ],
+      "answer": 1,
+      "expl": "« Le meilleur des gens est le plus utile aux gens. » Le hadith continue : l'acte le plus aimé d'Allah est la joie que tu fais entrer dans le cœur d'un musulman, soulager sa peine, payer sa dette ou apaiser sa faim.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Tabarani"
+      ]
+    },
+    {
+      "id": "had-t2-0028",
+      "concept": "had.celebres.liberer",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelles trois actions le Prophète ﷺ ordonna-t-il dans le hadith « Nourrissez l'affamé… » ?",
+      "choices": [
+        "Prier, jeûner et faire le pèlerinage",
+        "Construire, planter et commercer",
+        "Nourrir, visiter le malade, libérer le captif",
+        "Lire, écrire et compter"
+      ],
+      "answer": 2,
+      "expl": "« Nourrissez l'affamé, rendez visite au malade et libérez le captif. » Trois gestes de solidarité concrète, qui résument le souci des plus vulnérables.",
+      "src": [
+        "Hadith d'Abū Mūsā al-Ashʿarī — Bukhari"
+      ]
+    },
+    {
+      "id": "had-t2-0029",
+      "concept": "had.sunna-quotidien.bailler",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que recommande la Sunna quand on bâille ?",
+      "choices": [
+        "Bâiller bruyamment",
+        "Dire « Allāhu akbar »",
+        "Se lever immédiatement",
+        "Se retenir autant que possible et mettre la main devant la bouche"
+      ],
+      "answer": 3,
+      "expl": "« Quand l'un de vous bâille, qu'il mette sa main sur sa bouche, car le Shayṭān entre. » Le bâillement est lié à la lourdeur et à la paresse ; l'éternuement, au contraire, est aimé d'Allah, et l'on dit al-ḥamdu li-Llāh.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "had-t2-0030",
+      "concept": "had.sunna-quotidien.tasbih-fatima",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseilla le Prophète ﷺ à Fāṭima et ʿAlī, qui lui demandaient un serviteur pour alléger leurs tâches ?",
+      "choices": [
+        "Les tasbīḥ avant de dormir (33-33-34)",
+        "Engager une servante de Médine",
+        "Demander de l'aide aux voisins",
+        "Partager les tâches avec les enfants"
+      ],
+      "answer": 0,
+      "expl": "Fāṭima avait les mains abîmées par la meule. Le Prophète ﷺ leur dit que ce dhikr était meilleur pour eux qu'un serviteur. ʿAlī dit qu'il ne l'abandonna plus jamais, même la nuit de Ṣiffīn. On l'appelle le « tasbīḥ de Fāṭima ».",
+      "src": [
+        "Hadith de ʿAlī ibn Abī Ṭālib — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0031",
+      "concept": "had.sunna-quotidien.chaussures",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment met-on et enlève-t-on ses chaussures selon la Sunna ?",
+      "choices": [
+        "Peu importe",
+        "On met d'abord la droite, on enlève d'abord la gauche",
+        "On met d'abord la gauche, on enlève d'abord la droite",
+        "Les deux en même temps"
+      ],
+      "answer": 1,
+      "expl": "« Quand l'un de vous se chausse, qu'il commence par la droite ; quand il se déchausse, qu'il commence par la gauche, afin que la droite soit la première chaussée et la dernière déchaussée. » Le Prophète ﷺ déconseillait aussi de marcher avec une seule chaussure.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0032",
+      "concept": "had.sunna-quotidien.parfum",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ ne refusait jamais un parfum qu'on lui offrait.",
+      "answer": true,
+      "expl": "Anas rapporte qu'il ne refusait jamais le parfum. Il aimait les bonnes odeurs et s'en mettait, surtout le vendredi. Offrir un parfum est un beau cadeau selon la Sunna.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "had-t2-0033",
+      "concept": "had.sunna-quotidien.lit",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseilla le Prophète ﷺ de faire avant de se coucher dans son lit ?",
+      "choices": [
+        "Réciter toute la sourate al-Baqara",
+        "Faire le ghusl avant de dormir",
+        "L'épousseter trois fois, « bismika Rabbī »",
+        "Prier deux rak'at debout près du lit"
+      ],
+      "answer": 2,
+      "expl": "« Quand l'un de vous se rend à son lit, qu'il l'époussette avec le bord de son pagne, car il ne sait pas ce qui s'y est posé après lui. » Une règle d'hygiène simple, accompagnée d'une invocation pour confier son sommeil à Allah.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0034",
+      "concept": "had.sunna-quotidien.souffler",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que déconseilla le Prophète ﷺ de faire avec une boisson ?",
+      "choices": [
+        "La boire froide",
+        "La boire avec la main gauche",
+        "La partager avec un invité",
+        "Souffler ou respirer dedans"
+      ],
+      "answer": 3,
+      "expl": "Ibn ʿAbbās rapporte que le Prophète ﷺ a interdit de respirer dans le récipient ou de souffler dedans. On respire hors du verre, en buvant en trois fois. Une règle d'hygiène que la médecine confirme.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "had-t2-0035",
+      "concept": "had.sunna-quotidien.recipients",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ recommandait de couvrir les récipients et de fermer les portes la nuit en mentionnant le nom d'Allah.",
+      "answer": true,
+      "expl": "« Couvrez les récipients, fermez les outres, fermez les portes, éteignez les lampes en vous couchant… et mentionnez le nom d'Allah. » Sécurité, hygiène et dhikr réunis dans un seul conseil.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0036",
+      "concept": "had.sunna-quotidien.eternuer-voix",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ éternuait-il, selon Abū Hurayra ?",
+      "choices": [
+        "La main devant la bouche, voix basse",
+        "Très fort, pour chasser les démons",
+        "En se levant toujours",
+        "Sans rien dire ensuite"
+      ],
+      "answer": 0,
+      "expl": "Abū Hurayra rapporte qu'il couvrait son visage de la main ou d'un vêtement et étouffait le son. Puis il disait al-ḥamdu li-Llāh. Une politesse qui protège aussi les autres.",
+      "src": [
+        "Hadith d'Abū Hurayra — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "had-t2-0037",
+      "concept": "had.classification.categories",
+      "domain": "hadith",
+      "sub": "classification",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque catégorie de hadith à sa définition.",
+      "pairs": [
+        [
+          "Ṣaḥīḥ",
+          "Authentique : chaîne continue de transmetteurs fiables et précis"
+        ],
+        [
+          "Ḥasan",
+          "Bon : acceptable, transmetteurs un peu moins précis"
+        ],
+        [
+          "Ḍaʿīf",
+          "Faible : un maillon fragile ou une chaîne rompue"
+        ],
+        [
+          "Mawḍūʿ",
+          "Inventé : attribué faussement au Prophète ﷺ"
+        ]
+      ],
+      "expl": "Les savants du hadith ont classé chaque récit selon la fiabilité de sa chaîne (isnād) et de son texte (matn). Ṣaḥīḥ et ḥasan servent de preuve ; le ḍaʿīf ne fonde pas une règle ; le mawḍūʿ est rejeté."
+    },
+    {
+      "id": "had-t2-0038",
+      "concept": "had.classification.mutawatir",
+      "domain": "hadith",
+      "sub": "classification",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'un hadith « mutawātir » ?",
+      "choices": [
+        "Rapporté par un seul transmetteur fiable",
+        "Rapporté par tant de chaînes que l'erreur est impossible",
+        "Un hadith inventé, à rejeter absolument",
+        "Une parole d'un Compagnon, non du Prophète ﷺ"
+      ],
+      "answer": 1,
+      "expl": "« Celui qui ment sur moi délibérément, qu'il prépare sa place dans le Feu » est rapporté par plus de soixante Compagnons : il est mutawātir. Le Coran lui-même est transmis de façon mutawātir. Les autres hadiths sont dits « āḥād »."
+    },
+    {
+      "id": "had-t2-0039",
+      "concept": "had.classification.mawdu",
+      "domain": "hadith",
+      "sub": "classification",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faut-il faire d'un hadith inventé (mawḍūʿ) ?",
+      "choices": [
+        "Le rapporter s'il encourage le bien",
+        "Le garder pour soi sans rien dire",
+        "Ne le rapporter que pour avertir",
+        "Le corriger avant de le transmettre"
+      ],
+      "answer": 2,
+      "expl": "Rapporter un hadith qu'on sait inventé est interdit, même pour une bonne cause : c'est mentir sur le Prophète ﷺ. Les savants ont écrit des livres entiers pour recenser ces faux récits. D'où l'importance de vérifier avant de partager un « hadith » sur les réseaux."
+    },
+    {
+      "id": "had-t2-0040",
+      "concept": "had.classification.daif-usage",
+      "domain": "hadith",
+      "sub": "classification",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disent la plupart des savants à propos de l'usage d'un hadith faible (ḍaʿīf) ?",
+      "choices": [
+        "Il vaut exactement autant qu'un hadith authentique",
+        "Il est toujours inventé et à rejeter",
+        "Il est obligatoire de l'appliquer",
+        "Pas de règle dessus ; parfois pour encourager une vertu"
+      ],
+      "answer": 3,
+      "expl": "Un hadith faible n'établit ni obligation ni interdiction. Beaucoup de savants tolèrent de le citer pour les vertus (faḍāʾil), à condition que la faiblesse ne soit pas grave, qu'il entre dans un principe établi, et qu'on ne le croie pas certain. D'autres le refusent totalement."
+    },
+    {
+      "id": "had-t2-0041",
+      "concept": "had.bases.mawquf",
+      "domain": "hadith",
+      "sub": "bases",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment appelle-t-on une parole rapportée d'un Compagnon, et non du Prophète ﷺ ?",
+      "choices": [
+        "Mawqūf",
+        "Marfūʿ",
+        "Mutawātir",
+        "Mawḍūʿ"
+      ],
+      "answer": 0,
+      "expl": "Un récit qui remonte jusqu'au Prophète ﷺ est « marfūʿ » (élevé) ; celui qui s'arrête au Compagnon est « mawqūf » ; celui qui s'arrête à un Successeur est « maqṭūʿ ». Les paroles des Compagnons sont précieuses, mais n'ont pas l'autorité d'un hadith du Prophète ﷺ."
+    },
+    {
+      "id": "had-t2-0042",
+      "concept": "had.recueils.bukhari-selection",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Combien de temps al-Bukhārī mit-il à composer son Ṣaḥīḥ, selon la tradition ?",
+      "choices": [
+        "Environ un an",
+        "Environ seize ans",
+        "Environ quarante ans",
+        "Une seule nuit"
+      ],
+      "answer": 1,
+      "expl": "Al-Bukhārī (m. 870) passa environ seize ans à sélectionner quelque 7 000 hadiths (environ 2 600 sans les répétitions). On raconte qu'il faisait ses ablutions et priait deux unités avant d'inscrire chaque hadith."
+    },
+    {
+      "id": "had-t2-0043",
+      "concept": "had.recueils.musnad",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Musnad de l'imam Aḥmad est-il organisé ?",
+      "choices": [
+        "Par thème",
+        "Par date",
+        "Par Compagnon",
+        "Par ville"
+      ],
+      "answer": 2,
+      "expl": "Un « musnad » classe les hadiths selon le Compagnon qui les rapporte. Celui d'Aḥmad en compte environ 27 000. Les recueils classés par thème (Bukhari, Muslim, les Sunan) sont plus pratiques pour chercher une règle."
+    },
+    {
+      "id": "had-t2-0044",
+      "concept": "had.recueils.shamail",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel recueil d'at-Tirmidhī décrit l'apparence et les habitudes du Prophète ﷺ ?",
+      "choices": [
+        "Riyāḍ aṣ-Ṣāliḥīn d'an-Nawawī",
+        "Al-Arbaʿūn",
+        "Al-Muwaṭṭaʾ",
+        "Ash-Shamāʾil al-Muḥammadiyya"
+      ],
+      "answer": 3,
+      "expl": "Ash-Shamāʾil rassemble environ 400 récits : sa taille, sa chevelure, ses vêtements, sa façon de manger, de rire, de dormir. Un livre pour apprendre à le connaître et à l'aimer."
+    },
+    {
+      "id": "had-t2-0045",
+      "concept": "had.nawawi.h31-zuhd",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseille le hadith 31 d'an-Nawawī pour être aimé d'Allah et des gens ?",
+      "choices": [
+        "Se détacher du monde et de ce qu'ont les gens",
+        "Offrir beaucoup de cadeaux à chacun",
+        "Dire oui à toutes les demandes",
+        "Prier en public pour être remarqué"
+      ],
+      "answer": 0,
+      "expl": "« Détache-toi de ce monde, Allah t'aimera ; détache-toi de ce que possèdent les gens, ils t'aimeront » (Ibn Mājah). Le zuhd n'est pas la pauvreté, c'est un cœur libre.",
+      "src": [
+        "Ibn Mājah"
+      ]
+    },
+    {
+      "id": "had-t2-0046",
+      "concept": "had.nawawi.h32-darar",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle règle fondamentale pose le hadith 32 d'an-Nawawī : « lā ḍarar wa-lā ḍirār » ?",
+      "choices": [
+        "Toujours se venger d'un mal reçu",
+        "Ni nuire, ni rendre le mal pour le mal",
+        "Obéir aux plus forts en toute chose",
+        "Ne jamais commercer avec les autres"
+      ],
+      "answer": 1,
+      "expl": "« Pas de préjudice, ni de préjudice réciproque » (Mālik ; Ibn Mājah). Cette phrase est devenue une règle majeure du fiqh : toute pratique qui cause un tort injuste est à écarter.",
+      "src": [
+        "Mālik, Muwaṭṭaʾ ; Ibn Mājah"
+      ],
+      "ar": {
+        "text": "لَا ضَرَرَ وَلَا ضِرَارَ",
+        "tr": "lā ḍarara wa-lā ḍirār",
+        "pr": "lâ da-ra-ra wa lâ di-râr",
+        "fr": "Pas de préjudice, ni de préjudice réciproque"
+      }
+    },
+    {
+      "id": "had-t2-0047",
+      "concept": "had.nawawi.h33-preuve",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith 33 d'an-Nawawī, à qui incombe la preuve dans un litige ?",
+      "choices": [
+        "À celui qui nie ; le serment au demandeur",
+        "Au juge seul, sans témoins",
+        "Au demandeur ; le serment à celui qui nie",
+        "Au plus âgé des deux"
+      ],
+      "answer": 2,
+      "expl": "« Si l'on donnait aux gens selon leurs seules prétentions, certains réclameraient les biens et le sang d'autres. Mais la preuve incombe au demandeur, et le serment à celui qui nie » (al-Bayhaqī). Une base de la justice.",
+      "src": [
+        "al-Bayhaqī ; Bukhari et Muslim (sens)"
+      ]
+    },
+    {
+      "id": "had-t2-0048",
+      "concept": "had.nawawi.h34-mal",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith 34 d'an-Nawawī à celui qui voit un mal ?",
+      "choices": [
+        "L'ignorer, car ce n'est pas son affaire",
+        "Toujours par la force, sans exception",
+        "En parler seulement aux voisins",
+        "Par la main, sinon la parole, sinon le cœur"
+      ],
+      "answer": 3,
+      "expl": "« Celui d'entre vous qui voit un mal, qu'il le change par sa main ; s'il ne peut pas, par sa langue ; s'il ne peut pas, par son cœur, et c'est le plus faible de la foi » (Muslim). Chacun selon ses moyens et sa responsabilité, avec sagesse.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0049",
+      "concept": "had.nawawi.h36-soulager",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promet le hadith 36 d'an-Nawawī à celui qui soulage un croyant d'une difficulté ?",
+      "choices": [
+        "Allah le soulagera au Jour dernier",
+        "Il deviendra riche dans l'année",
+        "Il ne tombera jamais malade",
+        "Il recevra un cadeau du roi"
+      ],
+      "answer": 0,
+      "expl": "« Celui qui soulage un croyant d'une détresse de ce monde, Allah le soulagera d'une détresse du Jour de la Résurrection… Allah aide le serviteur tant que le serviteur aide son frère » (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0050",
+      "concept": "had.nawawi.h37-intention",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith 37 d'an-Nawawī, que gagne celui qui a l'intention de faire une bonne action sans pouvoir la faire ?",
+      "choices": [
+        "Rien, car il n'a rien fait",
+        "Une bonne action complète",
+        "Une demi-bonne action",
+        "Un péché, pour l'avoir oubliée"
+      ],
+      "answer": 1,
+      "expl": "« Celui qui projette une bonne action sans la faire, Allah la lui inscrit comme une bonne action complète. S'il la fait, Il l'inscrit de dix à sept cents fois. Celui qui projette une mauvaise action sans la faire, elle lui est inscrite comme une bonne action » (Bukhari et Muslim).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0051",
+      "concept": "had.nawawi.h39-pardonnes",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qui est pardonné à la communauté, selon le hadith 39 d'an-Nawawī ?",
+      "choices": [
+        "Tous les péchés, sans exception",
+        "Uniquement les petits péchés",
+        "L'erreur, l'oubli, la contrainte",
+        "Les péchés commis le vendredi"
+      ],
+      "answer": 2,
+      "expl": "« Allah a pardonné à ma communauté l'erreur, l'oubli, et ce à quoi elle a été contrainte » (Ibn Mājah). La responsabilité suppose l'intention et la liberté.",
+      "src": [
+        "Ibn Mājah (ḥasan)"
+      ]
+    },
+    {
+      "id": "had-t2-0052",
+      "concept": "had.nawawi.h40-etranger",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ conseille-t-il de vivre en ce monde, dans le hadith 40 d'an-Nawawī ?",
+      "choices": [
+        "Comme un roi",
+        "Comme un marchand",
+        "Comme si l'on ne devait jamais mourir",
+        "Comme un étranger ou un voyageur de passage"
+      ],
+      "answer": 3,
+      "expl": "Il prit Ibn ʿUmar par l'épaule : « Sois en ce monde comme un étranger ou un voyageur. » Ibn ʿUmar disait : « Le soir, n'attends pas le matin ; le matin, n'attends pas le soir. Profite de ta santé pour ta maladie, et de ta vie pour ta mort » (Bukhari).",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "had-t2-0053",
+      "concept": "had.nawawi.h41-desir",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith 41 d'an-Nawawī sur la foi véritable ?",
+      "choices": [
+        "Tant que son désir ne suit pas ce que j'ai apporté",
+        "Tant qu'il n'a pas fait le pèlerinage",
+        "Tant qu'il ne parle pas arabe",
+        "Tant qu'il n'a pas lu tout le Coran"
+      ],
+      "answer": 0,
+      "expl": "« Aucun de vous n'est vraiment croyant tant que son désir ne suit pas ce que j'ai apporté » (an-Nawawī le juge authentique ; d'autres savants le jugent faible). L'idée est confirmée par le Coran (4:65).",
+      "src": [
+        "an-Nawawī, al-Arbaʿūn ; Coran 4:65"
+      ]
+    },
+    {
+      "id": "had-t2-0054",
+      "concept": "had.nawawi.h42-pardon",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit Allah dans le hadith qudsī 42, le dernier des 40 d'an-Nawawī ?",
+      "choices": [
+        "« Seuls les sans-péché seront pardonnés »",
+        "« Tant que tu M'invoques et M'espères, Je te pardonne »",
+        "« Ton pardon dépend de ta richesse »",
+        "« Je ne pardonne qu'une seule fois »"
+      ],
+      "answer": 1,
+      "expl": "« … Si tes péchés atteignaient les nuages du ciel, puis que tu Me demandais pardon, Je te pardonnerais. Si tu venais à Moi avec presque la terre entière de péchés, mais sans rien M'associer, Je viendrais à toi avec autant de pardon » (Tirmidhi). Le recueil se termine sur l'espoir.",
+      "src": [
+        "Tirmidhi (ḥasan)"
+      ]
+    },
+    {
+      "id": "had-t2-0055",
+      "concept": "had.sunna-quotidien.entrer-maison",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, que dit Satan quand un homme mentionne Allah en entrant chez lui et en mangeant ?",
+      "choices": [
+        "« Entrons, la porte est ouverte »",
+        "« Mangeons avec eux ce soir »",
+        "« Pas de gîte ni de dîner pour vous ici »",
+        "« Revenons demain matin »"
+      ],
+      "answer": 2,
+      "expl": "« Quand l'homme entre chez lui et mentionne Allah en entrant et en mangeant, Satan dit à ses compagnons : Pas de gîte ni de dîner pour vous. S'il entre sans mentionner Allah, il dit : Vous avez trouvé un gîte » (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0056",
+      "concept": "had.sunna-quotidien.mosquee-entree",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment entre-t-on dans la mosquée, selon la Sunna ?",
+      "choices": [
+        "Du pied gauche, en silence",
+        "En courant, pour ne pas rater l'imam",
+        "À reculons, par respect",
+        "Du pied droit, avec une invocation"
+      ],
+      "answer": 3,
+      "expl": "On entre du pied droit en demandant : « Ô Allah, ouvre-moi les portes de Ta miséricorde », et on sort du pied gauche en disant : « Ô Allah, je Te demande de Ta grâce » (Muslim).",
+      "src": [
+        "Muslim"
+      ],
+      "ar": {
+        "text": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "tr": "Allāhumma ftaḥ lī abwāba raḥmatik",
+        "pr": "al-lâ-houm-maf-tah lî ab-wâ-ba rah-ma-tik",
+        "fr": "Ô Allah, ouvre-moi les portes de Ta miséricorde"
+      }
+    },
+    {
+      "id": "had-t2-0057",
+      "concept": "had.classification.fiche-verifier",
+      "domain": "hadith",
+      "sub": "classification",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Vérifier un hadith avant de le partager",
+      "points": [
+        "Demander la source : quel recueil ?",
+        "Vérifier le jugement des savants (ṣaḥīḥ, ḥasan, ḍaʿīf)",
+        "Se méfier des textes trop longs ou trop « merveilleux »",
+        "Utiliser des sites sérieux (dorar.net, sunnah.com)",
+        "Dans le doute, ne pas partager"
+      ],
+      "expl": "Beaucoup de « hadiths » qui circulent sont faibles ou inventés. Le Prophète ﷺ a dit : « Il suffit comme mensonge à quelqu'un de rapporter tout ce qu'il entend » (Muslim)."
+    },
+    {
+      "id": "had-t2-0058",
+      "concept": "had.nawawi.h15-parole",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith 15 d'an-Nawawī, que doit faire celui qui croit en Allah et au Jour dernier ?",
+      "choices": [
+        "Prier chaque nuit jusqu'à l'aube sans dormir",
+        "Jeûner chaque lundi et jeudi",
+        "Bien parler ou se taire, honorer voisin et invité",
+        "Faire le pèlerinage chaque année"
+      ],
+      "answer": 2,
+      "expl": "« Que celui qui croit en Allah et au Jour dernier dise du bien ou se taise ; qu'il honore son voisin ; qu'il honore son invité » (Bukhari et Muslim). La foi se voit dans la parole et l'accueil.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "had-t2-0059",
+      "concept": "had.nawawi.h16-colere",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel conseil le Prophète ﷺ répéta-t-il trois fois à un homme qui lui demandait une recommandation (hadith 16) ?",
+      "choices": [
+        "« Prie la nuit, quand les gens dorment »",
+        "« Jeûne le lundi »",
+        "« Lis le Coran »",
+        "« Ne te mets pas en colère »"
+      ],
+      "answer": 3,
+      "expl": "Un homme dit : « Conseille-moi. » Il répondit : « Ne te mets pas en colère », et le répéta plusieurs fois (Bukhari). Maîtriser sa colère protège de nombreux péchés.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "had-t2-0060",
+      "concept": "had.nawawi.h18-taqwa",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels trois conseils contient le hadith 18 d'an-Nawawī ?",
+      "choices": [
+        "Crains Allah, efface le mal par le bien, sois bon",
+        "Prie, jeûne et fais le pèlerinage",
+        "Travaille, épargne et donne la zakat",
+        "Apprends, enseigne et voyage"
+      ],
+      "answer": 0,
+      "expl": "« Crains Allah où que tu sois ; fais suivre la mauvaise action d'une bonne, elle l'effacera ; et comporte-toi avec les gens avec un bon caractère » (Tirmidhi). Un programme de vie en une phrase.",
+      "src": [
+        "Tirmidhi (ḥasan)"
+      ]
+    },
+    {
+      "id": "had-t2-0061",
+      "concept": "had.nawawi.h19-preserve",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseilla le Prophète ﷺ au jeune Ibn ʿAbbās, assis derrière lui sur sa monture (hadith 19) ?",
+      "choices": [
+        "« Sois fort, et tu seras craint »",
+        "« Préserve Allah, Il te préservera »",
+        "« Apprends la poésie, et tu seras écouté »",
+        "« Deviens riche, et tu seras aimé »"
+      ],
+      "answer": 1,
+      "expl": "« Ô garçon, je vais t'apprendre des paroles : préserve Allah, Il te préservera… Si tu demandes, demande à Allah ; si tu cherches de l'aide, cherche-la auprès d'Allah. Sache que si toute la communauté s'unissait pour te faire du bien, elle ne pourrait te faire que ce qu'Allah a écrit pour toi » (Tirmidhi).",
+      "src": [
+        "Tirmidhi (ḥasan ṣaḥīḥ)"
+      ]
+    },
+    {
+      "id": "had-t2-0062",
+      "concept": "had.bases.isnad-religion",
+      "domain": "hadith",
+      "sub": "bases",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disait le savant ʿAbdallāh ibn al-Mubārak de la chaîne de transmission (isnād) ?",
+      "choices": [
+        "« L'isnād est une invention inutile »",
+        "« L'isnād n'est utile qu'aux juges »",
+        "« L'isnād fait partie de la religion »",
+        "« L'isnād remplace le Coran »"
+      ],
+      "answer": 2,
+      "expl": "Cette phrase est rapportée par Muslim dans l'introduction de son Ṣaḥīḥ. La science de l'isnād, qui étudie la vie et la fiabilité de milliers de transmetteurs, est une particularité de la civilisation musulmane.",
+      "src": [
+        "Muslim, introduction"
+      ]
+    }
+  ]
+}

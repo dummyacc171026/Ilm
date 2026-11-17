@@ -1,0 +1,1344 @@
+{
+  "pack": "invocations-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "inv-t2-0001",
+      "concept": "inv.formules.quatre-paroles",
+      "domain": "invocations",
+      "sub": "formules",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, quelles sont les quatre paroles les plus aimées d'Allah ?",
+      "choices": [
+        "Bismillāh, āmīn, in shāʾa Llāh, mā shāʾa Llāh",
+        "Subḥāna Llāh, al-ḥamdu li-Llāh, lā ilāha illā Llāh, Allāhu akbar",
+        "Astaghfiru Llāh, innā li-Llāh, ḥasbiya Llāh, jazāka Llāh",
+        "Yarḥamuka Llāh, bāraka Llāh, tabāraka Llāh, ṣadaqa Llāh"
+      ],
+      "answer": 1,
+      "expl": "« Les paroles les plus aimées d'Allah sont quatre : Subḥāna Llāh, al-ḥamdu li-Llāh, lā ilāha illā Llāh et Allāhu akbar ; peu importe par laquelle tu commences. » Le Coran les appelle « les bonnes œuvres durables » (18:46) selon de nombreux commentateurs.",
+      "src": [
+        "Hadith de Samura ibn Jundub — Muslim",
+        "Coran 18:46"
+      ]
+    },
+    {
+      "id": "inv-t2-0002",
+      "concept": "inv.formules.tahlil-100",
+      "domain": "invocations",
+      "sub": "formules",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promet le hadith à celui qui dit cent fois dans la journée « Lā ilāha illā Llāhu waḥdahu lā sharīka lah, lahu l-mulku wa lahu l-ḥamd, wa huwa ʿalā kulli shayʾin qadīr » ?",
+      "choices": [
+        "Une maison au Paradis, rien d'autre",
+        "La richesse dans l'année qui suit",
+        "Dix esclaves affranchis, cent fautes effacées, protection",
+        "La dispense d'une prière obligatoire de la journée"
+      ],
+      "answer": 2,
+      "expl": "Ce dhikr résume le tawḥīd : Allah seul, sans associé, à Lui la royauté et la louange, et Il est capable de toute chose. Le hadith précise que personne n'apporte mieux, sauf celui qui en a dit davantage.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "tr": "lā ilāha illā Llāhu waḥdahu lā sharīka lah, lahu l-mulku wa lahu l-ḥamd, wa huwa ʿalā kulli shayʾin qadīr",
+        "pr": "lâ i-lâ-ha il-lal-lâ-hou wah-da-hou lâ cha-rî-ka lah, la-houl-moul-kou wa la-houl-hamd, wa hou-wa ʿa-lâ koul-li chay-ʾin qa-dîr",
+        "fr": "il n'y a de divinité qu'Allah, seul, sans associé ; à Lui la royauté et la louange, et Il est capable de toute chose"
+      }
+    },
+    {
+      "id": "inv-t2-0003",
+      "concept": "inv.formules.juwayriya",
+      "domain": "invocations",
+      "sub": "formules",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle formule le Prophète ﷺ enseigna-t-il à Juwayriya, en lui disant qu'elle pesait plus que tout ce qu'elle avait dit depuis l'aube ?",
+      "choices": [
+        "« Lā ilāha illā Llāhu waḥdahu lā sharīka lah… »",
+        "« Allāhumma ṣalli ʿalā Muḥammad… »",
+        "« Astaghfiru Llāha l-ʿaẓīm… »",
+        "« Subḥāna Llāhi wa bi-ḥamdih, ʿadada khalqih… »"
+      ],
+      "answer": 3,
+      "expl": "Juwayriya avait fait du dhikr depuis l'aube jusqu'au milieu de la matinée. Le Prophète ﷺ lui dit avoir prononcé quatre phrases, trois fois, qui pèseraient plus lourd : « Gloire et louange à Allah, autant que le nombre de Ses créatures, que Sa satisfaction, que le poids de Son Trône et que l'encre de Ses paroles. »",
+      "src": [
+        "Hadith de Juwayriya — Muslim"
+      ],
+      "ar": {
+        "text": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ",
+        "tr": "subḥāna Llāhi wa bi-ḥamdihi ʿadada khalqih",
+        "pr": "soub-hâ-nal-lâ-hi wa bi-ham-di-hi ʿa-da-da khal-qih",
+        "fr": "gloire et louange à Allah, autant que le nombre de Ses créatures"
+      }
+    },
+    {
+      "id": "inv-t2-0004",
+      "concept": "inv.formules.istighfar-pluie",
+      "domain": "invocations",
+      "sub": "formules",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon les paroles de Nūḥ dans le Coran, que procure la demande de pardon (istighfār) ?",
+      "choices": [
+        "Pluie, biens, enfants, jardins et rivières",
+        "La victoire sur tous les ennemis",
+        "Une longue vie sans maladie",
+        "La connaissance de l'avenir"
+      ],
+      "answer": 0,
+      "expl": "« Implorez le pardon de votre Seigneur, car Il est grand Pardonneur, pour qu'Il vous envoie du ciel une pluie abondante, vous accorde beaucoup de biens et d'enfants, et vous donne des jardins et des rivières. » L'istighfār ouvre les portes du bien.",
+      "src": [
+        "Coran 71:10-12"
+      ],
+      "tags": [
+        "sourate:71",
+        "prophete:nuh"
+      ]
+    },
+    {
+      "id": "inv-t2-0005",
+      "concept": "inv.quotidien.eternuement-reponse",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle est la réponse complète autour de l'éternuement, selon la Sunna ?",
+      "choices": [
+        "Bismillāh, āmīn, puis rien d'autre",
+        "Al-ḥamdu li-Llāh, yarḥamuka Llāh, yahdīkumu Llāh…",
+        "Astaghfiru Llāh, trois fois de suite",
+        "Allāhu akbar, puis la Fātiḥa"
+      ],
+      "answer": 1,
+      "expl": "« Qu'Allah te fasse miséricorde », puis « Qu'Allah vous guide et améliore votre état ». Trois paroles qui transforment un réflexe en échange d'invocations. Répondre à celui qui loue Allah après avoir éternué est un droit du musulman.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari"
+      ],
+      "ar": {
+        "text": "يَرْحَمُكَ اللّٰهُ",
+        "tr": "yarḥamuka Llāh",
+        "pr": "yar-ha-mou-kal-lâh",
+        "fr": "qu'Allah te fasse miséricorde"
+      }
+    },
+    {
+      "id": "inv-t2-0006",
+      "concept": "inv.quotidien.vetement",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on en mettant un vêtement neuf, selon la Sunna ?",
+      "choices": [
+        "« Bismillāh, tawakkaltu ʿala Llāh… »",
+        "« Subḥāna lladhī sakhkhara lanā hādhā… »",
+        "« Allāhumma laka l-ḥamdu anta kasawtanīh… »",
+        "« Rabbi zidnī ʿilmā… »"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ disait en portant un vêtement neuf : « Ô Allah, à Toi la louange, c'est Toi qui m'en as vêtu ; je Te demande son bien et le bien pour lequel il a été fait, et je cherche refuge auprès de Toi contre son mal. » Un rappel que tout vient d'Allah.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "inv-t2-0007",
+      "concept": "inv.quotidien.cimetiere",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on en visitant un cimetière ?",
+      "choices": [
+        "« Rabbi zidnī ʿilmā »",
+        "« Allāhumma ṣayyiban nāfiʿā »",
+        "« Ḥasbunā Llāhu wa niʿma l-wakīl »",
+        "« As-salāmu ʿalaykum ahla d-diyār… »"
+      ],
+      "answer": 3,
+      "expl": "« Paix sur vous, habitants de ces demeures, croyants et musulmans ; et nous vous rejoindrons, si Allah le veut. Je demande à Allah pour nous et pour vous le salut. » La visite des tombes rappelle la mort et adoucit le cœur.",
+      "src": [
+        "Hadith de Burayda — Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0008",
+      "concept": "inv.quotidien.vent",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disait le Prophète ﷺ quand le vent soufflait fort ?",
+      "choices": [
+        "Le bien de ce vent, et refuge contre son mal",
+        "Il fermait les portes et se cachait",
+        "Il annonçait une victoire prochaine",
+        "Il disait que c'était une punition"
+      ],
+      "answer": 0,
+      "expl": "« Ô Allah, je Te demande son bien, le bien de ce qu'il contient et le bien de ce pour quoi il a été envoyé, et je cherche refuge auprès de Toi contre son mal… » On n'insulte pas le vent, qui obéit à l'ordre d'Allah.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0009",
+      "concept": "inv.quotidien.coq",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith, quand on entend le coq chanter, on demande à Allah de Sa grâce, car il a vu un ange.",
+      "answer": true,
+      "expl": "« Quand vous entendez le chant du coq, demandez à Allah de Sa grâce, car il a vu un ange ; et quand vous entendez le braiement de l'âne, cherchez refuge auprès d'Allah contre le Shayṭān, car il a vu un démon. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0010",
+      "concept": "inv.quotidien.croissant",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on en voyant le nouveau croissant de lune ?",
+      "choices": [
+        "« Allāhumma ṣayyiban nāfiʿā, bénis cette pluie… »",
+        "« Allāhumma ahillahu ʿalaynā bi-l-yumni wa l-īmān… »",
+        "« Subḥāna lladhī sakhkhara lanā hādhā… »",
+        "« Bismi Llāhi lladhī lā yaḍurru maʿa smihi… »"
+      ],
+      "answer": 1,
+      "expl": "« Ô Allah, fais qu'il se lève sur nous avec la bénédiction et la foi, la paix et l'islam. Mon Seigneur et ton Seigneur est Allah. » La dernière phrase s'adresse à la lune elle-même : elle aussi est une créature soumise.",
+      "src": [
+        "Hadith de Ṭalḥa ibn ʿUbayd Allāh — Tirmidhi"
+      ]
+    },
+    {
+      "id": "inv-t2-0011",
+      "concept": "inv.quotidien.epreuve-autrui",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que recommande la Sunna de dire, discrètement, en voyant quelqu'un frappé d'une épreuve ?",
+      "choices": [
+        "Le dire bien fort pour qu'il entende",
+        "Rien du tout, il faut l'éviter",
+        "Louer Allah de nous avoir préservés, à voix basse",
+        "Lui dire que c'est une punition"
+      ],
+      "answer": 2,
+      "expl": "Le hadith enseigne de remercier Allah intérieurement pour Sa protection, sans le faire entendre à la personne éprouvée pour ne pas la peiner. Puis on l'aide si on le peut.",
+      "src": [
+        "Hadith d'Abū Hurayra — Tirmidhi"
+      ]
+    },
+    {
+      "id": "inv-t2-0012",
+      "concept": "inv.apres-priere.muadh",
+      "domain": "invocations",
+      "sub": "apres-priere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation le Prophète ﷺ recommanda-t-il à Muʿādh de ne jamais délaisser après chaque prière ?",
+      "choices": [
+        "« Rabbanā ātinā fī d-dunyā ḥasana… »",
+        "« Ḥasbunā Llāhu wa niʿma l-wakīl… »",
+        "« Allāhumma ghfir lī warḥamnī… »",
+        "« Allāhumma aʿinnī ʿalā dhikrika wa shukrika… »"
+      ],
+      "answer": 3,
+      "expl": "Il lui prit la main : « Ô Muʿādh, par Allah, je t'aime. Ne manque pas de dire après chaque prière : Ô Allah, aide-moi à me souvenir de Toi, à Te remercier et à bien T'adorer. » Une invocation qui demande l'aide pour l'adoration elle-même.",
+      "src": [
+        "Hadith de Muʿādh ibn Jabal — Abu Dawud & Nasai"
+      ],
+      "ar": {
+        "text": "اللّٰهُمَّ أَعِنِّي عَلَىٰ ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "tr": "Allāhumma aʿinnī ʿalā dhikrika wa shukrika wa ḥusni ʿibādatik",
+        "pr": "al-lâ-houm-ma a-ʿin-nî ʿa-lâ dhik-ri-ka wa chouk-ri-ka wa hous-ni ʿi-bâ-da-tik",
+        "fr": "Ô Allah, aide-moi à me souvenir de Toi, à Te remercier et à bien T'adorer"
+      }
+    },
+    {
+      "id": "inv-t2-0013",
+      "concept": "inv.apres-priere.mania",
+      "domain": "invocations",
+      "sub": "apres-priere",
+      "tier": 2,
+      "type": "trou",
+      "q": "Après la prière : « Allāhumma lā māniʿa limā aʿṭayta, wa lā muʿṭiya limā ___ … »",
+      "choices": [
+        "manaʿta",
+        "khalaqta",
+        "razaqta",
+        "ʿalimta"
+      ],
+      "answer": 0,
+      "expl": "« Ô Allah, nul ne peut retenir ce que Tu donnes, ni donner ce que Tu retiens, et la fortune du fortuné ne lui sert à rien auprès de Toi. » Al-Mughīra rapporte que le Prophète ﷺ la disait après chaque prière prescrite.",
+      "src": [
+        "Hadith d'al-Mughīra ibn Shuʿba — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0014",
+      "concept": "inv.apres-priere.muawwidhat",
+      "domain": "invocations",
+      "sub": "apres-priere",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ recommanda à ʿUqba ibn ʿĀmir de réciter les sourates protectrices (al-Falaq et an-Nās) après chaque prière.",
+      "answer": true,
+      "expl": "ʿUqba rapporte : « Le Messager d'Allah m'ordonna de réciter les muʿawwidhāt à la fin de chaque prière. » Avec Āyat al-Kursī, elles forment une protection quotidienne.",
+      "src": [
+        "Hadith d'ʿUqba ibn ʿĀmir — Abu Dawud"
+      ],
+      "tags": [
+        "sourate:113",
+        "sourate:114"
+      ]
+    },
+    {
+      "id": "inv-t2-0015",
+      "concept": "inv.matin-soir.asbahna",
+      "domain": "invocations",
+      "sub": "matin-soir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Par quelle invocation commence-t-on souvent le dhikr du matin, selon le hadith d'Ibn Masʿūd ?",
+      "choices": [
+        "« Allāhumma ṣayyiban nāfiʿā »",
+        "« Aṣbaḥnā wa aṣbaḥa l-mulku li-Llāh »",
+        "« Bi-smika Llāhumma amūtu wa aḥyā »",
+        "« Rabbi zidnī ʿilmā »"
+      ],
+      "answer": 1,
+      "expl": "Le soir, on dit : « Amsaynā wa amsā l-mulku li-Llāh. » On reconnaît dès le début de la journée que tout appartient à Allah, puis on Lui demande le bien de ce jour et on cherche refuge contre son mal.",
+      "src": [
+        "Hadith d'Ibn Masʿūd — Muslim"
+      ],
+      "ar": {
+        "text": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلّٰهِ",
+        "tr": "aṣbaḥnā wa aṣbaḥa l-mulku li-Llāh",
+        "pr": "as-bah-nâ wa as-ba-hal-moul-kou lil-lâh",
+        "fr": "nous voici au matin, et la royauté appartient à Allah"
+      }
+    },
+    {
+      "id": "inv-t2-0016",
+      "concept": "inv.matin-soir.raditu",
+      "domain": "invocations",
+      "sub": "matin-soir",
+      "tier": 2,
+      "type": "trou",
+      "q": "Matin et soir, trois fois : « Raḍītu bi-Llāhi rabban, wa bi-l-islāmi dīnan, wa bi-Muḥammadin ___. »",
+      "choices": [
+        "rasūlan wa malikā",
+        "qāʾidā",
+        "nabiyyā",
+        "imāmā"
+      ],
+      "answer": 2,
+      "expl": "« Je suis satisfait d'Allah comme Seigneur, de l'islam comme religion et de Muḥammad comme prophète. » Le hadith promet qu'Allah satisfera, au Jour de la Résurrection, celui qui le dit trois fois matin et soir.",
+      "src": [
+        "Hadith de Thawbān — Abu Dawud & Tirmidhi"
+      ],
+      "ar": {
+        "text": "رَضِيتُ بِاللّٰهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا",
+        "tr": "raḍītu bi-Llāhi rabban wa bi-l-islāmi dīnan wa bi-Muḥammadin nabiyyā",
+        "pr": "ra-dî-tou bil-lâ-hi rab-ban wa bil-is-lâ-mi dî-nan wa bi-mou-ham-ma-din na-biy-yâ",
+        "fr": "je suis satisfait d'Allah comme Seigneur, de l'islam comme religion et de Muḥammad comme prophète"
+      }
+    },
+    {
+      "id": "inv-t2-0017",
+      "concept": "inv.matin-soir.kalimat",
+      "domain": "invocations",
+      "sub": "matin-soir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation, dite le soir ou en s'arrêtant dans un lieu, protège selon le hadith de tout mal jusqu'au départ ?",
+      "choices": [
+        "« Allāhumma bārik lanā fī rizqinā… »",
+        "« Rabbanā ẓalamnā anfusanā… »",
+        "« Rabbi hab lī mina ṣ-ṣāliḥīn… »",
+        "« Aʿūdhu bi-kalimāti Llāhi t-tāmmāti… »"
+      ],
+      "answer": 3,
+      "expl": "« Je cherche refuge dans les paroles parfaites d'Allah contre le mal de ce qu'Il a créé. » Khawla bint Ḥakīm rapporte que celui qui la dit en s'installant quelque part ne subira aucun mal jusqu'à ce qu'il reparte.",
+      "src": [
+        "Hadith de Khawla bint Ḥakīm — Muslim"
+      ],
+      "ar": {
+        "text": "أَعُوذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "tr": "aʿūdhu bi-kalimāti Llāhi t-tāmmāti min sharri mā khalaq",
+        "pr": "a-ʿoû-dhou bi-ka-li-mâ-til-lâ-hit-tâm-mâ-ti min char-ri mâ kha-laq",
+        "fr": "je cherche refuge dans les paroles parfaites d'Allah contre le mal de ce qu'Il a créé"
+      }
+    },
+    {
+      "id": "inv-t2-0018",
+      "concept": "inv.matin-soir.afini",
+      "domain": "invocations",
+      "sub": "matin-soir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que demande l'invocation que le Prophète ﷺ répétait trois fois matin et soir : « Allāhumma ʿāfinī fī badanī… » ?",
+      "choices": [
+        "La santé du corps, de l'ouïe et de la vue",
+        "La richesse, les enfants et la gloire",
+        "La victoire sur ses ennemis",
+        "Une longue vie sans épreuve"
+      ],
+      "answer": 0,
+      "expl": "« Ô Allah, accorde la santé à mon corps, à mon ouïe, à ma vue ; il n'y a de divinité que Toi. » Abū Bakra l'entendait de son père, qui la tenait du Prophète ﷺ. La ʿāfiya (bien-être, préservation) est l'un des plus grands dons.",
+      "src": [
+        "Hadith d'Abū Bakra — Abu Dawud"
+      ]
+    },
+    {
+      "id": "inv-t2-0019",
+      "concept": "inv.matin-soir.hayy-qayyum",
+      "domain": "invocations",
+      "sub": "matin-soir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation le Prophète ﷺ enseigna-t-il à Fāṭima pour le matin et le soir : « Yā Ḥayyu yā Qayyūm, bi-raḥmatika astaghīth… » ?",
+      "choices": [
+        "« … donne-moi la victoire sur mes ennemis »",
+        "« … arrange mes affaires, ne me confie pas à moi-même »",
+        "« … accorde-moi une grande richesse »",
+        "« … fais-moi vivre plus de cent ans »"
+      ],
+      "answer": 1,
+      "expl": "« Ô Vivant, ô Subsistant, c'est par Ta miséricorde que j'implore le secours : arrange toutes mes affaires et ne me laisse pas à moi-même le temps d'un clin d'œil. » Une invocation d'humilité et de confiance totale.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Nasai"
+      ],
+      "ar": {
+        "text": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+        "tr": "yā Ḥayyu yā Qayyūmu bi-raḥmatika astaghīth",
+        "pr": "yâ hay-you yâ qay-yoû-mou bi-rah-ma-ti-ka as-ta-ghîth",
+        "fr": "ô Vivant, ô Subsistant, par Ta miséricorde j'implore le secours"
+      }
+    },
+    {
+      "id": "inv-t2-0020",
+      "concept": "inv.coran-prophetes.musa",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "trou",
+      "q": "Invocation de Mūsā : « Rabbi shraḥ lī ṣadrī, wa yassir lī ___ … »",
+      "choices": [
+        "ṭarīqī",
+        "qalbī",
+        "amrī",
+        "rizqī"
+      ],
+      "answer": 2,
+      "expl": "« Seigneur, ouvre-moi ma poitrine, facilite-moi ma tâche, dénoue un nœud de ma langue, afin qu'ils comprennent mes paroles. » Mūsā la fit avant d'aller voir Pharaon. On la récite avant un examen, un discours ou une tâche difficile.",
+      "src": [
+        "Coran 20:25-28"
+      ],
+      "ar": {
+        "text": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+        "tr": "rabbi shraḥ lī ṣadrī wa yassir lī amrī",
+        "pr": "rab-bich-rah lî sad-rî wa yas-sir lî am-rî",
+        "fr": "Seigneur, ouvre-moi ma poitrine et facilite-moi ma tâche"
+      },
+      "tags": [
+        "prophete:musa",
+        "sourate:20"
+      ]
+    },
+    {
+      "id": "inv-t2-0021",
+      "concept": "inv.coran-prophetes.musa-faqir",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation Mūsā fit-il, seul et sans ressources à Madyan, après avoir abreuvé le troupeau des deux jeunes femmes ?",
+      "choices": [
+        "« Seigneur, ramène-moi en Égypte auprès des miens »",
+        "« Seigneur, punis ceux qui m'ont chassé »",
+        "« Seigneur, fais de moi un roi puissant »",
+        "« Seigneur, j'ai grand besoin du bien que Tu enverras »"
+      ],
+      "answer": 3,
+      "expl": "Exilé, affamé, Mūsā ne se plaignit pas : il exprima son besoin à Allah. Aussitôt, l'une des jeunes femmes vint l'inviter de la part de son père : il trouva un foyer, un travail et une épouse.",
+      "src": [
+        "Coran 28:24"
+      ],
+      "ar": {
+        "text": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+        "tr": "rabbi innī li-mā anzalta ilayya min khayrin faqīr",
+        "pr": "rab-bi in-nî li-mâ an-zal-ta i-lay-ya min khay-rin fa-qîr",
+        "fr": "Seigneur, j'ai grand besoin du bien que Tu feras descendre vers moi"
+      },
+      "tags": [
+        "prophete:musa",
+        "sourate:28"
+      ]
+    },
+    {
+      "id": "inv-t2-0022",
+      "concept": "inv.coran-prophetes.ibrahim-priere",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que demande Ibrāhīm dans l'invocation « Rabbi jʿalnī muqīma ṣ-ṣalāti wa min dhurriyyatī… » ?",
+      "choices": [
+        "Être assidu à la prière, lui et sa descendance",
+        "Être riche, lui et sa descendance",
+        "Devenir roi de toute la terre",
+        "Vivre éternellement"
+      ],
+      "answer": 0,
+      "expl": "« Seigneur, fais que j'accomplisse assidûment la prière, ainsi qu'une partie de ma descendance. Seigneur, exauce ma prière. Seigneur, pardonne-moi, ainsi qu'à mes parents et aux croyants, le jour où se dressera le compte. » Une belle invocation pour la famille.",
+      "src": [
+        "Coran 14:40-41"
+      ],
+      "tags": [
+        "prophete:ibrahim",
+        "sourate:14"
+      ]
+    },
+    {
+      "id": "inv-t2-0023",
+      "concept": "inv.coran-prophetes.zakariya",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation fit Zakariyyā pour demander un enfant ?",
+      "choices": [
+        "« Rabbi zidnī ʿilmā »",
+        "« Rabbi lā tadharnī fardan… »",
+        "« Rabbanā ẓalamnā anfusanā »",
+        "« Ḥasbunā Llāhu wa niʿma l-wakīl »"
+      ],
+      "answer": 1,
+      "expl": "« Seigneur, ne me laisse pas seul, et Tu es le meilleur des héritiers. » Allah l'exauça et lui donna Yaḥyā, et rendit sa femme apte à enfanter. Le verset suivant dit qu'ils invoquaient « avec espoir et crainte ».",
+      "src": [
+        "Coran 21:89-90"
+      ],
+      "tags": [
+        "prophete:zakariya",
+        "sourate:21"
+      ]
+    },
+    {
+      "id": "inv-t2-0024",
+      "concept": "inv.coran-prophetes.famille",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que demande l'invocation coranique « Rabbanā hab lanā min azwājinā wa dhurriyyātinā qurrata aʿyun » ?",
+      "choices": [
+        "Beaucoup de richesses pour la famille",
+        "Une grande maison pour tous",
+        "Des épouses et enfants, joie de nos yeux",
+        "Des enfants savants et célèbres"
+      ],
+      "answer": 2,
+      "expl": "« Seigneur, donne-nous, en nos épouses et nos descendants, la fraîcheur des yeux, et fais de nous un modèle pour les pieux. » C'est l'une des invocations des « serviteurs du Tout Miséricordieux » décrits dans la sourate al-Furqān.",
+      "src": [
+        "Coran 25:74"
+      ],
+      "ar": {
+        "text": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+        "tr": "rabbanā hab lanā min azwājinā wa dhurriyyātinā qurrata aʿyun",
+        "pr": "rab-ba-nâ hab la-nâ min az-wâ-ji-nâ wa dhour-riy-yâ-ti-nâ qour-ra-ta aʿ-youn",
+        "fr": "Seigneur, donne-nous en nos épouses et nos descendants la joie de nos yeux"
+      },
+      "tags": [
+        "sourate:25"
+      ]
+    },
+    {
+      "id": "inv-t2-0025",
+      "concept": "inv.coran-prophetes.coeurs",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "trou",
+      "q": "« Rabbanā lā tuzigh qulūbanā baʿda idh ___ » : Seigneur, ne laisse pas dévier nos cœurs après nous avoir guidés.",
+      "choices": [
+        "khalaqtanā",
+        "razaqtanā",
+        "raḥimtanā",
+        "hadaytanā"
+      ],
+      "answer": 3,
+      "expl": "Cette invocation (3:8) des gens au savoir enraciné demande la constance dans la foi. Le Prophète ﷺ disait souvent : « Ô Toi qui retournes les cœurs, affermis mon cœur sur Ta religion. »",
+      "src": [
+        "Coran 3:8",
+        "Hadith d'Anas ibn Mālik — Tirmidhi"
+      ],
+      "tags": [
+        "sourate:3"
+      ]
+    },
+    {
+      "id": "inv-t2-0026",
+      "concept": "inv.coran-prophetes.sulayman",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle gratitude Sulaymān exprima-t-il en entendant la fourmi parler ?",
+      "choices": [
+        "« Seigneur, inspire-moi de remercier Ton bienfait… »",
+        "« Seigneur, donne-moi un royaume plus grand »",
+        "« Seigneur, fais taire cette fourmi »",
+        "« Seigneur, que mon armée soit victorieuse »"
+      ],
+      "answer": 0,
+      "expl": "Sulaymān sourit et dit : « Rabbi awziʿnī an ashkura niʿmataka llatī anʿamta ʿalayya wa ʿalā wālidayya… » La puissance ne lui fit pas oublier la gratitude, ni ses parents.",
+      "src": [
+        "Coran 27:19"
+      ],
+      "tags": [
+        "prophete:sulayman",
+        "sourate:27"
+      ]
+    },
+    {
+      "id": "inv-t2-0027",
+      "concept": "inv.adab-dua.mains",
+      "domain": "invocations",
+      "sub": "adab-dua",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de celui qui lève les mains pour invoquer ?",
+      "choices": [
+        "C'est réservé à l'imam",
+        "Allah a honte de les lui rendre vides",
+        "Il doit les garder levées une heure",
+        "C'est interdit"
+      ],
+      "answer": 1,
+      "expl": "« Votre Seigneur est pudique et généreux : Il a honte, quand Son serviteur lève les mains vers Lui, de les lui rendre vides. » Lever les mains, paumes vers le ciel, est une marque d'humilité dans l'invocation.",
+      "src": [
+        "Hadith de Salmān al-Fārisī — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "inv-t2-0028",
+      "concept": "inv.adab-dua.absent",
+      "domain": "invocations",
+      "sub": "adab-dua",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que se passe-t-il, selon le hadith, quand on invoque pour son frère en son absence ?",
+      "choices": [
+        "L'invocation est refusée",
+        "Il faut le prévenir",
+        "Un ange dit : « Et pour toi de même »",
+        "Rien de particulier"
+      ],
+      "answer": 2,
+      "expl": "« L'invocation du musulman pour son frère en son absence est exaucée ; près de lui se tient un ange chargé de dire, chaque fois qu'il invoque pour son frère : Āmīn, et pour toi de même. » Prier pour les autres, c'est prier pour soi.",
+      "src": [
+        "Hadith d'Abū d-Dardāʾ — Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "inv-t2-0029",
+      "concept": "inv.adab-dua.contre-soi",
+      "domain": "invocations",
+      "sub": "adab-dua",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a interdit d'invoquer contre soi-même, ses enfants ou ses biens.",
+      "answer": true,
+      "expl": "« N'invoquez pas contre vous-mêmes, ni contre vos enfants, ni contre vos biens, de peur de tomber sur une heure où Allah exauce. » Même en colère, on évite les malédictions, surtout envers ses enfants.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0030",
+      "concept": "inv.adab-dua.conditions",
+      "domain": "invocations",
+      "sub": "adab-dua",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, quelle invocation n'est pas exaucée ?",
+      "choices": [
+        "Celle faite en français, et non en arabe",
+        "Celle faite le soir",
+        "Celle faite en voyage",
+        "Celle qui demande un péché ou une rupture"
+      ],
+      "answer": 3,
+      "expl": "« L'invocation du serviteur est exaucée tant qu'il ne demande pas un péché ou la rupture des liens de parenté, et tant qu'il ne s'impatiente pas. » Toutes les langues sont comprises par Allah.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0031",
+      "concept": "inv.situations.detresse",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation le Prophète ﷺ disait-il dans la détresse ?",
+      "choices": [
+        "« Lā ilāha illā Llāhu l-ʿAẓīmu l-Ḥalīm… »",
+        "« Allāhumma ṣayyiban nāfiʿā… »",
+        "« Subḥāna lladhī sakhkhara lanā hādhā… »",
+        "« Bi-smika Llāhumma amūtu wa aḥyā… »"
+      ],
+      "answer": 0,
+      "expl": "« Il n'y a de divinité qu'Allah, l'Immense, le Longanime ; il n'y a de divinité qu'Allah, Seigneur du Trône immense ; il n'y a de divinité qu'Allah, Seigneur des cieux, de la terre et du noble Trône. » Dans l'épreuve, on revient au tawḥīd.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0032",
+      "concept": "inv.situations.condoleances",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ à sa fille dont l'enfant était mourant, pour la consoler ?",
+      "choices": [
+        "« Ne pleure pas, c'est interdit »",
+        "« À Allah ce qu'Il a pris et ce qu'Il a donné… »",
+        "« Il guérira certainement demain, n'aie pas peur »",
+        "« Va consulter un autre médecin »"
+      ],
+      "answer": 1,
+      "expl": "Usāma rapporte ce message. Puis le Prophète ﷺ se rendit auprès de l'enfant et pleura ; Saʿd s'étonna, et il dit : « C'est une miséricorde qu'Allah a mise dans le cœur de Ses serviteurs. » Les larmes ne contredisent pas la patience.",
+      "src": [
+        "Hadith d'Usāma ibn Zayd — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0033",
+      "concept": "inv.situations.maries",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation adresse-t-on aux jeunes mariés selon la Sunna ?",
+      "choices": [
+        "« Que Dieu vous rende riches »",
+        "« Bon courage »",
+        "« Bāraka Llāhu laka wa bāraka ʿalayka wa jamaʿa baynakumā fī khayr »",
+        "« Puissiez-vous avoir beaucoup de garçons »"
+      ],
+      "answer": 2,
+      "expl": "« Qu'Allah bénisse pour toi, qu'Il répande Sa bénédiction sur toi, et qu'Il vous unisse dans le bien. » Le Prophète ﷺ remplaça ainsi un vœu d'avant l'islam qui ne souhaitait que des fils.",
+      "src": [
+        "Hadith d'Abū Hurayra — Abu Dawud & Tirmidhi"
+      ],
+      "ar": {
+        "text": "بَارَكَ اللّٰهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+        "tr": "bāraka Llāhu laka wa bāraka ʿalayka wa jamaʿa baynakumā fī khayr",
+        "pr": "bâ-ra-kal-lâ-hou la-ka wa bâ-ra-ka ʿa-lay-ka wa ja-ma-ʿa bay-na-kou-mâ fî khayr",
+        "fr": "qu'Allah bénisse pour toi et sur toi, et vous unisse dans le bien"
+      },
+      "retired": true
+    },
+    {
+      "id": "inv-t2-0034",
+      "concept": "inv.situations.umm-salama",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation Umm Salama fit-elle à la mort de son mari Abū Salama, avec pour résultat un remplacement meilleur ?",
+      "choices": [
+        "« Rabbanā ātinā fī d-dunyā ḥasana wa fī l-ākhira »",
+        "« Ḥasbunā Llāhu wa niʿma l-wakīl »",
+        "« Rabbi zidnī ʿilmā »",
+        "« Allāhumma ʾjurnī fī muṣībatī wa akhlif lī khayran minhā »"
+      ],
+      "answer": 3,
+      "expl": "« Ô Allah, récompense-moi dans mon épreuve et remplace-la par mieux. » Umm Salama se demandait qui pourrait être meilleur qu'Abū Salama ; peu après, le Prophète ﷺ la demanda en mariage.",
+      "src": [
+        "Hadith d'Umm Salama — Muslim"
+      ],
+      "ar": {
+        "text": "اللّٰهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْرًا مِنْهَا",
+        "tr": "Allāhumma ʾjurnī fī muṣībatī wa akhlif lī khayran minhā",
+        "pr": "al-lâ-houm-maʾ-jour-nî fî mou-sî-ba-tî wa akh-lif lî khay-ran min-hâ",
+        "fr": "Ô Allah, récompense-moi dans mon épreuve et remplace-la par mieux"
+      }
+    },
+    {
+      "id": "inv-t2-0035",
+      "concept": "inv.situations.kaffarat-majlis",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on, selon la Sunna, en quittant une assemblée pour effacer les paroles inutiles qui y ont été dites ?",
+      "choices": [
+        "« Subḥānaka Llāhumma wa bi-ḥamdik… astaghfiruka »",
+        "« Allāhu akbar », trois fois en se levant",
+        "« Āmīn », puis on part sans un mot",
+        "« Bismillāh », en sortant du pied droit"
+      ],
+      "answer": 0,
+      "expl": "« Gloire à Toi, ô Allah, et louange ; je témoigne qu'il n'y a de divinité que Toi ; je Te demande pardon et je me repens à Toi. » C'est la kaffārat al-majlis : ce qui a été dit de futile dans la réunion est pardonné.",
+      "src": [
+        "Hadith d'Abū Hurayra — Tirmidhi"
+      ],
+      "ar": {
+        "text": "سُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+        "tr": "subḥānaka Llāhumma wa bi-ḥamdik, ashhadu an lā ilāha illā ant, astaghfiruka wa atūbu ilayk",
+        "pr": "soub-hâ-na-kal-lâ-houm-ma wa bi-ham-dik, ach-ha-dou an lâ i-lâ-ha il-lâ ant, as-tagh-fi-rou-ka wa a-toû-bou i-layk",
+        "fr": "gloire et louange à Toi, ô Allah ; je témoigne qu'il n'y a de divinité que Toi ; je Te demande pardon et me repens à Toi"
+      }
+    },
+    {
+      "id": "inv-t2-0036",
+      "concept": "inv.situations.rahmataka",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation le Prophète ﷺ enseigna-t-il pour le moment de l'angoisse : « Allāhumma raḥmataka arjū… » ?",
+      "choices": [
+        "« … donne-moi la victoire sur tous mes ennemis »",
+        "« … ne me laisse pas à moi-même un clin d'œil… »",
+        "« … rends-moi riche et respecté »",
+        "« … fais-moi vivre plus longtemps que les autres »"
+      ],
+      "answer": 1,
+      "expl": "« Ô Allah, c'est Ta miséricorde que j'espère : ne me laisse pas à moi-même le temps d'un clin d'œil, et arrange toutes mes affaires ; il n'y a de divinité que Toi. » Ces invocations de l'angoisse reviennent toutes à la même idée : s'en remettre à Allah.",
+      "src": [
+        "Hadith d'Abū Bakra — Abu Dawud"
+      ]
+    },
+    {
+      "id": "inv-t2-0037",
+      "concept": "inv.formules.ecume",
+      "domain": "invocations",
+      "sub": "formules",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promet le hadith à celui qui dit « subḥāna llāhi wa-bi-ḥamdih » cent fois dans la journée ?",
+      "choices": [
+        "Il verra le Prophète ﷺ en rêve",
+        "Ses péchés sont effacés, même s'ils étaient comme l'écume de la mer",
+        "Il deviendra riche",
+        "Il n'aura plus besoin de prier"
+      ],
+      "answer": 1,
+      "expl": "« Celui qui dit cent fois par jour « subḥāna llāhi wa-bi-ḥamdih », ses péchés lui sont effacés, fussent-ils comme l'écume de la mer » (Bukhari et Muslim). Quelques minutes, un immense pardon.",
+      "src": [
+        "Bukhari et Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "inv-t2-0038",
+      "concept": "inv.formules.tresor",
+      "domain": "invocations",
+      "sub": "formules",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle formule le Prophète ﷺ appela-t-il « un trésor parmi les trésors du Paradis » ?",
+      "choices": [
+        "« Subḥāna Llāhi wa bi-ḥamdih »",
+        "« Allāhu akbar »",
+        "« Lā ḥawla wa-lā quwwata illā billāh »",
+        "« Bismillāh »"
+      ],
+      "answer": 2,
+      "expl": "Il dit à Abū Mūsā : « Veux-tu que je t'indique un trésor parmi les trésors du Paradis ? Lā ḥawla wa-lā quwwata illā billāh » (Bukhari et Muslim) : il n'y a de force ni de puissance qu'en Allah.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0039",
+      "concept": "inv.quotidien.voyage",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation, tirée du Coran, dit-on en montant dans un véhicule pour voyager ?",
+      "choices": [
+        "« Āyat al-Kursī » seulement",
+        "« Allāhumma bārik lanā »",
+        "« Innā lillāh »",
+        "« Subḥāna lladhī sakhkhara lanā hādhā wa-mā kunnā lahu muqrinīn »"
+      ],
+      "answer": 3,
+      "expl": "« Gloire à Celui qui nous a soumis ceci, alors que nous n'étions pas capables de le maîtriser ; et c'est vers notre Seigneur que nous retournerons » (43:13-14). Le Prophète ﷺ la disait en montant sur sa monture (Muslim).",
+      "src": [
+        "Coran 43:13-14 ; Muslim"
+      ],
+      "ar": {
+        "text": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ",
+        "tr": "subḥāna lladhī sakhkhara lanā hādhā wa-mā kunnā lahu muqrinīn",
+        "pr": "soub-hâ-nal-la-dhî sakh-kha-ra la-nâ hâ-dhâ wa mâ koun-nâ la-hou mouq-ri-nîn",
+        "fr": "Gloire à Celui qui nous a soumis ceci, nous n'en étions pas capables"
+      },
+      "retired": true
+    },
+    {
+      "id": "inv-t2-0040",
+      "concept": "inv.quotidien.pluie-utile",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disait le Prophète ﷺ en voyant tomber la pluie ?",
+      "choices": [
+        "« Allāhumma ṣayyiban nāfiʿā » (Ô Allah, une pluie bénéfique)",
+        "« Arrête-la, ô Allah »",
+        "« Āmīn »",
+        "Il ne disait rien"
+      ],
+      "answer": 0,
+      "expl": "ʿĀʾisha rapporte qu'en voyant la pluie il disait : « Allāhumma ṣayyiban nāfiʿā » (Bukhari). Après la pluie : « Nous avons reçu la pluie par la grâce d'Allah et Sa miséricorde » (Bukhari). Et l'invocation faite sous la pluie est espérée exaucée.",
+      "src": [
+        "Bukhari"
+      ],
+      "retired": true
+    },
+    {
+      "id": "inv-t2-0041",
+      "concept": "inv.quotidien.cauchemar",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseille la Sunna après un mauvais rêve ?",
+      "choices": [
+        "Ne plus dormir de la nuit",
+        "Souffler légèrement trois fois à sa gauche, chercher refuge auprès d'Allah, changer de côté, et ne pas le raconter",
+        "Le raconter à tout le monde",
+        "Jeûner le lendemain"
+      ],
+      "answer": 1,
+      "expl": "« Le bon rêve vient d'Allah, le mauvais vient de Satan. Si l'un de vous voit un rêve qui lui déplaît, qu'il souffle trois fois à sa gauche, cherche refuge auprès d'Allah contre son mal, et il ne lui nuira pas » (Muslim). On peut aussi se lever pour prier.",
+      "src": [
+        "Bukhari et Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "inv-t2-0042",
+      "concept": "inv.quotidien.manger-oubli",
+      "domain": "invocations",
+      "sub": "quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on si l'on a oublié de dire « bismillāh » au début du repas ?",
+      "choices": [
+        "Rien, c'est trop tard",
+        "« Astaghfiru llāh » seulement",
+        "« Bismillāhi awwalahu wa-ākhirah » (Au nom d'Allah, au début et à la fin)",
+        "On recommence le repas"
+      ],
+      "answer": 2,
+      "expl": "« Si l'un de vous mange, qu'il mentionne le nom d'Allah. S'il oublie au début, qu'il dise : Bismillāhi awwalahu wa-ākhirah » (Abū Dāwūd ; Tirmidhi).",
+      "src": [
+        "Abū Dāwūd ; Tirmidhi (ṣaḥīḥ)"
+      ],
+      "retired": true
+    },
+    {
+      "id": "inv-t2-0043",
+      "concept": "inv.apres-priere.anta-salam",
+      "domain": "invocations",
+      "sub": "apres-priere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disait le Prophète ﷺ juste après le salām, après avoir demandé pardon trois fois ?",
+      "choices": [
+        "« Allāhu akbar » cent fois",
+        "La Fātiḥa",
+        "« Āmīn » trois fois",
+        "« Allāhumma anta s-salām wa-minka s-salām, tabārakta yā dhā l-jalāli wa-l-ikrām »"
+      ],
+      "answer": 3,
+      "expl": "Thawbān rapporte : après la prière, il demandait pardon trois fois, puis disait : « Ô Allah, Tu es la Paix et de Toi vient la paix ; béni sois-Tu, ô Plein de majesté et de noblesse » (Muslim).",
+      "src": [
+        "Muslim"
+      ],
+      "ar": {
+        "text": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+        "tr": "Allāhumma anta s-salām wa-minka s-salām, tabārakta yā dhā l-jalāli wa-l-ikrām",
+        "pr": "al-lâ-houm-ma an-tas-sa-lâm wa min-kas-sa-lâm, ta-bâ-rak-ta yâ dhal-ja-lâ-li wal-ik-râm",
+        "fr": "Ô Allah, Tu es la Paix et de Toi vient la paix…"
+      },
+      "retired": true
+    },
+    {
+      "id": "inv-t2-0044",
+      "concept": "inv.apres-priere.total-cent",
+      "domain": "invocations",
+      "sub": "apres-priere",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Après la prière : 33 fois « subḥāna llāh », 33 fois « al-ḥamdu lillāh », 33 fois « Allāhu akbar », puis une formule pour compléter. Combien cela fait-il en tout ?",
+      "answer": 100,
+      "expl": "33 + 33 + 33 = 99, complétés par « lā ilāha illā llāhu waḥdahu lā sharīka lah… » : cent. « Ses péchés sont pardonnés, fussent-ils comme l'écume de la mer » (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0045",
+      "concept": "inv.matin-soir.la-yadurru",
+      "domain": "invocations",
+      "sub": "matin-soir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promet le hadith à celui qui dit trois fois, matin et soir : « Bismillāhi lladhī lā yaḍurru maʿa smihi shayʾun… » ?",
+      "choices": [
+        "Rien ne lui nuira",
+        "Il deviendra riche",
+        "Il ne tombera jamais malade de sa vie",
+        "Il verra Jibrīl"
+      ],
+      "answer": 0,
+      "expl": "« Au nom d'Allah, avec le nom de qui rien ne nuit, ni sur terre ni dans le ciel, et Il est Celui qui entend et sait tout. » Celui qui la dit trois fois le soir, aucun malheur soudain ne le frappera jusqu'au matin (Abū Dāwūd ; Tirmidhi).",
+      "src": [
+        "Abū Dāwūd ; Tirmidhi (ḥasan ṣaḥīḥ)"
+      ]
+    },
+    {
+      "id": "inv-t2-0046",
+      "concept": "inv.coran-prophetes.ayyub",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation Ayyūb fit-il après des années de maladie ?",
+      "choices": [
+        "« Donne-moi la richesse »",
+        "« Le mal m'a touché, et Tu es le plus Miséricordieux des miséricordieux »",
+        "« Pourquoi moi ? »",
+        "« Reprends-moi »"
+      ],
+      "answer": 1,
+      "expl": "« Et Ayyūb, quand il appela son Seigneur : Le mal m'a touché, et Tu es le plus Miséricordieux des miséricordieux » (21:83). Il ne se plaint pas, il constate, et il fait appel à la miséricorde. Allah le guérit.",
+      "src": [
+        "Coran 21:83-84"
+      ],
+      "ar": {
+        "text": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+        "tr": "annī massaniya ḍ-ḍurru wa-anta arḥamu r-rāḥimīn",
+        "pr": "an-nî mas-sa-ni-yad-dour-rou wa an-ta ar-ha-mour-râ-hi-mîn",
+        "fr": "Le mal m'a touché, et Tu es le plus Miséricordieux des miséricordieux"
+      },
+      "retired": true
+    },
+    {
+      "id": "inv-t2-0047",
+      "concept": "inv.coran-prophetes.yusuf",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que demanda Yūsuf à Allah, au sommet de sa réussite, une fois réuni avec sa famille ?",
+      "choices": [
+        "« Donne-moi un royaume encore plus grand »",
+        "« Punis mes frères pour ce qu'ils m'ont fait »",
+        "« Fais-moi mourir en musulman, réunis-moi aux vertueux »",
+        "« Fais-moi vivre éternellement en Égypte »"
+      ],
+      "answer": 2,
+      "expl": "« Seigneur, Tu m'as donné du pouvoir et enseigné l'interprétation des rêves… Fais-moi mourir en état de soumission, et réunis-moi aux vertueux » (12:101). Au moment du triomphe, il pense à la fin.",
+      "src": [
+        "Coran 12:101"
+      ],
+      "ar": {
+        "text": "تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+        "tr": "tawaffanī musliman wa-alḥiqnī bi-ṣ-ṣāliḥīn",
+        "pr": "ta-waf-fa-nî mous-li-man wa al-hiq-nî bis-sâ-li-hîn",
+        "fr": "Fais-moi mourir en musulman et réunis-moi aux vertueux"
+      }
+    },
+    {
+      "id": "inv-t2-0048",
+      "concept": "inv.coran-prophetes.ibrahim-enfant",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation Ibrāhīm fit-il pour avoir un enfant ?",
+      "choices": [
+        "« Rabbi zidnī ʿilman wa fahmā »",
+        "« Rabbi ghfir lī »",
+        "« Rabbi yassir »",
+        "« Rabbi hab lī mina ṣ-ṣāliḥīn »"
+      ],
+      "answer": 3,
+      "expl": "« Seigneur, fais-moi don d'une progéniture d'entre les vertueux » (37:100). Allah lui annonça un garçon patient, Ismāʿīl. Il demandait un enfant vertueux, pas seulement un enfant.",
+      "src": [
+        "Coran 37:100-101"
+      ]
+    },
+    {
+      "id": "inv-t2-0049",
+      "concept": "inv.adab-dua.moments-exauces",
+      "domain": "invocations",
+      "sub": "adab-dua",
+      "tier": 2,
+      "type": "multi",
+      "q": "Lesquels sont des moments où l'invocation est particulièrement espérée exaucée ?",
+      "choices": [
+        "Le dernier tiers de la nuit",
+        "La prosternation",
+        "Pendant qu'on mange",
+        "Entre l'adhān et l'iqāma",
+        "Le jour de ʿArafa",
+        "Juste après une dispute"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Le Prophète ﷺ a cité ces moments : la descente divine au dernier tiers de la nuit (Bukhari), la prosternation où « le serviteur est le plus proche de son Seigneur » (Muslim), entre l'adhān et l'iqāma (Tirmidhi), le jour de ʿArafa (Tirmidhi), l'heure du vendredi, la pluie, le voyage, le jeûneur avant la rupture."
+    },
+    {
+      "id": "inv-t2-0050",
+      "concept": "inv.adab-dua.commencer-louange",
+      "domain": "invocations",
+      "sub": "adab-dua",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith de Faḍāla, comment commencer une invocation ?",
+      "choices": [
+        "Par la louange et la prière sur le Prophète ﷺ",
+        "Par sa demande directement",
+        "Par la Fātiḥa en entier, à voix haute",
+        "Par un cri vers le ciel"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ entendit un homme invoquer sans louer Allah ni prier sur lui : « Il s'est hâté. » Puis il dit : « Quand l'un de vous invoque, qu'il commence par louer son Seigneur et Le glorifier, puis qu'il prie sur le Prophète, puis qu'il demande ce qu'il veut » (Tirmidhi).",
+      "src": [
+        "Tirmidhi ; Abū Dāwūd"
+      ]
+    },
+    {
+      "id": "inv-t2-0051",
+      "concept": "inv.adab-dua.presse",
+      "domain": "invocations",
+      "sub": "adab-dua",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qui empêche une invocation d'être exaucée, selon le hadith ?",
+      "choices": [
+        "Invoquer en français plutôt qu'en arabe",
+        "S'impatienter : « On ne m'a pas répondu »",
+        "Invoquer en silence",
+        "Invoquer assis"
+      ],
+      "answer": 1,
+      "expl": "« L'un de vous est exaucé tant qu'il ne se hâte pas, en disant : J'ai invoqué, et on ne m'a pas répondu » (Bukhari et Muslim). L'exaucement peut être immédiat, différé, transformé en protection ou gardé pour l'au-delà.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0052",
+      "concept": "inv.adab-dua.certitude",
+      "domain": "invocations",
+      "sub": "adab-dua",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Dans quel état d'esprit faut-il invoquer, selon le hadith ?",
+      "choices": [
+        "Seulement quand on est désespéré",
+        "En pensant que c'est inutile",
+        "Avec la certitude d'être exaucé",
+        "En doutant pour rester humble"
+      ],
+      "answer": 2,
+      "expl": "« Invoquez Allah en étant certains d'être exaucés, et sachez qu'Allah n'exauce pas l'invocation d'un cœur distrait et inattentif » (Tirmidhi). La confiance fait partie de l'adoration.",
+      "src": [
+        "Tirmidhi (ḥasan)"
+      ]
+    },
+    {
+      "id": "inv-t2-0053",
+      "concept": "inv.situations.visite-malade",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on sept fois au chevet d'un malade, selon le hadith d'Ibn ʿAbbās ?",
+      "choices": [
+        "« Innā li-Llāhi wa innā ilayhi rājiʿūn »",
+        "« Rabbi zidnī ʿilmā »",
+        "« Allāhumma ṣayyiban nāfiʿā »",
+        "« Asʾalu llāha l-ʿaẓīma… an yashfiyak »"
+      ],
+      "answer": 3,
+      "expl": "« Je demande à Allah l'Immense, Seigneur du Trône immense, de te guérir. » Celui qui la dit sept fois au chevet d'un malade dont l'heure n'est pas venue, Allah le guérit (Abū Dāwūd ; Tirmidhi).",
+      "src": [
+        "Abū Dāwūd ; Tirmidhi"
+      ]
+    },
+    {
+      "id": "inv-t2-0054",
+      "concept": "inv.situations.douleur",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseilla le Prophète ﷺ à ʿUthmān ibn Abī l-ʿĀṣ, qui souffrait d'une douleur au corps ?",
+      "choices": [
+        "La main sur la douleur, « bismillāh », puis une formule",
+        "Boire de l'eau de Zamzam chaque matin à jeun",
+        "Jeûner trois jours de suite",
+        "Partir en pèlerinage"
+      ],
+      "answer": 0,
+      "expl": "« Pose ta main sur l'endroit qui te fait mal et dis trois fois : Bismillāh. Puis dis sept fois : Aʿūdhu bi-ʿizzati llāhi wa-qudratihi min sharri mā ajidu wa-uḥādhir (je cherche refuge dans la puissance et le pouvoir d'Allah contre le mal que je ressens et que je redoute) » (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "inv-t2-0055",
+      "concept": "inv.situations.joie",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faisait le Prophète ﷺ quand il recevait une bonne nouvelle ?",
+      "choices": [
+        "Il organisait une fête pour ses Compagnons",
+        "Il louait Allah, parfois prosterné",
+        "Il distribuait de l'or",
+        "Il ne disait rien"
+      ],
+      "answer": 1,
+      "expl": "Abū Bakra rapporte que, lorsqu'il recevait une nouvelle qui le réjouissait, il se prosternait en remerciement à Allah (Abū Dāwūd). Il disait aussi : « Louange à Allah par la grâce de qui les bonnes choses s'accomplissent » (Ibn Mājah).",
+      "src": [
+        "Abū Dāwūd ; Ibn Mājah"
+      ],
+      "note": "Chez les malikites, l'avis connu déconseille la prosternation de gratitude ; d'autres malikites et les autres écoles la recommandent."
+    },
+    {
+      "id": "inv-t2-0056",
+      "concept": "inv.adab-dua.fiche-dua",
+      "domain": "invocations",
+      "sub": "adab-dua",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Bien invoquer",
+      "points": [
+        "Commencer par louer Allah et prier sur le Prophète ﷺ",
+        "Demander avec certitude, sans se décourager",
+        "Lever les mains, se tourner vers la qibla (recommandé)",
+        "Invoquer aussi pour les autres : un ange dit « et pour toi la même chose »",
+        "Finir par la prière sur le Prophète ﷺ et « āmīn »"
+      ],
+      "expl": "L'invocation est « l'essence de l'adoration » (Tirmidhi). On peut tout demander, petit ou grand, dans sa langue, à tout moment."
+    },
+    {
+      "id": "inv-t2-0057",
+      "concept": "inv.situations.dette",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation le Prophète ﷺ enseigna-t-il pour être libéré des dettes ?",
+      "choices": [
+        "« Rabbanā ẓalamnā anfusanā… »",
+        "« Allāhumma kfinī bi-ḥalālika ʿan ḥarāmik… »",
+        "« Ḥasbunā Llāhu wa niʿma l-wakīl… »",
+        "« Rabbi hab lī mina ṣ-ṣāliḥīn… »"
+      ],
+      "answer": 1,
+      "expl": "Il l'enseigna à un esclave qui peinait à racheter sa liberté : « Ô Allah, suffis-moi par Ton licite pour que je n'aie pas besoin de Ton illicite, et enrichis-moi par Ta grâce pour que je n'aie besoin de personne d'autre que Toi » (Tirmidhi). ʿAlī dit que même avec une dette grande comme une montagne, Allah l'acquitterait.",
+      "src": [
+        "Tirmidhi (ḥasan)"
+      ]
+    },
+    {
+      "id": "inv-t2-0058",
+      "concept": "inv.situations.chose-plait",
+      "domain": "invocations",
+      "sub": "situations",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on, selon le Coran, en voyant une belle chose qu'on possède ou qu'un autre possède ?",
+      "choices": [
+        "« Innā li-Llāhi wa innā ilayhi rājiʿūn »",
+        "« Astaghfiru Llāha l-ʿaẓīm »",
+        "« Mā shāʾa llāh, lā quwwata illā billāh »",
+        "« Bismillāhi r-Raḥmāni r-Raḥīm »"
+      ],
+      "answer": 2,
+      "expl": "Dans la sourate al-Kahf, le croyant dit à son compagnon fier de son jardin : « Pourquoi, en entrant dans ton jardin, n'as-tu pas dit : C'est ce qu'Allah a voulu, il n'y a de force qu'en Allah ? » (18:39). On protège ainsi les bienfaits et on écarte l'envie.",
+      "src": [
+        "Coran 18:39"
+      ]
+    },
+    {
+      "id": "inv-t2-0059",
+      "concept": "inv.coran-prophetes.taqabbal",
+      "domain": "invocations",
+      "sub": "coran-prophetes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle invocation Ibrāhīm et Ismāʿīl firent-ils en élevant les fondations de la Kaʿba ?",
+      "choices": [
+        "« Rabbi zidnī ʿilmā »",
+        "« Rabbanā ẓalamnā anfusanā »",
+        "« Rabbi hab lī mina ṣ-ṣāliḥīn »",
+        "« Rabbanā taqabbal minnā… »"
+      ],
+      "answer": 3,
+      "expl": "« Seigneur, accepte ceci de notre part, Tu es Celui qui entend et sait tout » (2:127). Après avoir construit la Maison d'Allah, ils ne demandent qu'une chose : que leur œuvre soit acceptée.",
+      "src": [
+        "Coran 2:127"
+      ],
+      "ar": {
+        "text": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+        "tr": "rabbanā taqabbal minnā, innaka anta s-samīʿu l-ʿalīm",
+        "pr": "rab-ba-nâ ta-qab-bal min-nâ, in-na-ka an-tas-sa-mî-ʿoul-ʿa-lîm",
+        "fr": "Seigneur, accepte ceci de notre part"
+      }
+    },
+    {
+      "id": "inv-t2-0060",
+      "concept": "inv.matin-soir.kursi-soir",
+      "domain": "invocations",
+      "sub": "matin-soir",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promet le hadith à celui qui récite Āyat al-Kursī avant de dormir ?",
+      "choices": [
+        "Un gardien d'Allah le protège jusqu'au matin",
+        "Il fera de beaux rêves toute la nuit",
+        "Il se réveillera toujours à l'aube",
+        "Il deviendra riche l'année suivante"
+      ],
+      "answer": 0,
+      "expl": "Abū Hurayra, chargé de garder les dattes de la zakāt, apprit cela d'un voleur qui revenait chaque nuit. Le Prophète ﷺ lui dit : « Il t'a dit vrai, alors qu'il est un grand menteur : c'était Satan » (Bukhari).",
+      "src": [
+        "Bukhari"
+      ]
+    }
+  ]
+}

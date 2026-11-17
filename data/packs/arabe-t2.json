@@ -1,0 +1,1449 @@
+{
+  "pack": "arabe-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "ara-t2-0001",
+      "concept": "ara.alphabet.forme-ayn-init",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle lettre est écrite ici ?",
+      "choices": [
+        "Fāʾ",
+        "ʿAyn",
+        "Ghayn",
+        "Hāʾ"
+      ],
+      "answer": 1,
+      "expl": "Au début d'un mot, le ʿayn devient une petite forme ouverte comme un « c » posé sur la ligne. Sans point, c'est ʿayn ; avec un point au-dessus, ghayn. On le voit au début de ʿilm (savoir).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "عـ",
+        "tr": "ʿayn (début de mot)",
+        "pr": "ʿayn",
+        "fr": "la lettre ʿAyn"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0002",
+      "concept": "ara.alphabet.forme-ayn-med",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle lettre est écrite ici ?",
+      "choices": [
+        "Mīm",
+        "Ghayn",
+        "ʿAyn",
+        "Fāʾ"
+      ],
+      "answer": 2,
+      "expl": "Au milieu d'un mot, le ʿayn devient une petite boucle fermée et pleine, sans point. Le fāʾ lui ressemble mais porte un point au-dessus (un point dessous au Maghreb). On le voit dans Kaʿba.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ـعـ",
+        "tr": "ʿayn (milieu de mot)",
+        "pr": "ʿayn",
+        "fr": "la lettre ʿAyn"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0003",
+      "concept": "ara.alphabet.forme-ha-init",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle lettre est écrite ici ?",
+      "choices": [
+        "ʿAyn",
+        "Mīm",
+        "Ṣād",
+        "Hāʾ"
+      ],
+      "answer": 3,
+      "expl": "Au début d'un mot, le hāʾ prend une forme à deux boucles superposées. On le voit dans hudā (guidance). En fin de mot, il ressemble à un petit cercle ou une goutte.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "هـ",
+        "tr": "hāʾ (début de mot)",
+        "pr": "hâ",
+        "fr": "la lettre Hāʾ"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0004",
+      "concept": "ara.alphabet.forme-kaf-init",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle lettre est écrite ici ?",
+      "choices": [
+        "Kāf",
+        "Lām",
+        "Ṭāʾ",
+        "Dāl"
+      ],
+      "answer": 0,
+      "expl": "Au début et au milieu d'un mot, le kāf ressemble à une longue barre inclinée posée sur une base. Il se distingue du lām, plus simple et vertical. On le voit au début de kitāb.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "كـ",
+        "tr": "kāf (début de mot)",
+        "pr": "kâf",
+        "fr": "la lettre Kāf"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0005",
+      "concept": "ara.alphabet.forme-ya-fin",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle lettre est écrite ici ?",
+      "choices": [
+        "Wāw",
+        "Yāʾ",
+        "Nūn",
+        "Rāʾ"
+      ],
+      "answer": 1,
+      "expl": "En fin de mot, le yāʾ fait une grande courbe sous la ligne, avec deux points en dessous (souvent omis au Maghreb). On le voit à la fin de nabī (prophète).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ـي",
+        "tr": "yāʾ (fin de mot)",
+        "pr": "yâ",
+        "fr": "la lettre Yāʾ"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0006",
+      "concept": "ara.alphabet.ta-marbuta",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle est cette lettre, que l'on trouve à la fin de mots comme ṣalāt ou Fāṭima ?",
+      "choices": [
+        "Hāʾ simple",
+        "Tāʾ ouvert",
+        "Tāʾ marbūṭa",
+        "Alif maqṣūra"
+      ],
+      "answer": 2,
+      "expl": "La tāʾ marbūṭa ressemble à un hāʾ de fin de mot avec deux points au-dessus. Elle se prononce « a » en pause et « t » en liaison : on dit « ṣalā » à la fin d'une phrase, mais « ṣalātu l-fajr ». Elle marque souvent le féminin.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ة",
+        "tr": "tāʾ marbūṭa",
+        "pr": "tâ mar-boû-ta",
+        "fr": "le t noué"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0007",
+      "concept": "ara.alphabet.non-liantes",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Combien de lettres de l'alphabet arabe ne se lient jamais à la lettre qui les suit (alif, dāl, dhāl, rāʾ, zāy, wāw) ?",
+      "answer": 6,
+      "expl": "Six : ا د ذ ر ز و. Elles se lient à la lettre précédente, mais créent une coupure après elles. C'est pour cela que des mots comme « dār » (maison) ou « wird » s'écrivent en morceaux séparés.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t2-0008",
+      "concept": "ara.alphabet.lam-alif",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle combinaison est représentée par ce signe ?",
+      "choices": [
+        "Alif suivi de lām",
+        "Lām suivi de mīm",
+        "Kāf suivi d'alif",
+        "Lām suivi d'alif"
+      ],
+      "answer": 3,
+      "expl": "Quand un lām est suivi d'un alif, les deux lettres forment une ligature obligatoire, comme un V ou un Y stylisé : « lā ». On la voit dans « lā ilāha illā Llāh », où elle apparaît plusieurs fois.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "لا",
+        "tr": "lā",
+        "pr": "lâ",
+        "fr": "non"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0009",
+      "concept": "ara.alphabet.formes",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Combien de formes peut prendre une lettre arabe selon sa position dans le mot ?",
+      "choices": [
+        "Jusqu'à quatre",
+        "Une seule",
+        "Deux",
+        "Six"
+      ],
+      "answer": 0,
+      "expl": "L'arabe n'a pas de majuscules, mais la plupart des lettres changent de forme selon leur position : seule, au début, au milieu ou à la fin d'un mot. Les six lettres non liantes n'ont que deux formes. Avec la pratique, l'œil reconnaît vite la « famille » de chaque lettre.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t2-0010",
+      "concept": "ara.voyelles.signes",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque signe de lecture à son rôle.",
+      "pairs": [
+        [
+          "Sukūn (petit cercle)",
+          "Absence de voyelle : la lettre est muette"
+        ],
+        [
+          "Shadda (petit « w »)",
+          "Lettre doublée, prononcée deux fois"
+        ],
+        [
+          "Tanwīn (voyelle doublée)",
+          "Ajoute un « n » en fin de mot : -an, -in, -un"
+        ],
+        [
+          "Madd (lettre longue)",
+          "Allonge la voyelle : ā, ī, ū"
+        ]
+      ],
+      "expl": "Avec les trois voyelles brèves, ces signes permettent de lire n'importe quel mot vocalisé, comme dans le Coran.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "pron": {
+        "Sukūn (petit cercle)": "sou-koûn",
+        "Shadda (petit « w »)": "chad-da",
+        "Tanwīn (voyelle doublée)": "tan-wîn",
+        "Madd (lettre longue)": "madd"
+      }
+    },
+    {
+      "id": "ara-t2-0011",
+      "concept": "ara.voyelles.shadda",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit cette syllabe, avec une shadda ?",
+      "choices": [
+        "aba, le b simple",
+        "abba, le b doublé",
+        "abbā, le a final long",
+        "abbu, avec ou à la fin"
+      ],
+      "answer": 1,
+      "expl": "La shadda (ّ) double la consonne : on la prononce deux fois, une fois pour fermer la syllabe précédente et une fois pour ouvrir la suivante. Exemple célèbre : Muḥammad (mou-ham-mad), où le mīm est doublé. Ici, le bāʾ porte une shadda et une fatḥa.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "أَبَّ",
+        "tr": "abba",
+        "pr": "ab-ba",
+        "fr": "syllabe avec shadda"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0012",
+      "concept": "ara.voyelles.sukun",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit ce mot, dont la deuxième lettre porte un sukūn ?",
+      "choices": [
+        "mana",
+        "mun",
+        "min",
+        "mina"
+      ],
+      "answer": 2,
+      "expl": "Le sukūn (ْ) indique que la lettre n'a pas de voyelle : le nūn se prononce seul, fermant la syllabe. مِنْ se lit « min » (de, depuis), un mot très fréquent dans le Coran.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "مِنْ",
+        "tr": "min",
+        "pr": "min",
+        "fr": "de, depuis"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0013",
+      "concept": "ara.voyelles.tanwin",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit ce mot avec un tanwīn ?",
+      "choices": [
+        "kitābu",
+        "kitāb",
+        "kitābin",
+        "kitābun"
+      ],
+      "answer": 3,
+      "expl": "Le double ḍamma (ٌ) en fin de mot se lit « -un ». Il marque un nom indéfini : kitābun = « un livre ». Avec double fatḥa (ً) on lit « -an », avec double kasra (ٍ) « -in ». En pause, on ne prononce souvent pas le tanwīn.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "كِتَابٌ",
+        "tr": "kitābun",
+        "pr": "ki-tâ-boun",
+        "fr": "un livre"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0014",
+      "concept": "ara.voyelles.madd",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle lettre sert à allonger la voyelle « a » en « ā » ?",
+      "choices": [
+        "L'alif",
+        "Le wāw",
+        "Le yāʾ",
+        "Le nūn"
+      ],
+      "answer": 0,
+      "expl": "Trois lettres allongent les voyelles : l'alif pour ā (بَا = bā), le wāw pour ū (بُو = bū) et le yāʾ pour ī (بِي = bī). Ces voyelles longues se prononcent deux fois plus longtemps que les brèves.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t2-0015",
+      "concept": "ara.voyelles.madd-lecture",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit cette syllabe ?",
+      "choices": [
+        "bu, avec un ou bref",
+        "bū, avec un ou long",
+        "bī, avec un i long",
+        "bā, avec un a long"
+      ],
+      "answer": 1,
+      "expl": "Le bāʾ porte une ḍamma et il est suivi d'un wāw : la voyelle « ou » est allongée. On lit « boû », comme dans nūr (lumière) ou Qurʾān.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "بُو",
+        "tr": "bū",
+        "pr": "boû",
+        "fr": "syllabe longue"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0016",
+      "concept": "ara.lecture.mot-kitab",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit ce mot ?",
+      "choices": [
+        "kutub",
+        "maktab",
+        "kitāb",
+        "kātib"
+      ],
+      "answer": 2,
+      "expl": "Kitāb : le livre. Le Coran s'appelle aussi al-Kitāb. On reconnaît le kāf, le tāʾ, l'alif long et le bāʾ final. De la même racine viennent kātib (écrivain) et kutub (livres).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "كِتَاب",
+        "tr": "kitāb",
+        "pr": "ki-tâb",
+        "fr": "livre"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0017",
+      "concept": "ara.lecture.mot-salam",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit ce mot ?",
+      "choices": [
+        "islām",
+        "muslim",
+        "sallim",
+        "salām"
+      ],
+      "answer": 3,
+      "expl": "Salām : la paix. Sīn, lām, alif long, mīm final. C'est le mot du salut quotidien, « as-salāmu ʿalaykum », et l'un des noms d'Allah.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "سَلَام",
+        "tr": "salām",
+        "pr": "sa-lâm",
+        "fr": "paix"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0018",
+      "concept": "ara.lecture.mot-masjid",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit ce mot ?",
+      "choices": [
+        "masjid",
+        "sujūd",
+        "sajada",
+        "masājid"
+      ],
+      "answer": 0,
+      "expl": "Masjid : lieu de prosternation. Le sīn porte un sukūn : on lit « mas », puis « jid ». Masājid est son pluriel.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "مَسْجِد",
+        "tr": "masjid",
+        "pr": "mas-jid",
+        "fr": "mosquée"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0019",
+      "concept": "ara.lecture.mot-qalam",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit ce mot ?",
+      "choices": [
+        "ʿalam",
+        "qalam",
+        "qalb",
+        "kalām"
+      ],
+      "answer": 1,
+      "expl": "Qalam : le calame, l'instrument pour écrire. La sourate 68 s'appelle al-Qalam, et Allah dit dans al-ʿAlaq qu'Il a « enseigné par le calame ». Qalb veut dire cœur.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "قَلَم",
+        "tr": "qalam",
+        "pr": "qa-lam",
+        "fr": "calame, stylo"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0020",
+      "concept": "ara.lecture.mot-nur",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit ce mot ?",
+      "choices": [
+        "nahr",
+        "nawm",
+        "nūr",
+        "nār"
+      ],
+      "answer": 2,
+      "expl": "Nūr : la lumière. Le nūn porte une ḍamma suivie d'un wāw long. Attention à nār (feu), avec un alif long : une seule lettre change tout le sens !",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "نُور",
+        "tr": "nūr",
+        "pr": "noûr",
+        "fr": "lumière"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0021",
+      "concept": "ara.lecture.mot-bayt",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit ce mot ?",
+      "choices": [
+        "bint",
+        "bāb",
+        "nabt",
+        "bayt"
+      ],
+      "answer": 3,
+      "expl": "Bayt : la maison. Le yāʾ porte un sukūn et forme la diphtongue « ay ». La Kaʿba est appelée al-Bayt al-Ḥarām, la Maison sacrée.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "بَيْت",
+        "tr": "bayt",
+        "pr": "bayt",
+        "fr": "maison"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0022",
+      "concept": "ara.lecture.mot-rabb",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit ce mot ?",
+      "choices": [
+        "rabb",
+        "rubb",
+        "rabbī",
+        "ribā"
+      ],
+      "answer": 0,
+      "expl": "Rabb : le Seigneur. Le bāʾ final porte une shadda, d'où le « bb » doublé. On le retrouve dans « Rabbi l-ʿālamīn » de la Fātiḥa.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "رَبّ",
+        "tr": "rabb",
+        "pr": "rabb",
+        "fr": "Seigneur"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0023",
+      "concept": "ara.lecture.sens-qalb",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que signifie ce mot ?",
+      "choices": [
+        "Avant",
+        "Cœur",
+        "Chien",
+        "Calame"
+      ],
+      "answer": 1,
+      "expl": "Qalb (qalb) : le cœur. Il revient très souvent dans le Coran et les hadiths : « Il y a dans le corps un morceau de chair… c'est le cœur. » Attention : kalb (avec un kāf) veut dire chien, et qabl veut dire avant.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "قَلْب",
+        "tr": "qalb",
+        "pr": "qalb",
+        "fr": "cœur"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0024",
+      "concept": "ara.racines.k-t-b",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe ces mots de la racine k-t-b (écrire) à leur sens.",
+      "pairs": [
+        [
+          "Kitāb",
+          "Livre"
+        ],
+        [
+          "Kātib",
+          "Écrivain, scribe"
+        ],
+        [
+          "Maktab",
+          "Bureau"
+        ],
+        [
+          "Maktaba",
+          "Bibliothèque, librairie"
+        ]
+      ],
+      "expl": "En arabe, la plupart des mots viennent d'une racine de trois consonnes qui porte une idée. K-t-b exprime l'écriture : on la reconnaît dans tous ces mots. Comprendre les racines permet de deviner le sens de nombreux mots.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t2-0025",
+      "concept": "ara.racines.s-l-m",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe ces mots de la racine s-l-m (paix, intégrité) à leur sens.",
+      "pairs": [
+        [
+          "Salām",
+          "Paix"
+        ],
+        [
+          "Islām",
+          "Soumission à Allah"
+        ],
+        [
+          "Muslim",
+          "Celui qui se soumet"
+        ],
+        [
+          "Salāma",
+          "Sécurité, bonne santé"
+        ]
+      ],
+      "expl": "La racine s-l-m relie la paix, la sécurité et la soumission à Allah. Au Maroc, on dit « bslāma » pour au revoir : « avec la paix ».",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t2-0026",
+      "concept": "ara.racines.a-l-m",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe ces mots de la racine ʿ-l-m (savoir) à leur sens.",
+      "pairs": [
+        [
+          "ʿIlm",
+          "Science, savoir"
+        ],
+        [
+          "ʿĀlim",
+          "Savant"
+        ],
+        [
+          "Muʿallim",
+          "Enseignant"
+        ],
+        [
+          "ʿUlamāʾ",
+          "Les savants"
+        ]
+      ],
+      "expl": "La racine ʿ-l-m donne aussi le nom d'Allah al-ʿAlīm (l'Omniscient) et le mot ʿālam (le monde, ce par quoi on connaît le Créateur).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "pron": {
+        "ʿIlm": "ʿilm",
+        "ʿĀlim": "ʿâ-lim",
+        "Muʿallim": "mou-ʿal-lim",
+        "ʿUlamāʾ": "ʿou-la-mâʾ"
+      }
+    },
+    {
+      "id": "ara-t2-0027",
+      "concept": "ara.racines.r-h-m",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Lequel de ces mots N'est PAS de la racine r-ḥ-m (miséricorde) ?",
+      "choices": [
+        "Ar-Raḥmān",
+        "Marḥūm",
+        "Ramaḍān",
+        "Raḥma"
+      ],
+      "answer": 2,
+      "expl": "Raḥma (miséricorde), ar-Raḥmān (le Tout Miséricordieux) et marḥūm (le défunt, « celui à qui on a fait miséricorde ») viennent de r-ḥ-m. Ramaḍān vient de r-m-ḍ, qui évoque la chaleur brûlante. Le mot raḥim (utérus) est aussi de r-ḥ-m : la miséricorde maternelle.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t2-0028",
+      "concept": "ara.racines.trois",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "nombre",
+      "q": "De combien de consonnes se compose le plus souvent une racine arabe ?",
+      "answer": 3,
+      "expl": "Trois, le plus souvent (on parle de racines trilitères). Les schèmes ajoutent des voyelles et des lettres autour pour former noms, verbes et adjectifs. Par exemple s-j-d donne sajada (il s'est prosterné), sujūd (prosternation) et masjid (lieu de prosternation).",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t2-0029",
+      "concept": "ara.expressions.tbarkallah",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Au Maroc, que dit-on couramment pour exprimer l'admiration et éloigner le mauvais œil, à la place de « mā shāʾa Llāh » ?",
+      "choices": [
+        "« Bslāma »",
+        "« Mrḥba bik »",
+        "« Llāh yhdīk »",
+        "« Tbārk Llāh ʿlīk »"
+      ],
+      "answer": 3,
+      "expl": "« Tbārk Llāh ʿlīk » (tbâ-rak-lâ ʿlîk), « qu'Allah te bénisse », se dit en darija devant un enfant, une réussite ou une belle chose, comme « tabāraka Llāh » en arabe classique. Bslāma veut dire au revoir, wakha d'accord.",
+      "note": "Expression du dialecte marocain (darija)."
+    },
+    {
+      "id": "ara-t2-0030",
+      "concept": "ara.expressions.darija",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe ces expressions marocaines (darija) courantes à leur sens.",
+      "pairs": [
+        [
+          "Bslāma",
+          "Au revoir (avec la paix)"
+        ],
+        [
+          "Llāh yjāzīk bi-khīr",
+          "Qu'Allah te récompense par le bien (merci)"
+        ],
+        [
+          "Llāh yrḥmū",
+          "Qu'Allah lui fasse miséricorde (pour un défunt)"
+        ],
+        [
+          "Llāh yshāfīk",
+          "Qu'Allah te guérisse"
+        ]
+      ],
+      "expl": "Le dialecte marocain est rempli d'invocations : on remercie, on console et on souhaite la santé en mentionnant Allah. Les connaître aide à échanger avec la famille de Meknès.",
+      "note": "Expressions du dialecte marocain (darija).",
+      "pron": {
+        "Bslāma": "bslâ-ma",
+        "Llāh yjāzīk bi-khīr": "lâh yjâ-zîk bi-khîr",
+        "Llāh yrḥmū": "lâh yrah-moû",
+        "Llāh yshāfīk": "lâh ychâ-fîk"
+      }
+    },
+    {
+      "id": "ara-t2-0031",
+      "concept": "ara.expressions.jumua",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel vœu échange-t-on souvent le vendredi ?",
+      "choices": [
+        "« Jumuʿa mubāraka »",
+        "« ʿĪd mubārak »",
+        "« Ramaḍān karīm »",
+        "« Ṣabāḥ al-khayr »"
+      ],
+      "answer": 0,
+      "expl": "« Jumuʿa mubāraka » (jou-mou-ʿa mou-bâ-ra-ka) se dit en se croisant le vendredi ou par message. Le vendredi est la fête hebdomadaire des musulmans."
+    },
+    {
+      "id": "ara-t2-0032",
+      "concept": "ara.expressions.subhanallah-surprise",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quand dit-on souvent « Subḥāna Llāh » en dehors du dhikr ?",
+      "choices": [
+        "Pour dire merci à quelqu'un",
+        "Devant une chose étonnante",
+        "En sortant de la maison",
+        "Avant de manger"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ disait « Subḥāna Llāh ! » quand il s'étonnait de quelque chose. On l'emploie aujourd'hui devant un paysage, une coïncidence étonnante ou une parole surprenante : on rappelle qu'Allah est au-dessus de tout.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari"
+      ]
+    },
+    {
+      "id": "ara-t2-0033",
+      "concept": "ara.vocabulaire.lieux-actes",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque mot arabe à son sens.",
+      "pairs": [
+        [
+          "Wuḍūʾ",
+          "Les ablutions"
+        ],
+        [
+          "Qibla",
+          "La direction de prière"
+        ],
+        [
+          "Khuṭba",
+          "Le sermon"
+        ],
+        [
+          "Imām",
+          "Celui qui dirige la prière"
+        ],
+        [
+          "Niyya",
+          "L'intention"
+        ]
+      ],
+      "expl": "Ces mots reviennent sans cesse à la mosquée et dans les cours.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "pron": {
+        "Wuḍūʾ": "wou-doûʾ",
+        "Qibla": "qib-la",
+        "Khuṭba": "khout-ba",
+        "Imām": "i-mâm",
+        "Niyya": "niy-ya"
+      }
+    },
+    {
+      "id": "ara-t2-0034",
+      "concept": "ara.vocabulaire.sciences",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque science islamique à son objet.",
+      "pairs": [
+        [
+          "ʿAqīda",
+          "La croyance"
+        ],
+        [
+          "Fiqh",
+          "La jurisprudence, les règles pratiques"
+        ],
+        [
+          "Sīra",
+          "La biographie du Prophète ﷺ"
+        ],
+        [
+          "Tafsīr",
+          "L'explication du Coran"
+        ],
+        [
+          "Tajwīd",
+          "Les règles de récitation"
+        ]
+      ],
+      "expl": "Cette application couvre plusieurs de ces sciences, à petites doses.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "pron": {
+        "ʿAqīda": "ʿa-qî-da",
+        "Fiqh": "fiqh",
+        "Sīra": "sî-ra",
+        "Tafsīr": "taf-sîr",
+        "Tajwīd": "taj-wîd"
+      }
+    },
+    {
+      "id": "ara-t2-0035",
+      "concept": "ara.vocabulaire.etres",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque mot à son sens.",
+      "pairs": [
+        [
+          "Malak",
+          "Ange"
+        ],
+        [
+          "Jinn",
+          "Djinn"
+        ],
+        [
+          "Shayṭān",
+          "Démon"
+        ],
+        [
+          "Nabī",
+          "Prophète"
+        ],
+        [
+          "Rasūl",
+          "Messager"
+        ]
+      ],
+      "expl": "Pluriel de malak : malāʾika. Le mot « djinn » est passé en français, tout comme « génie » qui en dérive en partie.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "pron": {
+        "Malak": "ma-lak",
+        "Jinn": "jinn",
+        "Shayṭān": "chay-tân",
+        "Nabī": "na-bî",
+        "Rasūl": "ra-soûl"
+      }
+    },
+    {
+      "id": "ara-t2-0036",
+      "concept": "ara.vocabulaire.baraka",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que signifie le mot « baraka », passé en français ?",
+      "choices": [
+        "La chance au jeu ou au hasard",
+        "Un porte-bonheur qu'on accroche",
+        "La bénédiction, le bien qui vient d'Allah",
+        "La richesse héritée de ses parents"
+      ],
+      "answer": 2,
+      "expl": "La baraka (ba-ra-ka) est le bien qu'Allah dépose dans une chose et qui la fait fructifier : un peu de nourriture qui rassasie beaucoup, un temps qui suffit pour beaucoup de choses. Elle vient d'Allah, pas d'un objet.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "بَرَكَة",
+        "tr": "baraka",
+        "pr": "ba-ra-ka",
+        "fr": "bénédiction"
+      }
+    },
+    {
+      "id": "ara-t2-0037",
+      "concept": "ara.vocabulaire.tawba-ar",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que signifie ce mot ?",
+      "choices": [
+        "La prière",
+        "Le jeûne",
+        "La patience",
+        "Le repentir"
+      ],
+      "answer": 3,
+      "expl": "Tawba (taw-ba) : le repentir, le retour vers Allah. Le mot vient de tāba, revenir. Une sourate porte ce nom (la 9e), et at-Tawwāb est un nom d'Allah : Celui qui accueille sans cesse le repentir.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "تَوْبَة",
+        "tr": "tawba",
+        "pr": "taw-ba",
+        "fr": "le repentir"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t2-0038",
+      "concept": "ara.vocabulaire.hikma",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que signifie le mot « ḥikma » ?",
+      "choices": [
+        "La sagesse",
+        "La guerre",
+        "La maladie",
+        "Le marché"
+      ],
+      "answer": 0,
+      "expl": "Ḥikma (hik-ma) : la sagesse, le fait de mettre chaque chose à sa place. Le Coran dit : « Celui à qui la sagesse est donnée a reçu un bien immense » (2:269). Al-Ḥakīm, le Sage, est un nom d'Allah.",
+      "src": [
+        "Coran 2:269"
+      ],
+      "ar": {
+        "text": "حِكْمَة",
+        "tr": "ḥikma",
+        "pr": "hik-ma",
+        "fr": "la sagesse"
+      }
+    },
+    {
+      "id": "ara-t2-0039",
+      "concept": "ara.expressions.rahimahu",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que signifie « raḥimahu llāh », qu'on dit après le nom d'une personne décédée ?",
+      "choices": [
+        "Qu'Allah le bénisse",
+        "Paix sur lui",
+        "Qu'Allah soit satisfait de lui",
+        "Qu'Allah lui fasse miséricorde"
+      ],
+      "answer": 3,
+      "expl": "On dit « raḥimahu llāh » pour un homme décédé, « raḥimahā llāh » pour une femme. « Raḍiya llāhu ʿanhu » est réservé aux Compagnons, « ʿalayhi s-salām » aux prophètes, et « ṣallā llāhu ʿalayhi wa-sallam » (ﷺ) au Prophète Muḥammad."
+    },
+    {
+      "id": "ara-t2-0040",
+      "concept": "ara.expressions.wa-iyyak",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que répond-on à quelqu'un qui dit « jazāka llāhu khayran » ?",
+      "choices": [
+        "« Wa-iyyāk »",
+        "« Āmīn »",
+        "« Bismillāh »",
+        "« Shukran »"
+      ],
+      "answer": 0,
+      "expl": "On répond « wa-iyyāk » (à un homme), « wa-iyyāki » (à une femme), « wa-iyyākum » (à plusieurs), ou plus complet : « wa-anta fa-jazāka llāhu khayran ». Au Maroc, on entend aussi « allāh yrḥam l-wālidīn »."
+    },
+    {
+      "id": "ara-t2-0041",
+      "concept": "ara.expressions.salama",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on, au Maroc et dans le monde arabe, à quelqu'un qui rentre d'un voyage ou se remet d'une maladie ?",
+      "choices": [
+        "« ʿĪd mubārak, kull ʿām wa antum bi-khayr »",
+        "« Al-ḥamdu lillāh ʿala s-salāma »",
+        "« Ṣabāḥ an-nūr »",
+        "« Jumuʿa mubāraka »"
+      ],
+      "answer": 1,
+      "expl": "« Ḥamdu llāh ʿla s-slāma » se dit au voyageur de retour, au malade guéri, à la femme qui vient d'accoucher. On répond : « allāh ysallmek » (qu'Allah te garde sain et sauf)."
+    },
+    {
+      "id": "ara-t2-0042",
+      "concept": "ara.expressions.yrham-walidin",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que veut dire l'expression marocaine « Allāh yrḥam l-wālidīn », souvent utilisée pour dire merci ?",
+      "choices": [
+        "Que tes parents soient fiers de toi",
+        "Salue tes parents de ma part",
+        "Qu'Allah fasse miséricorde à tes parents",
+        "Que tes parents vivent longtemps"
+      ],
+      "answer": 2,
+      "expl": "Au Maroc, on remercie souvent en priant pour les parents de l'autre : « llāh yrḥam l-wālidīn ». Une politesse qui reflète l'importance des parents dans la culture marocaine. On l'utilise aussi pour demander poliment : « ʿafāk, llāh yrḥam l-wālidīn »."
+    },
+    {
+      "id": "ara-t2-0043",
+      "concept": "ara.vocabulaire.sharia-sens",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le sens littéral du mot « sharīʿa » ?",
+      "choices": [
+        "La loi écrite par un roi",
+        "Le tribunal des savants",
+        "La punition des voleurs",
+        "Le chemin vers le point d'eau"
+      ],
+      "answer": 3,
+      "expl": "Dans le désert, la sharīʿa était le chemin qui mène à l'eau, source de vie. Le mot désigne la voie tracée par Allah : prière, jeûne, éthique, famille, commerce… bien plus qu'un code pénal."
+    },
+    {
+      "id": "ara-t2-0044",
+      "concept": "ara.vocabulaire.jihad-sens",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le sens premier du mot « jihād » ?",
+      "choices": [
+        "L'effort, d'abord contre soi-même",
+        "La guerre sainte uniquement",
+        "Le voyage vers La Mecque",
+        "La conquête de nouveaux pays"
+      ],
+      "answer": 0,
+      "expl": "Jihād vient de j-h-d, l'effort. Le Prophète ﷺ dit : « Le combattant est celui qui lutte contre son âme dans l'obéissance à Allah » (Aḥmad ; Tirmidhi), et à un homme qui voulait partir combattre : « C'est auprès de tes parents qu'est ton jihād » (Bukhari)."
+    },
+    {
+      "id": "ara-t2-0045",
+      "concept": "ara.vocabulaire.fatwa-sens",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'une « fatwā » ?",
+      "choices": [
+        "Une loi votée par un parlement",
+        "Un avis d'un savant sur une question",
+        "Une condamnation à mort",
+        "Un décret obligatoire pour tous"
+      ],
+      "answer": 1,
+      "expl": "Une fatwā est une réponse argumentée à une question de pratique religieuse. Elle n'est pas un ordre universel : elle dépend du contexte et de la personne. Au Maroc, le Conseil supérieur des oulémas est l'instance officielle des fatwas."
+    },
+    {
+      "id": "ara-t2-0046",
+      "concept": "ara.vocabulaire.fitra",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que désigne le mot « fiṭra » ?",
+      "choices": [
+        "L'aumône du riche",
+        "Le petit-déjeuner",
+        "La nature originelle de l'être humain, tournée vers Dieu",
+        "Le jeûne de Ramadan"
+      ],
+      "answer": 2,
+      "expl": "« Tout enfant naît selon la fiṭra » (Bukhari). C'est la disposition innée à reconnaître le Créateur. Le même mot a donné « fuṭūr » (petit-déjeuner, rupture du jeûne) et zakāt al-fiṭr : rompre, commencer.",
+      "retired": true
+    },
+    {
+      "id": "ara-t2-0047",
+      "concept": "ara.alphabet.solaires",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Combien de lettres « solaires » (qui assimilent le l de l'article al-) l'alphabet arabe compte-t-il ?",
+      "answer": 14,
+      "unit": "lettres",
+      "expl": "Quatorze lettres solaires, quatorze lunaires : moitié-moitié. Les solaires sont prononcées avec la pointe de la langue : t, th, d, dh, r, z, s, sh, ṣ, ḍ, ṭ, ẓ, l, n. Mnémotechnique : ash-shams (le soleil) commence par une solaire, al-qamar (la lune) par une lunaire."
+    },
+    {
+      "id": "ara-t2-0048",
+      "concept": "ara.alphabet.maqsura",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit le « ى » sans points à la fin d'un mot comme « هُدَى » (hudā) ?",
+      "choices": [
+        "Comme un « i » court",
+        "Comme un « y » consonne",
+        "Elle ne se prononce pas",
+        "Comme un « â » long"
+      ],
+      "answer": 3,
+      "expl": "C'est l'alif maqṣūra : un yāʾ sans points qui se lit « â ». On le trouve dans hudā (guidée), taqwā, mūsā, ʿīsā, ʿalā. Avec deux points dessous (ي), c'est un vrai yāʾ."
+    },
+    {
+      "id": "ara-t2-0049",
+      "concept": "ara.voyelles.lam-allah",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi le nom « Allāh » se prononce-t-il parfois « lourd » (Allâh) et parfois « léger » ?",
+      "choices": [
+        "Lourd après a ou ou, léger après i",
+        "Lourd le jour, léger la nuit",
+        "Lourd chez les hommes, léger chez les femmes",
+        "Lourd en prière, léger en conversation"
+      ],
+      "answer": 0,
+      "expl": "C'est la règle du lām d'Allāh : après une voyelle a ou u, le l est « emphatique », profond (tafkhīm) ; après un i, il est léger (tarqīq). Comparez « Allāhu akbar » et « bismi llāhi »."
+    },
+    {
+      "id": "ara-t2-0050",
+      "concept": "ara.voyelles.hamza-wasl",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que devient le « a » de l'article « al- » quand il suit un autre mot, comme dans « bismi llāh » ?",
+      "choices": [
+        "Il devient un « i » long",
+        "Il disparaît : c'est la hamza de liaison",
+        "Il se double et prend une shadda bien marquée",
+        "Il se prononce très fort"
+      ],
+      "answer": 1,
+      "expl": "La hamza de liaison ne se prononce qu'en début de phrase. Au milieu, elle s'efface et on enchaîne : « bismi llāh », « ʿabdu llāh », « fī l-masjid ». Le signe ٱ (alif avec un petit ṣād) l'indique dans le muṣḥaf."
+    },
+    {
+      "id": "ara-t2-0051",
+      "concept": "ara.lecture.chiffres",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Les chiffres utilisés au Maroc et en France (1, 2, 3…) s'appellent-ils chiffres « arabes » ?",
+      "choices": [
+        "Non : les Arabes ont toujours écrit d'autres chiffres",
+        "Non : ce sont des chiffres romains modernisés",
+        "Oui : venus d'Inde par les savants arabes",
+        "Oui : inventés à La Mecque par les Arabes"
+      ],
+      "answer": 2,
+      "expl": "Les mathématiciens arabes ont transmis les chiffres indiens à l'Europe, via l'Andalousie et le Maghreb, d'où le nom « arabes ». Au Maroc, on écrit 1, 2, 3 ; en Égypte ou au Golfe, on utilise les chiffres « indiens » ١, ٢, ٣."
+    },
+    {
+      "id": "ara-t2-0052",
+      "concept": "ara.lecture.lire-shams",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se lit « ٱلشَّمْسُ » (le soleil) ?",
+      "choices": [
+        "Al-chamsou : tout se prononce",
+        "Ach-chamsa : le ou devient a",
+        "Ilchams : sans voyelle finale",
+        "Ach-chamsou : le l est muet"
+      ],
+      "answer": 3,
+      "expl": "Le ش est une lettre solaire : le lām s'assimile, et la shadda sur ش montre que la lettre est doublée. On écrit l'article, mais on ne le prononce pas : « ach-chams »."
+    },
+    {
+      "id": "ara-t2-0053",
+      "concept": "ara.racines.h-m-d",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le point commun entre les mots « ḥamd », « Muḥammad », « Aḥmad » et « Maḥmūd » ?",
+      "choices": [
+        "La racine ḥ-m-d, louer",
+        "La racine k-t-b, écrire",
+        "La racine s-l-m, la paix",
+        "La racine ʿ-l-m, savoir"
+      ],
+      "answer": 0,
+      "expl": "Ḥamd : la louange. Muḥammad : celui qui est loué abondamment. Aḥmad : le plus loué, ou celui qui loue le plus. Maḥmūd : loué. Le Prophète ﷺ porte la louange dans son nom même."
+    },
+    {
+      "id": "ara-t2-0054",
+      "concept": "ara.racines.q-l-b",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "qcm",
+      "q": "La racine q-l-b, qui a donné « qalb » (le cœur), signifie à l'origine :",
+      "choices": [
+        "Aimer, chérir",
+        "Retourner, renverser",
+        "Battre, frapper",
+        "Vivre, respirer"
+      ],
+      "answer": 1,
+      "expl": "Le cœur est appelé qalb parce qu'il se retourne sans cesse. D'où l'invocation : « Yā muqalliba l-qulūb, thabbit qalbī ʿalā dīnik » : Ô Toi qui retournes les cœurs, affermis mon cœur sur Ta religion (Tirmidhi)."
+    },
+    {
+      "id": "ara-t2-0055",
+      "concept": "ara.racines.a-b-d",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Lequel de ces mots ne vient PAS de la racine ʿ-b-d (servir, adorer) ?",
+      "choices": [
+        "ʿIbāda (adoration)",
+        "Maʿbūd (celui qui est adoré)",
+        "ʿAql (la raison)",
+        "ʿAbd (serviteur)"
+      ],
+      "answer": 2,
+      "expl": "ʿAbd, ʿibāda, maʿbūd, ʿābid partagent la racine ʿ-b-d. ʿAql (la raison) vient de ʿ-q-l, qui signifie à l'origine « lier, retenir » : la raison retient de faire n'importe quoi."
+    },
+    {
+      "id": "ara-t2-0056",
+      "concept": "ara.racines.d-r-s",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que veut dire « madrasa », de la racine d-r-s (étudier) ?",
+      "choices": [
+        "La mosquée",
+        "Le marché",
+        "La bibliothèque",
+        "L'école"
+      ],
+      "answer": 3,
+      "expl": "Le préfixe ma- indique souvent le lieu : madrasa (lieu d'étude), masjid (lieu de prosternation), maktab (lieu d'écriture), maṭbakh (lieu de cuisson). Dars, c'est la leçon ; mudarris, l'enseignant."
+    },
+    {
+      "id": "ara-t2-0057",
+      "concept": "ara.vocabulaire.insha",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi les savants recommandent-ils d'écrire « in shāʾ Allāh » en trois mots plutôt que « inshallah » collé ?",
+      "choices": [
+        "Collé, c'est interdit en arabe",
+        "Collé, « inshāʾ » veut dire « création »",
+        "Séparé, c'est plus joli à lire",
+        "Collé, cela ne veut rien dire"
+      ],
+      "answer": 1,
+      "expl": "« In » = si, « shāʾa » = a voulu, « Allāh ». Écrit d'un bloc, « inshāʾ Allāh » pourrait se lire « la création d'Allah ». En lettres latines, la différence importe peu, mais en arabe, l'orthographe change le sens."
+    },
+    {
+      "id": "ara-t2-0058",
+      "concept": "ara.alphabet.hamza-supports",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Sur quelles lettres la hamza peut-elle se poser ?",
+      "choices": [
+        "Uniquement sur l'alif",
+        "Sur toutes les lettres sans exception",
+        "Sur l'alif, le wāw, le yāʾ, ou seule",
+        "Uniquement en fin de mot"
+      ],
+      "answer": 2,
+      "expl": "Le support dépend des voyelles qui l'entourent : أَ (a), إِ (i), ؤ (après ou), ئ (après i), ou ء seule. Ces règles d'écriture s'apprennent progressivement ; à l'oral, c'est toujours le même coup de glotte."
+    },
+    {
+      "id": "ara-t2-0059",
+      "concept": "ara.racines.f-t-h",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le point commun entre « al-Fātiḥa », « fatḥ » et « miftāḥ » ?",
+      "choices": [
+        "Ce sont trois sourates",
+        "Ce sont trois Noms d'Allah",
+        "Ils commencent tous par un alif",
+        "La racine f-t-ḥ, qui signifie ouvrir"
+      ],
+      "answer": 3,
+      "expl": "Al-Fātiḥa : celle qui ouvre (le Coran, la prière). Al-Fatḥ : l'ouverture, la victoire (de La Mecque). Miftāḥ : la clé (ma- pour l'instrument). Al-Fattāḥ : Celui qui ouvre, un Nom d'Allah."
+    },
+    {
+      "id": "ara-t2-0060",
+      "concept": "ara.lecture.allah-ligature",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le mot « Allāh » est-il écrit en arabe ?",
+      "choices": [
+        "Alif, deux lām et hāʾ, avec une shadda",
+        "Alif, un lām et hāʾ, sans shadda",
+        "Alif, lām, alif, lām et hāʾ",
+        "Hāʾ, lām et alif, à l'envers"
+      ],
+      "answer": 0,
+      "expl": "« Allāh » s'écrit alif-lām-lām-hāʾ. La shadda sur le second lām marque le doublement, et le petit alif suscrit le « â » long : al-lâh. On le reconnaît vite dans les textes, car il revient sans cesse."
+    }
+  ]
+}

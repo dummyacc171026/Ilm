@@ -1,0 +1,510 @@
+{
+  "pack": "hadith-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "had-t3-0001",
+      "concept": "had.nawawi.h31-zuhd",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que conseilla le Prophète ﷺ à l'homme qui demandait une action pour être aimé d'Allah et des gens (hadith n° 31) ?",
+      "choices": [
+        "« Tais-toi toujours »",
+        "« Renonce au monde, Allah t'aimera ; renonce à ce que possèdent les gens, ils t'aimeront »",
+        "« Deviens riche »",
+        "« Fais beaucoup de voyages »"
+      ],
+      "answer": 1,
+      "expl": "Le zuhd n'est pas la pauvreté, mais un cœur non attaché à ce monde. Et ne pas convoiter ce que possèdent les autres rend aimable : on aime ceux qui ne demandent rien.",
+      "src": [
+        "Hadith de Sahl ibn Saʿd — Ibn Majah"
+      ],
+      "tags": [
+        "nawawi:31"
+      ],
+      "retired": true
+    },
+    {
+      "id": "had-t3-0002",
+      "concept": "had.nawawi.h32-darar",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "trou",
+      "q": "Hadith n° 32 : « Pas de ___, ni de riposte préjudiciable » (lā ḍarara wa lā ḍirār).",
+      "choices": [
+        "jeûne",
+        "commerce",
+        "préjudice",
+        "prière"
+      ],
+      "answer": 2,
+      "expl": "Ce hadith très court est devenu une grande règle du fiqh : on n'a pas le droit de nuire aux autres, ni de répondre à un tort par un tort plus grand. Il sert à régler les questions de voisinage, de construction, d'environnement.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Ibn Majah",
+        "Mālik, al-Muwaṭṭaʾ"
+      ],
+      "ar": {
+        "text": "لَا ضَرَرَ وَلَا ضِرَارَ",
+        "tr": "lā ḍarara wa lā ḍirār",
+        "pr": "lâ da-ra-ra wa lâ di-râr",
+        "fr": "pas de préjudice ni de riposte préjudiciable"
+      },
+      "tags": [
+        "nawawi:32"
+      ]
+    },
+    {
+      "id": "had-t3-0003",
+      "concept": "had.nawawi.h33-preuve",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle règle de justice pose le hadith n° 33 ?",
+      "choices": [
+        "Le plus riche a toujours raison",
+        "L'accusé doit prouver son innocence",
+        "Le juge décide selon son humeur",
+        "La preuve incombe à celui qui accuse, et le serment à celui qui nie"
+      ],
+      "answer": 3,
+      "expl": "« Si l'on donnait aux gens selon leurs seules prétentions, des hommes réclameraient les biens et le sang d'autres hommes ; mais la preuve incombe au demandeur et le serment à celui qui nie. » Un principe proche de la présomption d'innocence.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bayhaqi"
+      ],
+      "tags": [
+        "nawawi:33"
+      ],
+      "retired": true
+    },
+    {
+      "id": "had-t3-0004",
+      "concept": "had.nawawi.h34-changer",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "ordre",
+      "q": "Hadith n° 34 : remets dans l'ordre les trois degrés pour changer un mal, du plus fort au plus faible.",
+      "items": [
+        "Par la main (l'action), pour qui en a l'autorité",
+        "Par la langue (la parole)",
+        "Par le cœur (le rejeter intérieurement), le plus faible degré de la foi"
+      ],
+      "expl": "« Que celui d'entre vous qui voit un mal le change par sa main ; s'il ne le peut, par sa langue ; s'il ne le peut, par son cœur, et c'est le plus faible de la foi. » Les savants précisent que l'action relève de qui en a l'autorité (parent, responsable, État) et doit éviter un mal plus grand.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Muslim"
+      ],
+      "tags": [
+        "nawawi:34"
+      ]
+    },
+    {
+      "id": "had-t3-0005",
+      "concept": "had.nawawi.h35-mepris",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon le hadith n° 35, qu'est-ce qui suffit à l'homme comme mal ?",
+      "choices": [
+        "Mépriser son frère musulman",
+        "Oublier une prière de la journée",
+        "Manger trop vite",
+        "Dormir après l'aube"
+      ],
+      "answer": 0,
+      "expl": "Ce hadith commence par « Ne vous enviez pas, ne vous haïssez pas… » et rappelle que « la piété est ici », en montrant trois fois sa poitrine. Il ajoute : « Il suffit à l'homme comme mal de mépriser son frère. » Tout musulman est sacré pour un autre : son sang, ses biens, son honneur.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "tags": [
+        "nawawi:35"
+      ]
+    },
+    {
+      "id": "had-t3-0006",
+      "concept": "had.nawawi.h36-aide",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que promet le hadith n° 36 à celui qui soulage un croyant d'une détresse de ce monde ?",
+      "choices": [
+        "Rien de particulier",
+        "Allah le soulagera d'une détresse du Jour de la Résurrection",
+        "Il deviendra riche",
+        "Il sera célèbre"
+      ],
+      "answer": 1,
+      "expl": "« Celui qui soulage un croyant d'une détresse, Allah le soulagera d'une détresse du Jour de la Résurrection ; celui qui facilite à un endetté, Allah lui facilitera… Allah aide le serviteur tant que le serviteur aide son frère. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "tags": [
+        "nawawi:36"
+      ],
+      "retired": true
+    },
+    {
+      "id": "had-t3-0007",
+      "concept": "had.nawawi.h39-oubli",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon le hadith n° 39, qu'a pardonné Allah à la communauté du Prophète ﷺ ?",
+      "choices": [
+        "Les péchés envers les gens",
+        "L'abandon de la prière",
+        "L'erreur, l'oubli et ce à quoi on est contraint",
+        "Tous les péchés sans repentir"
+      ],
+      "answer": 2,
+      "expl": "« Allah a pardonné à ma communauté l'erreur, l'oubli et ce à quoi elle est contrainte. » Ce hadith rejoint le verset 2:286 et fonde de nombreuses règles : celui qui mange par oubli, qui se trompe de bonne foi, ou qui agit sous la menace n'est pas coupable.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Ibn Majah",
+        "Coran 2:286"
+      ],
+      "tags": [
+        "nawawi:39"
+      ],
+      "retired": true
+    },
+    {
+      "id": "had-t3-0008",
+      "concept": "had.nawawi.h40-etranger",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "trou",
+      "q": "Hadith n° 40 : « Sois dans ce monde comme un étranger ou un ___. »",
+      "choices": [
+        "roi",
+        "marchand",
+        "prisonnier",
+        "passant"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ prit Ibn ʿUmar par l'épaule pour lui dire cela. Ibn ʿUmar ajoutait : « Le soir, n'attends pas le matin ; le matin, n'attends pas le soir ; prends de ta santé pour ta maladie, et de ta vie pour ta mort. » On vit pleinement ici-bas, sans s'y attacher comme si l'on y restait.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari"
+      ],
+      "ar": {
+        "text": "كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ",
+        "tr": "kun fī d-dunyā ka-annaka gharībun aw ʿābiru sabīl",
+        "pr": "koun fid-dou-n-yâ ka-an-na-ka gha-rî-boun aw ʿâ-bi-rou sa-bîl",
+        "fr": "sois dans ce monde comme un étranger ou un passant"
+      },
+      "tags": [
+        "nawawi:40"
+      ]
+    },
+    {
+      "id": "had-t3-0009",
+      "concept": "had.nawawi.h42-nuages",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit Allah dans le hadith qudsī n° 42, le dernier des Quarante ?",
+      "choices": [
+        "« Ô fils d'Adam, même si tes péchés atteignaient les nuages du ciel, puis que tu Me demandais pardon, Je te pardonnerais »",
+        "« Ô fils d'Adam, travaille sans repos »",
+        "« Ô fils d'Adam, ne Me demande rien »",
+        "« Ô fils d'Adam, Je ne pardonne qu'une fois »"
+      ],
+      "answer": 0,
+      "expl": "An-Nawawī a choisi de terminer son recueil par ce hadith d'espoir : « Ô fils d'Adam, tant que tu M'invoques et M'espères, Je te pardonne ce que tu as fait, sans M'en soucier… Si tu venais à Moi avec la terre remplie de péchés, sans rien M'associer, Je viendrais à toi avec autant de pardon. »",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Tirmidhi"
+      ],
+      "tags": [
+        "nawawi:42"
+      ],
+      "retired": true
+    },
+    {
+      "id": "had-t3-0010",
+      "concept": "had.nawawi.h41-desirs",
+      "domain": "hadith",
+      "sub": "nawawi",
+      "tier": 3,
+      "type": "vf",
+      "q": "Le hadith n° 41 dit : « Aucun de vous ne croit vraiment tant que ses désirs ne suivent pas ce que j'ai apporté. »",
+      "answer": true,
+      "expl": "An-Nawawī l'a jugé authentique ; d'autres spécialistes l'ont jugé faible dans sa chaîne, mais son sens est confirmé par le Coran (4:65). Il décrit la foi accomplie : quand le cœur aime ce qu'Allah aime.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn ʿAmr — Nawawī",
+        "Coran 4:65"
+      ],
+      "note": "Authenticité discutée par les spécialistes ; le sens est accepté.",
+      "tags": [
+        "nawawi:41"
+      ]
+    },
+    {
+      "id": "had-t3-0011",
+      "concept": "had.bases.termes",
+      "domain": "hadith",
+      "sub": "bases",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque terme de la science du hadith à sa définition.",
+      "pairs": [
+        [
+          "Marfūʿ",
+          "Rapporté jusqu'au Prophète ﷺ"
+        ],
+        [
+          "Mawqūf",
+          "Parole ou acte d'un Compagnon"
+        ],
+        [
+          "Mursal",
+          "Un Successeur (tābiʿī) cite le Prophète ﷺ sans nommer le Compagnon"
+        ],
+        [
+          "Jarḥ wa taʿdīl",
+          "Critique et validation des transmetteurs"
+        ]
+      ],
+      "expl": "Les savants ont créé une véritable science pour vérifier les chaînes, avec des biographies de dizaines de milliers de transmetteurs (ʿilm ar-rijāl). L'imam Mālik acceptait le mursal d'un Successeur fiable, ce que d'autres refusaient.",
+      "note": "Les malikites et les hanafites acceptent généralement le hadith mursal ; les chaféites avec conditions."
+    },
+    {
+      "id": "had-t3-0012",
+      "concept": "had.bases.compilation",
+      "domain": "hadith",
+      "sub": "bases",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel calife omeyyade ordonna officiellement de mettre par écrit les hadiths, de peur qu'ils ne se perdent avec la mort des savants ?",
+      "choices": [
+        "Muʿāwiya ibn Abī Sufyān",
+        "ʿUmar ibn ʿAbd al-ʿAzīz",
+        "ʿAbd al-Malik ibn Marwān",
+        "Yazīd ibn Muʿāwiya"
+      ],
+      "answer": 1,
+      "expl": "Vers l'an 100 de l'Hégire, ʿUmar ibn ʿAbd al-ʿAzīz écrivit aux savants, dont Ibn Shihāb az-Zuhrī, de rassembler les hadiths. Des Compagnons écrivaient déjà des feuillets, mais c'est alors que commença la compilation systématique."
+    },
+    {
+      "id": "had-t3-0013",
+      "concept": "had.bases.sahaba-udul",
+      "domain": "hadith",
+      "sub": "bases",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon les savants sunnites du hadith, tous les Compagnons sont considérés comme intègres (ʿudūl) dans leur transmission.",
+      "answer": true,
+      "expl": "Les spécialistes examinent la fiabilité des transmetteurs après les Compagnons, mais considèrent les Compagnons eux-mêmes comme fiables, en raison des éloges du Coran et de la Sunna à leur égard. On ne dit pas pour autant qu'ils étaient infaillibles.",
+      "src": [
+        "Coran 9:100"
+      ]
+    },
+    {
+      "id": "had-t3-0014",
+      "concept": "had.recueils.sunan",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque auteur des Sunan à sa région d'origine.",
+      "pairs": [
+        [
+          "Abū Dāwūd",
+          "Sijistān (Iran/Afghanistan actuels)"
+        ],
+        [
+          "At-Tirmidhī",
+          "Tirmidh (Ouzbékistan actuel)"
+        ],
+        [
+          "An-Nasāʾī",
+          "Nasāʾ (Turkménistan actuel)"
+        ],
+        [
+          "Ibn Mājah",
+          "Qazwīn (Iran actuel)"
+        ]
+      ],
+      "expl": "Les grands compilateurs de hadiths venaient presque tous d'Asie centrale ou de Perse, comme al-Bukhārī et Muslim. Ils voyagèrent des années pour recueillir les hadiths auprès des maîtres de toutes les régions."
+    },
+    {
+      "id": "had-t3-0015",
+      "concept": "had.recueils.bukhari-nombre",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 3,
+      "type": "nombre",
+      "q": "Combien de hadiths environ contient le Ṣaḥīḥ d'al-Bukhārī, en comptant les répétitions ?",
+      "answer": 7000,
+      "tolerance": 600,
+      "expl": "Environ 7 000 hadiths avec les répétitions, et à peu près 2 600 sans elles. Al-Bukhārī les sélectionna parmi des centaines de milliers. On rapporte qu'il faisait le ghusl et priait deux rak'at avant d'inscrire chaque hadith."
+    },
+    {
+      "id": "had-t3-0016",
+      "concept": "had.recueils.tirmidhi",
+      "domain": "hadith",
+      "sub": "recueils",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pour quelle particularité le recueil d'at-Tirmidhī est-il apprécié ?",
+      "choices": [
+        "Il ne contient que des hadiths qudsī",
+        "Il est classé par Compagnon",
+        "Il indique l'authenticité et les avis des juristes",
+        "Il a été écrit en persan"
+      ],
+      "answer": 2,
+      "expl": "At-Tirmidhī (m. 892), élève d'al-Bukhārī, a popularisé le terme ḥasan (bon) et note après chaque hadith ce qu'en pensaient les savants des différentes écoles. Son recueil est une mine pour comprendre le fiqh comparé."
+    },
+    {
+      "id": "had-t3-0017",
+      "concept": "had.celebres.guider-bien",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith de celui qui indique à quelqu'un un bien à faire ?",
+      "choices": [
+        "Il n'a aucune récompense",
+        "Il a la moitié de la récompense",
+        "Il doit le faire lui-même pour être récompensé",
+        "Il a la même récompense que celui qui l'accomplit"
+      ],
+      "answer": 3,
+      "expl": "« Celui qui indique un bien a la même récompense que celui qui le fait. » Partager une bonne habitude, inviter à un cours ou recommander une aumône multiplie les récompenses sans rien retirer à personne.",
+      "src": [
+        "Hadith d'Abū Masʿūd al-Badrī — Muslim"
+      ]
+    },
+    {
+      "id": "had-t3-0018",
+      "concept": "had.celebres.sunna-hasana",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith de celui qui instaure en islam une bonne pratique (sunna ḥasana) ?",
+      "choices": [
+        "Sa récompense et celle de ceux qui la suivent",
+        "Rien de plus que sa propre récompense",
+        "Un péché, car c'est une nouveauté",
+        "Une richesse dans ce monde"
+      ],
+      "answer": 0,
+      "expl": "Le hadith fut dit après qu'un homme apporta le premier un sac d'aumône pour des pauvres, entraînant les autres. « Celui qui instaure une bonne pratique a sa récompense et celle de ceux qui l'appliquent, sans que leur récompense diminue. » L'inverse vaut pour une mauvaise pratique.",
+      "src": [
+        "Hadith de Jarīr ibn ʿAbd Allāh — Muslim"
+      ]
+    },
+    {
+      "id": "had-t3-0019",
+      "concept": "had.celebres.injustice-tenebres",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de l'injustice ?",
+      "choices": [
+        "« Elle est permise contre les ennemis »",
+        "« Elle sera ténèbres au Jour dernier »",
+        "« Elle sera oubliée au Jour dernier »",
+        "« Elle ne concerne que les rois »"
+      ],
+      "answer": 1,
+      "expl": "« Craignez l'injustice, car elle sera ténèbres le Jour de la Résurrection ; et craignez l'avarice, car elle a perdu ceux qui étaient avant vous. » Un autre hadith ajoute que l'invocation de l'opprimé n'a pas de voile entre elle et Allah.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim",
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t3-0020",
+      "concept": "had.celebres.prison",
+      "domain": "hadith",
+      "sub": "celebres",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment les savants expliquent-ils le hadith « Ce monde est la prison du croyant et le paradis du mécréant » ?",
+      "choices": [
+        "Le croyant doit fuir toute joie dans ce monde",
+        "Le mécréant ne connaîtra jamais la souffrance",
+        "Comparé au Paradis, ce monde est étroit pour le croyant",
+        "Il faut quitter les villes pour vivre au désert"
+      ],
+      "answer": 2,
+      "expl": "Le juge Ibn Ḥajar, riche et bien vêtu, se vit objecter ce hadith par un juif pauvre ; il répondit : « Ma situation, comparée à ce qu'Allah m'a promis, est une prison ; la tienne, comparée à ce qui attend le mécréant, est un paradis. » Le hadith parle de comparaison, non de tristesse.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "had-t3-0021",
+      "concept": "had.sunna-quotidien.apres-isha",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que n'aimait pas le Prophète ﷺ, selon Abū Barza, en rapport avec la prière de l'ʿIshāʾ ?",
+      "choices": [
+        "La prier en groupe",
+        "La prier trop tôt",
+        "La prier à la maison",
+        "Dormir avant, bavarder après"
+      ],
+      "answer": 3,
+      "expl": "Abū Barza rapporte qu'il détestait dormir avant l'ʿIshāʾ (de peur de la manquer) et les conversations inutiles après (pour se lever au Ṣubḥ). Une hygiène de sommeil que confirment les médecins : se coucher tôt pour se lever tôt.",
+      "src": [
+        "Hadith d'Abū Barza — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "had-t3-0022",
+      "concept": "had.sunna-quotidien.kohl",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel khôl le Prophète ﷺ recommandait-il, en disant qu'il éclaircit la vue et fait pousser les cils ?",
+      "choices": [
+        "L'ithmid",
+        "Le henné",
+        "Le kohl noir de suie",
+        "Le safran"
+      ],
+      "answer": 0,
+      "expl": "« Le meilleur de vos khôls est l'ithmid : il éclaircit la vue et fait pousser les cils. » Le khôl reste traditionnel au Maroc, pour les femmes comme pour certains hommes.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "had-t3-0023",
+      "concept": "had.sunna-quotidien.henne-barbe",
+      "domain": "hadith",
+      "sub": "sunna-quotidien",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Avec quoi le Prophète ﷺ recommandait-il de teindre les cheveux blancs ?",
+      "choices": [
+        "La teinture noire uniquement",
+        "Le henné et le katam, sans noir",
+        "Le safran et le curcuma",
+        "Aucune teinture, jamais"
+      ],
+      "answer": 1,
+      "expl": "« Le meilleur avec quoi vous changez ces cheveux blancs est le henné et le katam. » Pour Abū Quḥāfa, le père d'Abū Bakr, aux cheveux tout blancs, il dit : « Changez cela, et évitez le noir. »",
+      "src": [
+        "Hadith d'Abū Dharr — Abu Dawud & Tirmidhi",
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ],
+      "note": "Les savants divergent sur la teinture noire : interdite pour certains, déconseillée pour d'autres."
+    }
+  ]
+}

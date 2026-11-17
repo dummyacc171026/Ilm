@@ -1,0 +1,1069 @@
+{
+  "pack": "purification-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "pur-t2-0001",
+      "concept": "pur.eau-najasa.mustamal",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que vaut l'eau déjà utilisée pour des ablutions (mustaʿmal) ?",
+      "choices": [
+        "Elle est obligatoire pour faire le ghusl",
+        "Elle reste purifiante, mais mieux vaut une autre eau",
+        "Elle est devenue impure et salit ce qu'elle touche",
+        "Elle ne peut plus servir à rien du tout"
+      ],
+      "answer": 1,
+      "expl": "Pour les malikites, l'eau qui a coulé sur les membres reste pure et purifiante, mais on évite de la réutiliser si l'on dispose d'une autre eau. Pour les chaféites, elle n'est plus purifiante. Cela montre la souplesse de l'école sur l'eau.",
+      "note": "Chaféites et hanbalites : l'eau utilisée pour une purification obligatoire n'est plus purifiante."
+    },
+    {
+      "id": "pur-t2-0002",
+      "concept": "pur.eau-najasa.petite-eau",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon l'école malikite, une petite quantité d'eau où tombe une impureté qui ne change ni sa couleur, ni son goût, ni son odeur reste purifiante, mais son usage est déconseillé.",
+      "answer": true,
+      "expl": "Les malikites s'appuient sur le hadith : « L'eau est purifiante, rien ne la rend impure » (sauf ce qui la modifie). Mais par prudence, on évite d'utiliser une petite quantité d'eau ainsi touchée s'il y en a d'autre. Les chaféites fixent un seuil de deux qulla (environ 200 litres).",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Abu Dawud & Tirmidhi"
+      ],
+      "note": "Pour les chaféites et les hanbalites, une eau de moins de deux qulla devient impure au contact d'une impureté."
+    },
+    {
+      "id": "pur-t2-0003",
+      "concept": "pur.eau-najasa.chat",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de l'eau dans laquelle un chat a bu ?",
+      "choices": [
+        "Elle doit être lavée sept fois",
+        "Elle ne sert plus qu'à arroser les plantes",
+        "Elle reste pure : le chat vit parmi nous",
+        "Elle doit être jetée tout de suite"
+      ],
+      "answer": 2,
+      "expl": "Abū Qatāda inclina un récipient pour qu'une chatte boive, puis fit ses ablutions avec. Il rapporta du Prophète ﷺ : « Elle n'est pas impure, elle fait partie de ceux et celles qui tournent autour de vous. » Le chat, animal domestique, est pur.",
+      "src": [
+        "Hadith d'Abū Qatāda — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "pur-t2-0004",
+      "concept": "pur.eau-najasa.chien",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Combien de fois lave-t-on un récipient dans lequel un chien a bu, selon le hadith ?",
+      "answer": 7,
+      "expl": "Sept fois, dont une avec de la terre selon une version. Chez les malikites, le chien vivant étant pur, ce lavage est un acte d'obéissance (taʿabbud), surtout recommandé ; pour les chaféites, c'est la purification d'une impureté grave.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "note": "Statut : recommandé chez les malikites, obligatoire chez les chaféites et les hanbalites."
+    },
+    {
+      "id": "pur-t2-0005",
+      "concept": "pur.eau-najasa.mayta",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel cadavre d'animal est pur selon l'école malikite ?",
+      "choices": [
+        "Celui d'un mouton mort de maladie",
+        "Celui d'un âne mort de vieillesse",
+        "Celui d'un oiseau tombé du ciel",
+        "Celui d'un animal marin ou d'un insecte"
+      ],
+      "answer": 3,
+      "expl": "Le cadavre (mayta) d'un animal terrestre au sang coulant est impur, sauf s'il a été égorgé rituellement. Les animaux marins sont purs même morts, ainsi que les petites bêtes sans sang qui coule (mouche, fourmi). Une mouche tombée dans un verre ne le rend donc pas impur.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari"
+      ]
+    },
+    {
+      "id": "pur-t2-0006",
+      "concept": "pur.toilettes.debout",
+      "domain": "purification",
+      "sub": "toilettes",
+      "tier": 2,
+      "type": "vf",
+      "q": "Uriner debout est permis si l'on est à l'abri des éclaboussures et des regards.",
+      "answer": true,
+      "expl": "Ḥudhayfa rapporte que le Prophète ﷺ urina debout près d'un tas d'ordures. Mais il le faisait le plus souvent assis, et ʿĀʾisha le soulignait. La règle : s'asseoir est préférable, debout est permis si l'on reste propre et pudique.",
+      "src": [
+        "Hadith de Ḥudhayfa — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0007",
+      "concept": "pur.toilettes.parler",
+      "domain": "purification",
+      "sub": "toilettes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit la Sunna à propos de parler pendant qu'on fait ses besoins ?",
+      "choices": [
+        "C'est déconseillé : on évite de parler",
+        "C'est recommandé pour ne pas s'ennuyer",
+        "C'est obligatoire si on est en groupe",
+        "C'est sans importance, chacun fait comme il veut"
+      ],
+      "answer": 0,
+      "expl": "Un homme salua le Prophète ﷺ pendant qu'il urinait ; il ne lui répondit pas, puis expliqua après les ablutions qu'il n'aimait pas mentionner Allah sans être en état de pureté. Parler aux toilettes est déconseillé, sauf nécessité.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0008",
+      "concept": "pur.toilettes.nom-allah",
+      "domain": "purification",
+      "sub": "toilettes",
+      "tier": 2,
+      "type": "vf",
+      "q": "Il est recommandé de ne pas entrer aux toilettes avec un objet portant le nom d'Allah visible, comme une bague gravée.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ retirait sa bague, sur laquelle était gravé « Muḥammad Rasūl Allāh », avant d'entrer aux toilettes, selon un hadith rapporté par Abū Dāwūd. Par respect, on range ce qui porte le nom d'Allah (bijou, papier) ; un téléphone avec une application de Coran fermée ne pose pas de problème.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Abu Dawud"
+      ]
+    },
+    {
+      "id": "pur-t2-0009",
+      "concept": "pur.wudu.vernis",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Peut-on faire ses ablutions avec du vernis à ongles ?",
+      "choices": [
+        "Oui, si le vernis est transparent",
+        "Non : il empêche l'eau d'atteindre l'ongle",
+        "Oui, le vernis ne pose aucun problème",
+        "Oui, mais seulement pour la prière du vendredi"
+      ],
+      "answer": 1,
+      "expl": "Pour que les ablutions soient valables, l'eau doit atteindre la peau et les ongles. Le vernis forme une couche imperméable : il faut l'enlever avant les ablutions. Le henné, lui, colore sans faire écran : il ne pose pas de problème."
+    },
+    {
+      "id": "pur-t2-0010",
+      "concept": "pur.wudu.jabira",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faire pour les ablutions si l'on a un pansement ou un plâtre ?",
+      "choices": [
+        "Retirer le plâtre de force avant chaque prière",
+        "Faire le tayammum pour tout le corps",
+        "Passer la main mouillée dessus, laver le reste",
+        "Ne pas faire d'ablutions jusqu'à la guérison"
+      ],
+      "answer": 2,
+      "expl": "Quand on ne peut pas mouiller une blessure, on passe la main mouillée sur le pansement ou l'attelle, et on lave normalement le reste du membre. C'est une facilité ; si même cela est nuisible, on peut faire le tayammum pour cette partie."
+    },
+    {
+      "id": "pur-t2-0011",
+      "concept": "pur.wudu.mudd",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Avec quelle quantité d'eau le Prophète ﷺ faisait-il ses ablutions, selon Anas ?",
+      "choices": [
+        "Un seau entier, bien rempli",
+        "L'eau d'un bain complet",
+        "Aucune : il faisait toujours le tayammum",
+        "Un mudd : à peine un litre"
+      ],
+      "answer": 3,
+      "expl": "Anas rapporte que le Prophète ﷺ faisait ses ablutions avec un mudd et son ghusl avec un ṣāʿ (quatre mudd). Une leçon d'écologie avant l'heure : même au bord d'une rivière, on ne gaspille pas l'eau.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0012",
+      "concept": "pur.wudu.intention-coeur",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "vf",
+      "q": "L'intention des ablutions se fait dans le cœur ; il n'est pas nécessaire de la prononcer.",
+      "answer": true,
+      "expl": "Il suffit de savoir qu'on fait ses ablutions pour la prière ou pour être en état de pureté. Chez les malikites, l'intention est l'une des sept obligations, et elle se forme au moment de laver le visage, ou au début des ablutions.",
+      "src": [
+        "Hadith de ʿUmar ibn al-Khaṭṭāb — Bukhari & Muslim"
+      ],
+      "tags": [
+        "nawawi:1"
+      ]
+    },
+    {
+      "id": "pur-t2-0013",
+      "concept": "pur.wudu.deux-rakat",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle prière la Sunna recommande-t-elle juste après les ablutions ?",
+      "choices": [
+        "Deux rak'at",
+        "Quatre rak'at obligatoires",
+        "Le witr",
+        "Aucune"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ entendait au Paradis les pas de Bilāl ; Bilāl expliqua qu'il priait toujours ce qu'il pouvait après chaque ablution. Un autre hadith promet le pardon des péchés passés à celui qui prie deux rak'at avec présence après de bonnes ablutions.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim",
+        "Hadith de ʿUthmān ibn ʿAffān — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0014",
+      "concept": "pur.wudu.oreilles",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon la Sunna malikite, comment essuie-t-on les oreilles dans les ablutions ?",
+      "choices": [
+        "On les lave à grande eau, trois fois",
+        "Avec une eau nouvelle, index dedans, pouce derrière",
+        "Avec la même eau que la tête, rapidement, sans en reprendre",
+        "On ne les essuie pas dans les ablutions"
+      ],
+      "answer": 1,
+      "expl": "Chez les malikites, essuyer les oreilles est une sunna, et renouveler l'eau pour elles en est une autre. On passe les index dans le creux de l'oreille et les pouces derrière. D'autres écoles utilisent l'eau restée sur les mains après la tête."
+    },
+    {
+      "id": "pur-t2-0015",
+      "concept": "pur.annulatifs-wudu.toucher-femme",
+      "domain": "purification",
+      "sub": "annulatifs-wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, toucher son épouse annule-t-il les ablutions ?",
+      "choices": [
+        "Jamais, en aucun cas",
+        "Seulement le vendredi",
+        "Seulement avec désir ou plaisir",
+        "Toujours, même sans intention"
+      ],
+      "answer": 2,
+      "expl": "Les malikites considèrent que le toucher annule les ablutions s'il est fait dans l'intention de plaisir, ou si le plaisir est ressenti. Un simple contact, sans désir, n'annule pas. Les chaféites considèrent que tout contact de peau avec une femme non proche annule ; les hanafites, jamais.",
+      "note": "Chaféites : tout contact peau à peau annule ; hanafites : aucun contact n'annule."
+    },
+    {
+      "id": "pur-t2-0016",
+      "concept": "pur.annulatifs-wudu.doute",
+      "domain": "purification",
+      "sub": "annulatifs-wudu",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon l'école malikite, celui qui est sûr d'avoir fait ses ablutions puis doute de les avoir perdues doit les refaire.",
+      "answer": true,
+      "expl": "C'est une particularité malikite : le doute sur la perte des ablutions oblige à les refaire, par prudence pour la prière. Les autres écoles suivent la règle « la certitude n'est pas levée par le doute ». Exception : la personne sujette aux doutes obsessionnels (waswās) ne tient pas compte de ses doutes.",
+      "note": "Pour les autres écoles, la certitude d'être en état de pureté demeure malgré le doute."
+    },
+    {
+      "id": "pur-t2-0017",
+      "concept": "pur.annulatifs-wudu.chameau",
+      "domain": "purification",
+      "sub": "annulatifs-wudu",
+      "tier": 2,
+      "type": "vf",
+      "q": "Manger de la viande de chameau annule les ablutions selon l'école hanbalite, mais pas selon l'école malikite.",
+      "answer": true,
+      "expl": "Les hanbalites s'appuient sur un hadith où le Prophète ﷺ répond : « Oui, fais tes ablutions après la viande de chameau. » Les malikites et la majorité y voient une ancienne règle abrogée ou une recommandation. Au Maroc, on suit l'avis malikite.",
+      "src": [
+        "Hadith de Jābir ibn Samura — Muslim"
+      ],
+      "note": "Seuls les hanbalites considèrent que la viande de chameau annule les ablutions."
+    },
+    {
+      "id": "pur-t2-0018",
+      "concept": "pur.ghusl.recommandes",
+      "domain": "purification",
+      "sub": "ghusl",
+      "tier": 2,
+      "type": "multi",
+      "q": "Dans quels cas le ghusl est-il recommandé (sans être obligatoire) ?",
+      "choices": [
+        "Avant la prière du vendredi",
+        "Avant la prière de l'Aïd",
+        "Après avoir mangé",
+        "Avant d'entrer en iḥrām pour le pèlerinage",
+        "Avant de dormir chaque soir"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Le ghusl est une sunna pour la Jumuʿa, les deux Aïds, l'entrée en iḥrām, l'entrée à La Mecque et le séjour à ʿArafa. C'est une façon de se présenter propre et parfumé aux grands rendez-vous.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0019",
+      "concept": "pur.ghusl.interdits-janaba",
+      "domain": "purification",
+      "sub": "ghusl",
+      "tier": 2,
+      "type": "multi",
+      "q": "Qu'est-il interdit de faire en état de janāba, avant le ghusl ?",
+      "choices": [
+        "Prier",
+        "Faire le ṭawāf",
+        "Faire du dhikr",
+        "Toucher le muṣḥaf",
+        "Rester dans la mosquée",
+        "Manger"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "En état de janāba, on ne prie pas, on ne fait pas le ṭawāf, on ne touche pas le muṣḥaf, on ne reste pas à la mosquée, et chez les malikites on ne récite pas le Coran (sauf un ou deux versets de protection). Le dhikr et les invocations restent permis.",
+      "src": [
+        "Coran 4:43"
+      ],
+      "note": "Les malikites permettent de réciter de courts versets pour se protéger ; d'autres écoles l'interdisent totalement."
+    },
+    {
+      "id": "pur-t2-0020",
+      "concept": "pur.ghusl.dormir-junub",
+      "domain": "purification",
+      "sub": "ghusl",
+      "tier": 2,
+      "type": "vf",
+      "q": "Il est recommandé, si l'on doit dormir en état de janāba, de faire d'abord les ablutions.",
+      "answer": true,
+      "expl": "ʿUmar demanda si l'on pouvait dormir en état de janāba ; le Prophète ﷺ répondit : « Oui, s'il fait ses ablutions. » Le ghusl peut ensuite être fait au réveil, avant la prière.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0021",
+      "concept": "pur.tayammum.annule",
+      "domain": "purification",
+      "sub": "tayammum",
+      "tier": 2,
+      "type": "multi",
+      "q": "Qu'est-ce qui annule le tayammum ?",
+      "choices": [
+        "Tout ce qui annule les ablutions",
+        "Trouver de l'eau utilisable avant la prière",
+        "Le lever du soleil",
+        "Le fait de parler"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "expl": "Le tayammum est annulé par ce qui annule les ablutions, et par le fait de trouver de l'eau utilisable avant d'avoir prié. Si l'on trouve de l'eau après avoir prié, la prière reste valable selon la majorité ; les malikites recommandent de la refaire si le temps n'est pas passé, dans certains cas."
+    },
+    {
+      "id": "pur-t2-0022",
+      "concept": "pur.tayammum.froid",
+      "domain": "purification",
+      "sub": "tayammum",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'a fait le Compagnon ʿAmr ibn al-ʿĀṣ, en état de janāba lors d'une nuit glaciale en expédition ?",
+      "choices": [
+        "Il se lava à l'eau glacée et tomba malade",
+        "Il ne pria pas cette nuit-là",
+        "Il attendit le matin pour chauffer l'eau",
+        "Le tayammum par crainte pour sa vie, approuvé"
+      ],
+      "answer": 3,
+      "expl": "ʿAmr craignit de mourir de froid et fit le tayammum, puis dirigea la prière. Il cita : « Ne vous tuez pas vous-mêmes, Allah est Miséricordieux envers vous. » Le Prophète ﷺ rit et ne dit rien : une approbation. La religion protège la vie.",
+      "src": [
+        "Hadith d'ʿAmr ibn al-ʿĀṣ — Abu Dawud",
+        "Coran 4:29"
+      ]
+    },
+    {
+      "id": "pur-t2-0023",
+      "concept": "pur.tayammum.terre",
+      "domain": "purification",
+      "sub": "tayammum",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Avec quoi peut-on faire le tayammum ?",
+      "choices": [
+        "La terre pure : terre, sable, pierre",
+        "Uniquement avec du sable du désert",
+        "Avec un tissu propre et sec",
+        "Avec de la farine ou de la cendre"
+      ],
+      "answer": 0,
+      "expl": "« Recourez à une terre pure (ṣaʿīd ṭayyib). » Pour les malikites, tout ce qui est de la surface de la terre convient : terre, sable, pierre, même un mur de briques ou de pierre non peint. Les chaféites exigent de la terre avec de la poussière.",
+      "src": [
+        "Coran 5:6",
+        "Coran 4:43"
+      ],
+      "note": "Chaféites et hanbalites : uniquement de la terre contenant de la poussière."
+    },
+    {
+      "id": "pur-t2-0024",
+      "concept": "pur.khuffs.condition",
+      "domain": "purification",
+      "sub": "khuffs",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quelle condition peut-on passer les mains mouillées sur les khuffs (chaussons de cuir) au lieu de laver les pieds ?",
+      "choices": [
+        "Être en voyage, uniquement dans ce cas",
+        "Les avoir mis après des ablutions complètes",
+        "Les avoir achetés neufs, jamais portés",
+        "Les avoir portés au moins une journée entière"
+      ],
+      "answer": 1,
+      "expl": "Al-Mughīra voulut retirer les khuffs du Prophète ﷺ pour les ablutions ; il lui dit : « Laisse-les, je les ai mis en état de pureté », et il passa la main dessus. Les khuffs doivent couvrir le pied jusqu'aux chevilles et être en cuir (chez les malikites).",
+      "src": [
+        "Hadith d'al-Mughīra ibn Shuʿba — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْمَسْحُ عَلَى الْخُفَّيْنِ",
+        "tr": "al-masḥu ʿalā l-khuffayn",
+        "pr": "al-mas-hou ʿa-lal-khouf-fayn",
+        "fr": "passer la main sur les chaussons"
+      }
+    },
+    {
+      "id": "pur-t2-0025",
+      "concept": "pur.khuffs.duree-maliki",
+      "domain": "purification",
+      "sub": "khuffs",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Combien de temps peut-on garder les khuffs et passer la main dessus, selon l'école malikite ?",
+      "choices": [
+        "Une seule prière, puis on les retire",
+        "Une semaine exactement, pas un jour de plus",
+        "Sans limite, mais on les retire le vendredi",
+        "Un jour pour le résident, trois pour le voyageur"
+      ],
+      "answer": 2,
+      "expl": "Les malikites ne fixent pas de limite, tant qu'on ne les enlève pas et qu'on ne doit pas faire le ghusl ; il est recommandé de les retirer chaque vendredi. Les autres écoles suivent le hadith de ʿAlī : un jour et une nuit pour le résident, trois jours pour le voyageur.",
+      "src": [
+        "Hadith de ʿAlī ibn Abī Ṭālib — Muslim"
+      ],
+      "note": "Hanafites, chaféites et hanbalites : 24 heures pour le résident, 72 heures pour le voyageur."
+    },
+    {
+      "id": "pur-t2-0026",
+      "concept": "pur.khuffs.chaussettes",
+      "domain": "purification",
+      "sub": "khuffs",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, peut-on passer la main sur de simples chaussettes en tissu ?",
+      "choices": [
+        "Oui, toujours, quelles qu'elles soient",
+        "Oui, si elles sont blanches et propres",
+        "Oui, si elles sont neuves et épaisses",
+        "Non, sauf si elles sont couvertes de cuir"
+      ],
+      "answer": 3,
+      "expl": "Les malikites limitent le masḥ aux khuffs de cuir, ou aux chaussettes recouvertes de cuir. D'autres savants, notamment hanbalites, permettent le masḥ sur des chaussettes épaisses, en s'appuyant sur des récits de Compagnons. En pratique, on suit l'avis de son école, ou un avis sérieux en cas de besoin.",
+      "note": "Les hanbalites et certains savants contemporains autorisent le masḥ sur des chaussettes épaisses."
+    },
+    {
+      "id": "pur-t2-0027",
+      "concept": "pur.khuffs.dessus",
+      "domain": "purification",
+      "sub": "khuffs",
+      "tier": 2,
+      "type": "vf",
+      "q": "ʿAlī disait : « Si la religion se fondait sur l'opinion, on essuierait le dessous des khuffs plutôt que le dessus. »",
+      "answer": true,
+      "expl": "ʿAlī rapporte avoir vu le Prophète ﷺ essuyer le dessus de ses khuffs. Cette parole rappelle qu'en matière d'adoration, on suit le texte, même si la logique semblerait dire autre chose. Chez les malikites, essuyer le dessus est obligatoire, le dessous recommandé.",
+      "src": [
+        "Hadith de ʿAlī ibn Abī Ṭālib — Abu Dawud"
+      ]
+    },
+    {
+      "id": "pur-t2-0028",
+      "concept": "pur.menstrues.max-maliki",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Selon l'école malikite, quelle est la durée maximale des règles, en jours, au-delà de laquelle le saignement n'est plus considéré comme des règles ?",
+      "answer": 15,
+      "unit": "jours",
+      "expl": "Quinze jours chez les malikites. Il n'y a pas de durée minimale pour l'adoration : une seule goutte de sang de règles empêche la prière. Au-delà de 15 jours, c'est un saignement anormal (istiḥāḍa), pendant lequel on prie.",
+      "note": "Pour les hanafites, la durée maximale est de dix jours."
+    },
+    {
+      "id": "pur-t2-0029",
+      "concept": "pur.menstrues.nifas",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Selon l'école malikite, quelle est la durée maximale des lochies (nifās) après l'accouchement, en jours ?",
+      "answer": 60,
+      "unit": "jours",
+      "expl": "Soixante jours chez les malikites et les chaféites ; quarante chez les hanafites et les hanbalites. Si le sang s'arrête avant, la femme fait le ghusl et reprend la prière, même au bout de quelques jours.",
+      "note": "Hanafites et hanbalites : quarante jours."
+    },
+    {
+      "id": "pur-t2-0030",
+      "concept": "pur.menstrues.fin",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quels signes une femme sait-elle que ses règles sont terminées ?",
+      "choices": [
+        "L'arrêt complet, ou une perte blanche",
+        "Le lever du soleil le septième jour",
+        "Une douleur au ventre qui disparaît",
+        "Le changement de lune, en début de mois"
+      ],
+      "answer": 0,
+      "expl": "Les femmes de Médine envoyaient à ʿĀʾisha des cotons, et elle leur disait : « Ne vous hâtez pas, jusqu'à ce que vous voyiez la perte blanche. » La sécheresse complète est aussi un signe. La femme fait alors le ghusl et reprend la prière.",
+      "src": [
+        "Mālik, al-Muwaṭṭaʾ"
+      ]
+    },
+    {
+      "id": "pur-t2-0031",
+      "concept": "pur.menstrues.istihada",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que fait une femme qui a des saignements anormaux en dehors de ses règles (istiḥāḍa) ?",
+      "choices": [
+        "Elle rattrape tout plus tard, après guérison",
+        "Elle prie et jeûne normalement",
+        "Elle ne prie pas jusqu'à ce que cela s'arrête",
+        "Elle fait le ghusl avant chaque mouvement"
+      ],
+      "answer": 1,
+      "expl": "Fāṭima bint Abī Ḥubaysh se plaignit de saignements continus ; le Prophète ﷺ lui expliqua que c'était « une veine », non les règles : elle devait cesser de prier pendant ses règles habituelles, puis se laver et prier. Chez les malikites, les ablutions pour chaque prière sont recommandées.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الِاسْتِحَاضَة",
+        "tr": "al-istiḥāḍa",
+        "pr": "al-is-ti-hâ-da",
+        "fr": "le saignement anormal"
+      }
+    },
+    {
+      "id": "pur-t2-0032",
+      "concept": "pur.eau-najasa.pluie-neige",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que vaut l'eau de pluie, de neige ou de grêle pour les ablutions ?",
+      "choices": [
+        "Elle est pure et purifiante",
+        "Elle est pure mais ne purifie pas",
+        "Elle est déconseillée",
+        "Elle n'est valable que filtrée"
+      ],
+      "answer": 0,
+      "expl": "L'eau qui tombe du ciel est pure et purifiante : « Nous avons fait descendre du ciel une eau pure et purifiante » (25:48). Le Prophète ﷺ demandait même dans son invocation d'ouverture d'être lavé de ses péchés « avec l'eau, la neige et la grêle » (Bukhari).",
+      "src": [
+        "Coran 25:48",
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "pur-t2-0033",
+      "concept": "pur.eau-najasa.principe-purete",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le principe de base pour les choses (vêtements, sol, objets) en matière de pureté ?",
+      "choices": [
+        "Seul un savant peut le déterminer",
+        "Elles sont pures, sauf preuve d'une impureté",
+        "Elles sont impures, sauf preuve qu'elles ont été lavées",
+        "Elles doivent être lavées avant chaque prière"
+      ],
+      "answer": 1,
+      "expl": "La règle est que les choses sont pures par principe : on ne se met pas à douter de tout. Une impureté n'est prise en compte que si on la voit, ou qu'on en est sûr. Cette règle protège des obsessions (waswās)."
+    },
+    {
+      "id": "pur-t2-0034",
+      "concept": "pur.eau-najasa.petit-sang",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon l'école malikite, une petite quantité de sang (environ la surface d'une pièce, un dirham) sur le vêtement est tolérée pour la prière.",
+      "answer": true,
+      "expl": "Les malikites tolèrent (maʿfū ʿanhu) le peu de sang, qu'on évalue à la surface d'un dirham, car il est difficile de s'en préserver complètement. Au-delà, on le lave. C'est une facilité de la religion.",
+      "note": "Les seuils exacts varient selon les écoles."
+    },
+    {
+      "id": "pur-t2-0035",
+      "concept": "pur.eau-najasa.sperme",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, quel est le statut du sperme ?",
+      "choices": [
+        "Pur s'il est sec",
+        "Impur seulement pendant le Ramadan",
+        "Impur : on lave l'endroit touché",
+        "Pur : il n'y a rien à faire"
+      ],
+      "answer": 2,
+      "expl": "Chez les malikites et les hanafites, le sperme est impur : on lave l'endroit du vêtement ou du corps qui a été touché. Chez les chaféites et les hanbalites, il est pur, et le gratter quand il est sec suffit (ʿĀʾisha le grattait du vêtement du Prophète ﷺ).",
+      "src": [
+        "Muslim (hadith d'ʿĀʾisha)"
+      ],
+      "note": "Chaféites et hanbalites : pur."
+    },
+    {
+      "id": "pur-t2-0036",
+      "concept": "pur.eau-najasa.fiche-impuretes",
+      "domain": "purification",
+      "sub": "eau-najasa",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Les impuretés : l'essentiel",
+      "points": [
+        "Impurs : urine, excréments, sang abondant, cadavre d'animal non égorgé, alcool",
+        "Pur par principe : tout le reste, tant qu'on n'a pas de certitude",
+        "Purifier : laver à l'eau jusqu'à disparition de la trace",
+        "Petit sang : toléré chez les malikites"
+      ],
+      "expl": "Pas besoin de s'inquiéter de tout : on lave ce qu'on voit ou ce dont on est sûr, et l'on prie en paix. Le doute ne rend pas une chose impure."
+    },
+    {
+      "id": "pur-t2-0037",
+      "concept": "pur.toilettes.trois-pierres",
+      "domain": "purification",
+      "sub": "toilettes",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Selon le hadith de Salmān, avec combien de pierres au minimum le Prophète ﷺ recommandait-il de se nettoyer quand on n'a pas d'eau ?",
+      "answer": 3,
+      "unit": "pierres",
+      "expl": "Salmān rapporte que le Prophète ﷺ interdit de se nettoyer avec moins de trois pierres (Muslim). Chez les malikites, ce qui compte avant tout est la propreté obtenue ; un nombre impair est recommandé, et l'eau reste meilleure.",
+      "src": [
+        "Muslim (hadith de Salmān)"
+      ],
+      "note": "Chaféites et hanbalites : trois au minimum, obligatoirement."
+    },
+    {
+      "id": "pur-t2-0038",
+      "concept": "pur.toilettes.papier",
+      "domain": "purification",
+      "sub": "toilettes",
+      "tier": 2,
+      "type": "vf",
+      "q": "Quand on n'a pas d'eau, on peut se nettoyer avec du papier toilette, comme avec des pierres.",
+      "answer": true,
+      "expl": "Les savants assimilent aux pierres tout objet pur, solide et non respecté qui nettoie : papier, mouchoir… Le mieux reste d'utiliser l'eau, ou de combiner les deux."
+    },
+    {
+      "id": "pur-t2-0039",
+      "concept": "pur.toilettes.os-crottin",
+      "domain": "purification",
+      "sub": "toilettes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Avec quoi le Prophète ﷺ a-t-il interdit de se nettoyer ?",
+      "choices": [
+        "Les pierres et le sable",
+        "L'eau froide",
+        "Les feuilles d'arbres",
+        "Les os et le crottin"
+      ],
+      "answer": 3,
+      "expl": "Il interdit de se nettoyer avec un os ou du crottin, en disant qu'ils sont la nourriture des djinns et de leurs montures (Muslim). On n'utilise pas non plus ce qui est respectable : nourriture, papier portant un écrit religieux.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0040",
+      "concept": "pur.toilettes.lieux-interdits",
+      "domain": "purification",
+      "sub": "toilettes",
+      "tier": 2,
+      "type": "multi",
+      "q": "Où la Sunna interdit-elle de faire ses besoins ?",
+      "choices": [
+        "Sur un chemin où passent les gens",
+        "À l'ombre où les gens s'abritent",
+        "Dans un endroit isolé et caché",
+        "Dans une eau stagnante",
+        "Dans des toilettes"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Le Prophète ﷺ dit : « Craignez les deux choses qui attirent la malédiction » : faire ses besoins sur le chemin des gens ou à leur ombre (Muslim). Il interdit aussi d'uriner dans l'eau stagnante. Respecter les autres fait partie de la pureté.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0041",
+      "concept": "pur.wudu.isbagh",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que signifie « isbāgh al-wuḍūʾ », que le Prophète ﷺ a cité parmi ce qui efface les péchés ?",
+      "choices": [
+        "Faire ses ablutions complètement, même si c'est dur",
+        "Faire ses ablutions avec de l'eau chaude",
+        "Refaire ses ablutions avant chaque prière",
+        "Faire ses ablutions en silence complet"
+      ],
+      "answer": 0,
+      "expl": "« Voulez-vous que je vous indique ce par quoi Allah efface les péchés et élève les degrés ? Bien faire ses ablutions quand c'est pénible, multiplier les pas vers les mosquées, et attendre la prière après la prière » (Muslim). Pénible : par grand froid, par fatigue.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0042",
+      "concept": "pur.wudu.serviette",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "vf",
+      "q": "Il est permis de s'essuyer avec une serviette après les ablutions.",
+      "answer": true,
+      "expl": "C'est permis : aucune règle ne l'interdit. Certains savants préféraient laisser sécher l'eau, car Maymūna rapporte qu'après le ghusl le Prophète ﷺ refusa une serviette et secoua l'eau de ses mains (Bukhari). Les deux sont donc corrects.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "pur-t2-0043",
+      "concept": "pur.wudu.takhlil",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que doit-on faire avec les doigts des mains pendant les ablutions ?",
+      "choices": [
+        "Les plonger trois fois dans l'eau",
+        "Les entrecroiser pour que l'eau passe",
+        "Les laisser joints, sans les écarter",
+        "Les essuyer seulement, sans les laver"
+      ],
+      "answer": 1,
+      "expl": "Chez les malikites, passer l'eau entre les doigts des mains (takhlīl) est obligatoire, car ils font partie de la main à laver. Pour les orteils, c'est seulement recommandé. Le Prophète ﷺ dit : « Passe l'eau entre les doigts » (Tirmidhi).",
+      "src": [
+        "Tirmidhi"
+      ],
+      "note": "Pour les orteils : recommandé chez les malikites."
+    },
+    {
+      "id": "pur-t2-0044",
+      "concept": "pur.wudu.gaspillage",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "vf",
+      "q": "Gaspiller l'eau dans les ablutions est déconseillé, même quand l'eau est abondante.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ faisait ses ablutions avec très peu d'eau (environ un mudd, une double poignée). Les savants ont déconseillé l'excès, qui ne rend pas les ablutions meilleures. L'écologie était déjà une sunna."
+    },
+    {
+      "id": "pur-t2-0045",
+      "concept": "pur.wudu.barbe",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Dans les ablutions, que fait-on pour une barbe épaisse ?",
+      "choices": [
+        "On ne la touche pas du tout",
+        "On la lave sept fois de suite",
+        "On lave sa surface",
+        "On doit la raser avant de prier"
+      ],
+      "answer": 2,
+      "expl": "Pour une barbe épaisse, on lave l'extérieur avec le visage ; faire pénétrer l'eau entre les poils (takhlīl) est recommandé dans les ablutions. Dans le ghusl, en revanche, l'eau doit atteindre la peau."
+    },
+    {
+      "id": "pur-t2-0046",
+      "concept": "pur.annulatifs-wudu.n-annule-pas",
+      "domain": "purification",
+      "sub": "annulatifs-wudu",
+      "tier": 2,
+      "type": "multi",
+      "q": "Lesquelles de ces choses N'annulent PAS les ablutions ?",
+      "choices": [
+        "Se couper les ongles ou les cheveux",
+        "Manger de la viande cuite",
+        "Uriner",
+        "Pleurer",
+        "Dormir profondément"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Les ablutions sont annulées par ce qui sort des deux voies, par la perte de conscience et le sommeil profond, et, chez les malikites, par certains contacts. Couper ses ongles, manger, pleurer ne les annulent pas."
+    },
+    {
+      "id": "pur-t2-0047",
+      "concept": "pur.annulatifs-wudu.ridda",
+      "domain": "purification",
+      "sub": "annulatifs-wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, qu'est-ce qui annule les ablutions, en plus des causes physiques ?",
+      "choices": [
+        "La colère",
+        "Un mensonge",
+        "La médisance",
+        "L'apostasie"
+      ],
+      "answer": 3,
+      "expl": "Chez les malikites, l'apostasie (ridda) annule les ablutions. Les péchés comme la colère, le mensonge ou la médisance ne les annulent pas, même s'ils sont graves : on recommande cependant de refaire ses ablutions après une colère pour s'apaiser."
+    },
+    {
+      "id": "pur-t2-0048",
+      "concept": "pur.ghusl.remplace-wudu",
+      "domain": "purification",
+      "sub": "ghusl",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon les malikites, un ghusl de janāba complet dispense de refaire les ablutions pour prier, si rien ne les a annulées entre-temps.",
+      "answer": true,
+      "expl": "Le ghusl contient les ablutions : celui qui l'a fait peut prier directement, à condition de ne pas avoir touché son sexe ou annulé ses ablutions pendant ou après. Il est sunna de commencer le ghusl par les ablutions."
+    },
+    {
+      "id": "pur-t2-0049",
+      "concept": "pur.ghusl.rencontre",
+      "domain": "purification",
+      "sub": "ghusl",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Un rapport conjugal sans éjaculation oblige-t-il au ghusl ?",
+      "choices": [
+        "Oui, dès l'union des parties intimes",
+        "Non, seulement s'il y a éjaculation",
+        "Seulement pour la femme, pas pour l'homme",
+        "Seulement pendant le mois de Ramadan"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ dit : « Quand les deux parties circoncises se rencontrent, le ghusl est obligatoire » (Muslim). L'éjaculation n'est pas nécessaire.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "pur-t2-0050",
+      "concept": "pur.ghusl.dalk-ghusl",
+      "domain": "purification",
+      "sub": "ghusl",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que faut-il faire en plus de verser l'eau sur tout le corps, dans le ghusl ?",
+      "choices": [
+        "Utiliser de l'eau froide",
+        "Frotter le corps avec la main",
+        "Se laver trois fois de suite",
+        "Commencer toujours par les pieds"
+      ],
+      "answer": 1,
+      "expl": "Comme pour les ablutions, les malikites rendent obligatoire le frottement (dalk) : passer la main sur le corps avec l'eau. Pour les endroits difficiles à atteindre, on peut utiliser une serviette ou un gant."
+    },
+    {
+      "id": "pur-t2-0051",
+      "concept": "pur.tayammum.mains-poignets",
+      "domain": "purification",
+      "sub": "tayammum",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, jusqu'où essuie-t-on obligatoirement les mains dans le tayammum ?",
+      "choices": [
+        "Seulement le bout des doigts",
+        "Jusqu'aux coudes, obligatoirement",
+        "Jusqu'aux poignets",
+        "Jusqu'aux épaules"
+      ],
+      "answer": 2,
+      "expl": "Chez les malikites, essuyer les mains jusqu'aux poignets est obligatoire, et prolonger jusqu'aux coudes est une sunna. Ammār rapporte que le Prophète ﷺ lui montra le tayammum en frappant le sol, puis en essuyant son visage et ses mains (Bukhari).",
+      "src": [
+        "Bukhari (hadith d'ʿAmmār)"
+      ],
+      "note": "Chaféites et hanafites : jusqu'aux coudes, obligatoirement."
+    },
+    {
+      "id": "pur-t2-0052",
+      "concept": "pur.tayammum.intention",
+      "domain": "purification",
+      "sub": "tayammum",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le tayammum nécessite une intention, comme les ablutions.",
+      "answer": true,
+      "expl": "L'intention est une obligation du tayammum : on a l'intention de se purifier pour la prière. Les gestes seuls ne suffisent pas."
+    },
+    {
+      "id": "pur-t2-0053",
+      "concept": "pur.khuffs.pas-ghusl",
+      "domain": "purification",
+      "sub": "khuffs",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Peut-on passer la main sur les khuffs au lieu de laver les pieds dans le ghusl ?",
+      "choices": [
+        "Oui, toujours, comme pour le wuḍūʾ",
+        "Oui, mais seulement en voyage",
+        "Oui, pendant trois jours au plus",
+        "Non, seulement pour les ablutions"
+      ],
+      "answer": 3,
+      "expl": "Ṣafwān ibn ʿAssāl rapporte que le Prophète ﷺ leur ordonnait, en voyage, de ne pas retirer leurs khuffs pendant trois jours, « sauf en cas de janāba » (Tirmidhi). Pour le ghusl, on retire les khuffs.",
+      "src": [
+        "Tirmidhi et an-Nasāʾī"
+      ]
+    },
+    {
+      "id": "pur-t2-0054",
+      "concept": "pur.khuffs.vendredi",
+      "domain": "purification",
+      "sub": "khuffs",
+      "tier": 2,
+      "type": "vf",
+      "q": "Chez les malikites, il est recommandé de retirer ses khuffs une fois par semaine, le vendredi.",
+      "answer": true,
+      "expl": "Les malikites ne fixent pas de durée limite au masḥ sur les khuffs, mais recommandent de les retirer chaque vendredi, jour du ghusl. C'est l'un des points où l'école diffère des autres, qui fixent un jour et une nuit (trois en voyage).",
+      "note": "Autres écoles : un jour et une nuit pour le résident, trois pour le voyageur."
+    },
+    {
+      "id": "pur-t2-0055",
+      "concept": "pur.menstrues.tuhr-min",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Selon l'école malikite, combien de jours de pureté au minimum séparent deux périodes de règles ?",
+      "answer": 15,
+      "unit": "jours",
+      "expl": "Pour les malikites, la période de pureté (ṭuhr) entre deux règles dure au moins quinze jours. Un saignement qui reprend avant est considéré comme la suite des règles précédentes, ou comme un saignement anormal (istiḥāḍa)."
+    },
+    {
+      "id": "pur-t2-0056",
+      "concept": "pur.menstrues.duree-min",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, quelle est la durée minimale des règles pour l'arrêt de la prière ?",
+      "choices": [
+        "Pas de minimum : tout écoulement compte",
+        "Trois jours pleins, sinon ce ne sont pas des règles",
+        "Un jour et une nuit au minimum",
+        "Sept jours au minimum"
+      ],
+      "answer": 0,
+      "expl": "Pour la prière, les malikites ne fixent pas de durée minimale : un écoulement, même bref, interrompt la prière. Les hanafites fixent trois jours, les chaféites et les hanbalites un jour et une nuit.",
+      "note": "Hanafites : trois jours ; chaféites et hanbalites : un jour et une nuit."
+    },
+    {
+      "id": "pur-t2-0057",
+      "concept": "pur.menstrues.aid",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 2,
+      "type": "vf",
+      "q": "Une femme qui a ses règles peut se rendre à l'Aïd et participer aux invocations, sans faire la prière.",
+      "answer": true,
+      "expl": "Umm ʿAṭiyya rapporte : « Il nous ordonnait de faire sortir, le jour de l'Aïd, les jeunes filles et les femmes en règles ; celles-ci se tenaient à l'écart du lieu de prière et participaient au bien et aux invocations des musulmans » (Bukhari). Personne n'est exclu de la fête.",
+      "src": [
+        "Bukhari (hadith d'Umm ʿAṭiyya)"
+      ]
+    },
+    {
+      "id": "pur-t2-0058",
+      "concept": "pur.menstrues.mosquee",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, une femme en période de règles peut-elle rester dans une mosquée ?",
+      "choices": [
+        "Seulement si elle prie",
+        "Non, elle n'y séjourne pas",
+        "Oui, sans restriction",
+        "Oui, seulement le vendredi"
+      ],
+      "answer": 1,
+      "expl": "La majorité des savants, dont les malikites, interdisent à la femme en règles de séjourner dans la mosquée. Elle peut toutefois y passer pour un besoin, selon certains, et participer à tout le reste de la vie religieuse.",
+      "note": "Certains savants l'autorisent à y entrer avec une protection."
+    },
+    {
+      "id": "pur-t2-0059",
+      "concept": "pur.menstrues.fiche-pratique",
+      "domain": "purification",
+      "sub": "menstrues",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Règles et vie spirituelle",
+      "points": [
+        "Pas de prière ni de jeûne ; le jeûne seulement se rattrape",
+        "Dhikr, invocations, prière sur le Prophète ﷺ : permis",
+        "Coran de mémoire : permis chez les malikites",
+        "Fin des règles : sécheresse ou perte blanche, puis ghusl"
+      ],
+      "expl": "Les règles ne coupent pas la femme de sa foi : elle reste aussi proche d'Allah, par le dhikr, l'invocation et la lecture de mémoire. Elle est récompensée pour ce qu'elle laisse par obéissance."
+    },
+    {
+      "id": "pur-t2-0060",
+      "concept": "pur.wudu.renouveler",
+      "domain": "purification",
+      "sub": "wudu",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Est-il recommandé de refaire ses ablutions pour une nouvelle prière, même si on ne les a pas perdues ?",
+      "choices": [
+        "Oui : une lumière en plus, sans obligation",
+        "Non, c'est interdit de les refaire",
+        "Oui, et c'est même obligatoire",
+        "Seulement le vendredi, avant la Jumuʿa"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ faisait souvent ses ablutions pour chaque prière, mais pria plusieurs prières avec une seule ablution le jour de la conquête de La Mecque, pour montrer que c'est permis (Muslim). Renouveler est un bien, pas une obligation.",
+      "src": [
+        "Muslim"
+      ]
+    }
+  ]
+}

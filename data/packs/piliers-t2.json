@@ -1,0 +1,1742 @@
+{
+  "pack": "piliers-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "pil-t2-0001",
+      "concept": "pil.ramadan.itikaf",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce que l'iʿtikāf, pratiqué par le Prophète ﷺ pendant les dix derniers jours de Ramadan ?",
+      "choices": [
+        "Un grand repas collectif chaque soir",
+        "Une retraite d'adoration à la mosquée",
+        "Un voyage à La Mecque en fin de mois",
+        "Un jeûne continu, sans rupture la nuit"
+      ],
+      "answer": 1,
+      "expl": "L'iʿtikāf (iʿ-ti-kâf) consiste à rester à la mosquée avec l'intention de se consacrer à Allah : prière, Coran, dhikr. Le Prophète ﷺ le faisait chaque année les dix derniers jours de Ramadan. Chez les malikites, il se fait en jeûnant, dans une mosquée, au moins un jour et une nuit.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الِاعْتِكَاف",
+        "tr": "al-iʿtikāf",
+        "pr": "al-iʿ-ti-kâf",
+        "fr": "la retraite à la mosquée"
+      }
+    },
+    {
+      "id": "pil-t2-0002",
+      "concept": "pil.ramadan.dix-dernieres",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faisait le Prophète ﷺ à l'entrée des dix dernières nuits de Ramadan ?",
+      "choices": [
+        "Il se reposait davantage pour tenir",
+        "Il cessait de jeûner pour préparer l'Aïd",
+        "Il veillait et réveillait sa famille",
+        "Il voyageait pour visiter les tribus"
+      ],
+      "answer": 2,
+      "expl": "ʿĀʾisha rapporte : « Quand arrivaient les dix dernières nuits, il serrait son pagne, veillait la nuit et réveillait sa famille. » Ces nuits contiennent la Nuit du Destin : c'est le sprint final du mois.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0003",
+      "concept": "pil.ramadan.genereux",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ était encore plus généreux pendant Ramadan, « plus que le vent qui souffle ».",
+      "answer": true,
+      "expl": "Ibn ʿAbbās rapporte qu'il était le plus généreux des hommes, et plus encore en Ramadan quand Jibrīl venait réviser le Coran avec lui : « plus généreux que le vent envoyé ». Ramadan est le mois du partage.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0004",
+      "concept": "pil.ramadan.nourrir",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith, celui qui donne à manger à un jeûneur pour rompre son jeûne reçoit la même récompense que lui.",
+      "answer": true,
+      "expl": "« Celui qui donne à un jeûneur de quoi rompre son jeûne aura une récompense égale à la sienne, sans que celle du jeûneur ne diminue en rien. » Une datte, un verre d'eau, une invitation à l'iftar : tout compte.",
+      "src": [
+        "Hadith de Zayd ibn Khālid al-Juhanī — Tirmidhi"
+      ]
+    },
+    {
+      "id": "pil-t2-0005",
+      "concept": "pil.ramadan.dua-iftar",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "trou",
+      "q": "Invocation de la rupture du jeûne : « Dhahaba ẓ-ẓamaʾu wa btallati l-ʿurūqu wa thabata l-___ in shāʾa Llāh. »",
+      "choices": [
+        "jūʿu",
+        "nawmu",
+        "māʾu",
+        "ajru"
+      ],
+      "answer": 3,
+      "expl": "« La soif est partie, les veines sont humectées, et la récompense est assurée, si Allah le veut. » Le Prophète ﷺ la disait en rompant le jeûne. Le moment de la rupture est aussi un moment d'invocation exaucée.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Abu Dawud"
+      ],
+      "ar": {
+        "text": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللّٰهُ",
+        "tr": "dhahaba ẓ-ẓamaʾu wa btallati l-ʿurūqu wa thabata l-ajru in shāʾa Llāh",
+        "pr": "dha-ha-baz-za-ma-ʾou wab-tal-la-til-ʿou-roû-qou wa tha-ba-tal-aj-rou in châ-ʾal-lâh",
+        "fr": "la soif est partie, les veines sont humectées, et la récompense est assurée si Allah le veut"
+      }
+    },
+    {
+      "id": "pil-t2-0006",
+      "concept": "pil.jeune-regles.haleine",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith, l'haleine du jeûneur est plus agréable auprès d'Allah que le parfum du musc.",
+      "answer": true,
+      "expl": "« L'odeur de la bouche du jeûneur est plus agréable auprès d'Allah que l'odeur du musc. » Ce qui gêne les gens est aimé d'Allah, car c'est la trace d'une adoration. Cela n'empêche pas de se brosser les dents avec précaution.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0007",
+      "concept": "pil.jeune-regles.vomir",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, que doit faire celui qui se fait vomir volontairement pendant le jeûne ?",
+      "choices": [
+        "Rattraper ce jour",
+        "Rien, son jeûne est intact",
+        "Jeûner soixante jours",
+        "Arrêter de jeûner le reste du mois"
+      ],
+      "answer": 0,
+      "expl": "« Celui qui est pris de vomissement n'a rien à rattraper ; celui qui se fait vomir volontairement doit rattraper. » Le vomissement involontaire n'affecte pas le jeûne.",
+      "src": [
+        "Hadith d'Abū Hurayra — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "pil-t2-0008",
+      "concept": "pil.jeune-regles.dentifrice",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disent les malikites de l'usage du dentifrice pendant le jeûne ?",
+      "choices": [
+        "C'est interdit, même le siwāk",
+        "Déconseillé ; s'il est avalé, le jour est à rattraper",
+        "C'est obligatoire pour une bonne haleine",
+        "Sans aucune conséquence, même si l'on en avale"
+      ],
+      "answer": 1,
+      "expl": "Le siwāk (bâtonnet) est permis toute la journée. Le dentifrice, qui a un goût et peut descendre dans la gorge, est déconseillé chez les malikites ; si quelque chose est avalé, le jeûne est à rattraper. Mieux vaut se brosser les dents après l'iftar et au suḥūr."
+    },
+    {
+      "id": "pil-t2-0009",
+      "concept": "pil.jeune-regles.piqure",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'avis de nombreux savants contemporains, une piqûre non nutritive (vaccin, insuline) rompt-elle le jeûne ?",
+      "choices": [
+        "Oui, si elle fait mal",
+        "Seulement si on la fait le vendredi",
+        "Non : ce n'est ni nourriture ni boisson",
+        "Oui, toujours, quelle qu'elle soit"
+      ],
+      "answer": 2,
+      "expl": "La majorité des savants contemporains et des académies de fiqh estiment que les injections non nutritives et la prise de sang ne rompent pas le jeûne. Les perfusions nutritives, elles, le rompent. Un malade qui a besoin de soins peut de toute façon rompre et rattraper.",
+      "note": "Les avis contemporains varient selon le type d'injection ; on peut consulter un savant de confiance pour son cas."
+    },
+    {
+      "id": "pil-t2-0010",
+      "concept": "pil.jeune-regles.kohl",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que disent les malikites du khôl ou des gouttes dans les yeux pendant le jeûne ?",
+      "choices": [
+        "C'est obligatoire chaque matin",
+        "C'est toujours sans effet, en tout cas",
+        "C'est interdit, même la nuit",
+        "Déconseillés ; si le goût passe, on rattrape"
+      ],
+      "answer": 3,
+      "expl": "Pour les malikites, ce qui parvient à la gorge par un orifice, y compris l'œil, peut rompre le jeûne ; d'où la prudence avec le khôl et les gouttes pendant la journée. D'autres écoles et beaucoup de contemporains considèrent qu'ils ne rompent pas le jeûne.",
+      "note": "Chaféites et hanafites : le khôl ne rompt pas le jeûne."
+    },
+    {
+      "id": "pil-t2-0011",
+      "concept": "pil.jeune-regles.salive",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "vf",
+      "q": "Avaler sa propre salive ne rompt pas le jeûne.",
+      "answer": true,
+      "expl": "Avaler sa salive est inévitable et sans effet sur le jeûne. On évite seulement de l'accumuler volontairement pour l'avaler, ou d'avaler des glaires qu'on peut cracher."
+    },
+    {
+      "id": "pil-t2-0012",
+      "concept": "pil.jeune-excuses.qada-delai",
+      "domain": "piliers",
+      "sub": "jeune-excuses",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Jusqu'à quand peut-on rattraper les jours de Ramadan manqués ?",
+      "choices": [
+        "Avant le Ramadan suivant",
+        "Seulement pendant le mois de Shawwāl",
+        "Dans les trois jours qui suivent l'Aïd",
+        "Sans aucun délai, même des années après"
+      ],
+      "answer": 0,
+      "expl": "ʿĀʾisha rattrapait ses jours manqués jusqu'au mois de Shaʿbān, juste avant le Ramadan suivant. On peut les jeûner séparément ou à la suite. Les malikites ajoutent une fidya (un mudd de nourriture par jour) à celui qui laisse passer le Ramadan suivant sans excuse.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "note": "Les hanafites ne demandent pas de fidya pour le retard."
+    },
+    {
+      "id": "pil-t2-0013",
+      "concept": "pil.jeune-excuses.kaffara-maliki",
+      "domain": "piliers",
+      "sub": "jeune-excuses",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, qu'est-ce qui entraîne l'expiation (kaffāra) en plus du rattrapage ?",
+      "choices": [
+        "Voyager pendant le mois de Ramadan",
+        "Rompre exprès un jour de Ramadan, sans excuse",
+        "Manger par oubli en pleine journée",
+        "Être malade et ne pas pouvoir jeûner"
+      ],
+      "answer": 1,
+      "expl": "Pour les malikites et les hanafites, rompre délibérément le jeûne de Ramadan, par un rapport, en mangeant ou en buvant, oblige à la kaffāra. Pour les chaféites et les hanbalites, seul le rapport conjugal l'entraîne. L'oubli et les excuses n'entraînent jamais de kaffāra.",
+      "note": "Chaféites et hanbalites : kaffāra uniquement pour le rapport conjugal."
+    },
+    {
+      "id": "pil-t2-0014",
+      "concept": "pil.jeune-excuses.kaffara-formes",
+      "domain": "piliers",
+      "sub": "jeune-excuses",
+      "tier": 2,
+      "type": "multi",
+      "q": "Quelles sont les formes de l'expiation (kaffāra) pour un jour de Ramadan rompu volontairement ?",
+      "choices": [
+        "Nourrir soixante pauvres",
+        "Jeûner soixante jours consécutifs",
+        "Payer une amende à l'État",
+        "Affranchir un esclave (forme ancienne)",
+        "Faire trois fois la ʿumra"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Le hadith de l'homme venu avouer son rapport cite l'affranchissement, puis le jeûne de deux mois consécutifs, puis nourrir soixante pauvres. Chez les malikites, nourrir soixante pauvres est la forme préférée, car elle profite aux autres.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0015",
+      "concept": "pil.jeune-excuses.kaffara-jours",
+      "domain": "piliers",
+      "sub": "jeune-excuses",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Combien de jours consécutifs doit-on jeûner pour la kaffāra du Ramadan, si l'on choisit le jeûne ?",
+      "answer": 60,
+      "unit": "jours",
+      "expl": "Soixante jours consécutifs, soit deux mois. Si on interrompt sans excuse, on recommence. D'où la préférence malikite pour nourrir soixante pauvres, plus facile et utile à la société.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0016",
+      "concept": "pil.jeune-volontaire.lundi-jeudi",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi le Prophète ﷺ aimait-il jeûner le lundi et le jeudi ?",
+      "choices": [
+        "Le marché de Médine était fermé ces jours-là",
+        "Les nuits sont plus courtes ces jours-là",
+        "Les actes sont présentés à Allah ces jours-là",
+        "Ce sont des jours de fête dans le calendrier"
+      ],
+      "answer": 2,
+      "expl": "« Les actes sont présentés le lundi et le jeudi, et j'aime que mes actes soient présentés pendant que je jeûne. » Le lundi est aussi le jour de sa naissance et de la première révélation.",
+      "src": [
+        "Hadith d'Abū Hurayra — Tirmidhi",
+        "Hadith d'Abū Qatāda — Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0017",
+      "concept": "pil.jeune-volontaire.jours-blancs",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque jeûne surérogatoire à sa description.",
+      "pairs": [
+        [
+          "Les jours blancs",
+          "Les 13, 14 et 15 de chaque mois lunaire"
+        ],
+        [
+          "Le jeûne de Dāwūd",
+          "Un jour sur deux"
+        ],
+        [
+          "ʿĀshūrāʾ",
+          "Le 10 Muḥarram"
+        ],
+        [
+          "ʿArafa",
+          "Le 9 Dhū l-Ḥijja"
+        ]
+      ],
+      "expl": "Les « jours blancs » sont ceux de la pleine lune, aux nuits éclairées. Jeûner trois jours par mois équivaut à jeûner toute l'année, car chaque bonne action vaut dix. L'imam Mālik préférait ne pas fixer ces trois jours, pour qu'on ne les croie pas obligatoires.",
+      "src": [
+        "Hadith d'Abū Dharr — Tirmidhi & Nasai"
+      ],
+      "note": "Mālik recommandait de jeûner trois jours par mois sans les fixer aux 13, 14 et 15."
+    },
+    {
+      "id": "pil-t2-0018",
+      "concept": "pil.jeune-volontaire.muharram",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, quel est le meilleur jeûne après celui de Ramadan ?",
+      "choices": [
+        "Celui de Shawwāl",
+        "Celui du vendredi",
+        "Celui de Rajab",
+        "Celui de Muḥarram"
+      ],
+      "answer": 3,
+      "expl": "« Le meilleur jeûne après Ramadan est celui du mois d'Allah, Muḥarram ; et la meilleure prière après la prière prescrite est celle de la nuit. » Le Prophète ﷺ jeûnait aussi beaucoup en Shaʿbān.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0019",
+      "concept": "pil.jeune-volontaire.vendredi-seul",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 2,
+      "type": "vf",
+      "q": "Il est déconseillé de jeûner le vendredi seul, sans jeûner la veille ou le lendemain.",
+      "answer": true,
+      "expl": "« Que l'un de vous ne jeûne pas le vendredi, sauf s'il jeûne un jour avant ou un jour après. » Le vendredi est un jour de fête hebdomadaire. Si l'on jeûne pour une autre raison (ʿArafa tombant un vendredi), il n'y a pas de problème.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0020",
+      "concept": "pil.jeune-volontaire.shaban",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ jeûnait la plus grande partie du mois de Shaʿbān.",
+      "answer": true,
+      "expl": "ʿĀʾisha rapporte qu'elle ne l'a vu jeûner un mois entier qu'en Ramadan, et qu'aucun mois ne le voyait jeûner autant que Shaʿbān. Il expliquait que c'est un mois que les gens négligent, entre Rajab et Ramadan, et où les actes montent vers Allah.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0021",
+      "concept": "pil.zakat-fitr.quand",
+      "domain": "piliers",
+      "sub": "zakat-fitr",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quand peut-on verser la zakat al-fiṭr ?",
+      "choices": [
+        "De la fin de Ramadan à la prière de l'Aïd",
+        "Au début de Ramadan, uniquement",
+        "Après la prière de l'Aïd, seulement",
+        "N'importe quand dans l'année"
+      ],
+      "answer": 0,
+      "expl": "Ibn ʿUmar rapporte qu'on la donnait un ou deux jours avant l'Aïd. Elle doit parvenir aux pauvres avant la prière : donnée après, ce n'est plus qu'une aumône ordinaire, selon le hadith d'Ibn ʿAbbās.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari",
+        "Hadith d'Ibn ʿAbbās — Abu Dawud"
+      ]
+    },
+    {
+      "id": "pil-t2-0022",
+      "concept": "pil.zakat-fitr.a-qui",
+      "domain": "piliers",
+      "sub": "zakat-fitr",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À qui donne-t-on la zakat al-fiṭr ?",
+      "choices": [
+        "Aux riches de la famille",
+        "Aux pauvres et aux nécessiteux",
+        "À la mosquée pour ses travaux",
+        "À ses propres enfants"
+      ],
+      "answer": 1,
+      "expl": "La zakat al-fiṭr est destinée aux pauvres, pour qu'ils aient de quoi se réjouir le jour de l'Aïd. On ne la donne pas à ceux dont on a la charge (ses enfants, ses parents qu'on entretient). Beaucoup la confient à une mosquée qui la redistribue."
+    },
+    {
+      "id": "pil-t2-0023",
+      "concept": "pil.zakat.nisab-or",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À combien de grammes d'or correspond le seuil (niṣāb) de la zakat ?",
+      "choices": [
+        "Environ 85 grammes",
+        "Environ 10 grammes",
+        "Environ 500 grammes",
+        "Environ 1 kilo"
+      ],
+      "answer": 0,
+      "expl": "Le niṣāb de l'or est de vingt mithqāl, soit environ 85 g ; celui de l'argent de deux cents dirhams, soit environ 595 g. Pour l'épargne en euros, on compare à la valeur de l'un des deux (beaucoup prennent l'or)."
+    },
+    {
+      "id": "pil-t2-0024",
+      "concept": "pil.zakat.bijoux-maliki",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon l'école malikite, les bijoux en or portés habituellement par une femme ne sont pas soumis à la zakat.",
+      "answer": true,
+      "expl": "Les malikites, chaféites et hanbalites considèrent que les bijoux portés pour l'usage personnel sont exemptés, comme les vêtements. Les hanafites demandent la zakat sur l'or et l'argent, même portés. Les bijoux achetés comme placement, eux, sont soumis à la zakat.",
+      "note": "Hanafites : zakat due sur tous les bijoux en or et en argent."
+    },
+    {
+      "id": "pil-t2-0025",
+      "concept": "pil.zakat.recoltes",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le taux de la zakat sur les récoltes arrosées par la pluie ?",
+      "choices": [
+        "10 %",
+        "2,5 %",
+        "5 %",
+        "20 %"
+      ],
+      "answer": 0,
+      "expl": "« Sur ce qu'arrosent la pluie et les sources, le dixième ; sur ce qui est arrosé par irrigation (avec effort), la moitié du dixième. » Le taux tient compte du travail fourni : 10 % sans irrigation, 5 % avec.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari"
+      ]
+    },
+    {
+      "id": "pil-t2-0026",
+      "concept": "pil.zakat.beneficiaires",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque bénéficiaire de la zakat (9:60) à sa description.",
+      "pairs": [
+        [
+          "Al-fuqarāʾ",
+          "Les pauvres"
+        ],
+        [
+          "Al-ʿāmilūn ʿalayhā",
+          "Ceux qui collectent la zakat"
+        ],
+        [
+          "Al-ghārimūn",
+          "Les endettés"
+        ],
+        [
+          "Ibn as-sabīl",
+          "Le voyageur en difficulté"
+        ]
+      ],
+      "expl": "Le verset 9:60 cite huit catégories : les pauvres, les nécessiteux, les collecteurs, ceux dont on rapproche les cœurs, l'affranchissement, les endettés, la cause d'Allah, et le voyageur.",
+      "src": [
+        "Coran 9:60"
+      ],
+      "tags": [
+        "sourate:9"
+      ],
+      "pron": {
+        "Al-fuqarāʾ": "al-fou-qa-râʾ",
+        "Al-ʿāmilūn ʿalayhā": "al-ʿâ-mi-loû-na ʿa-lay-hâ",
+        "Al-ghārimūn": "al-ghâ-ri-moûn",
+        "Ibn as-sabīl": "ib-nous-sa-bîl"
+      }
+    },
+    {
+      "id": "pil-t2-0027",
+      "concept": "pil.zakat.moutons",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 2,
+      "type": "nombre",
+      "q": "À partir de combien de moutons la zakat sur le bétail est-elle due ?",
+      "answer": 40,
+      "expl": "À partir de quarante moutons ou chèvres (une bête à donner jusqu'à 120), de trente bovins ou de cinq chameaux, selon les lettres de zakat du Prophète ﷺ transmises par Abū Bakr. Cela concerne les troupeaux qui paissent librement.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "pil-t2-0028",
+      "concept": "pil.zakat.epargne",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment calcule-t-on la zakat sur ses comptes en banque ?",
+      "choices": [
+        "2,5 % de son salaire, chaque mois",
+        "10 % de ses dépenses de l'année",
+        "2,5 % de l'épargne totale, chaque année lunaire",
+        "Rien : les comptes en banque sont exemptés"
+      ],
+      "answer": 2,
+      "expl": "On additionne l'argent qu'on possède à la date de sa zakat (comptes courants, livrets, espèces, marchandises destinées à la vente), on retire les dettes immédiates, et si le total dépasse le niṣāb et a été possédé un an lunaire, on en donne 2,5 %."
+    },
+    {
+      "id": "pil-t2-0029",
+      "concept": "pil.sadaqa.ne-diminue",
+      "domain": "piliers",
+      "sub": "sadaqa",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith, l'aumône ne diminue en rien les biens.",
+      "answer": true,
+      "expl": "« L'aumône ne diminue en rien les biens, Allah n'augmente le serviteur qui pardonne qu'en honneur, et nul ne se fait humble pour Allah sans qu'Il l'élève. » La bénédiction compense ce qu'on donne.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0030",
+      "concept": "pil.sadaqa.datte",
+      "domain": "piliers",
+      "sub": "sadaqa",
+      "tier": 2,
+      "type": "trou",
+      "q": "« Protégez-vous du Feu, fût-ce avec une moitié de ___. »",
+      "choices": [
+        "dirham",
+        "pain",
+        "verre d'eau",
+        "datte"
+      ],
+      "answer": 3,
+      "expl": "Aucune aumône n'est trop petite : une moitié de datte peut protéger du Feu. Le hadith ajoute : « Et celui qui ne trouve rien, qu'il dise une bonne parole. »",
+      "src": [
+        "Hadith d'ʿAdī ibn Ḥātim — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0031",
+      "concept": "pil.sadaqa.proches",
+      "domain": "piliers",
+      "sub": "sadaqa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, pourquoi l'aumône donnée à un proche dans le besoin vaut-elle double ?",
+      "choices": [
+        "Elle est aumône et lien de parenté à la fois",
+        "Parce qu'elle est plus visible des gens",
+        "Parce qu'elle est obligatoire envers la famille",
+        "Elle ne vaut pas double, mais moitié moins"
+      ],
+      "answer": 0,
+      "expl": "« L'aumône au pauvre est une aumône ; au proche, elle est deux choses : une aumône et le maintien des liens. » Commencer par sa famille dans le besoin est la priorité, tout en ouvrant la main aux autres.",
+      "src": [
+        "Hadith de Salmān ibn ʿĀmir — Tirmidhi & Nasai"
+      ]
+    },
+    {
+      "id": "pil-t2-0032",
+      "concept": "pil.sadaqa.famille",
+      "domain": "piliers",
+      "sub": "sadaqa",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith, l'argent dépensé pour sa famille, avec l'intention de plaire à Allah, est une aumône.",
+      "answer": true,
+      "expl": "« Quand l'homme dépense pour sa famille en en espérant la récompense, c'est pour lui une aumône. » Les courses, le loyer et les vêtements des enfants deviennent des actes d'adoration grâce à l'intention.",
+      "src": [
+        "Hadith d'Abū Masʿūd al-Badrī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0033",
+      "concept": "pil.hajj.etapes",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "ordre",
+      "q": "Remets dans l'ordre les grandes étapes du pèlerinage.",
+      "items": [
+        "Entrée en iḥrām au mīqāt",
+        "Séjour à Minā le 8 Dhū l-Ḥijja",
+        "Station à ʿArafa le 9",
+        "Nuit à Muzdalifa",
+        "Lapidation, sacrifice et rasage le 10",
+        "Ṭawāf al-ifāḍa"
+      ],
+      "expl": "Le 8 (yawm at-tarwiya), on va à Minā ; le 9, on se tient à ʿArafa jusqu'au coucher du soleil ; la nuit, à Muzdalifa ; le 10, on lapide la grande stèle, on sacrifie, on se rase ou se coupe les cheveux, puis on fait le ṭawāf al-ifāḍa. Les jours suivants, on lapide les trois stèles à Minā."
+    },
+    {
+      "id": "pil-t2-0034",
+      "concept": "pil.hajj.arkan-maliki",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "multi",
+      "q": "Quels sont les piliers (arkān) du pèlerinage selon l'école malikite, sans lesquels il n'est pas valable ?",
+      "choices": [
+        "L'iḥrām",
+        "La station à ʿArafa",
+        "Le sacrifice",
+        "Le ṭawāf al-ifāḍa",
+        "Le saʿy entre Ṣafā et Marwa",
+        "La visite de Médine"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "Les malikites comptent quatre piliers : l'iḥrām, la station à ʿArafa, le ṭawāf al-ifāḍa et le saʿy. Les autres rites obligatoires (lapidation, nuit à Muzdalifa…) se réparent par un sacrifice s'ils sont manqués. La visite de Médine est recommandée mais ne fait pas partie du ḥajj.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ],
+      "note": "Pour les hanafites, le saʿy n'est pas un pilier mais une obligation."
+    },
+    {
+      "id": "pil-t2-0035",
+      "concept": "pil.hajj.interdits-ihram",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "multi",
+      "q": "Qu'est-il interdit au pèlerin en état d'iḥrām ?",
+      "choices": [
+        "Se parfumer",
+        "Se couper les cheveux ou les ongles",
+        "Prier",
+        "Chasser",
+        "Pour les hommes, porter des vêtements cousus ajustés",
+        "Boire de l'eau de Zamzam"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "En iḥrām, on évite le parfum, la coupe des cheveux et des ongles, la chasse, les rapports et le contrat de mariage. Les hommes ne couvrent pas leur tête et ne portent pas de vêtements cousus ajustés ; les femmes gardent leurs vêtements habituels mais ne portent ni gants ni voile couvrant le visage.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0036",
+      "concept": "pil.hajj.mabrur",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle récompense le Prophète ﷺ a-t-il promise pour un pèlerinage agréé (ḥajj mabrūr) ?",
+      "choices": [
+        "Le titre de savant",
+        "Le Paradis",
+        "Une longue vie",
+        "La richesse"
+      ],
+      "answer": 1,
+      "expl": "« Le pèlerinage agréé n'a d'autre récompense que le Paradis. » Et : « Celui qui fait le pèlerinage sans propos obscènes ni perversité revient comme au jour où sa mère l'a mis au monde. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0037",
+      "concept": "pil.hajj.miqat-maroc",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le mīqāt (lieu d'entrée en iḥrām) traditionnel des pèlerins venant du Maroc et du Maghreb ?",
+      "choices": [
+        "Qarn al-Manāzil",
+        "Yalamlam",
+        "Al-Juḥfa",
+        "Dhū l-Ḥulayfa"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ a fixé les mīqāt : Dhū l-Ḥulayfa pour les gens de Médine, al-Juḥfa pour ceux de Syrie (et donc d'Égypte et du Maghreb), Qarn al-Manāzil pour le Najd, Yalamlam pour le Yémen. En avion, on entre en iḥrām en survolant le mīqāt.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0038",
+      "concept": "pil.hajj.types",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel type de pèlerinage l'école malikite considère-t-elle comme le meilleur ?",
+      "choices": [
+        "Le tamattuʿ : une ʿumra puis le ḥajj",
+        "Le qirān : ʿumra et ḥajj ensemble",
+        "Aucun n'est meilleur",
+        "L'ifrād : le ḥajj seul, sans ʿumra combinée"
+      ],
+      "answer": 3,
+      "expl": "Il existe trois façons : ifrād (ḥajj seul), tamattuʿ (ʿumra, sortie de l'iḥrām, puis ḥajj) et qirān (les deux dans un même iḥrām). Les malikites préfèrent l'ifrād ; les hanbalites le tamattuʿ ; les hanafites le qirān. Tous sont valables.",
+      "note": "Hanbalites : tamattuʿ ; hanafites : qirān."
+    },
+    {
+      "id": "pil-t2-0039",
+      "concept": "pil.omra.etapes",
+      "domain": "piliers",
+      "sub": "omra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelles sont les étapes de la ʿumra ?",
+      "choices": [
+        "L'iḥrām, le ṭawāf, le saʿy, puis les cheveux",
+        "La station à ʿArafa et la lapidation",
+        "Le sacrifice et la nuit à Muzdalifa",
+        "La visite de Médine uniquement"
+      ],
+      "answer": 0,
+      "expl": "La ʿumra, appelée « petit pèlerinage », se fait en quelques heures : iḥrām, ṭawāf (sept tours), saʿy (sept trajets), puis on se rase ou se coupe les cheveux. Elle ne comprend ni ʿArafa, ni Muzdalifa, ni lapidation."
+    },
+    {
+      "id": "pil-t2-0040",
+      "concept": "pil.omra.quand",
+      "domain": "piliers",
+      "sub": "omra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quand peut-on faire la ʿumra ?",
+      "choices": [
+        "Seulement le vendredi",
+        "Toute l'année",
+        "Seulement pendant Dhū l-Ḥijja",
+        "Seulement pendant Ramadan"
+      ],
+      "answer": 1,
+      "expl": "La ʿumra peut se faire à tout moment de l'année. Le Prophète ﷺ a dit qu'une ʿumra en Ramadan équivaut à un pèlerinage, et qu'une ʿumra à l'autre efface ce qui est entre elles. Chez les malikites, la ʿumra est une sunna confirmée une fois dans la vie.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim",
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "note": "Pour les chaféites et les hanbalites, la ʿumra est obligatoire une fois dans la vie."
+    },
+    {
+      "id": "pil-t2-0041",
+      "concept": "pil.udhiya.defauts",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels défauts rendent un animal impropre au sacrifice de l'Aïd ?",
+      "choices": [
+        "Être une femelle plutôt qu'un mâle",
+        "Avoir de grandes cornes recourbées",
+        "Borgne, malade, boiteux ou très maigre",
+        "Être de couleur noire ou tachetée"
+      ],
+      "answer": 2,
+      "expl": "« Quatre défauts ne conviennent pas pour le sacrifice : le borgne dont le défaut est évident, le malade dont la maladie est évidente, le boiteux dont la boiterie est évidente, et la bête si maigre qu'elle n'a plus de moelle. » On offre à Allah ce qu'il y a de bon.",
+      "src": [
+        "Hadith d'al-Barāʾ ibn ʿĀzib — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "pil-t2-0042",
+      "concept": "pil.udhiya.partage",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que fait-on de la viande du sacrifice selon la Sunna ?",
+      "choices": [
+        "On la vend entièrement au marché",
+        "On la jette après le sacrifice",
+        "On la garde uniquement pour soi",
+        "On en mange, on en offre, on en donne"
+      ],
+      "answer": 3,
+      "expl": "Le Coran dit : « Mangez-en, et nourrissez le pauvre. » Beaucoup de savants recommandent un partage en trois : pour la famille, pour les cadeaux, pour les pauvres, sans que ce soit obligatoire. On ne vend ni la peau ni la viande, et on ne paie pas le boucher avec.",
+      "src": [
+        "Coran 22:28",
+        "Hadith de ʿAlī ibn Abī Ṭālib — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0043",
+      "concept": "pil.udhiya.ongles",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 2,
+      "type": "vf",
+      "q": "Il est recommandé à celui qui va sacrifier de ne pas se couper les cheveux et les ongles à partir du début de Dhū l-Ḥijja jusqu'au sacrifice.",
+      "answer": true,
+      "expl": "Umm Salama rapporte : « Quand entrent les dix jours et que l'un de vous veut sacrifier, qu'il ne touche à rien de ses cheveux ni de sa peau. » Les malikites le considèrent comme recommandé ; les hanbalites comme obligatoire.",
+      "src": [
+        "Hadith d'Umm Salama — Muslim"
+      ],
+      "note": "Statut discuté : recommandé (malikites, chaféites), obligatoire (hanbalites), non retenu par les hanafites."
+    },
+    {
+      "id": "pil-t2-0044",
+      "concept": "pil.cinq-piliers.frequence",
+      "domain": "piliers",
+      "sub": "cinq-piliers",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque pilier à sa fréquence.",
+      "pairs": [
+        [
+          "Shahāda",
+          "Une fois pour entrer, puis sans cesse"
+        ],
+        [
+          "Prière",
+          "Cinq fois par jour"
+        ],
+        [
+          "Zakāt",
+          "Une fois par an"
+        ],
+        [
+          "Jeûne",
+          "Un mois par an"
+        ],
+        [
+          "Ḥajj",
+          "Une fois dans la vie, si on le peut"
+        ]
+      ],
+      "expl": "Les piliers rythment la vie à des échelles différentes : le jour (la prière), l'année (le jeûne, la zakāt), la vie entière (le pèlerinage), et chaque instant (le témoignage)."
+    },
+    {
+      "id": "pil-t2-0045",
+      "concept": "pil.cinq-piliers.hajj-une-fois",
+      "domain": "piliers",
+      "sub": "cinq-piliers",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le pèlerinage n'est obligatoire qu'une seule fois dans la vie, pour celui qui en a les moyens.",
+      "answer": true,
+      "expl": "Un homme demanda : « Chaque année, ô Messager d'Allah ? » Il garda le silence, puis dit : « Si j'avais dit oui, cela serait devenu obligatoire et vous ne l'auriez pas pu » (Muslim). Une seule fois suffit ; les suivantes sont surérogatoires.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0046",
+      "concept": "pil.cinq-piliers.abu-bakr-zakat",
+      "domain": "piliers",
+      "sub": "cinq-piliers",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que fit Abū Bakr, premier calife, contre les tribus qui refusèrent de payer la zakāt ?",
+      "choices": [
+        "Il les combattit : pas de prière sans zakāt",
+        "Il les laissa libres de ne plus payer",
+        "Il supprima la zakāt pour tout le monde",
+        "Il la remplaça par un impôt sur les terres"
+      ],
+      "answer": 0,
+      "expl": "« Par Allah, je combattrai quiconque sépare la prière de la zakāt » (Bukhari). Les deux sont si souvent associées dans le Coran que les Compagnons y voyaient un tout : le lien à Allah et le lien aux autres.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0047",
+      "concept": "pil.ramadan.dua-hilal",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on, selon la Sunna, en voyant le croissant de la nouvelle lune ?",
+      "choices": [
+        "La sourate al-Qadr, en entier, à voix haute",
+        "« Allāhumma ahillahu ʿalaynā bi-l-amni… »",
+        "« Āmīn », trois fois de suite",
+        "« Ramaḍān karīm », seulement"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ disait en voyant le croissant : « Ô Allah, fais-le se lever sur nous avec la sécurité, la foi, la paix et l'islam. Mon Seigneur et ton Seigneur est Allah » (Tirmidhi).",
+      "src": [
+        "Tirmidhi (ḥasan)"
+      ],
+      "ar": {
+        "text": "اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالْأَمْنِ وَالْإِيمَانِ",
+        "tr": "Allāhumma ahillahu ʿalaynā bi-l-amni wa-l-īmān",
+        "pr": "al-lâ-houm-ma a-hil-la-hou ʿa-lay-nâ bil-am-ni wal-î-mân",
+        "fr": "Ô Allah, fais-le se lever sur nous avec la sécurité et la foi"
+      }
+    },
+    {
+      "id": "pil-t2-0048",
+      "concept": "pil.ramadan.ruya-maroc",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le début du Ramadan est-il fixé au Maroc ?",
+      "choices": [
+        "En suivant toujours l'Arabie saoudite",
+        "Par le premier lundi du mois lunaire",
+        "Par l'observation du croissant",
+        "Par un calendrier calculé des années à l'avance"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ dit : « Jeûnez quand vous le voyez, et rompez quand vous le voyez » (Bukhari). L'école malikite retient l'observation visuelle, et le Maroc l'organise chaque année, ce qui décale parfois le début d'un jour par rapport à d'autres pays.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0049",
+      "concept": "pil.jeune-regles.insulte",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseille le Prophète ﷺ au jeûneur qu'on insulte ou qu'on provoque ?",
+      "choices": [
+        "Répondre fermement pour se défendre",
+        "Rompre son jeûne pour se calmer",
+        "Quitter les lieux sans un mot",
+        "Dire : « Je jeûne, je jeûne »"
+      ],
+      "answer": 3,
+      "expl": "« Le jeûne est un bouclier. Si quelqu'un l'insulte ou le provoque, qu'il dise : « Je jeûne, je jeûne » » (Bukhari et Muslim). Le jeûne n'est pas seulement de l'estomac : il est aussi de la langue et du comportement.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0050",
+      "concept": "pil.jeune-regles.eau-gorge",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que fait le jeûneur dont l'eau a atteint la gorge par accident en se rinçant la bouche ?",
+      "choices": [
+        "Il continue de jeûner et rattrape ce jour plus tard",
+        "Rien : le jour compte",
+        "Il doit faire deux mois d'expiation",
+        "Il arrête de jeûner jusqu'à la fin du mois"
+      ],
+      "answer": 0,
+      "expl": "Chez les malikites, ce qui parvient à la gorge, même involontairement, oblige à rattraper le jour (qaḍāʾ), sans expiation. C'est pourquoi le Prophète ﷺ disait : « Exagère dans le rinçage du nez, sauf si tu jeûnes » (Abū Dāwūd).",
+      "src": [
+        "Abū Dāwūd et Tirmidhi"
+      ],
+      "note": "Pour d'autres écoles, ce qui est involontaire n'annule pas le jeûne."
+    },
+    {
+      "id": "pil-t2-0051",
+      "concept": "pil.jeune-regles.intention-mois",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, faut-il formuler l'intention de jeûner chaque nuit du Ramadan ?",
+      "choices": [
+        "On n'a besoin d'aucune intention",
+        "Non : une intention en début de mois suffit",
+        "Oui, obligatoirement chaque nuit, à voix haute",
+        "Oui, mais seulement après le repas du suḥūr"
+      ],
+      "answer": 1,
+      "expl": "Les malikites considèrent le Ramadan comme une seule adoration continue : une intention la première nuit couvre tout le mois. Si le jeûne est interrompu (voyage, maladie, règles), on renouvelle l'intention en reprenant. Les autres écoles demandent une intention chaque nuit.",
+      "note": "Chaféites, hanbalites et hanafites : une intention pour chaque jour."
+    },
+    {
+      "id": "pil-t2-0052",
+      "concept": "pil.jeune-regles.cigarette",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "vf",
+      "q": "Fumer une cigarette annule le jeûne.",
+      "answer": true,
+      "expl": "La fumée inhalée volontairement entre dans le corps : les savants s'accordent à dire que fumer annule le jeûne, et il faut rattraper le jour. Beaucoup de fumeurs profitent du Ramadan pour arrêter."
+    },
+    {
+      "id": "pil-t2-0053",
+      "concept": "pil.jeune-excuses.enceinte",
+      "domain": "piliers",
+      "sub": "jeune-excuses",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que fait la femme enceinte qui rompt le jeûne par crainte pour elle-même ou pour l'enfant ?",
+      "choices": [
+        "Elle rattrape et fait deux mois d'expiation",
+        "Elle ne peut jamais rompre",
+        "Elle rattrape les jours plus tard, sans compensation en nourriture",
+        "Elle nourrit seulement un pauvre par jour, sans rattraper"
+      ],
+      "answer": 2,
+      "expl": "Chez les malikites, la femme enceinte est assimilée à la malade : elle rattrape, sans fidya. La femme qui allaite, elle, rattrape et nourrit en plus un pauvre par jour. « Allah veut pour vous la facilité » (2:185).",
+      "src": [
+        "Coran 2:185"
+      ],
+      "note": "D'autres écoles demandent aussi la fidya à la femme enceinte qui craint pour l'enfant."
+    },
+    {
+      "id": "pil-t2-0054",
+      "concept": "pil.jeune-excuses.vieillard",
+      "domain": "piliers",
+      "sub": "jeune-excuses",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, que fait la personne âgée qui ne peut plus jeûner du tout ?",
+      "choices": [
+        "Elle doit jeûner quand même",
+        "Elle rattrape quand elle ira mieux",
+        "Elle fait deux mois d'expiation",
+        "Elle ne jeûne pas, et nourrit un pauvre"
+      ],
+      "answer": 3,
+      "expl": "Allah dit : « Pour ceux qui ne peuvent le supporter, une compensation : nourrir un pauvre » (2:184). Chez les malikites, cette fidya est recommandée pour le vieillard, et non obligatoire. Les autres écoles la rendent obligatoire.",
+      "src": [
+        "Coran 2:184"
+      ],
+      "note": "Autres écoles : fidya obligatoire."
+    },
+    {
+      "id": "pil-t2-0055",
+      "concept": "pil.jeune-volontaire.ashura",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith du jeûne du jour de ʿĀshūrāʾ (10 muḥarram) ?",
+      "choices": [
+        "Il efface les péchés de l'année passée",
+        "Il est obligatoire pour tous",
+        "Il remplace le jeûne de Ramadan",
+        "Il est interdit depuis Ramadan"
+      ],
+      "answer": 0,
+      "expl": "« Le jeûne du jour de ʿĀshūrāʾ, j'espère d'Allah qu'il efface l'année qui le précède » (Muslim). Le Prophète ﷺ voulut aussi jeûner le 9 pour se distinguer des juifs, qui jeûnaient le 10 en souvenir de Mūsā sauvé de Pharaon.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0056",
+      "concept": "pil.jeune-volontaire.shawwal",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit l'imam Mālik du jeûne de six jours du mois de shawwāl, après le Ramadan ?",
+      "choices": [
+        "Il n'en parlait jamais dans ses leçons",
+        "Il le déconseillait, de peur qu'on le croie obligatoire",
+        "Il le rendait obligatoire après chaque Ramadan",
+        "Il le plaçait avant le Ramadan, pendant le mois de Shaʿbān"
+      ],
+      "answer": 1,
+      "expl": "Le hadith dit : « Celui qui jeûne le Ramadan puis six jours de shawwāl, c'est comme s'il avait jeûné toute l'année » (Muslim). Mālik, ne voyant pas les savants de Médine le pratiquer, le déconseillait par prudence, pour qu'on ne l'ajoute pas au Ramadan. Beaucoup de malikites le jeûnent aujourd'hui, de façon espacée.",
+      "src": [
+        "Muslim ; Mālik, Muwaṭṭaʾ"
+      ],
+      "note": "Les autres écoles le recommandent."
+    },
+    {
+      "id": "pil-t2-0057",
+      "concept": "pil.jeune-volontaire.dawud",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le meilleur jeûne volontaire, selon le hadith ?",
+      "choices": [
+        "Jeûner seulement le vendredi",
+        "Jeûner un mois de plus par an",
+        "Celui de Dāwūd : un jour sur deux",
+        "Jeûner tous les jours de l'année"
+      ],
+      "answer": 2,
+      "expl": "« Le jeûne le plus aimé d'Allah est celui de Dāwūd : il jeûnait un jour et mangeait le lendemain » (Bukhari et Muslim). Jeûner toute l'année sans interruption a été déconseillé.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0058",
+      "concept": "pil.jeune-volontaire.aid-interdit",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 2,
+      "type": "vf",
+      "q": "Il est interdit de jeûner les jours de l'Aïd al-Fiṭr et de l'Aïd al-Aḍḥā.",
+      "answer": true,
+      "expl": "Abū Saʿīd rapporte que le Prophète ﷺ interdit le jeûne de deux jours : le jour de la rupture et le jour du sacrifice (Bukhari). Ce sont des jours de fête, de repas et de remerciement.",
+      "src": [
+        "Bukhari et Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "pil-t2-0059",
+      "concept": "pil.zakat-fitr.argent-maroc",
+      "domain": "piliers",
+      "sub": "zakat-fitr",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'avis classique malikite, sous quelle forme donne-t-on la zakāt al-fiṭr ?",
+      "choices": [
+        "Uniquement en or, pesé devant un témoin",
+        "Uniquement en vêtements neufs pour l'Aïd",
+        "Sous forme de prière supplémentaire",
+        "En nourriture de base ; au Maroc, aussi en argent"
+      ],
+      "answer": 3,
+      "expl": "Le hadith parle d'« un ṣāʿ de nourriture » (Bukhari). L'avis connu de l'école est de donner en nourriture de base. Au Maroc, le Conseil des oulémas permet aussi d'en verser la valeur en argent et en fixe le montant chaque année.",
+      "src": [
+        "Bukhari (hadith d'Ibn ʿUmar)"
+      ],
+      "note": "Les hanafites ont toujours accepté la valeur en argent."
+    },
+    {
+      "id": "pil-t2-0060",
+      "concept": "pil.zakat.commerce",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment calcule-t-on la zakāt sur des marchandises destinées à la vente (stock d'un commerce) ?",
+      "choices": [
+        "2,5 % de leur valeur, chaque année",
+        "10 % du chiffre d'affaires",
+        "20 % des bénéfices réalisés",
+        "Elle n'est jamais due sur un stock"
+      ],
+      "answer": 0,
+      "expl": "Les marchandises de commerce sont soumises à la zakāt comme l'argent : on estime leur valeur à la date anniversaire, on y ajoute ses liquidités, et on donne 2,5 % si le total dépasse le niṣāb."
+    },
+    {
+      "id": "pil-t2-0061",
+      "concept": "pil.zakat.pas-a-qui",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À qui ne peut-on pas donner sa propre zakāt ?",
+      "choices": [
+        "À un voyageur sans ressources",
+        "À ses parents et enfants, à sa charge",
+        "À un voisin pauvre de son quartier",
+        "À quelqu'un qui croule sous les dettes"
+      ],
+      "answer": 1,
+      "expl": "La zakāt ne peut pas aller à ceux qu'on doit déjà entretenir (parents dans le besoin, enfants), car ce serait se la verser à soi-même. On peut en revanche la donner à des proches plus éloignés dans le besoin, avec une double récompense."
+    },
+    {
+      "id": "pil-t2-0062",
+      "concept": "pil.zakat.maison-voiture",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 2,
+      "type": "vf",
+      "q": "La zakāt est due sur la maison où l'on habite et sur sa voiture personnelle.",
+      "answer": false,
+      "expl": "Les biens d'usage personnel (maison habitée, voiture, vêtements, meubles) ne sont pas soumis à la zakāt : « Le musulman ne doit pas de zakāt sur son esclave ni sur son cheval » (Bukhari), c'est-à-dire sur ce qu'il utilise. La zakāt porte sur les biens qui croissent ou s'épargnent.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0063",
+      "concept": "pil.sadaqa.meilleure",
+      "domain": "piliers",
+      "sub": "sadaqa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle aumône est la meilleure, selon le hadith ?",
+      "choices": [
+        "Celle qu'on donne en public, pour l'exemple",
+        "Celle qu'on donne une seule fois dans sa vie",
+        "Celle qu'on donne en bonne santé",
+        "Celle qu'on promet sur son lit de mort"
+      ],
+      "answer": 2,
+      "expl": "« L'aumône la meilleure est celle que tu donnes quand tu es en bonne santé, attaché à l'argent, craignant la pauvreté et espérant la richesse. Ne tarde pas jusqu'à ce que l'âme arrive à la gorge » (Bukhari et Muslim).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0064",
+      "concept": "pil.sadaqa.waqf",
+      "domain": "piliers",
+      "sub": "sadaqa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'un waqf (ḥabous au Maroc) ?",
+      "choices": [
+        "Un impôt annuel versé à l'État sur les terres",
+        "Une dette remboursée à un proche",
+        "Une prière collective du vendredi",
+        "Un bien dont les revenus vont au bien, pour toujours"
+      ],
+      "answer": 3,
+      "expl": "ʿUmar reçut une terre à Khaybar ; le Prophète ﷺ lui conseilla : « Immobilise-la, et donne ses fruits en aumône » (Bukhari). Mosquées, écoles, hôpitaux, fontaines : la civilisation musulmane s'est bâtie sur les waqfs. Au Maroc, ils sont gérés par le ministère des Habous.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0065",
+      "concept": "pil.hajj.jamarat",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que commémore la lapidation des stèles (jamarāt) à Minā pendant le pèlerinage ?",
+      "choices": [
+        "Ibrāhīm repoussant Satan",
+        "La victoire de la bataille de Badr",
+        "La construction de la Kaʿba",
+        "La naissance du Prophète ﷺ"
+      ],
+      "answer": 0,
+      "expl": "Selon la tradition rapportée par Ibn ʿAbbās, Satan apparut à Ibrāhīm à ces endroits et Ibrāhīm le repoussa à coups de pierres. Les pèlerins répètent ce geste : rejeter ce qui éloigne d'Allah. Le Prophète ﷺ disait : « Prenez de moi vos rites » (Muslim).",
+      "src": [
+        "Muslim ; al-Bayhaqī"
+      ]
+    },
+    {
+      "id": "pil-t2-0066",
+      "concept": "pil.hajj.wada",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, le ṭawāf d'adieu (al-wadāʿ), avant de quitter La Mecque, est :",
+      "choices": [
+        "Interdit",
+        "Recommandé",
+        "Un pilier",
+        "Obligatoire, compensé par un sacrifice"
+      ],
+      "answer": 1,
+      "expl": "Chez les malikites, le ṭawāf d'adieu est recommandé (mustaḥabb). Pour les autres écoles, il est obligatoire (wājib), et son oubli se compense par un sacrifice. Le Prophète ﷺ en dispensa la femme en règles (Bukhari).",
+      "src": [
+        "Bukhari"
+      ],
+      "note": "Hanafites, chaféites, hanbalites : obligatoire."
+    },
+    {
+      "id": "pil-t2-0067",
+      "concept": "pil.hajj.halq",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que font les pèlerins hommes à la fin des rites, pour sortir de l'iḥrām ?",
+      "choices": [
+        "Ils jeûnent trois jours de suite",
+        "Ils se teignent les cheveux au henné",
+        "Ils se rasent ou raccourcissent leurs cheveux",
+        "Ils changent de nom en rentrant"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ invoqua trois fois pour ceux qui se rasent la tête, et une fois pour ceux qui raccourcissent (Bukhari). Les femmes coupent seulement l'équivalent d'un bout de doigt. C'est le signe d'une renaissance.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0068",
+      "concept": "pil.hajj.zamzam",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de l'eau de Zamzam ?",
+      "choices": [
+        "Elle est interdite hors de La Mecque",
+        "On ne la boit qu'assis",
+        "Elle remplace les ablutions",
+        "Elle vaut pour ce pour quoi on la boit"
+      ],
+      "answer": 3,
+      "expl": "« L'eau de Zamzam vaut pour ce pour quoi on la boit » (Ibn Mājah) : on la boit avec une intention, en invoquant. Elle jaillit pour Hājar et le petit Ismāʿīl.",
+      "src": [
+        "Ibn Mājah (ḥasan)"
+      ]
+    },
+    {
+      "id": "pil-t2-0069",
+      "concept": "pil.hajj.lieux-rites",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque lieu du pèlerinage à son rite.",
+      "pairs": [
+        [
+          "ʿArafa",
+          "La station du 9 dhū l-ḥijja"
+        ],
+        [
+          "Muzdalifa",
+          "La nuit à la belle étoile"
+        ],
+        [
+          "Minā",
+          "La lapidation et le sacrifice"
+        ],
+        [
+          "Ṣafā et Marwa",
+          "Le saʿy, sept trajets"
+        ],
+        [
+          "La Kaʿba",
+          "Le ṭawāf, sept tours"
+        ]
+      ],
+      "expl": "Le pèlerinage est un voyage de lieu en lieu, chacun avec son rite, sur les traces d'Ibrāhīm, de Hājar et du Prophète ﷺ."
+    },
+    {
+      "id": "pil-t2-0070",
+      "concept": "pil.omra.ramadan",
+      "domain": "piliers",
+      "sub": "omra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que vaut une ʿumra accomplie pendant le Ramadan, selon le hadith ?",
+      "choices": [
+        "La récompense d'un pèlerinage",
+        "Rien de plus qu'une autre ʿumra",
+        "Elle remplace le pèlerinage obligatoire",
+        "Elle est déconseillée en Ramadan"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ dit à une femme qui avait manqué le pèlerinage : « Une ʿumra pendant le Ramadan équivaut à un pèlerinage » (Bukhari et Muslim). En récompense, mais elle ne remplace pas le ḥajj obligatoire.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0071",
+      "concept": "pil.omra.arafa",
+      "domain": "piliers",
+      "sub": "omra",
+      "tier": 2,
+      "type": "vf",
+      "q": "L'ʿumra ne comporte pas de station à ʿArafa.",
+      "answer": true,
+      "expl": "L'ʿumra se compose de l'iḥrām, du ṭawāf, du saʿy entre Ṣafā et Marwa, puis du rasage ou raccourcissement des cheveux. La station à ʿArafa, cœur du pèlerinage, lui est propre."
+    },
+    {
+      "id": "pil-t2-0072",
+      "concept": "pil.udhiya.age",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, quel âge minimum doit avoir le mouton du sacrifice de l'Aïd ?",
+      "choices": [
+        "Aucun âge minimum",
+        "Environ un an",
+        "Un mois",
+        "Trois ans"
+      ],
+      "answer": 1,
+      "expl": "Chez les malikites, le mouton doit avoir au moins un an lunaire accompli (jadhaʿ) ; la chèvre et les bovins doivent être plus âgés. L'animal doit aussi être sain, sans défaut visible.",
+      "note": "Les autres écoles acceptent un mouton de six mois s'il est bien développé."
+    },
+    {
+      "id": "pil-t2-0073",
+      "concept": "pil.udhiya.formule",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit-on en égorgeant le mouton de l'Aïd ?",
+      "choices": [
+        "« Astaghfiru llāh »",
+        "« Ṣadaqa Allāhu l-ʿaẓīm »",
+        "« Bismillāh, Allāhu akbar »",
+        "« Āmīn »"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ sacrifia deux béliers et dit : « Bismillāh, Allāhu akbar » (Bukhari et Muslim). Il est recommandé d'égorger soi-même si l'on sait le faire, sinon de mandater quelqu'un, en étant présent.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0074",
+      "concept": "pil.udhiya.douceur",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que demande la Sunna pour le sacrifice de l'animal ?",
+      "choices": [
+        "Le faire devant les autres moutons",
+        "Laisser l'animal sans eau la veille",
+        "Le faire le plus vite possible, sans préparation",
+        "Aiguiser la lame et épargner la bête"
+      ],
+      "answer": 3,
+      "expl": "« Allah a prescrit l'excellence en toute chose : quand vous égorgez, égorgez bien ; que chacun aiguise sa lame et épargne sa bête » (Muslim). On n'aiguise pas la lame devant l'animal et on ne l'égorge pas devant les autres.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0075",
+      "concept": "pil.hajj.fiche-jours",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Les jours du pèlerinage",
+      "points": [
+        "8 : Minā, la journée de préparation (tarwiya)",
+        "9 : ʿArafa, le cœur du pèlerinage, puis nuit à Muzdalifa",
+        "10 : lapidation, sacrifice, rasage, ṭawāf al-ifāḍa : c'est l'Aïd",
+        "11 à 13 : lapidation des trois stèles à Minā"
+      ],
+      "expl": "Le pèlerinage se concentre sur quelques jours de dhū l-ḥijja, sur les pas d'Ibrāhīm et du Prophète ﷺ, qui ne l'accomplit qu'une fois, en l'an 10."
+    },
+    {
+      "id": "pil-t2-0076",
+      "concept": "pil.ramadan.jibril-coran",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faisait Jibrīl avec le Prophète ﷺ chaque nuit du Ramadan ?",
+      "choices": [
+        "Il révisait avec lui le Coran",
+        "Il lui apprenait l'adhān",
+        "Il l'emmenait à Jérusalem",
+        "Il lui annonçait les batailles"
+      ],
+      "answer": 0,
+      "expl": "Ibn ʿAbbās rapporte que Jibrīl rencontrait le Prophète ﷺ chaque nuit du Ramadan pour réviser le Coran avec lui ; la dernière année, ils le révisèrent deux fois (Bukhari). D'où la tradition de lire tout le Coran pendant ce mois.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "pil-t2-0077",
+      "concept": "pil.ramadan.signes-qadr",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, quel signe accompagne le matin qui suit la Nuit du destin ?",
+      "choices": [
+        "La lune reste visible toute la journée",
+        "Le soleil se lève clair, sans rayons éclatants",
+        "Une pluie d'étoiles",
+        "Un tremblement de terre"
+      ],
+      "answer": 1,
+      "expl": "Ubayy ibn Kaʿb rapporte que le soleil se lève, au matin de cette nuit, « blanc, sans rayons » (Muslim). Mais l'essentiel n'est pas de la reconnaître : c'est de veiller les dix dernières nuits pour ne pas la manquer.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0078",
+      "concept": "pil.jeune-regles.siwak",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Peut-on utiliser le siwāk ou une brosse à dents sans dentifrice en jeûnant ?",
+      "choices": [
+        "Seulement après le maghrib",
+        "Seulement le vendredi",
+        "Oui, c'est permis",
+        "Non, cela annule le jeûne"
+      ],
+      "answer": 2,
+      "expl": "Le siwāk est permis pendant le jeûne : le Prophète ﷺ l'utilisait en jeûnant. Les malikites déconseillent seulement un siwāk frais et humide dont le goût pourrait passer, et le dentifrice, par précaution.",
+      "note": "Malikites : déconseillé avec un siwāk humide ou du dentifrice."
+    },
+    {
+      "id": "pil-t2-0079",
+      "concept": "pil.jeune-excuses.regles-avant-maghrib",
+      "domain": "piliers",
+      "sub": "jeune-excuses",
+      "tier": 2,
+      "type": "vf",
+      "q": "Si les règles d'une femme commencent juste avant le coucher du soleil, elle doit rattraper ce jour de jeûne.",
+      "answer": true,
+      "expl": "Le jeûne d'une journée n'est valable que s'il va jusqu'au maghrib. Si les règles commencent avant, même de peu, le jour est à rattraper. Elle est récompensée pour son intention et son effort."
+    },
+    {
+      "id": "pil-t2-0080",
+      "concept": "pil.sadaqa.rappeler",
+      "domain": "piliers",
+      "sub": "sadaqa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qui annule la récompense d'une aumône, selon le Coran ?",
+      "choices": [
+        "La donner en secret, sans témoin",
+        "La donner à un proche de la famille",
+        "La donner en petite quantité seulement",
+        "La rappeler au bénéficiaire, le blesser"
+      ],
+      "answer": 3,
+      "expl": "« Ô vous qui croyez ! N'annulez pas vos aumônes par un rappel ou un tort » (2:264). Donner puis faire sentir à l'autre qu'il nous doit quelque chose efface le bien. « Une parole aimable et un pardon valent mieux qu'une aumône suivie d'un tort » (2:263).",
+      "src": [
+        "Coran 2:263-264"
+      ]
+    },
+    {
+      "id": "pil-t2-0081",
+      "concept": "pil.sadaqa.non-musulman",
+      "domain": "piliers",
+      "sub": "sadaqa",
+      "tier": 2,
+      "type": "vf",
+      "q": "On peut donner une aumône volontaire (ṣadaqa) à une personne non musulmane dans le besoin.",
+      "answer": true,
+      "expl": "L'aumône volontaire peut aller à tout être dans le besoin, musulman ou non : « Ils nourrissent, pour l'amour d'Allah, le pauvre, l'orphelin et le captif » (76:8), et les captifs de Médine n'étaient pas musulmans. La zakāt obligatoire, elle, a ses bénéficiaires précis.",
+      "src": [
+        "Coran 76:8"
+      ]
+    },
+    {
+      "id": "pil-t2-0082",
+      "concept": "pil.hajj.femme-ihram",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith sur la tenue de la femme en état d'iḥrām ?",
+      "choices": [
+        "Ni niqāb ni gants, mais des habits couvrants",
+        "Deux pièces de tissu blanc, comme les hommes",
+        "Elle doit se couvrir entièrement le visage",
+        "Elle s'habille en noir, obligatoirement"
+      ],
+      "answer": 0,
+      "expl": "« La femme en iḥrām ne porte pas de niqāb ni de gants » (Bukhari). Contrairement aux hommes, elle garde ses habits ordinaires, couvrants, de la couleur qu'elle veut. Son iḥrām est dans son visage et ses mains découverts.",
+      "src": [
+        "Bukhari (hadith d'Ibn ʿUmar)"
+      ]
+    },
+    {
+      "id": "pil-t2-0083",
+      "concept": "pil.hajj.tawaf-sens",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment fait-on le ṭawāf autour de la Kaʿba ?",
+      "choices": [
+        "En restant immobile face à la Kaʿba",
+        "En partant de la Pierre noire, la Kaʿba à sa gauche, sept tours",
+        "En partant de la porte, la Kaʿba à sa droite, trois tours",
+        "En courant sept tours dans n'importe quel sens"
+      ],
+      "answer": 1,
+      "expl": "On commence à l'angle de la Pierre noire, on garde la Kaʿba à sa gauche (sens inverse des aiguilles d'une montre), et l'on fait sept tours en invoquant. On termine par deux unités de prière derrière la Station d'Ibrāhīm."
+    },
+    {
+      "id": "pil-t2-0084",
+      "concept": "pil.hajj.raml",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce que le « raml » dans les trois premiers tours du ṭawāf d'arrivée ?",
+      "choices": [
+        "Réciter la sourate al-Baqara en marchant",
+        "Tourner sur soi-même à chaque angle",
+        "Marcher à pas rapides et rapprochés",
+        "Faire le ṭawāf à genoux, par humilité"
+      ],
+      "answer": 2,
+      "expl": "Lors de l'ʿumra de l'an 7, les Mecquois disaient que les musulmans avaient été affaiblis par la fièvre de Médine. Le Prophète ﷺ leur ordonna de presser le pas les trois premiers tours pour montrer leur vigueur (Bukhari). Le geste est resté une sunna pour les hommes.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0085",
+      "concept": "pil.hajj.hady",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quand le pèlerin doit-il offrir un sacrifice (hady) ?",
+      "choices": [
+        "Jamais : le hady n'existe plus",
+        "Seulement s'il est riche, sans condition",
+        "Avant de quitter son pays, au départ",
+        "Quand il combine ʿumra et pèlerinage"
+      ],
+      "answer": 3,
+      "expl": "« Celui qui profite de l'ʿumra jusqu'au pèlerinage doit offrir le sacrifice qui lui est facile ; s'il n'en trouve pas, qu'il jeûne trois jours pendant le pèlerinage et sept à son retour » (2:196). Celui qui fait le pèlerinage seul (ifrād) n'y est pas tenu.",
+      "src": [
+        "Coran 2:196"
+      ]
+    },
+    {
+      "id": "pil-t2-0086",
+      "concept": "pil.udhiya.jours",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon l'école malikite, pendant combien de jours peut-on sacrifier le mouton de l'Aïd ?",
+      "choices": [
+        "Le jour de l'Aïd et les deux suivants",
+        "Un seul jour, celui de l'Aïd",
+        "Une semaine entière après l'Aïd",
+        "Tout le mois de dhū l-ḥijja"
+      ],
+      "answer": 0,
+      "expl": "Chez les malikites, le sacrifice se fait du 10 au 12 dhū l-ḥijja, après la prière de l'Aïd, et de jour de préférence. Le premier jour est le meilleur. Les chaféites ajoutent un quatrième jour.",
+      "note": "Chaféites : jusqu'au 13."
+    },
+    {
+      "id": "pil-t2-0087",
+      "concept": "pil.sadaqa.defunt",
+      "domain": "piliers",
+      "sub": "sadaqa",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Une aumône faite au nom d'un parent décédé lui profite-t-elle ?",
+      "choices": [
+        "Non, jamais",
+        "Seulement si elle était musulmane depuis l'enfance",
+        "Seulement pendant le Ramadan",
+        "Oui : le Prophète ﷺ l'a confirmé à Saʿd pour sa mère"
+      ],
+      "answer": 3,
+      "expl": "Saʿd ibn ʿUbāda demanda si une aumône profiterait à sa mère défunte. « Oui. » Il fit creuser un puits en son nom (Abū Dāwūd ; Bukhari pour le principe). L'aumône, l'invocation et le pèlerinage par procuration parviennent au défunt.",
+      "src": [
+        "Bukhari ; Abū Dāwūd"
+      ]
+    },
+    {
+      "id": "pil-t2-0088",
+      "concept": "pil.omra.repeter",
+      "domain": "piliers",
+      "sub": "omra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de l'ʿumra accomplie plusieurs fois ?",
+      "choices": [
+        "Elle expie ce qui est entre deux ʿumra",
+        "On ne peut la faire qu'une seule fois",
+        "Elle est interdite en dehors de Ramadan",
+        "Elle remplace les prières manquées"
+      ],
+      "answer": 0,
+      "expl": "« D'une ʿumra à l'autre, c'est une expiation pour ce qui est entre elles ; et le pèlerinage accepté n'a pas d'autre récompense que le Paradis » (Bukhari et Muslim).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0089",
+      "concept": "pil.udhiya.peau",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que peut-on faire de la peau du mouton sacrifié ?",
+      "choices": [
+        "La jeter, obligatoirement",
+        "La garder ou la donner, sans la vendre",
+        "La vendre pour se rembourser un peu",
+        "La donner au boucher comme salaire"
+      ],
+      "answer": 1,
+      "expl": "ʿAlī rapporte que le Prophète ﷺ le chargea de distribuer la viande, les peaux et les couvertures des bêtes, sans rien en donner au boucher comme salaire (Bukhari et Muslim). Le sacrifice est entièrement pour Allah : on ne le transforme pas en commerce.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "pil-t2-0090",
+      "concept": "pil.ramadan.qadr-maroc",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle nuit célèbre-t-on au Maroc comme Laylat al-Qadr ?",
+      "choices": [
+        "La 15e nuit du Ramadan",
+        "La dernière nuit du mois",
+        "La 27e nuit du Ramadan",
+        "La toute première nuit"
+      ],
+      "answer": 2,
+      "expl": "Au Maroc, la nuit du 27 est vécue avec une ferveur particulière : mosquées pleines, khatm du Coran, enfants habillés en tenues traditionnelles. Le hadith demande de la chercher dans les nuits impaires des dix dernières ; la 27e est l'avis de plusieurs Compagnons, dont Ubayy ibn Kaʿb (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    }
+  ]
+}

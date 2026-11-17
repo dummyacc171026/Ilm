@@ -1,0 +1,1672 @@
+{
+  "pack": "figures-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "fig-t2-0001",
+      "concept": "fig.califes.abu-bakr-discours",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit Abū Bakr dans son premier discours de calife ?",
+      "choices": [
+        "« Obéissez-moi en tout, sans discuter »",
+        "« Obéissez-moi tant que j'obéis à Allah »",
+        "« Je suis le successeur choisi par le ciel »",
+        "« Je gouvernerai seul, sans conseil »"
+      ],
+      "answer": 1,
+      "expl": "Il ajouta : « Si je fais bien, aidez-moi ; si je fais mal, redressez-moi. Le faible parmi vous est fort à mes yeux jusqu'à ce que je lui rende son droit. » Une conception du pouvoir comme responsabilité, non comme privilège."
+    },
+    {
+      "id": "fig-t2-0002",
+      "concept": "fig.califes.abu-bakr-tabuk",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'offrit Abū Bakr pour l'équipement de l'armée de Tabūk ?",
+      "choices": [
+        "Un seul chameau",
+        "Rien, il était pauvre",
+        "Tous ses biens",
+        "La moitié de ses biens"
+      ],
+      "answer": 2,
+      "expl": "ʿUmar apporta la moitié de ses biens, pensant enfin dépasser Abū Bakr. Celui-ci apporta tout. Le Prophète ﷺ lui demanda ce qu'il avait laissé à sa famille : « Je leur ai laissé Allah et Son messager. » ʿUmar dit : « Je ne le dépasserai jamais. »",
+      "src": [
+        "Hadith de ʿUmar ibn al-Khaṭṭāb — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "fig-t2-0003",
+      "concept": "fig.califes.umar-realisations",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 2,
+      "type": "multi",
+      "q": "Lesquelles sont des réalisations attribuées au califat de ʿUmar ?",
+      "choices": [
+        "La création de registres (dīwān) et de pensions",
+        "La fondation de villes comme Kūfa et Baṣra",
+        "La construction du Dôme du Rocher",
+        "L'instauration du calendrier de l'Hégire",
+        "La fondation de Bagdad"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "ʿUmar organisa l'État naissant : registres de l'armée et des pensions, gouverneurs contrôlés, villes-garnisons, calendrier. Le Dôme du Rocher date des Omeyyades, Bagdad des Abbassides."
+    },
+    {
+      "id": "fig-t2-0004",
+      "concept": "fig.califes.umar-nuit",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quoi ʿUmar est-il resté célèbre dans les récits de son califat ?",
+      "choices": [
+        "Ses palais magnifiques construits à Damas",
+        "Ses longs voyages en Inde",
+        "Ses poèmes récités à la cour",
+        "Ses rondes de nuit pour connaître les besoins"
+      ],
+      "answer": 3,
+      "expl": "Les récits le montrent parcourant Médine la nuit, découvrant une mère qui faisait bouillir de l'eau pour calmer ses enfants affamés, et portant lui-même un sac de farine sur son dos. Il disait craindre d'être interrogé même sur une mule trébuchant en Irak."
+    },
+    {
+      "id": "fig-t2-0005",
+      "concept": "fig.califes.umar-succession",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment ʿUmar organisa-t-il sa succession avant de mourir ?",
+      "choices": [
+        "Un conseil de six Compagnons",
+        "Il désigna son fils",
+        "Il tira au sort",
+        "Il laissa l'armée choisir"
+      ],
+      "answer": 0,
+      "expl": "Mortellement blessé, ʿUmar désigna six Compagnons parmi les dix promis au Paradis pour choisir l'un d'eux. ʿAbd ar-Raḥmān ibn ʿAwf consulta les gens, et le choix se porta sur ʿUthmān. ʿUmar exclut expressément son propre fils.",
+      "src": [
+        "Hadith d'ʿAmr ibn Maymūn — Bukhari"
+      ]
+    },
+    {
+      "id": "fig-t2-0006",
+      "concept": "fig.califes.uthman-flotte",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle première musulmane date du califat de ʿUthmān ?",
+      "choices": [
+        "La conquête de l'Andalousie",
+        "La création d'une flotte navale",
+        "L'invention de la boussole",
+        "La fondation d'al-Azhar"
+      ],
+      "answer": 1,
+      "expl": "Sous ʿUthmān, le gouverneur de Syrie Muʿāwiya constitua une flotte qui remporta la bataille navale de Dhāt aṣ-Ṣawārī (vers 655) contre les Byzantins. Umm Ḥarām avait participé à une première expédition en mer, comme l'avait annoncé le Prophète ﷺ."
+    },
+    {
+      "id": "fig-t2-0007",
+      "concept": "fig.califes.uthman-mort",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment ʿUthmān mourut-il, en 656 ?",
+      "choices": [
+        "Mort de vieillesse à La Mecque",
+        "Tué au combat contre les Perses",
+        "Assassiné chez lui en lisant le Coran",
+        "Mort de la peste en Syrie"
+      ],
+      "answer": 2,
+      "expl": "Assiégé dans sa maison par des insurgés, ʿUthmān refusa que ses partisans versent le sang pour le défendre. Il fut tué en lisant le Coran ; selon les récits, son sang coula sur le verset « Allah te suffira contre eux » (2:137). Ce fut le début de grandes épreuves (fitna)."
+    },
+    {
+      "id": "fig-t2-0008",
+      "concept": "fig.califes.ali-mort",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment ʿAlī mourut-il, en 661 ?",
+      "choices": [
+        "Mort de maladie dans son lit à Médine",
+        "Tué lors de la bataille de Ṣiffīn",
+        "Empoisonné par un serviteur à Damas",
+        "Frappé par un khārijite, allant prier"
+      ],
+      "answer": 3,
+      "expl": "ʿAbd ar-Raḥmān ibn Muljam, du groupe des Khawārij qui rejetaient ʿAlī comme Muʿāwiya, le frappa d'un sabre empoisonné à la mosquée de Kūfa. ʿAlī demanda qu'on ne punisse que son meurtrier, sans excès. Son califat fut marqué par des conflits douloureux entre musulmans."
+    },
+    {
+      "id": "fig-t2-0009",
+      "concept": "fig.ahl-al-bayt.karbala",
+      "domain": "figures",
+      "sub": "ahl-al-bayt",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que s'est-il passé à Karbalāʾ, le 10 Muḥarram 61 (680) ?",
+      "choices": [
+        "Al-Ḥusayn y fut tué avec une partie de sa famille",
+        "Les musulmans y vainquirent l'armée perse",
+        "Le Coran y fut compilé pour la première fois",
+        "Les Omeyyades y perdirent leur califat"
+      ],
+      "answer": 0,
+      "expl": "Al-Ḥusayn, refusant de prêter allégeance à Yazīd, partit vers Kūfa et fut encerclé à Karbalāʾ, en Irak. Il y fut tué avec la plupart des hommes de sa famille. Tous les musulmans le pleurent comme un martyr ; les chiites commémorent ce jour par un grand deuil."
+    },
+    {
+      "id": "fig-t2-0010",
+      "concept": "fig.ahl-al-bayt.zaynab",
+      "domain": "figures",
+      "sub": "ahl-al-bayt",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel rôle joua Zaynab, fille de ʿAlī et Fāṭima, après Karbalāʾ ?",
+      "choices": [
+        "Elle se retira dans le silence, loin de tous",
+        "Elle protégea les survivants et dénonça le crime",
+        "Elle devint calife à la place de son frère",
+        "Elle partit vivre en Abyssinie"
+      ],
+      "answer": 1,
+      "expl": "Captive avec les femmes et les enfants survivants, dont son neveu ʿAlī Zayn al-ʿĀbidīn, Zaynab tint tête au gouverneur de Kūfa puis à Yazīd à Damas, par des discours restés célèbres. Elle est vénérée pour sa patience et son courage."
+    },
+    {
+      "id": "fig-t2-0011",
+      "concept": "fig.ahl-al-bayt.ali-zayn",
+      "domain": "figures",
+      "sub": "ahl-al-bayt",
+      "tier": 2,
+      "type": "vf",
+      "q": "Les descendants du Prophète ﷺ par al-Ḥusayn sont passés par son fils ʿAlī Zayn al-ʿĀbidīn, survivant de Karbalāʾ.",
+      "answer": true,
+      "expl": "Malade, ʿAlī ibn al-Ḥusayn n'avait pas combattu et survécut. Connu pour sa piété (on l'appela « l'ornement des adorateurs »), il est l'ancêtre de toute la descendance husaynide. Les chorfa idrissides et alaouites, eux, descendent d'al-Ḥasan."
+    },
+    {
+      "id": "fig-t2-0012",
+      "concept": "fig.compagnons.khalid",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Après quelle bataille le Prophète ﷺ appela-t-il Khālid ibn al-Walīd « un sabre parmi les sabres d'Allah » ?",
+      "choices": [
+        "Badr",
+        "Uḥud",
+        "Muʾta",
+        "La Tranchée"
+      ],
+      "answer": 2,
+      "expl": "À Muʾta (629), face à une armée byzantine bien plus nombreuse, les trois chefs désignés tombèrent l'un après l'autre. Khālid prit le commandement et ramena l'armée saine et sauve. Le Prophète ﷺ annonça alors à Médine : « Puis l'étendard fut pris par un sabre parmi les sabres d'Allah. »",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "fig-t2-0013",
+      "concept": "fig.compagnons.amr",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel Compagnon mena la conquête de l'Égypte et y fonda la ville de Fusṭāṭ ?",
+      "choices": [
+        "Khālid ibn al-Walīd",
+        "Abū ʿUbayda",
+        "Muʿādh ibn Jabal",
+        "ʿAmr ibn al-ʿĀṣ"
+      ],
+      "answer": 3,
+      "expl": "ʿAmr ibn al-ʿĀṣ, fin politique, conquit l'Égypte vers 640-642 sous ʿUmar et fonda Fusṭāṭ, noyau du futur Caire. Sa mosquée y est l'une des plus anciennes d'Afrique."
+    },
+    {
+      "id": "fig-t2-0014",
+      "concept": "fig.compagnons.saad",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quoi Saʿd ibn Abī Waqqāṣ est-il célèbre ?",
+      "choices": [
+        "Vainqueur d'al-Qādisiyya, premier archer de l'islam",
+        "Le premier muezzin de la mosquée de Médine",
+        "Le scribe principal de la révélation coranique",
+        "Le gouverneur de l'Égypte conquise"
+      ],
+      "answer": 0,
+      "expl": "Saʿd, l'un des dix promis au Paradis, était un archer d'exception ; à Uḥud, le Prophète ﷺ lui dit : « Tire, que mon père et ma mère soient ta rançon. » Il commanda l'armée à al-Qādisiyya (636) et fonda Kūfa.",
+      "src": [
+        "Hadith de ʿAlī ibn Abī Ṭālib — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0015",
+      "concept": "fig.compagnons.abu-ubayda",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel titre le Prophète ﷺ donna-t-il à Abū ʿUbayda ibn al-Jarrāḥ ?",
+      "choices": [
+        "« Le lion d'Allah et de Son messager »",
+        "« L'homme de confiance de cette communauté »",
+        "« Le sabre d'Allah dégainé »",
+        "« Le savant de cette communauté »"
+      ],
+      "answer": 1,
+      "expl": "« Chaque communauté a son homme de confiance, et l'homme de confiance de cette communauté est Abū ʿUbayda ibn al-Jarrāḥ. » Gouverneur de Syrie, il mourut de la peste d'ʿAmwās en 639, refusant de quitter ses hommes.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0016",
+      "concept": "fig.compagnons.talha",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'arriva-t-il à la main de Ṭalḥa ibn ʿUbayd Allāh à Uḥud ?",
+      "choices": [
+        "Elle fut coupée lors d'un duel",
+        "Elle fut guérie par un miracle",
+        "Elle resta paralysée en protégeant le Prophète ﷺ",
+        "Il la perdit dans un accident de cheval"
+      ],
+      "answer": 2,
+      "expl": "Qays ibn Abī Ḥāzim rapporte avoir vu la main de Ṭalḥa paralysée : il avait protégé le Prophète ﷺ de ses mains le jour d'Uḥud. Le Prophète ﷺ dit qu'il avait mérité le Paradis ce jour-là.",
+      "src": [
+        "Hadith de Qays ibn Abī Ḥāzim — Bukhari"
+      ]
+    },
+    {
+      "id": "fig-t2-0017",
+      "concept": "fig.compagnons.zubayr",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel Compagnon le Prophète ﷺ appela-t-il son « ḥawārī » (son apôtre, son fidèle soutien) ?",
+      "choices": [
+        "Ṭalḥa ibn ʿUbayd Allāh",
+        "Abū ʿUbayda",
+        "Saʿd ibn Abī Waqqāṣ",
+        "Az-Zubayr ibn al-ʿAwwām"
+      ],
+      "answer": 3,
+      "expl": "« Chaque prophète a un ḥawārī, et mon ḥawārī est az-Zubayr. » Cousin du Prophète ﷺ par sa mère Ṣafiyya, il embrassa l'islam très jeune. Il fait partie des dix promis au Paradis.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0018",
+      "concept": "fig.compagnons.jafar",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi Jaʿfar ibn Abī Ṭālib est-il appelé « aṭ-Ṭayyār » (celui qui vole) ?",
+      "choices": [
+        "Allah lui donna deux ailes, à la place de ses bras",
+        "Il courait plus vite que tous les chevaux",
+        "Il voyageait sans cesse d'un pays à l'autre",
+        "Il savait dresser les faucons de chasse"
+      ],
+      "answer": 0,
+      "expl": "À Muʾta, Jaʿfar porta l'étendard jusqu'à perdre ses deux bras, puis tomba. Ibn ʿUmar saluait son fils : « Paix sur toi, fils de l'homme aux deux ailes. » C'est aussi lui qui avait parlé au Najāshī en Abyssinie.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari"
+      ]
+    },
+    {
+      "id": "fig-t2-0019",
+      "concept": "fig.compagnons.hassan",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Ḥassān ibn Thābit ?",
+      "choices": [
+        "Le muezzin de Médine",
+        "Le poète du Prophète ﷺ",
+        "Le gardien de la Kaʿba",
+        "Le premier calife omeyyade"
+      ],
+      "answer": 1,
+      "expl": "Ḥassān répondait en vers aux poètes de Quraysh qui attaquaient l'islam. Le Prophète ﷺ lui faisait installer un minbar dans la mosquée et disait : « Ô Allah, soutiens-le par l'Esprit saint (Jibrīl). »",
+      "src": [
+        "Hadith d'al-Barāʾ ibn ʿĀzib — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0020",
+      "concept": "fig.compagnons.ammar",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'annonça le Prophète ﷺ à propos de ʿAmmār ibn Yāsir ?",
+      "choices": [
+        "Qu'il deviendrait calife après ʿAlī",
+        "Qu'il vivrait cent ans",
+        "Qu'il serait tué par le groupe rebelle",
+        "Qu'il conquerrait la Perse"
+      ],
+      "answer": 2,
+      "expl": "Pendant la construction de la mosquée, le Prophète ﷺ dit à ʿAmmār : « Le groupe rebelle te tuera. » ʿAmmār, fils de Sumayya et Yāsir, fut tué à Ṣiffīn (657) dans le camp de ʿAlī. Ce hadith a beaucoup compté dans la lecture de ces événements.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0021",
+      "concept": "fig.compagnons.musab",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui fut envoyé comme premier « ambassadeur » de l'islam à Médine, avant l'Hégire ?",
+      "choices": [
+        "Abū Bakr",
+        "Bilāl ibn Rabāḥ",
+        "Zayd ibn Ḥāritha",
+        "Muṣʿab ibn ʿUmayr"
+      ],
+      "answer": 3,
+      "expl": "Muṣʿab, jeune Mecquois élégant et choyé, avait tout quitté pour l'islam. Envoyé à Yathrib après le premier serment d'ʿAqaba, il y fit entrer de nombreuses familles dans l'islam. Il tomba à Uḥud, si pauvre que son linceul ne couvrait pas tout son corps.",
+      "src": [
+        "Hadith de Khabbāb ibn al-Aratt — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0022",
+      "concept": "fig.compagnonnes.umm-sulaym",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle dot Umm Sulaym demanda-t-elle à Abū Ṭalḥa pour l'épouser ?",
+      "choices": [
+        "Son entrée dans l'islam",
+        "Cent chameaux",
+        "Une maison à Médine",
+        "Un jardin de palmiers"
+      ],
+      "answer": 0,
+      "expl": "Umm Sulaym, mère d'Anas, répondit à la demande d'Abū Ṭalḥa, alors polythéiste : « Si tu embrasses l'islam, ce sera ma dot, je ne te demande rien d'autre. » On disait qu'aucune dot ne fut plus noble que la sienne.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Nasai"
+      ]
+    },
+    {
+      "id": "fig-t2-0023",
+      "concept": "fig.compagnonnes.khawla",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle Compagnonne fut à l'origine de la révélation du début de la sourate al-Mujādila (« Celle qui discute ») ?",
+      "choices": [
+        "ʿĀʾisha bint Abī Bakr",
+        "Khawla bint Thaʿlaba",
+        "Umm Salama",
+        "Asmāʾ bint ʿUmays"
+      ],
+      "answer": 1,
+      "expl": "« Allah a bien entendu la parole de celle qui discutait avec toi au sujet de son époux et se plaignait à Allah. » Khawla contesta une pratique d'avant l'islam (le ẓihār) qui la laissait ni mariée ni libre. Le Coran lui donna raison et abolit cette injustice.",
+      "src": [
+        "Coran 58:1"
+      ],
+      "tags": [
+        "sourate:58"
+      ]
+    },
+    {
+      "id": "fig-t2-0024",
+      "concept": "fig.compagnonnes.rufayda",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quoi Rufayda al-Aslamiyya est-elle connue ?",
+      "choices": [
+        "Une école pour les filles",
+        "Un marché pour les pauvres",
+        "Une tente pour soigner les blessés",
+        "Une bibliothèque à la mosquée"
+      ],
+      "answer": 2,
+      "expl": "Selon les récits de la Sīra, Rufayda soignait les blessés dans sa tente, notamment après la bataille de la Tranchée, où le Prophète ﷺ fit installer Saʿd ibn Muʿādh blessé. Elle formait aussi d'autres femmes aux soins."
+    },
+    {
+      "id": "fig-t2-0025",
+      "concept": "fig.compagnonnes.umm-haram",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'avait annoncé le Prophète ﷺ à Umm Ḥarām bint Milḥān ?",
+      "choices": [
+        "Qu'elle deviendrait reine d'un pays lointain",
+        "Qu'elle vivrait jusqu'à cent ans",
+        "Qu'elle épouserait un calife",
+        "Qu'elle combattrait parmi les premiers en mer"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ se réveilla en souriant chez elle et lui annonça des gens de sa communauté naviguant sur la mer « comme des rois sur leurs trônes ». Elle demanda d'en faire partie. Sous ʿUthmān, elle participa à l'expédition vers Chypre, où elle mourut ; sa tombe y est encore visitée.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0026",
+      "concept": "fig.imams.abu-hanifa",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel métier exerçait l'imam Abū Ḥanīfa, et quelle charge refusa-t-il ?",
+      "choices": [
+        "Marchand de soie ; il refusa d'être juge",
+        "Forgeron ; il refusa d'être gouverneur",
+        "Berger ; il refusa d'être imam",
+        "Médecin ; il refusa d'être ministre"
+      ],
+      "answer": 0,
+      "expl": "Abū Ḥanīfa (699-767), de Kūfa, vivait du commerce de la soie, connu pour son honnêteté. Il refusa de devenir juge sous les Omeyyades puis les Abbassides, et mourut en prison selon de nombreux récits. Ses élèves Abū Yūsuf et Muḥammad ash-Shaybānī diffusèrent son école."
+    },
+    {
+      "id": "fig-t2-0027",
+      "concept": "fig.imams.malik-la-adri",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle réponse l'imam Mālik donnait-il souvent, même à de nombreuses questions venues de loin ?",
+      "choices": [
+        "« Revenez demain »",
+        "« Je ne sais pas »",
+        "« Demandez à mon élève »",
+        "« C'est interdit »"
+      ],
+      "answer": 1,
+      "expl": "On rapporte qu'un homme venu de loin lui posa quarante-huit questions, et qu'il répondit « je ne sais pas » à la plupart. L'homme s'étonna ; Mālik dit : « Va dire aux gens que Mālik ne sait pas. » Dire « je ne sais pas » est une moitié de la science, disaient les anciens."
+    },
+    {
+      "id": "fig-t2-0028",
+      "concept": "fig.imams.malik-medine",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle règle de vie l'imam Mālik observait-il par respect pour Médine, selon les récits ?",
+      "choices": [
+        "Il ne parlait jamais en public",
+        "Il jeûnait chaque jour de l'année",
+        "Il ne montait pas de monture à Médine",
+        "Il ne quittait jamais sa maison"
+      ],
+      "answer": 2,
+      "expl": "On rapporte qu'il refusait de monter à cheval dans Médine en disant : « Je n'aime pas fouler de sabots une terre où repose le Messager d'Allah. » Il ne quitta jamais la ville, sauf pour le pèlerinage."
+    },
+    {
+      "id": "fig-t2-0029",
+      "concept": "fig.imams.shafii-risala",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel livre de l'imam ash-Shāfiʿī est considéré comme le premier traité de méthodologie du fiqh (uṣūl al-fiqh) ?",
+      "choices": [
+        "Al-Muwaṭṭaʾ",
+        "Le Musnad",
+        "Iḥyāʾ ʿulūm ad-dīn",
+        "Ar-Risāla"
+      ],
+      "answer": 3,
+      "expl": "Dans ar-Risāla, ash-Shāfiʿī (767-820) expose comment tirer les règles des sources : Coran, Sunna, consensus, analogie. Né à Gaza, élève de Mālik, il vécut en Irak puis en Égypte, où il révisa une partie de ses avis (son « nouveau » madhhab)."
+    },
+    {
+      "id": "fig-t2-0030",
+      "concept": "fig.imams.ahmad-mihna",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi l'imam Aḥmad ibn Ḥanbal fut-il emprisonné et fouetté sous les Abbassides ?",
+      "choices": [
+        "Il refusa de dire le Coran créé",
+        "Il avait critiqué le calife en public",
+        "Il avait refusé de payer l'impôt",
+        "Il avait soutenu une révolte armée"
+      ],
+      "answer": 0,
+      "expl": "Les califes al-Maʾmūn puis al-Muʿtaṣim imposèrent la doctrine muʿtazilite du Coran créé. Aḥmad refusa, fut emprisonné et fouetté. Sa fermeté en fit un héros des gens de la Sunna. Il compila le Musnad, immense recueil de près de trente mille hadiths."
+    },
+    {
+      "id": "fig-t2-0031",
+      "concept": "fig.savants.ibn-rushd",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Ibn Rushd (Averroès) ?",
+      "choices": [
+        "Médecin persan auteur du Canon",
+        "Philosophe et juge malikite de Cordoue",
+        "Voyageur marocain de Tanger",
+        "Mathématicien de Bagdad"
+      ],
+      "answer": 1,
+      "expl": "Ibn Rushd (1126-1198) fut juge à Séville et Cordoue, médecin du calife almohade, auteur d'un grand livre de fiqh comparé (Bidāyat al-mujtahid) et de commentaires d'Aristote qui marquèrent l'Europe médiévale. Il mourut à Marrakech."
+    },
+    {
+      "id": "fig-t2-0032",
+      "concept": "fig.savants.ibn-khaldun",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quel ouvrage Ibn Khaldūn est-il célèbre ?",
+      "choices": [
+        "Le Canon de la médecine",
+        "Les Mille et Une Nuits",
+        "La Muqaddima",
+        "Ar-Riḥla"
+      ],
+      "answer": 2,
+      "expl": "Ibn Khaldūn (1332-1406), né à Tunis, passé par Fès et Grenade, mort au Caire, analysa dans la Muqaddima la naissance et le déclin des États, notamment par la ʿaṣabiyya (solidarité de groupe). Il est considéré comme un pionnier de la sociologie et de l'histoire scientifique."
+    },
+    {
+      "id": "fig-t2-0033",
+      "concept": "fig.savants.ibn-taymiyya",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Ibn Taymiyya ?",
+      "choices": [
+        "Un calife omeyyade de Cordoue, poète",
+        "Un poète soufi de Konya",
+        "Un géographe de Ceuta",
+        "Un savant hanbalite de Damas, très discuté"
+      ],
+      "answer": 3,
+      "expl": "Ibn Taymiyya fut un savant prolifique, connu pour sa résistance aux Mongols et ses nombreux écrits. Plusieurs de ses avis, notamment en croyance, furent contestés par des savants ash'arites de son temps ; il mourut emprisonné à la citadelle de Damas. Il inspire aujourd'hui particulièrement le courant salafi.",
+      "note": "Personnage admiré par certains, critiqué par d'autres : on le présente ici sans prendre parti."
+    },
+    {
+      "id": "fig-t2-0034",
+      "concept": "fig.savants.biruni",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel savant du XIe siècle, né au Khwarezm, calcula le rayon de la Terre avec une grande précision et étudia l'Inde ?",
+      "choices": [
+        "Al-Bīrūnī",
+        "Ibn Baṭṭūṭa",
+        "Al-Ghazālī",
+        "Ibn Rushd"
+      ],
+      "answer": 0,
+      "expl": "Abū r-Rayḥān al-Bīrūnī (973-vers 1050) fut astronome, mathématicien et géographe. Il estima le rayon terrestre par une méthode trigonométrique ingénieuse, et écrivit un livre remarquable et respectueux sur les religions et les sciences de l'Inde."
+    },
+    {
+      "id": "fig-t2-0035",
+      "concept": "fig.maroc.iyad",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le célèbre livre d'al-Qāḍī ʿIyāḍ, juge de Ceuta, consacré au Prophète ﷺ ?",
+      "choices": [
+        "Al-Muwaṭṭaʾ",
+        "Ash-Shifāʾ",
+        "Al-Muqaddima",
+        "Ar-Risāla"
+      ],
+      "answer": 1,
+      "expl": "Al-Qāḍī ʿIyāḍ (1083-1149), grand juge malikite et spécialiste du hadith, écrivit ash-Shifāʾ, ouvrage très lu sur l'amour et le respect dus au Prophète ﷺ. On disait : « Sans ʿIyāḍ, on ne connaîtrait pas le Maghreb. » Il repose à Marrakech."
+    },
+    {
+      "id": "fig-t2-0036",
+      "concept": "fig.maroc.jazuli",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel recueil de prières sur le Prophète ﷺ composa le soufi marocain al-Jazūlī ?",
+      "choices": [
+        "Ar-Risāla",
+        "Riyāḍ aṣ-Ṣāliḥīn",
+        "Dalāʾil al-Khayrāt",
+        "Ash-Shifāʾ"
+      ],
+      "answer": 2,
+      "expl": "Muḥammad ibn Sulaymān al-Jazūlī (mort vers 1465) composa les Dalāʾil al-Khayrāt (« les Signes des bienfaits »), recueil de prières sur le Prophète ﷺ récité dans tout le monde musulman, du Maroc à l'Indonésie. Il est l'un des sept saints de Marrakech."
+    },
+    {
+      "id": "fig-t2-0037",
+      "concept": "fig.maroc.ibn-ashir",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Ibn ʿĀshir ?",
+      "choices": [
+        "Un sultan saadien de Marrakech, bâtisseur",
+        "Un voyageur de Tanger",
+        "Un médecin de Cordoue",
+        "Un savant de Fès, auteur d'al-Murshid al-Muʿīn"
+      ],
+      "answer": 3,
+      "expl": "ʿAbd al-Wāḥid ibn ʿĀshir composa un poème didactique de plus de trois cents vers, appris par cœur dans les écoles traditionnelles du Maroc. Son vers d'ouverture définit la triade marocaine : croyance d'al-Ashʿarī, fiqh de Mālik, voie d'al-Junayd."
+    },
+    {
+      "id": "fig-t2-0038",
+      "concept": "fig.maroc.sept-saints",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que désigne l'expression « les sept saints » (sabʿatu rijāl) de Marrakech ?",
+      "choices": [
+        "Sept saints dont on visite les tombeaux",
+        "Sept sultans de la dynastie saadienne",
+        "Sept portes de la médina",
+        "Sept savants de Fès"
+      ],
+      "answer": 0,
+      "expl": "Le sultan Moulay Ismaïl organisa la visite des tombeaux de sept figures, dont al-Qāḍī ʿIyāḍ, al-Jazūlī et Abū l-ʿAbbās as-Sabtī (Sidi Bel Abbès), patron de Marrakech connu pour sa générosité envers les pauvres. La visite des tombes et ses limites sont discutées par les savants.",
+      "note": "La visite des tombeaux des saints est une tradition marocaine ; ses formes font l'objet de débats entre écoles."
+    },
+    {
+      "id": "fig-t2-0039",
+      "concept": "fig.maroc.moulay-idriss",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Où se trouve le tombeau d'Idrīs Ier, lieu de visite très important au Maroc ?",
+      "choices": [
+        "À Fès, dans la médina",
+        "À Moulay Idriss du Zerhoun",
+        "À Marrakech, près de la Koutoubia",
+        "À Rabat, près de la tour Hassan"
+      ],
+      "answer": 1,
+      "expl": "La petite ville sainte de Moulay Idriss, perchée face aux ruines de Volubilis, abrite le tombeau d'Idrīs Ier, fondateur du premier État musulman du Maroc. Son fils Idrīs II repose à Fès, où sa zāwiya est au cœur de la médina."
+    },
+    {
+      "id": "fig-t2-0040",
+      "concept": "fig.savants.ibn-tufayl",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel savant andalou, médecin des Almohades, écrivit Ḥayy ibn Yaqẓān, l'histoire d'un enfant qui découvre seul la vérité sur une île déserte ?",
+      "choices": [
+        "Ibn Ṭufayl",
+        "Ibn Rushd",
+        "Ibn Khaldūn",
+        "Ibn Baṭṭūṭa"
+      ],
+      "answer": 0,
+      "expl": "Dans ce roman philosophique du XIIe siècle, Ḥayy grandit seul, élevé par une gazelle, et arrive par la raison à la connaissance du Créateur. Traduit en latin et en anglais, il aurait inspiré des auteurs européens. Ibn Ṭufayl recommanda Ibn Rushd au calife."
+    },
+    {
+      "id": "fig-t2-0041",
+      "concept": "fig.savants.busiri",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel poète du XIIIe siècle composa la Burda, le poème le plus célèbre à la louange du Prophète ﷺ, récité au Maroc lors du Mawlid ?",
+      "choices": [
+        "Rūmī",
+        "Al-Būṣīrī",
+        "Ḥassān ibn Thābit",
+        "Al-Mutanabbī"
+      ],
+      "answer": 1,
+      "expl": "Selon le récit, al-Būṣīrī, paralysé, composa ce poème et vit en rêve le Prophète ﷺ le couvrir de son manteau (burda) ; il se réveilla guéri. La Burda est psalmodiée en chœur dans les mosquées et les zāwiyas, notamment au Maroc pendant le Mawlid."
+    },
+    {
+      "id": "fig-t2-0042",
+      "concept": "fig.savants.ibn-arabi",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel grand maître soufi, né à Murcie en Andalousie en 1165 et mort à Damas, est surnommé « le plus grand maître » (ash-Shaykh al-Akbar) ?",
+      "choices": [
+        "Al-Ghazālī",
+        "Al-Jazūlī",
+        "Ibn ʿArabī",
+        "Al-Junayd"
+      ],
+      "answer": 2,
+      "expl": "Ibn ʿArabī voyagea au Maghreb, notamment à Fès et Marrakech, avant de s'installer en Orient. Ses œuvres, comme les Futūḥāt al-Makkiyya, sont immenses et complexes. Certaines de ses idées ont été vivement discutées par d'autres savants.",
+      "note": "Figure admirée par beaucoup, critiquée par d'autres : on la présente ici factuellement."
+    },
+    {
+      "id": "fig-t2-0043",
+      "concept": "fig.maroc.zaynab",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Zaynab an-Nafzāwiyya, dans l'histoire almoravide ?",
+      "choices": [
+        "La fondatrice de la Qarawiyyīn à Fès",
+        "Une poétesse de Grenade",
+        "Une reine des Mérinides",
+        "L'épouse et conseillère de Yūsuf ibn Tāshfīn"
+      ],
+      "answer": 3,
+      "expl": "Les chroniqueurs décrivent Zaynab comme une femme d'une grande sagesse, qui conseilla Yūsuf ibn Tāshfīn dans la fondation de l'empire almoravide. Elle illustre le rôle des femmes dans l'histoire politique du Maroc."
+    },
+    {
+      "id": "fig-t2-0044",
+      "concept": "fig.maroc.mernissi",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle sociologue née à Fès (1940-2015) a écrit sur les femmes dans l'histoire musulmane, comme dans « Le Harem politique » ?",
+      "choices": [
+        "Fatima Mernissi",
+        "Fāṭima al-Fihriyya",
+        "Leïla Slimani",
+        "Assia Djebar"
+      ],
+      "answer": 0,
+      "expl": "Fatima Mernissi, professeure à Rabat, a étudié la place des femmes dans les textes et l'histoire de l'islam. Ses livres, discutés et parfois contestés, ont été traduits dans de nombreuses langues.",
+      "note": "Ses analyses ont suscité des débats ; on la cite ici comme figure intellectuelle marocaine."
+    },
+    {
+      "id": "fig-t2-0045",
+      "concept": "fig.meres-croyants.titre",
+      "domain": "figures",
+      "sub": "meres-croyants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "D'où vient le titre « Mères des croyants » donné aux épouses du Prophète ﷺ ?",
+      "choices": [
+        "D'un hadith faible",
+        "Du Coran (33:6)",
+        "D'une coutume arabe",
+        "D'un décret de ʿUmar"
+      ],
+      "answer": 1,
+      "expl": "« Le Prophète a plus de droits sur les croyants qu'ils n'en ont sur eux-mêmes, et ses épouses sont leurs mères » (33:6). Un titre de respect et d'honneur : on ne pouvait les épouser après lui.",
+      "src": [
+        "Coran 33:6"
+      ]
+    },
+    {
+      "id": "fig-t2-0046",
+      "concept": "fig.meres-croyants.sawda",
+      "domain": "figures",
+      "sub": "meres-croyants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel geste de générosité Sawda bint Zamʿa fit-elle envers ʿĀʾisha ?",
+      "choices": [
+        "Elle lui enseigna le Coran",
+        "Elle lui offrit ses bijoux",
+        "Elle lui offrit son jour auprès du Prophète ﷺ",
+        "Elle lui donna sa maison"
+      ],
+      "answer": 2,
+      "expl": "Âgée, Sawda céda son tour à ʿĀʾisha, pour rester l'épouse du Prophète ﷺ (Bukhari). Première femme qu'il épousa après Khadīja, elle était connue pour son humour qui le faisait rire.",
+      "src": [
+        "Bukhari et Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fig-t2-0047",
+      "concept": "fig.meres-croyants.juwayriya",
+      "domain": "figures",
+      "sub": "meres-croyants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle fut la conséquence du mariage de Juwayriya, fille du chef des Banū l-Muṣṭaliq, avec le Prophète ﷺ ?",
+      "choices": [
+        "Une guerre éclata",
+        "Sa tribu quitta l'Arabie",
+        "Rien de particulier",
+        "Les Compagnons libérèrent une centaine de familles de sa tribu, devenues « parents » du Prophète ﷺ"
+      ],
+      "answer": 3,
+      "expl": "Captive après une bataille, elle devint épouse du Prophète ﷺ. Les Compagnons dirent : « Ce sont maintenant les beaux-parents du Messager d'Allah ! » et libérèrent leurs prisonniers. ʿĀʾisha disait : « Je ne connais pas de femme plus bénie pour son peuple » (Abū Dāwūd).",
+      "src": [
+        "Abū Dāwūd ; Aḥmad"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fig-t2-0048",
+      "concept": "fig.meres-croyants.safiyya",
+      "domain": "figures",
+      "sub": "meres-croyants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que répondit le Prophète ﷺ à Ṣafiyya, d'origine juive, quand on se moqua de ses origines ?",
+      "choices": [
+        "« Mon père est Hārūn, mon oncle Mūsā, mon mari Muḥammad »",
+        "« Ignore-les, ils finiront par se taire »",
+        "« Change de nom, et on oubliera tes origines »",
+        "« Quitte Médine quelque temps »"
+      ],
+      "answer": 0,
+      "expl": "Fille de Ḥuyayy, chef des Banū n-Naḍīr, elle pleurait d'avoir été moquée. Il la consola en lui rappelant qu'elle descendait de prophètes (Tirmidhi). Ses origines étaient une fierté, pas une honte.",
+      "src": [
+        "Tirmidhi"
+      ]
+    },
+    {
+      "id": "fig-t2-0049",
+      "concept": "fig.meres-croyants.maymuna",
+      "domain": "figures",
+      "sub": "meres-croyants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Maymūna bint al-Ḥārith ?",
+      "choices": [
+        "Sa première épouse, à La Mecque",
+        "Sa dernière épouse, tante d'Ibn ʿAbbās",
+        "Sa fille aînée, mariée à Abū l-ʿĀṣ",
+        "Sa nourrice bédouine"
+      ],
+      "answer": 1,
+      "expl": "Il l'épousa lors de l'ʿumra de l'an 7. Ibn ʿAbbās, son neveu, passait souvent la nuit chez elle et y observa la prière de nuit du Prophète ﷺ, qu'il rapporta en détail (Bukhari).",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "fig-t2-0050",
+      "concept": "fig.meres-croyants.zaynab-khuzayma",
+      "domain": "figures",
+      "sub": "meres-croyants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel surnom portait Zaynab bint Khuzayma, épouse du Prophète ﷺ décédée peu après son mariage ?",
+      "choices": [
+        "« Dhāt an-niṭāqayn »",
+        "« Al-Ḥumayrāʾ »",
+        "« Umm al-masākīn », la mère des pauvres",
+        "« Aṣ-Ṣiddīqa »"
+      ],
+      "answer": 2,
+      "expl": "Elle était si généreuse envers les pauvres qu'on l'appelait « la mère des pauvres », dès avant l'islam. Elle mourut quelques mois après son mariage ; avec Khadīja, elle est la seule épouse morte du vivant du Prophète ﷺ.",
+      "retired": true
+    },
+    {
+      "id": "fig-t2-0051",
+      "concept": "fig.meres-croyants.hafsa-lettree",
+      "domain": "figures",
+      "sub": "meres-croyants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle compétence rare Ḥafṣa possédait-elle, qui lui valut de garder le premier muṣḥaf ?",
+      "choices": [
+        "Elle parlait persan",
+        "Elle était médecin",
+        "Elle connaissait l'astronomie",
+        "Elle savait lire et écrire"
+      ],
+      "answer": 3,
+      "expl": "Ḥafṣa, fille de ʿUmar, avait appris l'écriture auprès d'ash-Shifāʾ bint ʿAbdallāh, à la demande du Prophète ﷺ. Les feuillets du Coran rassemblés sous Abū Bakr lui furent confiés.",
+      "src": [
+        "Abū Dāwūd"
+      ]
+    },
+    {
+      "id": "fig-t2-0052",
+      "concept": "fig.compagnons.uthman-ruma",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel bienfait ʿUthmān fit-il à Médine en achetant le puits de Rūma ?",
+      "choices": [
+        "Il en fit un puits gratuit pour tous",
+        "Il le revendit plus cher au marché",
+        "Il le réserva à sa famille",
+        "Il le fit fermer par sécurité"
+      ],
+      "answer": 0,
+      "expl": "Un juif vendait l'eau de ce puits. Le Prophète ﷺ promit le Paradis à qui l'achèterait pour le mettre au service de tous. ʿUthmān l'acheta (Tirmidhi ; an-Nasāʾī). Il finança aussi l'armée de Tabūk.",
+      "src": [
+        "Tirmidhi ; an-Nasāʾī"
+      ]
+    },
+    {
+      "id": "fig-t2-0053",
+      "concept": "fig.compagnons.abu-dharr",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quelle qualité Abū Dharr al-Ghifārī est-il célèbre ?",
+      "choices": [
+        "Sa richesse et ses palais",
+        "Sa franchise et son ascétisme",
+        "Ses poèmes d'amour",
+        "Ses conquêtes militaires"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ dit : « La terre n'a porté et le ciel n'a abrité personne de plus franc qu'Abū Dharr » (Tirmidhi). Il vécut et mourut pauvre, à ar-Rabadha, comme le Prophète ﷺ l'avait prédit.",
+      "src": [
+        "Tirmidhi"
+      ]
+    },
+    {
+      "id": "fig-t2-0054",
+      "concept": "fig.compagnons.ubayy",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel Compagnon le Prophète ﷺ désigna-t-il comme le meilleur récitateur du Coran ?",
+      "choices": [
+        "Khālid ibn al-Walīd",
+        "Abū Sufyān",
+        "Ubayy ibn Kaʿb",
+        "Abū Hurayra"
+      ],
+      "answer": 2,
+      "expl": "« Le meilleur lecteur d'entre vous est Ubayy » (Tirmidhi). Allah ordonna même au Prophète ﷺ de lui réciter la sourate al-Bayyina ; Ubayy demanda : « Allah m'a nommé ? » et pleura (Bukhari).",
+      "src": [
+        "Bukhari ; Tirmidhi"
+      ]
+    },
+    {
+      "id": "fig-t2-0055",
+      "concept": "fig.compagnons.zayd-langues",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'apprit Zayd ibn Thābit, jeune scribe, à la demande du Prophète ﷺ ?",
+      "choices": [
+        "Le persan, en une seule nuit",
+        "Le grec, en un an d'études",
+        "La médecine, auprès d'un savant",
+        "L'écriture des juifs, en dix-sept jours"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ avait besoin de lire et d'écrire des lettres en hébreu. Zayd, encore adolescent, l'apprit en un temps record (Tirmidhi ; Abū Dāwūd). Il fut ensuite chargé de rassembler le Coran.",
+      "src": [
+        "Tirmidhi ; Abū Dāwūd"
+      ]
+    },
+    {
+      "id": "fig-t2-0056",
+      "concept": "fig.compagnons.ibn-umm-maktum",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelles responsabilités ʿAbdallāh ibn Umm Maktūm, Compagnon aveugle, reçut-il ?",
+      "choices": [
+        "Muezzin et imam en l'absence du Prophète ﷺ",
+        "Gouverneur de La Mecque après la conquête",
+        "Juge principal de Médine",
+        "Trésorier de la communauté"
+      ],
+      "answer": 0,
+      "expl": "Celui pour qui fut révélée la sourate ʿAbasa devint muezzin avec Bilāl, et fut laissé plusieurs fois comme imam de Médine. Son handicap ne l'empêcha pas de participer à la vie de la communauté."
+    },
+    {
+      "id": "fig-t2-0057",
+      "concept": "fig.compagnons.abu-ayyub",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Où mourut et fut enterré Abū Ayyūb al-Anṣārī, qui avait hébergé le Prophète ﷺ à son arrivée à Médine ?",
+      "choices": [
+        "À Médine, près de la mosquée",
+        "Devant les murs de Constantinople",
+        "À La Mecque, près de la Kaʿba",
+        "À Damas, près de la mosquée omeyyade"
+      ],
+      "answer": 1,
+      "expl": "Très âgé, il participa à l'expédition vers Constantinople vers l'an 50 et demanda à être enterré au plus près des murs. Sa tombe, à Eyüp, est l'un des lieux les plus visités d'Istanbul."
+    },
+    {
+      "id": "fig-t2-0058",
+      "concept": "fig.compagnons.abd-ar-rahman",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que répondit ʿAbd ar-Raḥmān ibn ʿAwf, émigré sans rien, à l'Anṣārī qui lui offrit la moitié de ses biens ?",
+      "choices": [
+        "« J'accepte avec joie »",
+        "« Donne-moi tout plutôt »",
+        "« Indique-moi le marché »",
+        "« Je n'ai besoin de rien »"
+      ],
+      "answer": 2,
+      "expl": "Saʿd ibn ar-Rabīʿ lui offrit la moitié de sa fortune. ʿAbd ar-Raḥmān refusa poliment et se mit au commerce ; il devint l'un des Compagnons les plus riches, et l'un des plus généreux (Bukhari).",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "fig-t2-0059",
+      "concept": "fig.compagnons.hudhayfa",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi Ḥudhayfa ibn al-Yamān était-il appelé « le gardien du secret » ?",
+      "choices": [
+        "Il gardait le trésor de Médine",
+        "Il cachait le Coran pendant les guerres",
+        "Il connaissait la date de l'Heure",
+        "Il connaissait les noms des hypocrites"
+      ],
+      "answer": 3,
+      "expl": "ʿUmar lui demandait s'il figurait sur la liste ; et quand quelqu'un mourait, ʿUmar ne priait sur lui que si Ḥudhayfa le faisait. Ḥudhayfa interrogeait le Prophète ﷺ sur le mal, « de peur qu'il ne m'atteigne » (Bukhari).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0060",
+      "concept": "fig.compagnons.abu-musa",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quel don Abū Mūsā al-Ashʿarī était-il connu ?",
+      "choices": [
+        "Sa voix magnifique en récitant",
+        "Sa force au combat",
+        "Son talent de poète à la cour",
+        "Sa richesse"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ lui dit : « Tu as reçu une flûte parmi les flûtes de la famille de Dāwūd » (Bukhari). Il fut aussi gouverneur et juge, et l'ancêtre de l'imam al-Ashʿarī.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0061",
+      "concept": "fig.compagnons.suhayb",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ à Ṣuhayb, qui avait laissé toute sa fortune aux Mecquois pour pouvoir émigrer ?",
+      "choices": [
+        "« Tu as perdu tous tes biens »",
+        "« Ton commerce a été fructueux »",
+        "« Retourne chercher ta fortune »",
+        "« Tu aurais dû rester à La Mecque »"
+      ],
+      "answer": 1,
+      "expl": "Les Mecquois l'empêchaient de partir avec ses biens ; il les leur abandonna en échange de sa liberté. On rapporte que le verset 2:207 fut révélé à son sujet : « Il y a parmi les gens celui qui se vend lui-même pour l'agrément d'Allah. »",
+      "src": [
+        "al-Ḥākim ; Coran 2:207"
+      ]
+    },
+    {
+      "id": "fig-t2-0062",
+      "concept": "fig.compagnonnes.shifa",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel rôle ash-Shifāʾ bint ʿAbdallāh joua-t-elle à Médine ?",
+      "choices": [
+        "Elle commandait une armée en Syrie",
+        "Elle gardait la clé de la Kaʿba",
+        "Elle enseignait l'écriture, consultée par ʿUmar",
+        "Elle était la nourrice des enfants du calife"
+      ],
+      "answer": 2,
+      "expl": "L'une des rares femmes lettrées de son temps, elle apprit l'écriture à Ḥafṣa à la demande du Prophète ﷺ (Abū Dāwūd). ʿUmar lui accordait une grande considération.",
+      "src": [
+        "Abū Dāwūd ; Ibn ʿAbd al-Barr"
+      ]
+    },
+    {
+      "id": "fig-t2-0063",
+      "concept": "fig.compagnonnes.umm-ayman",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ appelait-il Umm Ayman, qui s'était occupée de lui enfant ?",
+      "choices": [
+        "« Ma servante »",
+        "« Ma sœur »",
+        "« La gardienne »",
+        "« Ma mère après ma mère »"
+      ],
+      "answer": 3,
+      "expl": "Barakat, dite Umm Ayman, d'origine abyssinienne, le berça enfant et resta auprès de lui toute sa vie. Elle épousa Zayd ibn Ḥāritha et fut la mère d'Usāma. Abū Bakr et ʿUmar lui rendaient visite après la mort du Prophète ﷺ (Muslim).",
+      "src": [
+        "Muslim ; Ibn Saʿd"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fig-t2-0064",
+      "concept": "fig.compagnonnes.fatima-asad",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Fāṭima bint Asad ?",
+      "choices": [
+        "La mère de ʿAlī, qui l'éleva enfant",
+        "La sœur aînée de Khadīja",
+        "La nourrice bédouine du Prophète ﷺ",
+        "La fille d'Abū Bakr"
+      ],
+      "answer": 0,
+      "expl": "Épouse d'Abū Ṭālib, elle accueillit le jeune orphelin dans sa maison. À sa mort, le Prophète ﷺ la couvrit de sa propre chemise et descendit dans sa tombe, disant qu'elle avait été pour lui une mère."
+    },
+    {
+      "id": "fig-t2-0065",
+      "concept": "fig.compagnonnes.asma-yazid",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi Asmāʾ bint Yazīd était-elle appelée « l'oratrice des femmes » ?",
+      "choices": [
+        "Elle prononçait le sermon du vendredi",
+        "Elle portait au Prophète ﷺ les questions des femmes",
+        "Elle récitait des poèmes à la cour",
+        "Elle était la plus éloquente des marchandes"
+      ],
+      "answer": 1,
+      "expl": "Elle vint demander au Prophète ﷺ au nom des femmes : « Les hommes nous ont devancées par la prière en groupe, les visites aux malades, le combat… avons-nous part à leur récompense ? » Il loua la qualité de sa question et la rassura sur leur récompense.",
+      "src": [
+        "al-Bayhaqī ; Ibn ʿAbd al-Barr"
+      ]
+    },
+    {
+      "id": "fig-t2-0066",
+      "concept": "fig.imams.chaine",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 2,
+      "type": "paires",
+      "q": "Qui fut le maître de qui ? Associe chaque imam à son élève le plus célèbre.",
+      "pairs": [
+        [
+          "Mālik (Médine)",
+          "Ash-Shāfiʿī"
+        ],
+        [
+          "Ash-Shāfiʿī",
+          "Aḥmad ibn Ḥanbal"
+        ],
+        [
+          "Abū Ḥanīfa (Kūfa)",
+          "Abū Yūsuf"
+        ],
+        [
+          "Jaʿfar aṣ-Ṣādiq",
+          "Abū Ḥanīfa et Mālik"
+        ]
+      ],
+      "expl": "Les écoles ne sont pas rivales : leurs fondateurs ont étudié les uns auprès des autres. Ash-Shāfiʿī apprit le Muwaṭṭaʾ de Mālik par cœur ; Aḥmad fut l'élève d'ash-Shāfiʿī ; Jaʿfar aṣ-Ṣādiq, arrière-petit-fils de ʿAlī ibn al-Ḥusayn, enseigna à Abū Ḥanīfa et à Mālik."
+    },
+    {
+      "id": "fig-t2-0067",
+      "concept": "fig.imams.malik-calife",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que répondit l'imam Mālik quand le calife abbasside voulut imposer le Muwaṭṭaʾ à tout l'empire ?",
+      "choices": [
+        "Il accepta avec joie",
+        "Il accepta, contre une forte somme d'argent",
+        "Il refusa : chaque région avait reçu sa science",
+        "Il quitta Médine pour Bagdad"
+      ],
+      "answer": 2,
+      "expl": "Le calife Abū Jaʿfar al-Manṣūr (ou Hārūn ar-Rashīd selon d'autres récits) voulait suspendre le Muwaṭṭaʾ dans la Kaʿba et l'imposer. Mālik refusa, respectant la diversité légitime des avis. Une leçon de modestie et d'ouverture.",
+      "src": [
+        "Ibn ʿAbd al-Barr ; al-Qāḍī ʿIyāḍ"
+      ]
+    },
+    {
+      "id": "fig-t2-0068",
+      "concept": "fig.imams.malik-epreuve",
+      "domain": "figures",
+      "sub": "imams",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi l'imam Mālik fut-il fouetté par le gouverneur de Médine ?",
+      "choices": [
+        "Pour avoir refusé de prier derrière le gouverneur",
+        "Pour avoir critiqué le calife dans un poème",
+        "Pour avoir quitté Médine sans permission",
+        "Pour avoir dit nul le serment sous contrainte"
+      ],
+      "answer": 3,
+      "expl": "Il rapportait le hadith « le divorce sous contrainte ne compte pas », que les opposants appliquaient aux serments d'allégeance forcés. Il fut fouetté et eut l'épaule démise, mais refusa de se taire. Il pardonna ensuite au gouverneur.",
+      "src": [
+        "Ibn ʿAbd al-Barr ; adh-Dhahabī"
+      ]
+    },
+    {
+      "id": "fig-t2-0069",
+      "concept": "fig.savants.ibn-sina",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quelle œuvre Ibn Sīnā (Avicenne) est-il célèbre ?",
+      "choices": [
+        "Le Canon de la médecine",
+        "La Muqaddima",
+        "Les Mille et Une Nuits",
+        "Le Livre de l'algèbre"
+      ],
+      "answer": 0,
+      "expl": "Ibn Sīnā (m. 1037), médecin et philosophe persan, écrivit al-Qānūn fī ṭ-ṭibb. Traduit en latin, il servit de manuel dans les universités européennes jusqu'au XVIIe siècle."
+    },
+    {
+      "id": "fig-t2-0070",
+      "concept": "fig.savants.khwarizmi",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels mots de la langue française viennent du savant al-Khwārizmī ?",
+      "choices": [
+        "« Chiffre » et « zéro »",
+        "« Algèbre » et « algorithme »",
+        "« Alcool » et « alchimie »",
+        "« Café » et « sucre »"
+      ],
+      "answer": 1,
+      "expl": "Mathématicien de Bagdad (IXe siècle), il écrivit un traité d'al-jabr wa-l-muqābala, qui donna son nom à l'algèbre. Son nom latinisé, Algoritmi, a donné « algorithme »."
+    },
+    {
+      "id": "fig-t2-0071",
+      "concept": "fig.savants.ibn-hajar",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'écrivit Ibn Ḥajar al-ʿAsqalānī, l'un des plus grands spécialistes du hadith ?",
+      "choices": [
+        "Al-Muwaṭṭaʾ",
+        "Riyāḍ aṣ-Ṣāliḥīn",
+        "Fatḥ al-Bārī",
+        "Al-Muqaddima"
+      ],
+      "answer": 2,
+      "expl": "Ibn Ḥajar (m. 1449), juge au Caire, consacra environ vingt-cinq ans à Fatḥ al-Bārī, considéré comme le commentaire de référence du recueil d'al-Bukhārī."
+    },
+    {
+      "id": "fig-t2-0072",
+      "concept": "fig.savants.junayd",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était al-Junayd de Bagdad, cité dans la tradition marocaine (« le chemin d'al-Junayd ») ?",
+      "choices": [
+        "Un calife abbasside amateur de poésie",
+        "Un médecin persan auteur du Canon",
+        "Un juge malikite de Cordoue",
+        "Un maître soufi sobre, attaché au Coran et à la Sunna"
+      ],
+      "answer": 3,
+      "expl": "Al-Junayd (m. 910), surnommé « le maître de la confrérie », enseignait une spiritualité équilibrée : « Notre voie est encadrée par le Coran et la Sunna. » Le Maroc se réclame de sa voie, avec le fiqh de Mālik et la croyance d'al-Ashʿarī, comme le résume Ibn ʿĀshir.",
+      "retired": true
+    },
+    {
+      "id": "fig-t2-0073",
+      "concept": "fig.savants.ashari",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui fut Abū l-Ḥasan al-Ashʿarī ?",
+      "choices": [
+        "Le fondateur de l'école de croyance ash'arite, suivie notamment au Maroc",
+        "Un compagnon du Prophète ﷺ",
+        "Un conquérant de l'Andalousie",
+        "Un poète soufi"
+      ],
+      "answer": 0,
+      "expl": "Al-Ashʿarī (m. 936), d'abord mutazilite, rompit avec cette école pour défendre la croyance des gens de la Sunna avec les outils de la raison. Son école est devenue majoritaire dans le monde sunnite, notamment au Maghreb.",
+      "retired": true
+    },
+    {
+      "id": "fig-t2-0074",
+      "concept": "fig.savants.ibn-haytham",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Dans quel domaine Ibn al-Haytham (Alhazen) a-t-il révolutionné la science ?",
+      "choices": [
+        "L'astronomie, avec un nouveau calendrier",
+        "L'optique, par la lumière qui entre dans l'œil",
+        "La médecine, avec la circulation du sang",
+        "Les mathématiques, avec le zéro"
+      ],
+      "answer": 1,
+      "expl": "Ibn al-Haytham (m. vers 1040), au Caire, écrivit le Livre de l'optique. Il fonda sa recherche sur l'expérience, au point d'être considéré comme un pionnier de la méthode scientifique."
+    },
+    {
+      "id": "fig-t2-0075",
+      "concept": "fig.maroc.yusuf-tashfin",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Yūsuf ibn Tāshfīn ?",
+      "choices": [
+        "Le fondateur de la ville de Fès",
+        "Le sultan saadien de la bataille des Trois Rois",
+        "Le souverain almoravide vainqueur à Zallāqa",
+        "Le premier roi alaouite du Maroc"
+      ],
+      "answer": 2,
+      "expl": "Chef des Almoravides, il développa Marrakech, fondée vers 1070, et traversa le détroit à l'appel des rois d'al-Andalus pour arrêter la Reconquista à la bataille de Zallāqa (Sagrajas). Il était réputé pour sa simplicité de vie."
+    },
+    {
+      "id": "fig-t2-0076",
+      "concept": "fig.maroc.idrisi",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était al-Idrīsī, né à Ceuta au XIIe siècle ?",
+      "choices": [
+        "Un médecin de la cour du calife de Cordoue",
+        "Un poète de la cour de Grenade",
+        "Un astronome de Bagdad",
+        "Un géographe, auteur d'une carte pour Roger II"
+      ],
+      "answer": 3,
+      "expl": "Al-Idrīsī (m. vers 1165) réalisa le « Livre de Roger » et un planisphère d'argent, la carte la plus précise du monde connu à son époque. Il descendait des Idrissides."
+    },
+    {
+      "id": "fig-t2-0077",
+      "concept": "fig.maroc.mohammed-v",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel souverain mena le Maroc à l'indépendance en 1956 ?",
+      "choices": [
+        "Mohammed V",
+        "Hassan II",
+        "Moulay Ismaïl",
+        "Mohammed VI"
+      ],
+      "answer": 0,
+      "expl": "Exilé par la France en 1953, Mohammed V revint en 1955, acclamé, et obtint l'indépendance en 1956. Pendant la Seconde Guerre mondiale, il refusa d'appliquer les lois antijuives de Vichy : « Il n'y a pas de juifs, il n'y a que des sujets marocains », selon la tradition."
+    },
+    {
+      "id": "fig-t2-0078",
+      "concept": "fig.maroc.ibn-mashish",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Moulay ʿAbd as-Salām ibn Mashīsh, enterré sur le Jabal ʿAlam, dans le nord du Maroc ?",
+      "choices": [
+        "Un sultan mérinide de Fès",
+        "Un grand saint, maître d'ash-Shādhilī",
+        "Un savant juriste de la Qarawiyyīn de Fès",
+        "Un poète de Tétouan"
+      ],
+      "answer": 1,
+      "expl": "Ce saint du XIIIe siècle vécut en ermite dans les montagnes. Sa prière sur le Prophète ﷺ, « aṣ-Ṣalāt al-mashīshiyya », est récitée partout dans le monde. Son disciple ash-Shādhilī fonda la voie shādhiliyya."
+    },
+    {
+      "id": "fig-t2-0079",
+      "concept": "fig.maroc.shadhili",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Abū l-Ḥasan ash-Shādhilī, né près de Ceuta, est le fondateur de quelle grande voie soufie ?",
+      "choices": [
+        "La Mawlawiyya",
+        "La Qādiriyya",
+        "La Shādhiliyya",
+        "La Naqshbandiyya"
+      ],
+      "answer": 2,
+      "expl": "Ash-Shādhilī (m. 1258), formé par Ibn Mashīsh, prônait une spiritualité vécue dans le monde, sans retrait ni pauvreté affichée. La Shādhiliyya a donné naissance à de nombreuses branches, dont la Darqāwiyya au Maroc."
+    },
+    {
+      "id": "fig-t2-0080",
+      "concept": "fig.ahl-al-bayt.abbas",
+      "domain": "figures",
+      "sub": "ahl-al-bayt",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était al-ʿAbbās ibn ʿAbd al-Muṭṭalib ?",
+      "choices": [
+        "Un cousin du Prophète ﷺ, premier muezzin",
+        "Un Compagnon perse, ancien esclave",
+        "Le premier gouverneur de l'Égypte",
+        "Un oncle du Prophète ﷺ, ancêtre des Abbassides"
+      ],
+      "answer": 3,
+      "expl": "Al-ʿAbbās, oncle du Prophète ﷺ, se convertit tardivement. Ses descendants fondèrent le califat abbasside (750-1258), capitale Bagdad. Son fils ʿAbdallāh ibn ʿAbbās fut le grand savant du Coran."
+    },
+    {
+      "id": "fig-t2-0081",
+      "concept": "fig.meres-croyants.fiche-portraits",
+      "domain": "figures",
+      "sub": "meres-croyants",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Les mères des croyants",
+      "points": [
+        "Khadīja : la première croyante, le soutien des débuts",
+        "ʿĀʾisha : la savante, plus de 2 000 hadiths",
+        "Umm Salama : la conseillère avisée (Ḥudaybiya)",
+        "Ḥafṣa : la gardienne du premier muṣḥaf",
+        "Zaynab bint Jaḥsh : la générosité",
+        "Ṣafiyya : descendante de Hārūn"
+      ],
+      "expl": "Chaque épouse du Prophète ﷺ a sa personnalité et son rôle. Ensemble, elles ont transmis une grande partie de ce que nous savons de sa vie privée."
+    },
+    {
+      "id": "fig-t2-0082",
+      "concept": "fig.compagnons.anas",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Combien d'années Anas ibn Mālik servit-il le Prophète ﷺ, sans jamais recevoir un reproche ?",
+      "choices": [
+        "Vingt ans",
+        "Trois ans",
+        "Dix ans",
+        "Un an"
+      ],
+      "answer": 2,
+      "expl": "Sa mère, Umm Sulaym, le confia enfant au Prophète ﷺ. « Je l'ai servi dix ans : il ne m'a jamais dit « ouf », ni « pourquoi as-tu fait ça ? » » (Bukhari et Muslim). Anas vécut très âgé et transmit plus de deux mille hadiths.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0083",
+      "concept": "fig.compagnons.ibn-umar",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quoi ʿAbdallāh ibn ʿUmar était-il célèbre parmi les Compagnons ?",
+      "choices": [
+        "Sa richesse et sa générosité",
+        "Ses victoires militaires",
+        "Son talent de poète",
+        "Son imitation minutieuse du Prophète ﷺ"
+      ],
+      "answer": 3,
+      "expl": "Fils du calife ʿUmar, il suivait les traces du Prophète ﷺ au point de faire halte là où il avait fait halte. Il refusa les fonctions politiques et transmit de très nombreux hadiths ; Mālik rapporte beaucoup de lui, via son affranchi Nāfiʿ."
+    },
+    {
+      "id": "fig-t2-0084",
+      "concept": "fig.compagnons.khabbab",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle épreuve le Compagnon Khabbāb ibn al-Aratt subit-il à La Mecque ?",
+      "choices": [
+        "Il fut torturé sur des braises",
+        "Il fut exilé en Abyssinie",
+        "Il fut emprisonné à Ṭāʾif",
+        "Il perdit tous ses biens au jeu"
+      ],
+      "answer": 0,
+      "expl": "Forgeron, l'un des premiers convertis, Khabbāb fut torturé sur des braises au point que son dos en garda les marques. Il vint demander au Prophète ﷺ de prier pour eux ; il lui répondit : « Allah achèvera cette affaire… mais vous êtes pressés » (Bukhari).",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "fig-t2-0085",
+      "concept": "fig.compagnons.salim",
+      "domain": "figures",
+      "sub": "compagnons",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel affranchi le Prophète ﷺ cita-t-il parmi les quatre à qui apprendre le Coran ?",
+      "choices": [
+        "Bilāl, affranchi d'Abū Bakr",
+        "Sālim, affranchi d'Abū Ḥudhayfa",
+        "Zayd, affranchi du Prophète ﷺ",
+        "Thawbān, serviteur du Prophète ﷺ"
+      ],
+      "answer": 1,
+      "expl": "« Apprenez le Coran de quatre : Ibn Masʿūd, Sālim l'affranchi d'Abū Ḥudhayfa, Ubayy ibn Kaʿb et Muʿādh ibn Jabal » (Bukhari). Un ancien esclave parmi les maîtres du Coran : l'islam mesurait les gens à leur savoir et leur piété.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0086",
+      "concept": "fig.compagnonnes.umm-atiyya",
+      "domain": "figures",
+      "sub": "compagnonnes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel rôle Umm ʿAṭiyya joua-t-elle auprès du Prophète ﷺ ?",
+      "choices": [
+        "Elle commandait les archères à Uḥud",
+        "Elle enseignait le Coran aux enfants",
+        "Elle soignait les blessés et lava Zaynab",
+        "Elle gardait les clés de la mosquée"
+      ],
+      "answer": 2,
+      "expl": "Umm ʿAṭiyya participa à sept expéditions pour soigner les blessés. Le Prophète ﷺ lui enseigna comment laver le corps de sa fille Zaynab ; son récit est la base des règles du lavage mortuaire (Bukhari et Muslim).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "fig-t2-0087",
+      "concept": "fig.savants.suyuti",
+      "domain": "figures",
+      "sub": "savants",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel savant égyptien du XVe siècle, auteur de plusieurs centaines d'ouvrages, a co-écrit le célèbre « Tafsīr al-Jalālayn » ?",
+      "choices": [
+        "Ibn Kathīr ad-Dimashqī",
+        "Aṭ-Ṭabarī",
+        "Al-Qurṭubī",
+        "Jalāl ad-Dīn as-Suyūṭī"
+      ],
+      "answer": 3,
+      "expl": "As-Suyūṭī (m. 1505) termina le tafsīr commencé par Jalāl ad-Dīn al-Maḥallī : d'où le nom « des deux Jalāl ». Court et clair, il reste l'un des tafsīrs les plus étudiés, notamment au Maroc."
+    },
+    {
+      "id": "fig-t2-0088",
+      "concept": "fig.maroc.ibn-ajiba",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Aḥmad ibn ʿAjība, savant de la région de Tétouan au XVIIIe siècle ?",
+      "choices": [
+        "Un maître soufi darqāwī, auteur d'un tafsīr",
+        "Un sultan alaouite de Meknès",
+        "Un général de la guerre du Rif, en 1921",
+        "Un poète de la cour de Fès"
+      ],
+      "answer": 0,
+      "expl": "Ibn ʿAjība (m. 1809) unissait le fiqh malikite, la grammaire et la spiritualité. Son tafsīr « al-Baḥr al-madīd » et son commentaire des Ḥikam d'Ibn ʿAṭāʾ Allāh sont lus dans le monde entier."
+    },
+    {
+      "id": "fig-t2-0089",
+      "concept": "fig.maroc.ibn-abbad",
+      "domain": "figures",
+      "sub": "maroc",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Ibn ʿAbbād de Ronda, enterré à Fès ?",
+      "choices": [
+        "Un sultan mérinide de Fès",
+        "Prédicateur de la Qarawiyyīn et maître shādhilite",
+        "Un architecte de la médina et de ses fontaines",
+        "Un juge de Ronda en exil"
+      ],
+      "answer": 1,
+      "expl": "Né à Ronda en al-Andalus, Ibn ʿAbbād (m. 1390) fut l'imam et le prédicateur de la Qarawiyyīn. Il commenta les Ḥikam et écrivit des lettres de conseils spirituels d'une grande douceur."
+    },
+    {
+      "id": "fig-t2-0090",
+      "concept": "fig.califes.ali-kufa",
+      "domain": "figures",
+      "sub": "califes",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle ville ʿAlī choisit-il comme capitale pendant son califat ?",
+      "choices": [
+        "Médine",
+        "Damas",
+        "Kūfa",
+        "La Mecque"
+      ],
+      "answer": 2,
+      "expl": "Pendant les troubles qui suivirent l'assassinat de ʿUthmān, ʿAlī s'installa à Kūfa, ville de garnison fondée sous ʿUmar. C'est dans sa mosquée qu'il fut frappé par un khārijite en 661."
+    }
+  ]
+}

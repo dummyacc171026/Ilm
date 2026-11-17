@@ -1,0 +1,1686 @@
+{
+  "pack": "ethique-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "eth-t2-0001",
+      "concept": "eth.bon-caractere.proches",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, qui sera le plus proche du Prophète ﷺ au Jour de la Résurrection ?",
+      "choices": [
+        "Ceux qui parlent le plus",
+        "Ceux qui ont le meilleur caractère",
+        "Ceux qui ont le plus voyagé",
+        "Ceux qui ont le plus d'argent"
+      ],
+      "answer": 1,
+      "expl": "« Les plus aimés de moi et les plus proches de ma place au Jour de la Résurrection sont ceux d'entre vous qui ont le meilleur caractère. » Un autre hadith ajoute que par son bon caractère, le croyant atteint le degré de celui qui jeûne le jour et prie la nuit.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Tirmidhi",
+        "Hadith de ʿĀʾisha — Abu Dawud"
+      ]
+    },
+    {
+      "id": "eth-t2-0002",
+      "concept": "eth.bon-caractere.hilm",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelles deux qualités d'al-Ashajj, chef de ʿAbd al-Qays, le Prophète ﷺ dit-il qu'Allah aime ?",
+      "choices": [
+        "La richesse et la générosité envers ses hôtes",
+        "La force et le courage",
+        "La maîtrise de soi et la réflexion posée",
+        "L'éloquence et la poésie"
+      ],
+      "answer": 2,
+      "expl": "« Tu as deux qualités qu'Allah aime : la longanimité et la réflexion posée. » Al-Ashajj, arrivé avec sa délégation, prit le temps de se préparer avant de rencontrer le Prophète ﷺ, au lieu de se précipiter.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0003",
+      "concept": "eth.bon-caractere.repousser",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 2,
+      "type": "trou",
+      "q": "« Repousse le mal par ce qui est ___, et voilà que celui avec qui tu avais une inimitié devient comme un ami chaleureux. »",
+      "choices": [
+        "plus fort",
+        "plus rapide",
+        "plus discret",
+        "meilleur"
+      ],
+      "answer": 3,
+      "expl": "Le verset 41:34 enseigne une stratégie du cœur : répondre au mal par un bien, ce qui désarme souvent l'autre. Le verset suivant précise que seuls les patients y parviennent.",
+      "src": [
+        "Coran 41:34-35"
+      ],
+      "tags": [
+        "sourate:41"
+      ]
+    },
+    {
+      "id": "eth-t2-0004",
+      "concept": "eth.bon-caractere.pardon-abu-bakr",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quelle occasion fut révélé le verset « Qu'ils pardonnent et passent outre ; n'aimez-vous pas qu'Allah vous pardonne ? » (24:22) ?",
+      "choices": [
+        "Quand Abū Bakr voulut cesser d'aider Misṭaḥ",
+        "Après la conquête de La Mecque, en l'an 8",
+        "Après la bataille d'Uḥud",
+        "Lors du pèlerinage d'adieu"
+      ],
+      "answer": 0,
+      "expl": "Abū Bakr entretenait son parent Misṭaḥ, qui avait répandu la calomnie contre sa fille ʿĀʾisha. Blessé, il jura de ne plus l'aider. Le verset fut révélé ; Abū Bakr dit : « Si, j'aime qu'Allah me pardonne », et reprit son aide.",
+      "src": [
+        "Coran 24:22",
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "tags": [
+        "sourate:24"
+      ]
+    },
+    {
+      "id": "eth-t2-0005",
+      "concept": "eth.parents.apres-mort",
+      "domain": "ethique",
+      "sub": "parents",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, quelle est l'une des plus grandes formes de bonté envers son père après sa mort ?",
+      "choices": [
+        "Vendre ses biens rapidement",
+        "Garder le lien avec ses amis",
+        "Visiter sa tombe chaque jour",
+        "Changer de nom en son honneur"
+      ],
+      "answer": 1,
+      "expl": "Ibn ʿUmar rencontra un Bédouin dont le père était ami du sien ; il lui offrit son âne et son turban, et cita le Prophète ﷺ : « La plus grande piété filiale est que l'homme maintienne les liens avec les amis de son père. » On peut aussi invoquer pour eux et faire l'aumône en leur nom.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0006",
+      "concept": "eth.parents.grands-peches",
+      "domain": "ethique",
+      "sub": "parents",
+      "tier": 2,
+      "type": "multi",
+      "q": "Lesquels le Prophète ﷺ a-t-il cités parmi les plus grands des grands péchés ?",
+      "choices": [
+        "Associer à Allah",
+        "Désobéir à ses parents et les maltraiter",
+        "Oublier une prière surérogatoire",
+        "Le faux témoignage",
+        "Manger debout"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "« Voulez-vous que je vous informe des plus grands des grands péchés ? L'association à Allah, la désobéissance aux parents… » Puis, assis après avoir été accoudé : « … et le faux témoignage », qu'il répéta. La place des parents est immense.",
+      "src": [
+        "Hadith d'Abū Bakra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0007",
+      "concept": "eth.parents.abu-hurayra-mere",
+      "domain": "ethique",
+      "sub": "parents",
+      "tier": 2,
+      "type": "vf",
+      "q": "Abū Hurayra demanda au Prophète ﷺ d'invoquer pour que sa mère embrasse l'islam, et elle l'embrassa le jour même.",
+      "answer": true,
+      "expl": "La mère d'Abū Hurayra refusait l'islam et avait insulté le Prophète ﷺ devant lui ; il vint en pleurant demander une invocation. En rentrant, il la trouva qui venait de faire le ghusl et prononçait la shahāda. Il pleura de joie. Ne jamais désespérer pour ses parents.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0008",
+      "concept": "eth.couple.religion",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, quel critère doit primer dans le choix d'une épouse ?",
+      "choices": [
+        "La beauté",
+        "Le rang social",
+        "La religion",
+        "La richesse"
+      ],
+      "answer": 2,
+      "expl": "« On épouse une femme pour quatre raisons : ses biens, son rang, sa beauté et sa religion. Choisis celle qui a la religion, tu réussiras. » Le même critère vaut pour le choix d'un mari : sa foi et son caractère.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0009",
+      "concept": "eth.couple.shaqaiq",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ a-t-il décrit les femmes par rapport aux hommes ?",
+      "choices": [
+        "Les servantes des hommes",
+        "Inférieures aux hommes en tout",
+        "Supérieures aux hommes en tout",
+        "Les « sœurs jumelles » des hommes"
+      ],
+      "answer": 3,
+      "expl": "« Les femmes sont les sœurs (shaqāʾiq) des hommes. » Le mot évoque deux moitiés d'un même tout : égales en dignité et en responsabilité devant Allah, avec des rôles qui peuvent se compléter.",
+      "src": [
+        "Hadith de ʿĀʾisha — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "eth-t2-0010",
+      "concept": "eth.couple.meme-place",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 2,
+      "type": "vf",
+      "q": "ʿĀʾisha raconte que le Prophète ﷺ buvait à l'endroit même du verre où elle avait posé ses lèvres.",
+      "answer": true,
+      "expl": "Elle rapporte qu'elle buvait, puis il prenait le récipient et mettait sa bouche à l'endroit où elle avait bu ; de même pour un os qu'elle avait rongé. Ces gestes de tendresse font partie de la Sunna du couple.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0011",
+      "concept": "eth.couple.jouissance",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, quelle est la meilleure jouissance de ce monde ?",
+      "choices": [
+        "Une épouse vertueuse",
+        "Une grande maison",
+        "Un bon cheval",
+        "Beaucoup d'or"
+      ],
+      "answer": 0,
+      "expl": "« Ce monde est une jouissance, et la meilleure jouissance de ce monde est une femme vertueuse. » Les savants y ajoutent, pour l'épouse, un mari vertueux : la paix du foyer est un trésor.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn ʿAmr — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0012",
+      "concept": "eth.couple.nafaqa",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le Coran et la Sunna, à qui revient la charge financière du foyer (nafaqa) ?",
+      "choices": [
+        "À l'épouse, si elle travaille",
+        "Au mari, même si l'épouse a des revenus",
+        "Aux deux, à parts strictement égales",
+        "Aux parents du couple"
+      ],
+      "answer": 1,
+      "expl": "Le Coran met à la charge du père la nourriture et l'habillement de la mère et de l'enfant « de façon convenable ». L'épouse garde la propriété de ses biens et de ses revenus ; si elle participe aux dépenses, c'est un don de sa part, récompensé.",
+      "src": [
+        "Coran 2:233",
+        "Coran 4:34"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "eth-t2-0013",
+      "concept": "eth.couple.consultation",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Coran parle-t-il de la décision du sevrage d'un enfant entre les parents ?",
+      "choices": [
+        "Par la seule décision de la mère",
+        "Par tirage au sort",
+        "D'un commun accord et après concertation",
+        "Par la seule décision du père"
+      ],
+      "answer": 2,
+      "expl": "« S'ils veulent le sevrer d'un commun accord et après concertation, nul reproche à eux. » Le Coran donne ici un modèle : les décisions du foyer se prennent ensemble, dans le dialogue.",
+      "src": [
+        "Coran 2:233"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "eth-t2-0014",
+      "concept": "eth.enfants-famille.berger",
+      "domain": "ethique",
+      "sub": "enfants-famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, que signifie « Chacun de vous est un berger » ?",
+      "choices": [
+        "Chacun doit élever des moutons",
+        "Seuls les chefs sont responsables",
+        "Chacun doit vivre à la campagne",
+        "Chacun répond de ceux dont il a la charge"
+      ],
+      "answer": 3,
+      "expl": "« Chacun de vous est un berger, et chacun est responsable de son troupeau : le dirigeant, l'homme dans sa famille, la femme dans la maison de son mari et pour ses enfants, le serviteur pour les biens de son maître. » Une responsabilité partagée à tous les niveaux.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0015",
+      "concept": "eth.enfants-famille.nughayr",
+      "domain": "ethique",
+      "sub": "enfants-famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ plaisantait-il avec le petit frère d'Anas, dont l'oiseau était mort ?",
+      "choices": [
+        "« Ô Abū ʿUmayr, qu'a fait le petit oiseau ? »",
+        "« Je t'en achèterai un plus beau »",
+        "« Ne pleure pas pour un oiseau »",
+        "« Va jouer avec les autres enfants »"
+      ],
+      "answer": 0,
+      "expl": "Le petit garçon avait un oiseau avec lequel il jouait. Le Prophète ﷺ le taquinait affectueusement en rimant : « Yā Abā ʿUmayr, mā faʿala n-nughayr ? » Les savants ont tiré de ce petit hadith des dizaines de leçons : jouer avec les enfants, leur donner un surnom, s'intéresser à leurs peines.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0016",
+      "concept": "eth.enfants-famille.orphelin",
+      "domain": "ethique",
+      "sub": "enfants-famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promet le Prophète ﷺ à celui qui prend en charge un orphelin ?",
+      "choices": [
+        "Une grande richesse ici-bas",
+        "D'être avec lui au Paradis",
+        "La dispense du jeûne",
+        "Une longue vie"
+      ],
+      "answer": 1,
+      "expl": "« Moi et celui qui prend en charge un orphelin, nous serons au Paradis comme ceci », et il montra l'index et le majeur légèrement écartés. Le Prophète ﷺ, orphelin lui-même, a fait de ce geste l'un des plus hauts.",
+      "src": [
+        "Hadith de Sahl ibn Saʿd — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t2-0017",
+      "concept": "eth.enfants-famille.aqiqa",
+      "domain": "ethique",
+      "sub": "enfants-famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce que la ʿaqīqa ?",
+      "choices": [
+        "Le repas de mariage",
+        "L'aumône de fin de Ramadan",
+        "Le sacrifice pour une naissance",
+        "La fête du septième mois"
+      ],
+      "answer": 2,
+      "expl": "« Chaque enfant est lié par sa ʿaqīqa, que l'on sacrifie pour lui le septième jour ; on lui rase la tête et on lui donne un nom. » Chez les malikites, c'est une sunna, avec un mouton pour le garçon comme pour la fille.",
+      "src": [
+        "Hadith de Samura ibn Jundub — Abu Dawud & Tirmidhi"
+      ],
+      "ar": {
+        "text": "الْعَقِيقَة",
+        "tr": "al-ʿaqīqa",
+        "pr": "al-ʿa-qî-qa",
+        "fr": "le sacrifice de naissance"
+      },
+      "note": "Les chaféites et hanbalites recommandent deux moutons pour un garçon et un pour une fille."
+    },
+    {
+      "id": "eth-t2-0018",
+      "concept": "eth.voisins-invites.faim",
+      "domain": "ethique",
+      "sub": "voisins-invites",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon un hadith, n'est pas un vrai croyant celui qui mange à sa faim alors que son voisin à côté de lui a faim.",
+      "answer": true,
+      "expl": "« N'est pas croyant celui qui se rassasie tandis que son voisin à son côté a faim. » La foi se mesure aussi à l'attention aux besoins des autres, à commencer par ceux qui habitent tout près.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bayhaqi"
+      ]
+    },
+    {
+      "id": "eth-t2-0019",
+      "concept": "eth.voisins-invites.porte",
+      "domain": "ethique",
+      "sub": "voisins-invites",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quel voisin ʿĀʾisha devait-elle offrir en priorité un cadeau, selon le conseil du Prophète ﷺ ?",
+      "choices": [
+        "Au plus riche du quartier",
+        "Au plus âgé de la rue",
+        "À celui qui lui avait offert un cadeau",
+        "À celui dont la porte est la plus proche"
+      ],
+      "answer": 3,
+      "expl": "ʿĀʾisha demanda : « J'ai deux voisins, auquel offrir ? » Il répondit : « À celui dont la porte est la plus proche de toi. » Le voisin le plus proche voit le plus ce qui entre et sort de chez nous.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t2-0020",
+      "concept": "eth.voisins-invites.sabot",
+      "domain": "ethique",
+      "sub": "voisins-invites",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ aux femmes croyantes à propos des cadeaux entre voisines ?",
+      "choices": [
+        "Ne mépriser aucun cadeau, fût-il un sabot",
+        "N'offrir que des cadeaux coûteux",
+        "Ne jamais accepter de cadeau",
+        "Offrir seulement aux voisines musulmanes"
+      ],
+      "answer": 0,
+      "expl": "« Ô femmes musulmanes, qu'aucune voisine ne méprise ce qu'elle offre à sa voisine, fût-ce un sabot de mouton. » Le petit cadeau compte, car il entretient l'affection ; ni celle qui donne ni celle qui reçoit ne doit le dédaigner.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0021",
+      "concept": "eth.voisins-invites.invitation",
+      "domain": "ethique",
+      "sub": "voisins-invites",
+      "tier": 2,
+      "type": "vf",
+      "q": "Répondre à une invitation (notamment à un repas de noces) fait partie des droits du musulman sur son frère.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ a cité « répondre à l'invitation » parmi les droits du musulman, et insistait particulièrement pour le repas de mariage. Il disait : « Si l'on m'invitait pour un pied de mouton, j'accepterais. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim",
+        "Hadith d'Abū Hurayra — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t2-0022",
+      "concept": "eth.parole.buhtan",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle différence le Prophète ﷺ fait-il entre la médisance (ghība) et la calomnie (buhtān) ?",
+      "choices": [
+        "Il n'y a aucune différence",
+        "Médisance : c'est vrai ; calomnie : c'est faux",
+        "Médisance : en public ; calomnie : en privé",
+        "Médisance : sur un mort ; calomnie : sur un vivant"
+      ],
+      "answer": 1,
+      "expl": "« Si ce que tu dis est en lui, tu as médit ; et si ce n'est pas en lui, tu l'as calomnié. » La médisance n'est donc pas excusée parce qu'elle est vraie ; la calomnie est encore plus grave.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0023",
+      "concept": "eth.parole.soupcon",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "trou",
+      "q": "« Évitez la suspicion, car la suspicion est la plus ___ des paroles. »",
+      "choices": [
+        "sage",
+        "fréquente",
+        "mensongère",
+        "légère"
+      ],
+      "answer": 2,
+      "expl": "Le Coran dit aussi : « Ô vous qui croyez, évitez de trop conjecturer sur autrui, car une partie des conjectures est péché ; et n'espionnez pas. » Supposer le mal sans preuve abîme les relations et le cœur.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim",
+        "Coran 49:12"
+      ]
+    },
+    {
+      "id": "eth-t2-0024",
+      "concept": "eth.parole.mensonge-exceptions",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Dans quels cas un hadith autorise-t-il à ne pas dire la stricte vérité ?",
+      "choices": [
+        "Pour gagner de l'argent au marché",
+        "Pour éviter une punition méritée",
+        "Pour impressionner les gens",
+        "Pour réconcilier, à la guerre, entre époux"
+      ],
+      "answer": 3,
+      "expl": "Umm Kulthūm bint ʿUqba rapporte que le Prophète ﷺ permit des paroles qui embellissent la vérité dans trois cas : réconcilier, la guerre, et les mots doux entre époux. Les savants précisent qu'il s'agit d'adoucir, non de tromper sur des droits.",
+      "src": [
+        "Hadith d'Umm Kulthūm bint ʿUqba — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0025",
+      "concept": "eth.parole.garantir",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que garantit le Prophète ﷺ à celui qui préserve « ce qui est entre ses mâchoires et ce qui est entre ses jambes » ?",
+      "choices": [
+        "Le Paradis",
+        "La richesse",
+        "Une longue vie",
+        "Le titre de savant"
+      ],
+      "answer": 0,
+      "expl": "« Celui qui me garantit ce qui est entre ses deux mâchoires (sa langue) et ce qui est entre ses deux jambes (sa chasteté), je lui garantis le Paradis. » Maîtriser sa parole et ses désirs : deux grands combats du quotidien.",
+      "src": [
+        "Hadith de Sahl ibn Saʿd — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t2-0026",
+      "concept": "eth.parole.moquerie",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "multi",
+      "q": "Que demande le verset 49:11 aux croyants ?",
+      "choices": [
+        "Ne pas se moquer des autres",
+        "Ne pas se dénigrer",
+        "Ne jamais rire",
+        "Ne pas s'attribuer de sobriquets blessants",
+        "Ne jamais plaisanter"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "« Ô vous qui croyez ! Qu'un groupe ne se raille pas d'un autre groupe : ceux-ci sont peut-être meilleurs qu'eux… Ne vous dénigrez pas et ne vous lancez pas de sobriquets. » L'humour est permis, la moquerie blessante non.",
+      "src": [
+        "Coran 49:11"
+      ],
+      "tags": [
+        "sourate:49"
+      ]
+    },
+    {
+      "id": "eth-t2-0027",
+      "concept": "eth.coeur.freres",
+      "domain": "ethique",
+      "sub": "coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que commande le hadith « Ne vous haïssez pas, ne vous enviez pas, ne vous tournez pas le dos… » ?",
+      "choices": [
+        "« … et restez chacun chez soi »",
+        "« … et soyez, serviteurs d'Allah, des frères »",
+        "« … et obéissez aux plus riches »",
+        "« … et méfiez-vous des étrangers »"
+      ],
+      "answer": 1,
+      "expl": "Ce hadith rassemble les maladies qui détruisent les liens (haine, jalousie, rupture) et donne le remède : la fraternité. Il ajoute qu'il n'est pas permis à un musulman de délaisser son frère plus de trois jours.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0028",
+      "concept": "eth.coeur.trois-jours",
+      "domain": "ethique",
+      "sub": "coeur",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Selon le hadith, au-delà de combien de jours n'est-il pas permis de bouder son frère musulman ?",
+      "answer": 3,
+      "expl": "Trois jours. « Le meilleur des deux est celui qui commence par le salam. » Le délai laisse le temps à la colère de retomber, puis on renoue, même si l'on a raison.",
+      "src": [
+        "Hadith d'Abū Ayyūb al-Anṣārī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0029",
+      "concept": "eth.coeur.coeur-dur",
+      "domain": "ethique",
+      "sub": "coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que conseilla le Prophète ﷺ à un homme qui se plaignait de la dureté de son cœur ?",
+      "choices": [
+        "Jeûner quarante jours de suite",
+        "Partir vivre seul dans le désert quelque temps",
+        "Caresser la tête de l'orphelin, nourrir le pauvre",
+        "Lire le Coran toute la nuit"
+      ],
+      "answer": 2,
+      "expl": "« Si tu veux que ton cœur s'adoucisse, nourris le pauvre et passe ta main sur la tête de l'orphelin. » Le service concret des plus faibles est un remède aux cœurs endurcis.",
+      "src": [
+        "Hadith d'Abū Hurayra — Ahmad"
+      ]
+    },
+    {
+      "id": "eth-t2-0030",
+      "concept": "eth.salam.non-musulmans",
+      "domain": "ethique",
+      "sub": "salam",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment répond-on, selon le hadith, quand des gens du Livre nous saluent ?",
+      "choices": [
+        "Rien, on ignore",
+        "« Allāhu akbar »",
+        "« Āmīn »",
+        "« Wa ʿalaykum »"
+      ],
+      "answer": 3,
+      "expl": "« Quand les gens du Livre vous saluent, dites : wa ʿalaykum. » Ce hadith visait une situation où certains déformaient le salam en malédiction. Beaucoup de savants contemporains permettent de répondre pleinement à un salut sincère, en s'appuyant sur le verset 4:86.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim",
+        "Coran 4:86"
+      ],
+      "note": "Les avis varient sur le fait de commencer par le salam avec des non-musulmans ; beaucoup permettent des salutations courtoises."
+    },
+    {
+      "id": "eth-t2-0031",
+      "concept": "eth.salam.enfants",
+      "domain": "ethique",
+      "sub": "salam",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ saluait les enfants quand il passait près d'eux.",
+      "answer": true,
+      "expl": "Anas rapporte qu'il passa près d'enfants et les salua. Saluer les enfants leur apprend le salam, leur donne de l'importance et cultive l'humilité.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0032",
+      "concept": "eth.salam.maison",
+      "domain": "ethique",
+      "sub": "salam",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que recommande le Coran en entrant dans une maison, même vide ?",
+      "choices": [
+        "Saluer, d'une salutation bénie",
+        "Se taire et entrer discrètement",
+        "Réciter la Fātiḥa en entier",
+        "Frapper trois fois au mur"
+      ],
+      "answer": 0,
+      "expl": "Le verset 24:61 demande de saluer en entrant chez soi. Si la maison est vide, beaucoup de savants recommandent de dire : « As-salāmu ʿalaynā wa ʿalā ʿibādi Llāhi ṣ-ṣāliḥīn », que la paix soit sur nous et sur les serviteurs vertueux d'Allah.",
+      "src": [
+        "Coran 24:61"
+      ],
+      "tags": [
+        "sourate:24"
+      ]
+    },
+    {
+      "id": "eth-t2-0033",
+      "concept": "eth.manger.milieu",
+      "domain": "ethique",
+      "sub": "manger",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi le Prophète ﷺ recommandait-il de ne pas manger au milieu du plat ?",
+      "choices": [
+        "C'est la partie la plus chaude",
+        "La bénédiction descend au milieu",
+        "C'est la part de l'invité d'honneur",
+        "C'est la part des enfants"
+      ],
+      "answer": 1,
+      "expl": "« La bénédiction descend au milieu du plat ; mangez sur les côtés et ne mangez pas au milieu. » Cela s'ajoute à la règle de manger ce qui est devant soi quand on partage un plat commun.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Abu Dawud & Tirmidhi"
+      ]
+    },
+    {
+      "id": "eth-t2-0034",
+      "concept": "eth.manger.bouchee",
+      "domain": "ethique",
+      "sub": "manger",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faire, selon la Sunna, d'une bouchée tombée par terre ?",
+      "choices": [
+        "La laisser pour les oiseaux",
+        "La jeter à la poubelle",
+        "La ramasser, la nettoyer, la manger",
+        "La donner à un animal"
+      ],
+      "answer": 2,
+      "expl": "« Quand une bouchée de l'un de vous tombe, qu'il enlève ce qui l'a souillée et la mange, et qu'il ne la laisse pas au Shayṭān. » Une leçon contre le gaspillage et pour le respect de la nourriture.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0035",
+      "concept": "eth.manger.tiers",
+      "domain": "ethique",
+      "sub": "manger",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, comment répartir son estomac pour manger sainement ?",
+      "choices": [
+        "Manger jusqu'à être bien rassasié, sans culpabilité",
+        "Un seul repas par jour",
+        "Manger seulement le soir",
+        "Un tiers nourriture, un tiers boisson, un tiers air"
+      ],
+      "answer": 3,
+      "expl": "« Le fils d'Adam ne remplit pas de récipient pire que son ventre. Quelques bouchées suffisent pour tenir son dos droit ; s'il le faut, un tiers pour sa nourriture, un tiers pour sa boisson, un tiers pour son souffle. » Une diététique toujours actuelle.",
+      "src": [
+        "Hadith d'al-Miqdām ibn Maʿdīkarib — Tirmidhi"
+      ]
+    },
+    {
+      "id": "eth-t2-0036",
+      "concept": "eth.manger.or-argent",
+      "domain": "ethique",
+      "sub": "manger",
+      "tier": 2,
+      "type": "vf",
+      "q": "Il est interdit de manger ou de boire dans des récipients en or ou en argent.",
+      "answer": true,
+      "expl": "« Ne buvez pas dans des récipients d'or et d'argent et ne mangez pas dans leurs plats : ils sont à eux (les mécréants) dans ce monde et à vous dans l'au-delà. » L'interdiction vise le luxe ostentatoire.",
+      "src": [
+        "Hadith de Ḥudhayfa — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0037",
+      "concept": "eth.travail-argent.commercant",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Avec qui sera, selon le hadith, le commerçant véridique et digne de confiance ?",
+      "choices": [
+        "Avec les prophètes, véridiques et martyrs",
+        "Avec les rois, les princes et les riches",
+        "Avec les riches de ce monde",
+        "Avec les anges du ciel"
+      ],
+      "answer": 0,
+      "expl": "« Le commerçant véridique et digne de confiance sera avec les prophètes, les véridiques et les martyrs. » L'honnêteté dans le travail est une forme élevée d'adoration.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Tirmidhi"
+      ]
+    },
+    {
+      "id": "eth-t2-0038",
+      "concept": "eth.travail-argent.facile",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour qui le Prophète ﷺ invoqua-t-il la miséricorde d'Allah dans le domaine du commerce ?",
+      "choices": [
+        "Le plus riche marchand de Médine",
+        "Le conciliant qui vend, achète et réclame",
+        "Celui qui vend le plus cher",
+        "Celui qui ne prête jamais"
+      ],
+      "answer": 1,
+      "expl": "« Qu'Allah fasse miséricorde à l'homme accommodant quand il vend, quand il achète et quand il réclame ce qui lui est dû. » La souplesse et la bonne humeur dans les affaires attirent la bénédiction.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t2-0039",
+      "concept": "eth.travail-argent.dette",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith de la personne aisée qui tarde à rembourser ses dettes ?",
+      "choices": [
+        "C'est permis s'il est occupé",
+        "C'est une aumône",
+        "Son retard est une injustice",
+        "C'est une habileté"
+      ],
+      "answer": 2,
+      "expl": "« Le retard du riche à payer est une injustice. » Celui qui peut rembourser doit le faire sans traîner. À l'inverse, le Coran demande d'accorder un délai à l'endetté en difficulté, et d'effacer la dette, ce qui est encore mieux.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim",
+        "Coran 2:280"
+      ]
+    },
+    {
+      "id": "eth-t2-0040",
+      "concept": "eth.travail-argent.corruption",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a maudit celui qui donne un pot-de-vin et celui qui le reçoit.",
+      "answer": true,
+      "expl": "« Le Messager d'Allah a maudit le corrupteur et le corrompu. » La corruption détruit la justice et la confiance. Le Coran demande aussi de ne pas se servir des biens pour influencer les juges (2:188).",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn ʿAmr — Abu Dawud & Tirmidhi",
+        "Coran 2:188"
+      ]
+    },
+    {
+      "id": "eth-t2-0041",
+      "concept": "eth.travail-argent.itqan",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith rapporté par al-Bayhaqī à propos du travail bien fait ?",
+      "choices": [
+        "Le travail n'a pas d'importance",
+        "Seule la prière compte",
+        "Il faut travailler le moins possible",
+        "Allah aime le travail fait avec perfection"
+      ],
+      "answer": 3,
+      "expl": "« Allah aime, quand l'un de vous accomplit un travail, qu'il le fasse avec perfection (itqān). » Bien faire son travail, même modeste, est un acte d'iḥsān.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bayhaqi"
+      ]
+    },
+    {
+      "id": "eth-t2-0042",
+      "concept": "eth.nature-animaux.fourmis",
+      "domain": "ethique",
+      "sub": "nature-animaux",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que fit le Prophète ﷺ en voyant une fourmilière brûlée par des Compagnons ?",
+      "choices": [
+        "Il interdit de punir par le feu",
+        "Il félicita les Compagnons",
+        "Il ne dit rien",
+        "Il demanda d'en brûler d'autres"
+      ],
+      "answer": 0,
+      "expl": "Il demanda : « Qui a brûlé ceci ? » et dit : « Il ne convient pas de châtier par le feu, sauf au Seigneur du feu. » Même une fourmilière mérite respect.",
+      "src": [
+        "Hadith d'Ibn Masʿūd — Abu Dawud"
+      ]
+    },
+    {
+      "id": "eth-t2-0043",
+      "concept": "eth.nature-animaux.oiseau",
+      "domain": "ethique",
+      "sub": "nature-animaux",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ en voyant un oiseau tournoyer autour de ses Compagnons, qui avaient pris ses petits ?",
+      "choices": [
+        "« Gardez-les, ils sont à vous »",
+        "« Rendez-lui ses petits »",
+        "« Chassez cet oiseau »",
+        "« Vendez-les au marché »"
+      ],
+      "answer": 1,
+      "expl": "En voyage, des Compagnons avaient pris deux oisillons ; la mère battait des ailes au-dessus d'eux. Le Prophète ﷺ demanda de les lui rendre. La compassion envers les animaux fait partie du caractère prophétique.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn Masʿūd — Abu Dawud"
+      ]
+    },
+    {
+      "id": "eth-t2-0044",
+      "concept": "eth.nature-animaux.chameau",
+      "domain": "ethique",
+      "sub": "nature-animaux",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ au propriétaire d'un chameau qui pleurait en le voyant ?",
+      "choices": [
+        "« Vends-le vite, il est trop vieux pour travailler »",
+        "« Achète-en un plus fort »",
+        "« Ne crains-tu pas Allah au sujet de cette bête ? »",
+        "« Il pleure de joie »"
+      ],
+      "answer": 2,
+      "expl": "En entrant dans un jardin de Médine, le Prophète ﷺ vit un chameau qui pleurait ; il lui caressa la tête et réprimanda doucement son propriétaire. L'animal a des droits : nourriture, repos, et ne pas être surchargé.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn Jaʿfar — Abu Dawud"
+      ]
+    },
+    {
+      "id": "eth-t2-0045",
+      "concept": "eth.nature-animaux.cible",
+      "domain": "ethique",
+      "sub": "nature-animaux",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a interdit de prendre un être vivant comme cible pour s'entraîner au tir.",
+      "answer": true,
+      "expl": "Ibn ʿUmar vit des jeunes qui tiraient sur une poule attachée ; il les dispersa et dit : « Le Prophète ﷺ a maudit celui qui prend pour cible un être vivant. » Tuer ou faire souffrir un animal par jeu est interdit.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0046",
+      "concept": "eth.pudeur.permission",
+      "domain": "ethique",
+      "sub": "pudeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Combien de fois demande-t-on la permission d'entrer chez quelqu'un avant de repartir, selon le hadith ?",
+      "choices": [
+        "Trois fois",
+        "Une fois",
+        "Dix fois",
+        "Jamais, on entre directement"
+      ],
+      "answer": 0,
+      "expl": "« La demande de permission se fait trois fois ; si on te l'accorde, entre, sinon repars. » Le Coran demande de ne pas entrer dans les maisons des autres sans permission et sans saluer (24:27). Respect de l'intimité de chacun.",
+      "src": [
+        "Hadith d'Abū Mūsā al-Ashʿarī — Bukhari & Muslim",
+        "Coran 24:27"
+      ]
+    },
+    {
+      "id": "eth-t2-0047",
+      "concept": "eth.pudeur.uthman",
+      "domain": "ethique",
+      "sub": "pudeur",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a dit de ʿUthmān que même les anges éprouvaient de la pudeur devant lui.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ ajusta un jour son vêtement à l'arrivée de ʿUthmān, et expliqua : « Ne dois-je pas avoir de la pudeur envers un homme devant qui les anges ont de la pudeur ? » La pudeur de ʿUthmān était proverbiale.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0048",
+      "concept": "eth.societe.entraide",
+      "domain": "ethique",
+      "sub": "societe",
+      "tier": 2,
+      "type": "trou",
+      "q": "« Entraidez-vous dans la bonté et la piété, et ne vous entraidez pas dans le ___ et la transgression. »",
+      "choices": [
+        "travail",
+        "voyage",
+        "commerce",
+        "péché"
+      ],
+      "answer": 3,
+      "expl": "Le verset 5:2 pose une règle de vie en société : soutenir toute initiative de bien, quelle qu'en soit l'origine, et refuser de participer à l'injustice, même au profit des siens.",
+      "src": [
+        "Coran 5:2"
+      ],
+      "tags": [
+        "sourate:5"
+      ]
+    },
+    {
+      "id": "eth-t2-0049",
+      "concept": "eth.societe.muahad",
+      "domain": "ethique",
+      "sub": "societe",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de celui qui tue un non-musulman vivant sous la protection d'un pacte (muʿāhad) ?",
+      "choices": [
+        "Il ne sentira pas l'odeur du Paradis",
+        "Il est récompensé",
+        "Il n'a rien fait de grave",
+        "Il doit seulement payer une amende"
+      ],
+      "answer": 0,
+      "expl": "« Celui qui tue une personne liée par un pacte ne sentira pas l'odeur du Paradis, alors que son odeur se perçoit à quarante ans de marche. » La vie des non-musulmans qui vivent en paix est inviolable.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn ʿAmr — Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t2-0050",
+      "concept": "eth.societe.depots",
+      "domain": "ethique",
+      "sub": "societe",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que commande le verset 4:58 à propos des responsabilités et des biens confiés ?",
+      "choices": [
+        "Les garder pour soi",
+        "Les rendre, et juger avec équité",
+        "Les partager entre tous",
+        "Les confier au roi"
+      ],
+      "answer": 1,
+      "expl": "« Allah vous commande de rendre les dépôts à leurs ayants droit, et quand vous jugez entre les gens, de juger avec équité. » Les responsabilités publiques (postes, argent commun) sont des dépôts confiés, dont on rendra compte.",
+      "src": [
+        "Coran 4:58"
+      ],
+      "tags": [
+        "sourate:4"
+      ]
+    },
+    {
+      "id": "eth-t2-0051",
+      "concept": "eth.bon-caractere.balance",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, par son bon caractère, le croyant atteint le rang de celui qui…",
+      "choices": [
+        "a fait le pèlerinage chaque année",
+        "connaît le Coran par cœur",
+        "a combattu dans toutes les batailles",
+        "jeûne le jour et prie la nuit"
+      ],
+      "answer": 3,
+      "expl": "« Le croyant atteint, par son bon caractère, le degré de celui qui jeûne et passe la nuit en prière » (Abū Dāwūd). La douceur avec les gens vaut autant que de longues adorations.",
+      "src": [
+        "Hadith de ʿĀʾisha — Abū Dāwūd"
+      ]
+    },
+    {
+      "id": "eth-t2-0052",
+      "concept": "eth.bon-caractere.degre",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith, le croyant peut atteindre par son bon caractère le degré de celui qui jeûne le jour et prie la nuit.",
+      "answer": true,
+      "expl": "« Le croyant atteint, par son bon caractère, le degré de celui qui jeûne et prie la nuit » (Abū Dāwūd). Le comportement est une adoration à part entière.",
+      "src": [
+        "Abū Dāwūd (ṣaḥīḥ)"
+      ]
+    },
+    {
+      "id": "eth-t2-0053",
+      "concept": "eth.bon-caractere.plus-proches",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui seront les plus proches du Prophète ﷺ au Jour de la Résurrection, selon le hadith ?",
+      "choices": [
+        "Les meilleurs en caractère",
+        "Les plus riches",
+        "Les plus savants en religion",
+        "Les plus âgés"
+      ],
+      "answer": 0,
+      "expl": "« Les plus aimés de moi et les plus proches de moi au Jour de la Résurrection sont ceux qui ont le meilleur caractère » (Tirmidhi).",
+      "src": [
+        "Tirmidhi (ḥasan)"
+      ]
+    },
+    {
+      "id": "eth-t2-0054",
+      "concept": "eth.parents.obeir-peche",
+      "domain": "ethique",
+      "sub": "parents",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faire si ses parents demandent quelque chose qui désobéit à Allah ?",
+      "choices": [
+        "Obéir dans tous les cas",
+        "Refuser sur ce point, mais rester bon",
+        "Rompre avec eux définitivement",
+        "Leur répondre durement"
+      ],
+      "answer": 1,
+      "expl": "« S'ils te forcent à M'associer ce dont tu n'as aucune connaissance, ne leur obéis pas ; mais tiens-leur compagnie ici-bas de manière convenable » (31:15). « Pas d'obéissance à une créature dans la désobéissance au Créateur » (Aḥmad).",
+      "src": [
+        "Coran 31:15 ; Aḥmad"
+      ]
+    },
+    {
+      "id": "eth-t2-0055",
+      "concept": "eth.parents.mere-pourquoi",
+      "domain": "ethique",
+      "sub": "parents",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi, selon les savants, le Prophète ﷺ cita-t-il trois fois la mère avant le père ?",
+      "choices": [
+        "Elle est plus âgée que le père",
+        "Elle est plus pieuse en général",
+        "Grossesse, accouchement, allaitement",
+        "C'est une simple coutume arabe"
+      ],
+      "answer": 2,
+      "expl": "« Ta mère, puis ta mère, puis ta mère, puis ton père » (Bukhari). Les savants y voient les trois épreuves propres à la mère, que le Coran mentionne : « Sa mère l'a porté, peine sur peine » (31:14).",
+      "src": [
+        "Bukhari et Muslim ; Coran 31:14"
+      ]
+    },
+    {
+      "id": "eth-t2-0056",
+      "concept": "eth.couple.secrets",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith de celui qui divulgue l'intimité de son couple ?",
+      "choices": [
+        "Un péché léger, vite pardonné",
+        "Sans importance",
+        "Recommandé pour conseiller les autres",
+        "Parmi les pires aux yeux d'Allah"
+      ],
+      "answer": 3,
+      "expl": "« Parmi les pires des gens auprès d'Allah, au Jour de la Résurrection, il y a l'homme qui s'unit à sa femme, et elle à lui, puis divulgue son secret » (Muslim). L'intimité du couple est un dépôt.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0057",
+      "concept": "eth.couple.mahr",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À qui appartient la dot (mahr) dans le mariage musulman ?",
+      "choices": [
+        "À l'épouse, entièrement",
+        "Au père de la mariée",
+        "Aux deux familles",
+        "Au mari, qui la garde"
+      ],
+      "answer": 0,
+      "expl": "« Donnez aux femmes leur dot de bon cœur » (4:4). La dot est un droit de la femme, qu'elle utilise comme elle veut. Le Prophète ﷺ encourageait des dots modestes, pour faciliter le mariage.",
+      "src": [
+        "Coran 4:4"
+      ]
+    },
+    {
+      "id": "eth-t2-0058",
+      "concept": "eth.couple.consentement",
+      "domain": "ethique",
+      "sub": "couple",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Le mariage d'une femme est-il valable sans son consentement ?",
+      "choices": [
+        "Oui, si le père est d'accord",
+        "Non : son accord est nécessaire",
+        "Oui, si la dot est payée",
+        "Oui, si elle est jeune"
+      ],
+      "answer": 1,
+      "expl": "« La femme qui a déjà été mariée n'est pas mariée sans être consultée, ni la vierge sans qu'on lui demande la permission » (Bukhari). Une femme vint se plaindre d'avoir été mariée contre son gré : le Prophète ﷺ lui donna le choix d'annuler (Bukhari).",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t2-0059",
+      "concept": "eth.enfants-famille.noms",
+      "domain": "ethique",
+      "sub": "enfants-famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels prénoms le Prophète ﷺ cita-t-il comme les plus aimés d'Allah ?",
+      "choices": [
+        "Muḥammad et Aḥmad, ses propres noms",
+        "Ibrāhīm et Mūsā",
+        "ʿAbdallāh et ʿAbd ar-Raḥmān",
+        "ʿAlī et ʿUmar"
+      ],
+      "answer": 2,
+      "expl": "« Les noms les plus aimés d'Allah sont ʿAbdallāh et ʿAbd ar-Raḥmān » (Muslim) : « serviteur d'Allah », « serviteur du Tout Miséricordieux ». Donner un beau nom à l'enfant est un de ses droits ; le Prophète ﷺ changeait les noms au sens négatif.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0060",
+      "concept": "eth.enfants-famille.tahnik",
+      "domain": "ethique",
+      "sub": "enfants-famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faisait le Prophète ﷺ aux nouveau-nés qu'on lui apportait ?",
+      "choices": [
+        "Il leur rasait la tête",
+        "Il leur donnait un nom arabe devant tous",
+        "Il leur lisait toute la Fātiḥa",
+        "Le taḥnīk avec une datte, puis une invocation"
+      ],
+      "answer": 3,
+      "expl": "On lui apporta ʿAbdallāh ibn az-Zubayr, le premier enfant né à Médine après l'Hégire : il mâcha une datte, lui en frotta le palais et pria pour lui (Bukhari). Le taḥnīk est resté une sunna.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0061",
+      "concept": "eth.voisins-invites.trois-jours",
+      "domain": "ethique",
+      "sub": "voisins-invites",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Combien de jours dure l'hospitalité due à un invité, selon le hadith ?",
+      "choices": [
+        "Trois jours ; au-delà, c'est une aumône",
+        "Un jour seulement",
+        "Une semaine",
+        "Autant qu'il veut, obligatoirement"
+      ],
+      "answer": 0,
+      "expl": "« Que celui qui croit en Allah et au Jour dernier honore son invité… L'hospitalité est de trois jours ; au-delà, c'est une aumône. Et il n'est pas permis à l'invité de rester jusqu'à gêner son hôte » (Bukhari et Muslim).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0062",
+      "concept": "eth.voisins-invites.voisin-juif",
+      "domain": "ethique",
+      "sub": "voisins-invites",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que demanda ʿAbdallāh ibn ʿAmr à sa famille après avoir égorgé un mouton ?",
+      "choices": [
+        "« Invitez seulement les musulmans »",
+        "« Avez-vous donné à notre voisin juif ? »",
+        "« Gardez tout pour nous »",
+        "« Vendez la peau »"
+      ],
+      "answer": 1,
+      "expl": "Il répéta la question, puis cita le hadith : « Jibrīl n'a cessé de me recommander le voisin, au point que j'ai cru qu'il allait le faire hériter » (Tirmidhi). Le droit du voisin ne dépend pas de sa religion.",
+      "src": [
+        "Tirmidhi ; Abū Dāwūd"
+      ]
+    },
+    {
+      "id": "eth-t2-0063",
+      "concept": "eth.parole.ghiba",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ définit-il la médisance (ghība) ?",
+      "choices": [
+        "Parler fort",
+        "Critiquer un plat",
+        "Parler de son frère, en son absence, d'une chose qu'il n'aimerait pas, même si c'est vrai",
+        "Mentir sur quelqu'un"
+      ],
+      "answer": 2,
+      "expl": "« Sais-tu ce qu'est la médisance ? C'est évoquer ton frère par ce qu'il déteste. — Et si ce que je dis est vrai ? — Si c'est vrai, c'est de la médisance ; si c'est faux, c'est de la calomnie (buhtān) » (Muslim).",
+      "src": [
+        "Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "eth-t2-0064",
+      "concept": "eth.parole.namima",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith du colporteur (nammām), qui rapporte les paroles des uns aux autres pour semer la discorde ?",
+      "choices": [
+        "Il est utile à la communauté",
+        "Il doit jeûner trois jours",
+        "Ce n'est pas un péché",
+        "Il n'entrera pas au Paradis"
+      ],
+      "answer": 3,
+      "expl": "« Le colporteur n'entrera pas au Paradis » (Bukhari et Muslim). Passant près de deux tombes, le Prophète ﷺ dit que l'un des défunts était châtié pour avoir colporté des paroles (Bukhari).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0065",
+      "concept": "eth.parole.jurer",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Par qui le musulman peut-il jurer ?",
+      "choices": [
+        "Par Allah seulement",
+        "Par ses parents",
+        "Par le Prophète ﷺ",
+        "Par sa vie"
+      ],
+      "answer": 0,
+      "expl": "« Allah vous interdit de jurer par vos pères. Que celui qui jure jure par Allah, ou qu'il se taise » (Bukhari et Muslim). Jurer par autre qu'Allah, c'est lui donner une grandeur qui n'appartient qu'à Lui.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0066",
+      "concept": "eth.parole.dispute",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promet le hadith à celui qui renonce à une dispute, même s'il a raison ?",
+      "choices": [
+        "Rien",
+        "Une maison aux abords du Paradis",
+        "La victoire sur son adversaire",
+        "Une richesse"
+      ],
+      "answer": 1,
+      "expl": "« Je garantis une maison aux abords du Paradis à celui qui délaisse la dispute même s'il a raison, une maison au milieu du Paradis à celui qui délaisse le mensonge même pour plaisanter, et une maison au plus haut du Paradis à celui dont le caractère est beau » (Abū Dāwūd).",
+      "src": [
+        "Abū Dāwūd (ḥasan)"
+      ]
+    },
+    {
+      "id": "eth-t2-0067",
+      "concept": "eth.coeur.kibr",
+      "domain": "ethique",
+      "sub": "coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ définit-il l'orgueil (kibr) ?",
+      "choices": [
+        "Porter de beaux vêtements",
+        "Avoir beaucoup d'argent et le montrer",
+        "Rejeter la vérité, mépriser les gens",
+        "Être fier de ses enfants"
+      ],
+      "answer": 2,
+      "expl": "Un homme demanda s'il était orgueilleux d'aimer les beaux habits. « Allah est beau et Il aime la beauté. L'orgueil, c'est rejeter la vérité et mépriser les gens » (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0068",
+      "concept": "eth.coeur.freres-interdits",
+      "domain": "ethique",
+      "sub": "coeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que liste le hadith « Ne vous enviez pas… » (Muslim) ?",
+      "choices": [
+        "Ne priez pas seuls",
+        "Ne voyagez pas seuls",
+        "Ne mangez pas seuls",
+        "Ne vous enviez pas, ne surenchérissez pas pour tromper, ne vous haïssez pas, ne vous tournez pas le dos : soyez des serviteurs d'Allah, frères"
+      ],
+      "answer": 3,
+      "expl": "Ce hadith (35e d'an-Nawawī) énumère les poisons de la fraternité : l'envie, la tromperie commerciale, la haine, le rejet, et la concurrence déloyale dans une vente. Il conclut : « Soyez, ô serviteurs d'Allah, des frères » (Muslim).",
+      "src": [
+        "Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "eth-t2-0069",
+      "concept": "eth.salam.qui-salue",
+      "domain": "ethique",
+      "sub": "salam",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon la Sunna, qui salue en premier ?",
+      "choices": [
+        "Le cavalier, le piéton, le petit groupe",
+        "Le plus âgé, toujours",
+        "Le plus pauvre, toujours",
+        "Celui qui arrive le dernier, par politesse"
+      ],
+      "answer": 0,
+      "expl": "« Le cavalier salue le piéton, le piéton salue celui qui est assis, et le petit nombre salue le grand nombre » (Bukhari) ; et le plus jeune salue le plus âgé. Mais « le meilleur est celui qui commence par le salām » (Abū Dāwūd).",
+      "src": [
+        "Bukhari ; Abū Dāwūd"
+      ]
+    },
+    {
+      "id": "eth-t2-0070",
+      "concept": "eth.salam.repondre",
+      "domain": "ethique",
+      "sub": "salam",
+      "tier": 2,
+      "type": "vf",
+      "q": "Répondre au salām est obligatoire.",
+      "answer": true,
+      "expl": "« Lorsqu'on vous salue d'une salutation, saluez d'une façon plus belle, ou rendez-la » (4:86). Commencer est une sunna très recommandée ; répondre est une obligation.",
+      "src": [
+        "Coran 4:86"
+      ]
+    },
+    {
+      "id": "eth-t2-0071",
+      "concept": "eth.manger.critiquer",
+      "domain": "ethique",
+      "sub": "manger",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faisait le Prophète ﷺ d'un plat qu'il n'aimait pas ?",
+      "choices": [
+        "Il le donnait aux animaux devant tout le monde",
+        "Il ne le critiquait jamais : il le laissait simplement",
+        "Il demandait qu'on le refasse",
+        "Il disait qu'il était mauvais"
+      ],
+      "answer": 1,
+      "expl": "« Le Prophète ﷺ ne critiqua jamais un plat : s'il l'aimait, il le mangeait ; sinon, il le laissait » (Bukhari et Muslim). Un respect pour la nourriture et pour celui qui l'a préparée.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0072",
+      "concept": "eth.manger.exces",
+      "domain": "ethique",
+      "sub": "manger",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Coran à propos de la nourriture dans le verset 7:31 ?",
+      "choices": [
+        "« Jeûnez le plus souvent possible »",
+        "« Ne mangez que du pain »",
+        "« Mangez et buvez, sans excès »",
+        "« Mangez seul, jamais en groupe »"
+      ],
+      "answer": 2,
+      "expl": "« Ô enfants d'Ādam, dans chaque lieu de prière, portez vos parures. Mangez et buvez, et ne commettez pas d'excès : Il n'aime pas ceux qui commettent des excès » (7:31). Ni privation, ni gaspillage.",
+      "src": [
+        "Coran 7:31"
+      ]
+    },
+    {
+      "id": "eth-t2-0073",
+      "concept": "eth.travail-argent.mendier",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que vaut mieux que mendier, selon le hadith ?",
+      "choices": [
+        "Attendre l'aumône à la mosquée",
+        "Emprunter sans rembourser",
+        "Hériter de ses parents",
+        "Vendre un fagot de bois porté sur son dos"
+      ],
+      "answer": 3,
+      "expl": "« Que l'un de vous prenne sa corde, rapporte un fagot de bois sur son dos et le vende, et qu'Allah préserve ainsi son honneur, vaut mieux pour lui que de mendier, qu'on lui donne ou qu'on lui refuse » (Bukhari). Le travail, même humble, est une dignité.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t2-0074",
+      "concept": "eth.travail-argent.tromper",
+      "domain": "ethique",
+      "sub": "travail-argent",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ en découvrant un marchand qui cachait le grain mouillé sous le grain sec ?",
+      "choices": [
+        "« Celui qui nous trompe n'est pas des nôtres »",
+        "« C'est de bonne guerre »",
+        "« Vends-le moins cher »",
+        "« Donne-le en aumône »"
+      ],
+      "answer": 0,
+      "expl": "Il plongea la main dans le tas de grain et trouva de l'humidité dessous : « Pourquoi ne l'as-tu pas mis dessus pour que les gens le voient ? Celui qui nous trompe n'est pas des nôtres » (Muslim).",
+      "src": [
+        "Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "eth-t2-0075",
+      "concept": "eth.nature-animaux.arbres-guerre",
+      "domain": "ethique",
+      "sub": "nature-animaux",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que recommanda Abū Bakr à son armée partant en Syrie ?",
+      "choices": [
+        "Conquérir vite et tout détruire sur leur passage",
+        "Épargner arbres, femmes, enfants et vieillards",
+        "Prendre tout le butin possible",
+        "Ne faire aucun prisonnier"
+      ],
+      "answer": 1,
+      "expl": "Ses dix recommandations, rapportées par Mālik dans le Muwaṭṭaʾ, interdisent de tuer les non-combattants, de couper les arbres fruitiers, de détruire les lieux habités et d'abattre le bétail sauf pour se nourrir. Une éthique de la guerre au VIIe siècle.",
+      "src": [
+        "Mālik, Muwaṭṭaʾ"
+      ]
+    },
+    {
+      "id": "eth-t2-0076",
+      "concept": "eth.nature-animaux.visage",
+      "domain": "ethique",
+      "sub": "nature-animaux",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'interdit le Prophète ﷺ à propos des animaux ?",
+      "choices": [
+        "De les nourrir trop",
+        "De les vendre au marché",
+        "De les frapper au visage",
+        "De les monter le vendredi"
+      ],
+      "answer": 2,
+      "expl": "Il passa près d'un âne marqué au fer sur le visage et dit : « Qu'Allah maudisse celui qui l'a marqué » (Muslim). Il interdit aussi de prendre un être vivant pour cible.",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0077",
+      "concept": "eth.pudeur.regard",
+      "domain": "ethique",
+      "sub": "pudeur",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos d'un regard porté par hasard sur ce qui ne convient pas ?",
+      "choices": [
+        "« Tous les regards sont permis »",
+        "« Il faut fermer les yeux dès qu'on sort de chez soi »",
+        "« Seul le regard de nuit compte »",
+        "« Le premier regard est pour toi, pas le second »"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ dit à ʿAlī : « Ne fais pas suivre le regard d'un autre regard : le premier est pour toi, le second est contre toi » (Abū Dāwūd ; Tirmidhi). Le regard involontaire est pardonné ; c'est l'insistance qui compte.",
+      "src": [
+        "Abū Dāwūd ; Tirmidhi"
+      ]
+    },
+    {
+      "id": "eth-t2-0078",
+      "concept": "eth.societe.droits-musulman",
+      "domain": "ethique",
+      "sub": "societe",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels sont les droits du musulman sur le musulman, selon le hadith ?",
+      "choices": [
+        "Salām, invitation, conseil, malade, convoi funèbre",
+        "Lui donner le dixième de ses biens chaque année",
+        "Prier derrière lui chaque jour",
+        "Le recevoir chez soi chaque semaine"
+      ],
+      "answer": 0,
+      "expl": "« Le droit du musulman sur le musulman est de six : quand tu le rencontres, salue-le ; quand il t'invite, réponds-lui ; quand il te demande conseil, conseille-le ; quand il éternue et loue Allah, dis « yarḥamuka llāh » ; quand il est malade, visite-le ; quand il meurt, suis son convoi » (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0079",
+      "concept": "eth.societe.chemin",
+      "domain": "ethique",
+      "sub": "societe",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels sont « les droits du chemin » que le Prophète ﷺ demanda de respecter à ceux qui s'assoient dans la rue ?",
+      "choices": [
+        "Payer une petite taxe au chef du quartier",
+        "Baisser le regard, ne pas nuire, rendre le salām",
+        "Ne s'y asseoir que le vendredi",
+        "Y réciter le Coran à voix haute"
+      ],
+      "answer": 1,
+      "expl": "« Évitez de vous asseoir sur les chemins. — Nous n'avons pas d'autre endroit pour discuter. — Alors donnez au chemin son droit : baisser le regard, ne pas nuire, rendre le salām, ordonner le bien et interdire le mal » (Bukhari et Muslim).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0080",
+      "concept": "eth.bon-caractere.fiche-caractere",
+      "domain": "ethique",
+      "sub": "bon-caractere",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Le bon caractère en pratique",
+      "points": [
+        "Sourire, saluer le premier",
+        "Tenir sa langue : ni médisance, ni dispute inutile",
+        "Pardonner vite, ne pas rester fâché plus de trois jours",
+        "Honorer l'invité et le voisin, quelle que soit sa religion",
+        "Être honnête au travail et dans le commerce"
+      ],
+      "expl": "Le Prophète ﷺ a dit : « J'ai été envoyé pour parfaire les nobles caractères » (Mālik, Muwaṭṭaʾ). Le comportement n'est pas un supplément de la religion : il en est le cœur."
+    },
+    {
+      "id": "eth-t2-0081",
+      "concept": "eth.voisins-invites.nuire",
+      "domain": "ethique",
+      "sub": "voisins-invites",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith de celui dont le voisin n'est pas à l'abri de ses méfaits ?",
+      "choices": [
+        "« Il doit déménager »",
+        "« Il n'est pas croyant », trois fois",
+        "« Il doit payer une amende »",
+        "« Il ira au marché »"
+      ],
+      "answer": 1,
+      "expl": "« Par Allah, il n'est pas croyant ! Par Allah, il n'est pas croyant ! — Qui donc ? — Celui dont le voisin n'est pas à l'abri de ses méfaits » (Bukhari). Bruit, disputes, nuisances : le respect du voisin fait partie de la foi.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "eth-t2-0082",
+      "concept": "eth.parole.hypocrite",
+      "domain": "ethique",
+      "sub": "parole",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels sont les signes de l'hypocrite, selon le hadith ?",
+      "choices": [
+        "Il prie peu et dort beaucoup",
+        "Il voyage souvent et loin",
+        "Il ment, ne tient pas parole, trahit",
+        "Il parle trop fort en public"
+      ],
+      "answer": 2,
+      "expl": "« Les signes de l'hypocrite sont trois : quand il parle, il ment ; quand il promet, il manque à sa parole ; quand on lui fait confiance, il trahit » (Bukhari et Muslim). Tenir parole est un trait de la foi.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0083",
+      "concept": "eth.salam.poignee",
+      "domain": "ethique",
+      "sub": "salam",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de deux musulmans qui se serrent la main en se rencontrant ?",
+      "choices": [
+        "Ils deviennent frères de lait",
+        "Ils doivent prier ensemble",
+        "Ils se doivent un cadeau",
+        "Leurs péchés sont pardonnés"
+      ],
+      "answer": 3,
+      "expl": "« Il n'y a pas deux musulmans qui se rencontrent et se serrent la main sans qu'il leur soit pardonné avant qu'ils ne se séparent » (Abū Dāwūd ; Tirmidhi). Un geste simple, une grande récompense.",
+      "src": [
+        "Abū Dāwūd ; Tirmidhi"
+      ]
+    },
+    {
+      "id": "eth-t2-0084",
+      "concept": "eth.manger.partager",
+      "domain": "ethique",
+      "sub": "manger",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith sur la nourriture prévue pour deux personnes ?",
+      "choices": [
+        "Elle suffit pour trois",
+        "Elle ne suffit qu'à un seul",
+        "Il faut la jeter",
+        "Il faut en refaire"
+      ],
+      "answer": 0,
+      "expl": "« La nourriture de deux suffit pour trois, et celle de trois pour quatre » (Bukhari et Muslim). Partager attire la bénédiction, et la table s'élargit pour l'invité imprévu.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "eth-t2-0085",
+      "concept": "eth.societe.opprime",
+      "domain": "ethique",
+      "sub": "societe",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ de l'invocation de l'opprimé ?",
+      "choices": [
+        "« Elle n'est jamais exaucée »",
+        "« Rien ne la sépare d'Allah »",
+        "« Elle ne vaut que le vendredi »",
+        "« Elle doit être faite à la mosquée »"
+      ],
+      "answer": 1,
+      "expl": "Il dit à Muʿādh en l'envoyant au Yémen : « Crains l'invocation de l'opprimé, car il n'y a pas de voile entre elle et Allah » (Bukhari et Muslim), même s'il n'est pas musulman, précise un autre récit (Aḥmad).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2170 @@
+{
+  "pack": "sira-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "sir-t2-0001",
+      "concept": "sir.naissance-jeunesse.poitrine",
+      "domain": "sira",
+      "sub": "naissance-jeunesse",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que raconte le récit de « l'ouverture de la poitrine » du Prophète ﷺ enfant, chez Ḥalīma ?",
+      "choices": [
+        "Il guérit d'une grave maladie dans le désert",
+        "Jibrīl ouvrit sa poitrine et lava son cœur",
+        "Il vit une étoile tomber près de sa tente",
+        "Un moine reconnut en lui un futur prophète"
+      ],
+      "answer": 1,
+      "expl": "Anas rapporte que Jibrīl vint à l'enfant qui jouait, ouvrit sa poitrine, retira de son cœur un caillot en disant : « Voici la part du Shayṭān en toi », le lava dans une bassine d'or avec de l'eau de Zamzam, puis le referma. Les enfants coururent prévenir Ḥalīma, effrayés.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0002",
+      "concept": "sir.naissance-jeunesse.pierre-noire",
+      "domain": "sira",
+      "sub": "naissance-jeunesse",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À 35 ans, comment le Prophète ﷺ régla-t-il le conflit entre les clans de Quraysh qui voulaient tous replacer la Pierre noire ?",
+      "choices": [
+        "Il la confia à son oncle",
+        "Il décida de ne pas la remettre",
+        "Il posa la Pierre sur un manteau que chaque chef de clan souleva, puis la mit lui-même en place",
+        "Il tira au sort"
+      ],
+      "answer": 2,
+      "expl": "Lors de la reconstruction de la Kaʿba, les clans faillirent en venir aux armes. On convint de laisser décider le premier qui entrerait : ce fut lui, « al-Amīn ». Sa solution associa tout le monde à l'honneur. Il avait déjà la sagesse de rassembler.",
+      "src": [
+        "Hadith d'as-Sāʾib ibn ʿAbd Allāh — Ahmad"
+      ],
+      "retired": true
+    },
+    {
+      "id": "sir-t2-0003",
+      "concept": "sir.naissance-jeunesse.fudul",
+      "domain": "sira",
+      "sub": "naissance-jeunesse",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'était le « pacte des vertueux » (ḥilf al-fuḍūl), auquel le jeune Muḥammad ﷺ participa ?",
+      "choices": [
+        "Un accord commercial avec les marchands de Syrie",
+        "Un serment de fidélité aux idoles de la Kaʿba",
+        "Une trêve entre Quraysh et les tribus juives",
+        "Une alliance pour défendre toute victime d'injustice"
+      ],
+      "answer": 3,
+      "expl": "Après qu'un marchand yéménite eut été spolié, des clans de Quraysh jurèrent de défendre tout opprimé. Le Prophète ﷺ dit plus tard que s'il y était appelé en islam, il y répondrait encore. La justice n'attend pas qu'on partage la même religion."
+    },
+    {
+      "id": "sir-t2-0004",
+      "concept": "sir.naissance-jeunesse.bahira",
+      "domain": "sira",
+      "sub": "naissance-jeunesse",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon un récit rapporté par at-Tirmidhī, un moine chrétien nommé Baḥīrā reconnut les signes de la prophétie chez le jeune Muḥammad ﷺ lors d'un voyage en Syrie.",
+      "answer": true,
+      "expl": "Accompagnant son oncle Abū Ṭālib en caravane vers la Syrie, l'enfant fut remarqué par le moine Baḥīrā, qui conseilla de le ramener et de le protéger. Le récit est rapporté par at-Tirmidhī ; les savants en discutent certains détails.",
+      "src": [
+        "Hadith d'Abū Mūsā al-Ashʿarī — Tirmidhi"
+      ],
+      "note": "L'authenticité de certains détails de ce récit est discutée par les spécialistes du hadith."
+    },
+    {
+      "id": "sir-t2-0005",
+      "concept": "sir.revelation.fatra",
+      "domain": "sira",
+      "sub": "revelation",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Après la première révélation, quelle sourate fut révélée quand la révélation reprit, après une interruption ?",
+      "choices": [
+        "Al-Muddaththir",
+        "Al-Fātiḥa",
+        "Al-Baqara",
+        "Al-Ikhlāṣ"
+      ],
+      "answer": 0,
+      "expl": "Après la pause de la révélation (fatra), le Prophète ﷺ vit l'ange entre ciel et terre, rentra et demanda qu'on le couvre. Vint alors : « Ô toi, le revêtu d'un manteau, lève-toi et avertis, et ton Seigneur, magnifie-Le. » Ce fut le début de la mission de prédication.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari & Muslim",
+        "Coran 74:1-5"
+      ],
+      "tags": [
+        "sourate:74"
+      ]
+    },
+    {
+      "id": "sir-t2-0006",
+      "concept": "sir.mecque.arqam",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Où les premiers musulmans se réunissaient-ils secrètement à La Mecque ?",
+      "choices": [
+        "Dans la Kaʿba",
+        "Chez al-Arqam",
+        "Au mont Ḥirāʾ",
+        "Chez Abū Ṭālib"
+      ],
+      "answer": 1,
+      "expl": "La maison d'al-Arqam, près de la colline de Ṣafā, servit de lieu de réunion et d'enseignement pendant la période secrète. C'est là que se convertit notamment ʿUmar."
+    },
+    {
+      "id": "sir-t2-0007",
+      "concept": "sir.mecque.boycott",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que décida Quraysh contre les Banū Hāshim, le clan du Prophète ﷺ, vers 616 ?",
+      "choices": [
+        "Une guerre ouverte dans les rues",
+        "L'exil forcé vers l'Abyssinie",
+        "Un boycott total, environ trois ans",
+        "Un impôt spécial chaque année"
+      ],
+      "answer": 2,
+      "expl": "Un document fut accroché dans la Kaʿba : interdiction de commercer et de se marier avec les Banū Hāshim. Retirés dans le vallon d'Abū Ṭālib, ils souffrirent de la faim, au point de manger des feuilles. Le boycott prit fin après environ trois ans."
+    },
+    {
+      "id": "sir-t2-0008",
+      "concept": "sir.mecque.umar",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qui toucha ʿUmar au point de le conduire à l'islam, selon le récit célèbre ?",
+      "choices": [
+        "Un rêve où il vit l'ange Jibrīl",
+        "La défaite de Quraysh à Badr",
+        "Un débat avec Abū Bakr à la Kaʿba",
+        "La récitation de Ṭā-Hā chez sa sœur"
+      ],
+      "answer": 3,
+      "expl": "Parti pour tuer le Prophète ﷺ, ʿUmar apprit que sa sœur et son mari étaient musulmans. Il les frappa, puis, voyant le sang de sa sœur, demanda à lire la feuille qu'ils récitaient : le début de Ṭā-Hā. Bouleversé, il alla chez al-Arqam embrasser l'islam."
+    },
+    {
+      "id": "sir-t2-0009",
+      "concept": "sir.mecque.hamza",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qui poussa Ḥamza, oncle du Prophète ﷺ, à embrasser l'islam ?",
+      "choices": [
+        "Sa colère contre Abū Jahl",
+        "Un rêve qu'il fit la nuit",
+        "Un débat avec un savant",
+        "La défaite de son clan"
+      ],
+      "answer": 0,
+      "expl": "Revenant de la chasse, Ḥamza apprit qu'Abū Jahl avait insulté le Prophète ﷺ. Furieux, il le frappa avec son arc et déclara : « Je suis de sa religion ! » Sa conversion, puis celle de ʿUmar, renforcèrent beaucoup les musulmans."
+    },
+    {
+      "id": "sir-t2-0010",
+      "concept": "sir.mecque.lune",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon des hadiths authentiques, la lune se fendit en deux à La Mecque comme signe, à la demande des polythéistes.",
+      "answer": true,
+      "expl": "Ibn Masʿūd rapporte : « La lune se fendit du vivant du Prophète ﷺ en deux parties, l'une au-dessus de la montagne et l'autre en dessous. Il dit : Soyez témoins. » La sourate al-Qamar commence par : « L'Heure approche et la lune s'est fendue. »",
+      "src": [
+        "Hadith d'Ibn Masʿūd — Bukhari & Muslim",
+        "Coran 54:1"
+      ],
+      "tags": [
+        "sourate:54"
+      ]
+    },
+    {
+      "id": "sir-t2-0011",
+      "concept": "sir.mecque.utba",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que répondit le Prophète ﷺ quand ʿUtba ibn Rabīʿa lui proposa, au nom de Quraysh, richesse, honneurs ou royauté pour qu'il cesse de prêcher ?",
+      "choices": [
+        "Il accepta la royauté offerte",
+        "Il récita le début de Fuṣṣilat",
+        "Il demanda un délai pour réfléchir",
+        "Il le chassa sans lui répondre"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ écouta ʿUtba jusqu'au bout, puis lui récita le début de Fuṣṣilat. ʿUtba retourna vers les siens, le visage changé, et leur conseilla de laisser cet homme. Le Prophète ﷺ ne cherchait ni pouvoir ni argent.",
+      "tags": [
+        "sourate:41"
+      ]
+    },
+    {
+      "id": "sir-t2-0012",
+      "concept": "sir.isra-miraj.cieux",
+      "domain": "sira",
+      "sub": "isra-miraj",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque ciel au prophète que le Prophète ﷺ y rencontra lors du Miʿrāj.",
+      "pairs": [
+        [
+          "Premier ciel",
+          "Ādam"
+        ],
+        [
+          "Deuxième ciel",
+          "ʿĪsā et Yaḥyā"
+        ],
+        [
+          "Troisième ciel",
+          "Yūsuf"
+        ],
+        [
+          "Sixième ciel",
+          "Mūsā"
+        ],
+        [
+          "Septième ciel",
+          "Ibrāhīm"
+        ]
+      ],
+      "expl": "Au quatrième ciel il rencontra Idrīs, au cinquième Hārūn. Ibrāhīm était adossé à al-Bayt al-Maʿmūr. Chacun l'accueillit : « Bienvenue au frère vertueux et au prophète vertueux », Ādam et Ibrāhīm disant « au fils vertueux ».",
+      "src": [
+        "Hadith de Mālik ibn Ṣaʿṣaʿa — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:adam",
+        "prophete:isa",
+        "prophete:yahya",
+        "prophete:yusuf",
+        "prophete:musa",
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "sir-t2-0013",
+      "concept": "sir.isra-miraj.lait",
+      "domain": "sira",
+      "sub": "isra-miraj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Lors du voyage nocturne, quel récipient le Prophète ﷺ choisit-il entre le lait et le vin ?",
+      "choices": [
+        "Le vin, servi aux rois du ciel",
+        "Les deux, pour ne pas vexer l'ange",
+        "Le lait : « Tu as choisi la fiṭra »",
+        "Aucun des deux, il prit de l'eau"
+      ],
+      "answer": 2,
+      "expl": "On lui présenta un récipient de vin et un de lait ; il choisit le lait. Jibrīl dit : « Louange à Allah qui t'a guidé vers la fiṭra ; si tu avais pris le vin, ta communauté se serait égarée. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0014",
+      "concept": "sir.isra-miraj.sidra",
+      "domain": "sira",
+      "sub": "isra-miraj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le nom de l'arbre au-delà duquel nulle créature ne passe, que le Prophète ﷺ vit lors du Miʿrāj ?",
+      "choices": [
+        "Shajarat az-Zaqqūm",
+        "Le palmier de Maryam",
+        "L'arbre de l'Allégeance",
+        "Sidrat al-Muntahā"
+      ],
+      "answer": 3,
+      "expl": "« Il l'a pourtant vu, lors d'une autre descente, près du jujubier de la limite, près duquel est le Jardin de l'Asile. » C'est la limite de la connaissance des créatures. Zaqqūm est l'arbre de l'Enfer ; l'olivier béni apparaît dans le verset de la lumière.",
+      "src": [
+        "Coran 53:13-16"
+      ],
+      "tags": [
+        "sourate:53"
+      ]
+    },
+    {
+      "id": "sir-t2-0015",
+      "concept": "sir.hijra.aqaba",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque serment d'ʿAqaba à sa description.",
+      "pairs": [
+        [
+          "Premier serment (621)",
+          "Douze Médinois promettent de ne rien associer à Allah, de ne pas voler…"
+        ],
+        [
+          "Second serment (622)",
+          "Plus de soixante-dix Médinois promettent de protéger le Prophète ﷺ"
+        ],
+        [
+          "Muṣʿab ibn ʿUmayr",
+          "Envoyé à Médine pour enseigner l'islam"
+        ]
+      ],
+      "expl": "Des pèlerins de Yathrib (Aws et Khazraj) rencontrèrent le Prophète ﷺ à ʿAqaba, près de Minā. Après le premier serment, Muṣʿab partit enseigner ; l'année suivante, ils revinrent plus nombreux et promirent de le défendre comme leurs propres familles. L'Hégire devenait possible."
+    },
+    {
+      "id": "sir-t2-0016",
+      "concept": "sir.hijra.suraqa",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promit le Prophète ﷺ à Surāqa ibn Mālik, qui le poursuivait pour toucher la récompense de Quraysh ?",
+      "choices": [
+        "Les bracelets de Chosroès",
+        "Cent chameaux de La Mecque",
+        "Le gouvernement de Médine",
+        "Une place au Paradis"
+      ],
+      "answer": 0,
+      "expl": "Le cheval de Surāqa s'enfonça plusieurs fois dans le sable ; il comprit que l'homme était protégé et demanda une garantie de sécurité. Selon les récits, le Prophète ﷺ lui annonça qu'il porterait les bracelets de Chosroès ; sous le califat de ʿUmar, après la conquête de la Perse, on les lui mit aux poignets.",
+      "src": [
+        "Hadith de Surāqa ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0017",
+      "concept": "sir.hijra.abu-ayyub",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Chez qui le Prophète ﷺ habita-t-il à son arrivée à Médine, là où sa chamelle s'agenouilla ?",
+      "choices": [
+        "Zayd ibn Thābit",
+        "Abū Ayyūb al-Anṣārī",
+        "Saʿd ibn Muʿādh",
+        "ʿAbd Allāh ibn Ubayy"
+      ],
+      "answer": 1,
+      "expl": "Chaque famille voulait l'accueillir ; il laissa sa chamelle avancer : « Laissez-la, elle est guidée. » Elle s'agenouilla près de la maison d'Abū Ayyūb, où il logea en attendant la construction de la mosquée et de ses chambres. Abū Ayyūb mourra des années plus tard au pied de Constantinople.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0018",
+      "concept": "sir.hijra.complot",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que décidèrent les chefs de Quraysh à Dār an-Nadwa juste avant l'Hégire ?",
+      "choices": [
+        "Le chasser définitivement de la ville",
+        "Lui offrir la royauté une dernière fois",
+        "Le frapper ensemble, un jeune par clan",
+        "Lui interdire l'accès à la Kaʿba"
+      ],
+      "answer": 2,
+      "expl": "Pour diluer la responsabilité, ils choisirent un jeune homme de chaque clan. Le Coran évoque ce complot : « Ils complotèrent, et Allah fit échouer leur complot, et Allah est le meilleur en stratagèmes. » Cette nuit-là, ʿAlī dormit dans son lit.",
+      "src": [
+        "Coran 8:30"
+      ],
+      "tags": [
+        "sourate:8"
+      ]
+    },
+    {
+      "id": "sir-t2-0019",
+      "concept": "sir.medine.adhan",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment l'adhān fut-il institué à Médine ?",
+      "choices": [
+        "Par une trompette comme celle des juifs",
+        "Par une révélation dans la sourate al-Jumuʿa",
+        "Par une cloche empruntée aux chrétiens",
+        "Par un rêve, confirmé par le Prophète ﷺ"
+      ],
+      "answer": 3,
+      "expl": "Les musulmans cherchaient comment appeler à la prière (cloche, trompe, feu). ʿAbd Allāh ibn Zayd vit en rêve un homme lui apprendre l'adhān ; le Prophète ﷺ dit : « C'est une vision vraie », et demanda à Bilāl, à la voix plus puissante, de le lancer. ʿUmar avait vu le même rêve.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn Zayd — Abu Dawud"
+      ]
+    },
+    {
+      "id": "sir-t2-0020",
+      "concept": "sir.medine.suffa",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui étaient « les gens de la Ṣuffa » ?",
+      "choices": [
+        "Des Compagnons pauvres vivant à la mosquée",
+        "Les gardes du corps du Prophète ﷺ",
+        "Les scribes chargés d'écrire le Coran",
+        "Les marchands du marché de Médine"
+      ],
+      "answer": 0,
+      "expl": "Sous un auvent (ṣuffa) de la mosquée vivaient des Compagnons sans famille ni ressources, nourris par le Prophète ﷺ et les croyants. Abū Hurayra en faisait partie, ce qui explique son immense savoir en hadiths.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0021",
+      "concept": "sir.medine.an2",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 2,
+      "type": "ordre",
+      "q": "Remets ces événements de la période médinoise dans l'ordre.",
+      "items": [
+        "Construction de la mosquée du Prophète",
+        "Changement de la qibla vers La Mecque",
+        "Bataille de Badr",
+        "Bataille d'Uḥud"
+      ],
+      "expl": "La mosquée fut construite dès l'arrivée (an 1). La qibla changea environ seize mois plus tard (an 2), peu avant Badr (Ramadan, an 2). Le jeûne de Ramadan fut aussi prescrit en l'an 2. Uḥud eut lieu en l'an 3."
+    },
+    {
+      "id": "sir-t2-0022",
+      "concept": "sir.batailles.badr-captifs",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle rançon le Prophète ﷺ accepta-t-il de certains captifs de Badr qui savaient écrire ?",
+      "choices": [
+        "Payer mille dinars chacun",
+        "Apprendre à lire à dix enfants",
+        "Travailler un an dans les champs",
+        "Construire un mur autour de Médine"
+      ],
+      "answer": 1,
+      "expl": "Les captifs qui n'avaient pas d'argent mais savaient écrire pouvaient se libérer en enseignant l'écriture à dix enfants musulmans. Le savoir valait une rançon : un signe précoce de l'importance de l'éducation en islam.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Ahmad"
+      ]
+    },
+    {
+      "id": "sir-t2-0023",
+      "concept": "sir.batailles.mutah",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Combien de chefs successifs le Prophète ﷺ désigna-t-il pour l'expédition de Muʾta (an 8), en prévoyant que les premiers tomberaient ?",
+      "choices": [
+        "Un seul : Khālid ibn al-Walīd",
+        "Deux : ʿAlī puis Ḥamza",
+        "Trois : Zayd, Jaʿfar, puis Ibn Rawāḥa",
+        "Cinq, tirés au sort parmi les volontaires"
+      ],
+      "answer": 2,
+      "expl": "Les trois tombèrent l'un après l'autre. Khālid ibn al-Walīd prit alors le commandement et réussit à sauver l'armée face aux Byzantins ; le Prophète ﷺ le surnomma « un sabre parmi les sabres d'Allah ». Il annonça leur mort à Médine, les larmes aux yeux.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari",
+        "Hadith d'Ibn ʿUmar — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0024",
+      "concept": "sir.batailles.khaybar",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À qui le Prophète ﷺ confia-t-il l'étendard à Khaybar, en disant : « C'est un homme qui aime Allah et Son messager, et qu'Allah et Son messager aiment » ?",
+      "choices": [
+        "ʿUmar ibn al-Khaṭṭāb",
+        "Khālid ibn al-Walīd",
+        "Zayd ibn Ḥāritha",
+        "ʿAlī ibn Abī Ṭālib"
+      ],
+      "answer": 3,
+      "expl": "Tous espéraient être choisis. Le matin, il appela ʿAlī, qui souffrait des yeux ; il les toucha de sa salive et les guérit, puis lui remit l'étendard. Il lui dit aussi : « Qu'Allah guide par toi un seul homme vaut mieux pour toi que des chameaux roux. »",
+      "src": [
+        "Hadith de Sahl ibn Saʿd — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0025",
+      "concept": "sir.batailles.hunayn",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que se passa-t-il au début de la bataille de Ḥunayn (an 8) ?",
+      "choices": [
+        "Surpris, ils reculèrent puis se regroupèrent",
+        "Ils gagnèrent sans aucune difficulté",
+        "L'ennemi se rendit avant le combat",
+        "La bataille fut annulée à cause de la pluie"
+      ],
+      "answer": 0,
+      "expl": "« Le jour de Ḥunayn, quand vous étiez fiers de votre nombre, et qu'il ne vous servit à rien. » Pris en embuscade, beaucoup reculèrent ; le Prophète ﷺ resta ferme et appela : « Je suis le Prophète, ce n'est pas un mensonge ! » Les Compagnons revinrent et l'emportèrent.",
+      "src": [
+        "Coran 9:25-26",
+        "Hadith d'al-Barāʾ ibn ʿĀzib — Bukhari & Muslim"
+      ],
+      "tags": [
+        "sourate:9"
+      ]
+    },
+    {
+      "id": "sir-t2-0026",
+      "concept": "sir.batailles.tabuk",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que raconte l'histoire de Kaʿb ibn Mālik après l'expédition de Tabūk ?",
+      "choices": [
+        "Il quitta Médine pour toujours",
+        "Il refusa de mentir ; son repentir fut accepté",
+        "Il fut puni d'une lourde amende en chameaux",
+        "Il inventa une excuse et fut cru"
+      ],
+      "answer": 1,
+      "expl": "Kaʿb, avec deux autres Compagnons, n'avait pas suivi l'expédition sans excuse. Contrairement aux hypocrites, il dit la vérité. Ils furent tenus à l'écart cinquante jours, puis Allah révéla leur pardon (9:118). Sa sincérité le sauva.",
+      "src": [
+        "Hadith de Kaʿb ibn Mālik — Bukhari & Muslim",
+        "Coran 9:118"
+      ],
+      "tags": [
+        "sourate:9"
+      ]
+    },
+    {
+      "id": "sir-t2-0027",
+      "concept": "sir.batailles.pierres-ventre",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "vf",
+      "q": "Pendant le creusement de la Tranchée, le Prophète ﷺ avait attaché une pierre sur son ventre à cause de la faim.",
+      "answer": true,
+      "expl": "Jābir rapporte que les Compagnons, affamés, avaient une pierre sur le ventre, et le Prophète ﷺ deux. Jābir invita alors le Prophète ﷺ à un petit repas, qui nourrit miraculeusement tous les creuseurs. Le chef partageait la peine de tous.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0028",
+      "concept": "sir.traites.clauses",
+      "domain": "sira",
+      "sub": "traites",
+      "tier": 2,
+      "type": "multi",
+      "q": "Quelles étaient des clauses du traité d'al-Ḥudaybiya ?",
+      "choices": [
+        "Une trêve de dix ans",
+        "Les musulmans repartent cette année et reviendront faire la ʿumra l'année suivante",
+        "Les musulmans gouverneraient La Mecque",
+        "Un Mecquois venant à Médine sans permission serait renvoyé",
+        "La Kaʿba serait détruite"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Les clauses semblaient défavorables : retour sans ʿumra, extradition à sens unique. ʿUmar en fut bouleversé. Mais la paix permit à l'islam de se répandre, et Quraysh finit par rompre lui-même le traité, ce qui mena à la conquête.",
+      "src": [
+        "Hadith d'al-Miswar ibn Makhrama — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0029",
+      "concept": "sir.traites.ridwan",
+      "domain": "sira",
+      "sub": "traites",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce que le « serment de l'agrément » (bayʿat ar-Riḍwān) ?",
+      "choices": [
+        "Le serment sous l'arbre à al-Ḥudaybiya",
+        "Le pacte des Anṣār à ʿAqaba",
+        "Le serment prêté à Abū Bakr",
+        "La promesse faite à la conquête"
+      ],
+      "answer": 0,
+      "expl": "Apprenant la rumeur du meurtre de ʿUthmān, envoyé négocier à La Mecque, le Prophète ﷺ reçut le serment de ses Compagnons sous un arbre. Le Coran dit : « Allah a été satisfait des croyants quand ils te prêtaient serment sous l'arbre. »",
+      "src": [
+        "Coran 48:18"
+      ],
+      "tags": [
+        "sourate:48"
+      ]
+    },
+    {
+      "id": "sir-t2-0030",
+      "concept": "sir.traites.lettres",
+      "domain": "sira",
+      "sub": "traites",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chaque souverain à sa réaction à la lettre du Prophète ﷺ l'invitant à l'islam.",
+      "pairs": [
+        [
+          "Héraclius, empereur byzantin",
+          "Interrogea Abū Sufyān et reconnut des signes de prophétie"
+        ],
+        [
+          "Chosroès, roi de Perse",
+          "Déchira la lettre"
+        ],
+        [
+          "Al-Muqawqis, gouverneur d'Égypte",
+          "Répondit avec courtoisie et envoya des cadeaux"
+        ],
+        [
+          "An-Najāshī, roi d'Abyssinie",
+          "Accueillit la lettre avec respect"
+        ]
+      ],
+      "expl": "Après al-Ḥudaybiya, le Prophète ﷺ écrivit aux grands souverains. Al-Bukhārī rapporte le long dialogue entre Héraclius et Abū Sufyān. Apprenant que Chosroès avait déchiré sa lettre, le Prophète ﷺ dit : « Qu'Allah déchire son royaume. »",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0031",
+      "concept": "sir.conquete.abu-sufyan",
+      "domain": "sira",
+      "sub": "conquete",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel honneur le Prophète ﷺ accorda-t-il à Abū Sufyān, longtemps son adversaire, lors de la conquête de La Mecque ?",
+      "choices": [
+        "Il le nomma gouverneur de Médine",
+        "Qui entrerait chez lui serait en sécurité",
+        "Il lui offrit la clé de la Kaʿba",
+        "Il épousa sa fille le jour même"
+      ],
+      "answer": 1,
+      "expl": "Abū Sufyān, chef de Quraysh, embrassa l'islam juste avant la conquête. Le Prophète ﷺ, connaissant son goût de l'honneur, proclama : « Celui qui entre dans la maison d'Abū Sufyān est en sécurité. » Une magnanimité qui gagna les cœurs.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0032",
+      "concept": "sir.conquete.bilal-kaaba",
+      "domain": "sira",
+      "sub": "conquete",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le jour de la conquête, Bilāl monta sur la Kaʿba pour lancer l'appel à la prière.",
+      "answer": true,
+      "expl": "Selon les récits de la Sīra, le Prophète ﷺ demanda à Bilāl, l'ancien esclave torturé à La Mecque, de monter sur le toit de la Kaʿba pour l'adhān. Un symbole puissant : la dignité rendue aux humbles, au cœur même de la ville qui l'avait persécuté."
+    },
+    {
+      "id": "sir-t2-0033",
+      "concept": "sir.conquete.cle",
+      "domain": "sira",
+      "sub": "conquete",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À qui le Prophète ﷺ rendit-il la clé de la Kaʿba après la conquête ?",
+      "choices": [
+        "À son oncle al-ʿAbbās",
+        "À ʿAlī ibn Abī Ṭālib",
+        "À ʿUthmān ibn Ṭalḥa",
+        "À Abū Bakr aṣ-Ṣiddīq"
+      ],
+      "answer": 2,
+      "expl": "Certains de sa famille espéraient la clé ; le Prophète ﷺ la rendit à ʿUthmān ibn Ṭalḥa, gardien traditionnel, en application du verset : « Allah vous commande de rendre les dépôts à leurs ayants droit. » Ses descendants, les Banū Shayba, la gardent encore.",
+      "src": [
+        "Coran 4:58"
+      ],
+      "tags": [
+        "sourate:4"
+      ]
+    },
+    {
+      "id": "sir-t2-0034",
+      "concept": "sir.fin.derniers-mots",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelles furent, selon ʿĀʾisha, les dernières paroles du Prophète ﷺ ?",
+      "choices": [
+        "« Prenez soin de mes épouses »",
+        "« Abū Bakr sera votre calife »",
+        "« Récitez la Fātiḥa pour moi »",
+        "« Avec le Compagnon le plus élevé »"
+      ],
+      "answer": 3,
+      "expl": "ʿĀʾisha rapporte qu'il avait la tête sur sa poitrine ; il leva les yeux et dit : « Ô Allah, avec le Compagnon le plus élevé. » Elle comprit qu'on lui avait laissé le choix entre ce monde et la rencontre d'Allah, et qu'il avait choisi.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "اللّٰهُمَّ الرَّفِيقَ الْأَعْلَى",
+        "tr": "Allāhumma r-rafīqa l-aʿlā",
+        "pr": "al-lâ-houm-mar-ra-fî-qal-aʿ-lâ",
+        "fr": "Ô Allah, le Compagnon le plus élevé"
+      }
+    },
+    {
+      "id": "sir-t2-0035",
+      "concept": "sir.fin.recommandation",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que recommanda le Prophète ﷺ dans ses derniers jours, en le répétant ?",
+      "choices": [
+        "« La prière, la prière, et ceux que vos mains possèdent »",
+        "« Le jeûne et le pèlerinage, sans jamais faiblir »",
+        "« Conquérez la Perse et Byzance après moi »",
+        "« Gardez mes paroles par écrit, toutes »"
+      ],
+      "answer": 0,
+      "expl": "Ses dernières recommandations portaient sur la prière et sur le bon traitement des plus faibles (serviteurs, esclaves). Jusqu'au bout, l'adoration d'Allah et la justice envers les gens restèrent au centre.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Ahmad"
+      ]
+    },
+    {
+      "id": "sir-t2-0036",
+      "concept": "sir.fin.abu-bakr-imam",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui le Prophète ﷺ désigna-t-il pour diriger la prière pendant sa dernière maladie ?",
+      "choices": [
+        "ʿUthmān",
+        "Abū Bakr",
+        "ʿUmar",
+        "ʿAlī"
+      ],
+      "answer": 1,
+      "expl": "Trop faible pour sortir, il dit : « Ordonnez à Abū Bakr de diriger la prière. » ʿĀʾisha tenta de l'en dissuader car son père pleurait en récitant, mais il insista. Les Compagnons y virent plus tard une indication en faveur de son califat.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0037",
+      "concept": "sir.fin.lundi",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ est mort un lundi, en l'an 11 de l'Hégire.",
+      "answer": true,
+      "expl": "Né un lundi, ayant reçu la révélation un lundi, il mourut un lundi de Rabīʿ al-Awwal, en l'an 11 (juin 632). Il fut enterré à l'endroit même où il mourut, dans la chambre de ʿĀʾisha, comme les prophètes sont enterrés là où ils meurent.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0038",
+      "concept": "sir.famille.epouses",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Combien d'épouses le Prophète ﷺ a-t-il eues au cours de sa vie, selon le décompte habituel ?",
+      "answer": 11,
+      "expl": "Onze : Khadīja, Sawda, ʿĀʾisha, Ḥafṣa, Zaynab bint Khuzayma, Umm Salama, Zaynab bint Jaḥsh, Juwayriya, Umm Ḥabība, Ṣafiyya et Maymūna. Hormis ʿĀʾisha, toutes avaient déjà été mariées ; beaucoup de ces mariages avaient aussi un sens social ou politique."
+    },
+    {
+      "id": "sir-t2-0039",
+      "concept": "sir.famille.sawda",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle épouse du Prophète ﷺ céda son tour de nuit à ʿĀʾisha ?",
+      "choices": [
+        "Ḥafṣa bint ʿUmar",
+        "Umm Salama",
+        "Sawda bint Zamʿa",
+        "Zaynab bint Jaḥsh"
+      ],
+      "answer": 2,
+      "expl": "Sawda, épousée après la mort de Khadīja, était connue pour sa bonne humeur. Avançant en âge, elle offrit son jour à ʿĀʾisha, pour rester épouse du Prophète ﷺ et l'être au Paradis. Un geste rapporté par al-Bukhārī et Muslim.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0040",
+      "concept": "sir.famille.juwayriya",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle fut la conséquence du mariage du Prophète ﷺ avec Juwayriya, fille du chef des Banū l-Muṣṭaliq ?",
+      "choices": [
+        "Sa tribu déclara la guerre à Médine",
+        "Son père devint calife après lui",
+        "Les Compagnons quittèrent Médine",
+        "Les captifs de sa tribu furent libérés"
+      ],
+      "answer": 3,
+      "expl": "Apprenant le mariage, les Compagnons libérèrent les captifs des Banū l-Muṣṭaliq. ʿĀʾisha dit : « Je ne connais pas de femme plus bénie pour son peuple qu'elle. » Toute la tribu finit par embrasser l'islam.",
+      "src": [
+        "Hadith de ʿĀʾisha — Abu Dawud"
+      ]
+    },
+    {
+      "id": "sir-t2-0041",
+      "concept": "sir.famille.safiyya",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Ṣafiyya bint Ḥuyayy, épouse du Prophète ﷺ ?",
+      "choices": [
+        "La fille d'un chef juif des Banū n-Naḍīr",
+        "La fille d'un roi d'Abyssinie",
+        "Une servante copte venue d'Égypte",
+        "La sœur d'un chef de Quraysh"
+      ],
+      "answer": 0,
+      "expl": "Ṣafiyya était d'une grande famille juive. Quand une autre épouse la moqua sur ses origines, le Prophète ﷺ lui dit de répondre : « Mon père est Hārūn, mon oncle est Mūsā, et mon mari est Muḥammad. » Un rappel du respect de toutes les origines.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Tirmidhi"
+      ],
+      "tags": [
+        "prophete:harun"
+      ]
+    },
+    {
+      "id": "sir-t2-0042",
+      "concept": "sir.famille.zaynab-khuzayma",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel surnom portait Zaynab bint Khuzayma, épouse du Prophète ﷺ morte peu après son mariage ?",
+      "choices": [
+        "La mère des savants",
+        "La mère des pauvres",
+        "La mère des orphelins",
+        "La mère des croyants"
+      ],
+      "answer": 1,
+      "expl": "Zaynab bint Khuzayma était appelée « la mère des pauvres » pour sa générosité. Elle mourut quelques mois après son mariage avec le Prophète ﷺ ; avec Khadīja, elle est la seule épouse morte de son vivant."
+    },
+    {
+      "id": "sir-t2-0043",
+      "concept": "sir.caractere.taille",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment les Compagnons décrivaient-ils la taille du Prophète ﷺ ?",
+      "choices": [
+        "Très grand",
+        "Plutôt petit",
+        "De taille moyenne",
+        "Très corpulent"
+      ],
+      "answer": 2,
+      "expl": "Anas rapporte qu'il n'était ni très grand ni petit, ni très blanc ni brun foncé, avec des cheveux ni crépus ni raides. Pourtant, au milieu des gens, il semblait toujours le plus grand, tant sa présence était forte.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0044",
+      "concept": "sir.caractere.sceau",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Prophète ﷺ avait entre les épaules une marque appelée « le sceau de la prophétie ».",
+      "answer": true,
+      "expl": "As-Sāʾib ibn Yazīd rapporte avoir vu entre ses épaules le sceau de la prophétie, comme un bouton de tente (ou un œuf de pigeon, selon d'autres). C'était l'un des signes décrits par les anciens livres.",
+      "src": [
+        "Hadith d'as-Sāʾib ibn Yazīd — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0045",
+      "concept": "sir.caractere.doigts",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ mangeait-il habituellement ?",
+      "choices": [
+        "Avec une cuillère en bois",
+        "Avec les deux mains",
+        "Avec un couteau, debout",
+        "Avec trois doigts de la main droite"
+      ],
+      "answer": 3,
+      "expl": "Kaʿb ibn Mālik rapporte qu'il mangeait avec trois doigts et les léchait avant de les essuyer, car on ne sait pas dans quelle partie de la nourriture se trouve la bénédiction. Il ne mangeait jamais accoudé.",
+      "src": [
+        "Hadith de Kaʿb ibn Mālik — Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0046",
+      "concept": "sir.caractere.miel",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'aimait particulièrement le Prophète ﷺ comme nourriture ?",
+      "choices": [
+        "Les douceurs et le miel",
+        "Le porc",
+        "Le vin",
+        "Rien, il ne mangeait que du pain"
+      ],
+      "answer": 0,
+      "expl": "ʿĀʾisha rapporte qu'il aimait les douceurs et le miel. Il appréciait aussi l'épaule de mouton, la courge et les dattes. Le Coran dit du miel qu'il contient « une guérison pour les gens ».",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim",
+        "Coran 16:69"
+      ]
+    },
+    {
+      "id": "sir-t2-0047",
+      "concept": "sir.caractere.feu",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "vf",
+      "q": "ʿĀʾisha racontait que parfois, chez le Prophète ﷺ, deux mois passaient sans qu'on allume de feu pour cuisiner.",
+      "answer": true,
+      "expl": "« Nous voyions passer trois croissants de lune, deux mois, sans qu'un feu soit allumé dans les maisons du Messager d'Allah. — De quoi viviez-vous ? — Des deux noirs : les dattes et l'eau. » Il avait choisi une vie simple, tout en donnant beaucoup.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0048",
+      "concept": "sir.caractere.lit",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Sur quoi dormait le Prophète ﷺ ?",
+      "choices": [
+        "Un lit de bois sculpté et doré",
+        "Un matelas de cuir rempli de fibres",
+        "Un tapis persan épais",
+        "Un matelas de laine de mouton"
+      ],
+      "answer": 1,
+      "expl": "ʿĀʾisha rapporte que son matelas était de cuir rempli de fibres. ʿUmar pleura un jour en voyant les traces de la natte sur son flanc, alors que les rois de Perse et de Byzance vivaient dans le luxe. Il lui répondit : « N'aimes-tu pas qu'ils aient ce bas monde et nous l'au-delà ? »",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim",
+        "Hadith de ʿUmar ibn al-Khaṭṭāb — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0049",
+      "concept": "sir.caractere.siwak-maison",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Par quoi le Prophète ﷺ commençait-il en entrant chez lui, selon ʿĀʾisha ?",
+      "choices": [
+        "Par dormir",
+        "Par lire une lettre",
+        "Par le siwāk",
+        "Par manger"
+      ],
+      "answer": 2,
+      "expl": "Interrogée sur ce par quoi il commençait en rentrant, ʿĀʾisha répondit : « Par le siwāk. » Une délicatesse envers sa famille : arriver avec une haleine fraîche.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0050",
+      "concept": "sir.caractere.tourner",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ se tournait-il vers quelqu'un qui lui parlait ?",
+      "choices": [
+        "En tournant seulement la tête",
+        "Sans le regarder",
+        "En baissant les yeux",
+        "De tout son corps"
+      ],
+      "answer": 3,
+      "expl": "Les descriptions (shamāʾil) rapportent qu'il se tournait entièrement vers son interlocuteur et ne retirait pas sa main le premier lors d'une poignée de main. Chacun avait l'impression d'être la personne la plus aimée de lui."
+    },
+    {
+      "id": "sir-t2-0051",
+      "concept": "sir.arabie.abd-al-muttalib",
+      "domain": "sira",
+      "sub": "arabie",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que répondit ʿAbd al-Muṭṭalib, grand-père du Prophète ﷺ, à Abraha venu détruire la Kaʿba ?",
+      "choices": [
+        "« Prends la Kaʿba, mais épargne nos familles »",
+        "« Mon armée te combattra jusqu'au dernier »",
+        "« Paie-nous et nous te laisserons passer »",
+        "« Je suis maître des chameaux ; la Maison a un Seigneur »"
+      ],
+      "answer": 3,
+      "expl": "Abraha avait saisi ses chameaux. ʿAbd al-Muṭṭalib vint les réclamer ; Abraha s'étonna qu'il ne parle pas de la Kaʿba. Il répondit : « Je suis le maître des chameaux, et la Maison a un Seigneur qui la protégera. » L'armée fut détruite, l'année même de la naissance du Prophète ﷺ (sourate 105).",
+      "src": [
+        "Ibn Isḥāq ; Coran 105"
+      ]
+    },
+    {
+      "id": "sir-t2-0052",
+      "concept": "sir.arabie.deux-voyages",
+      "domain": "sira",
+      "sub": "arabie",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels étaient les deux grands voyages commerciaux annuels de Quraysh, cités dans la sourate 106 ?",
+      "choices": [
+        "Hiver vers le Yémen, été vers la Syrie",
+        "Hiver vers l'Égypte, été vers la Perse",
+        "Hiver vers l'Inde, été vers l'Abyssinie",
+        "Hiver vers Médine, été vers Ṭāʾif"
+      ],
+      "answer": 0,
+      "expl": "« Pour le pacte des Quraysh, leur pacte des voyages d'hiver et d'été » (106:1-2). Ces caravanes, organisées par Hāshim, l'arrière-grand-père du Prophète ﷺ, faisaient la richesse de La Mecque. Le Prophète ﷺ y participa, notamment pour Khadīja.",
+      "src": [
+        "Coran 106"
+      ]
+    },
+    {
+      "id": "sir-t2-0053",
+      "concept": "sir.arabie.zamzam",
+      "domain": "sira",
+      "sub": "arabie",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui redécouvrit le puits de Zamzam, enfoui depuis des siècles, avant la naissance du Prophète ﷺ ?",
+      "choices": [
+        "Abū Ṭālib, en creusant un champ",
+        "ʿAbd al-Muṭṭalib, guidé par un rêve",
+        "Hāshim, en cherchant de l'eau",
+        "Un marchand de Syrie, par hasard"
+      ],
+      "answer": 1,
+      "expl": "Le puits avait été comblé. ʿAbd al-Muṭṭalib vit en rêve l'ordre de creuser à un endroit précis, et retrouva Zamzam. Sa famille garda ensuite l'honneur d'abreuver les pèlerins (as-siqāya).",
+      "src": [
+        "Ibn Isḥāq"
+      ]
+    },
+    {
+      "id": "sir-t2-0054",
+      "concept": "sir.arabie.hubal",
+      "domain": "sira",
+      "sub": "arabie",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle était la principale idole placée dans la Kaʿba avant l'islam ?",
+      "choices": [
+        "Manāt",
+        "Wadd",
+        "Hubal",
+        "Al-Lāt"
+      ],
+      "answer": 2,
+      "expl": "Hubal, statue d'homme en cornaline, trônait dans la Kaʿba, entourée de 360 idoles. Al-Lāt était adorée à Ṭāʾif, al-ʿUzzā près de La Mecque, Manāt sur la route de Médine. À Uḥud, Abū Sufyān s'écria : « Gloire à Hubal ! »",
+      "src": [
+        "Bukhari ; Ibn Isḥāq"
+      ]
+    },
+    {
+      "id": "sir-t2-0055",
+      "concept": "sir.arabie.mois-sacres",
+      "domain": "sira",
+      "sub": "arabie",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Combien de mois sacrés, où l'on ne combattait pas, les Arabes respectaient-ils déjà avant l'islam ?",
+      "choices": [
+        "Deux",
+        "Sept",
+        "Douze",
+        "Quatre"
+      ],
+      "answer": 3,
+      "expl": "Rajab, dhū l-qaʿda, dhū l-ḥijja et muḥarram : « Le nombre des mois, auprès d'Allah, est de douze… dont quatre sont sacrés » (9:36). L'islam a confirmé cette tradition d'Ibrāhīm, qui permettait aux pèlerins de voyager en sécurité.",
+      "src": [
+        "Coran 9:36"
+      ]
+    },
+    {
+      "id": "sir-t2-0056",
+      "concept": "sir.revelation.reves",
+      "domain": "sira",
+      "sub": "revelation",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment commença la révélation, selon ʿĀʾisha ?",
+      "choices": [
+        "Par des rêves véridiques",
+        "Par une voix dans le désert",
+        "Par une lumière à la Kaʿba",
+        "Par un livre trouvé dans une grotte"
+      ],
+      "answer": 0,
+      "expl": "« La révélation commença par le rêve véridique pendant le sommeil : il ne voyait aucun rêve sans qu'il se réalise comme l'aube. Puis la solitude lui devint chère, et il se retirait dans la grotte de Ḥirāʾ » (Bukhari).",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0057",
+      "concept": "sir.revelation.premiers-croyants",
+      "domain": "sira",
+      "sub": "revelation",
+      "tier": 2,
+      "type": "paires",
+      "q": "Associe chacun à sa place parmi les premiers musulmans.",
+      "pairs": [
+        [
+          "Khadīja",
+          "La première à croire"
+        ],
+        [
+          "Abū Bakr",
+          "Le premier homme adulte libre"
+        ],
+        [
+          "ʿAlī",
+          "Le premier enfant"
+        ],
+        [
+          "Zayd ibn Ḥāritha",
+          "Le premier affranchi"
+        ]
+      ],
+      "expl": "Les premiers croyants furent les plus proches du Prophète ﷺ : son épouse, son meilleur ami, son jeune cousin qu'il élevait, et Zayd, affranchi qu'il avait adopté. Ceux qui le connaissaient le mieux lui firent confiance les premiers."
+    },
+    {
+      "id": "sir-t2-0058",
+      "concept": "sir.mecque.jafar-maryam",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que récita Jaʿfar ibn Abī Ṭālib devant le Négus d'Abyssinie pour défendre les musulmans réfugiés ?",
+      "choices": [
+        "La sourate al-Fātiḥa en entier",
+        "Le début de la sourate Maryam",
+        "Le verset du Trône",
+        "La sourate al-Ikhlāṣ"
+      ],
+      "answer": 1,
+      "expl": "Les envoyés de Quraysh demandaient l'extradition des musulmans. Jaʿfar décrivit l'islam, puis récita le début de Maryam. Le Négus pleura jusqu'à mouiller sa barbe : « Ceci et ce qu'a apporté ʿĪsā sortent d'une même source » (Aḥmad).",
+      "src": [
+        "Aḥmad (récit d'Umm Salama)"
+      ]
+    },
+    {
+      "id": "sir-t2-0059",
+      "concept": "sir.mecque.najashi-janaza",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que fit le Prophète ﷺ à Médine en apprenant la mort du Négus, an-Najāshī ?",
+      "choices": [
+        "Il partit pour l'Abyssinie",
+        "Il ne fit rien de particulier",
+        "Il pria sur lui à distance",
+        "Il envoya une délégation"
+      ],
+      "answer": 2,
+      "expl": "« Un homme vertueux est mort aujourd'hui : levez-vous et priez sur votre frère Aṣḥama » (Bukhari). Le roi chrétien qui avait protégé les réfugiés était devenu musulman.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0060",
+      "concept": "sir.mecque.abu-jahl",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ surnomma-t-il ʿAmr ibn Hishām, l'un des pires ennemis de l'islam, que Quraysh appelait « Abū l-Ḥakam » (le père de la sagesse) ?",
+      "choices": [
+        "Abū Lahab",
+        "Abū Sufyān",
+        "Abū Ṭālib",
+        "Abū Jahl"
+      ],
+      "answer": 3,
+      "expl": "Quraysh le surnommait « père de la sagesse » ; ses persécutions lui valurent le surnom d'Abū Jahl. Il tortura les faibles, dont Sumayya, et fut tué à Badr. Le Prophète ﷺ l'appela « le pharaon de cette communauté »."
+    },
+    {
+      "id": "sir-t2-0061",
+      "concept": "sir.isra-miraj.fin-baqara",
+      "domain": "sira",
+      "sub": "isra-miraj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon Muslim, que reçut le Prophète ﷺ lors de l'ascension (miʿrāj), en plus des cinq prières ?",
+      "choices": [
+        "La fin d'al-Baqara et une promesse de pardon",
+        "Le jeûne de Ramadan, avec ses règles",
+        "Le pèlerinage et ses rites",
+        "Les règles de l'héritage"
+      ],
+      "answer": 0,
+      "expl": "« Trois choses lui furent données : les cinq prières, les derniers versets de la sourate al-Baqara, et le pardon des grands péchés pour celui de sa communauté qui ne donne pas d'associé à Allah » (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0062",
+      "concept": "sir.isra-miraj.moment",
+      "domain": "sira",
+      "sub": "isra-miraj",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quand eut lieu le voyage nocturne, selon la plupart des historiens ?",
+      "choices": [
+        "Pendant le pèlerinage d'adieu",
+        "À La Mecque, environ un an avant l'Hégire",
+        "Le jour de la naissance du Prophète ﷺ",
+        "Après la conquête de La Mecque"
+      ],
+      "answer": 1,
+      "expl": "Il survint après l'année de la tristesse et l'épreuve de Ṭāʾif, à La Mecque, environ un an avant l'Hégire. Au Maroc et ailleurs, on le commémore souvent le 27 rajab, date traditionnelle mais discutée."
+    },
+    {
+      "id": "sir-t2-0063",
+      "concept": "sir.hijra.asma",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi Asmāʾ, fille d'Abū Bakr, fut-elle surnommée « celle aux deux ceintures » ?",
+      "choices": [
+        "Elle portait deux ceintures pour se protéger",
+        "Elle avait reçu deux ceintures en cadeau",
+        "Elle coupa sa ceinture pour attacher les provisions",
+        "Elle tissait des ceintures pour les vendre"
+      ],
+      "answer": 2,
+      "expl": "Au départ vers la grotte de Thawr, elle ne trouva rien pour attacher le sac de provisions : elle déchira sa ceinture en deux. Le Prophète ﷺ la surnomma « Dhāt an-niṭāqayn » (Bukhari). Elle leur apporta à manger chaque nuit, au péril de sa vie.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0064",
+      "concept": "sir.hijra.guide",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui guida le Prophète ﷺ et Abū Bakr sur la route de Médine ?",
+      "choices": [
+        "ʿAlī ibn Abī Ṭālib",
+        "Bilāl ibn Rabāḥ",
+        "Zayd ibn Ḥāritha",
+        "ʿAbdallāh ibn Urayqiṭ"
+      ],
+      "answer": 3,
+      "expl": "Ils engagèrent un guide expérimenté, encore païen, réputé honnête, et lui confièrent leurs montures (Bukhari). L'Hégire montre une planification minutieuse, et la confiance accordée à un non-musulman digne de foi.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0065",
+      "concept": "sir.hijra.calendrier",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui fit de l'Hégire le point de départ du calendrier musulman ?",
+      "choices": [
+        "Le calife ʿUmar",
+        "Le calife Abū Bakr",
+        "Le calife ʿUthmān",
+        "Le calife ʿAlī"
+      ],
+      "answer": 0,
+      "expl": "Vers l'an 17, ʿUmar réunit les Compagnons pour dater les documents. On choisit l'Hégire, événement qui marqua la naissance de la communauté, et le mois de muḥarram comme début d'année."
+    },
+    {
+      "id": "sir-t2-0066",
+      "concept": "sir.medine.yathrib",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel était l'ancien nom de Médine, avant l'arrivée du Prophète ﷺ ?",
+      "choices": [
+        "Ṭāʾif",
+        "Yathrib",
+        "Khaybar",
+        "Qubāʾ"
+      ],
+      "answer": 1,
+      "expl": "La ville s'appelait Yathrib. Elle devint « Madīnat an-Nabī », la ville du Prophète, puis simplement al-Madīna. Le Prophète ﷺ l'appelait aussi Ṭāba ou Ṭayba, « la bonne »."
+    },
+    {
+      "id": "sir-t2-0067",
+      "concept": "sir.medine.aws-khazraj",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelles étaient les deux grandes tribus arabes de Médine, réconciliées par l'islam ?",
+      "choices": [
+        "Les Banū Hāshim et les Banū Umayya",
+        "Les Ghassanides et les Lakhmides",
+        "Les Aws et les Khazraj",
+        "Les Quraysh et les Thaqīf"
+      ],
+      "answer": 2,
+      "expl": "Les Aws et les Khazraj s'étaient épuisés dans des guerres, dont la bataille de Buʿāth. L'islam en fit les Anṣār, unis : « Il a uni leurs cœurs ; si tu avais dépensé tout ce qui est sur terre, tu n'aurais pu unir leurs cœurs » (8:63).",
+      "src": [
+        "Coran 8:63 ; 3:103"
+      ]
+    },
+    {
+      "id": "sir-t2-0068",
+      "concept": "sir.medine.qiblatayn",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi une mosquée de Médine s'appelle-t-elle « la mosquée des deux qiblas » ?",
+      "choices": [
+        "Elle a deux minarets face à face",
+        "Deux prophètes y ont prié",
+        "Elle fut construite en deux jours",
+        "La qibla y changea en pleine prière"
+      ],
+      "answer": 3,
+      "expl": "Pendant seize ou dix-sept mois, les musulmans prièrent vers Jérusalem. Puis vint le verset : « Tourne ton visage vers la Mosquée sacrée » (2:144). Des fidèles en pleine prière apprirent la nouvelle et se tournèrent aussitôt vers La Mecque (Bukhari).",
+      "src": [
+        "Coran 2:144 ; Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0069",
+      "concept": "sir.batailles.badr-nombre",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Combien de combattants musulmans y avait-il environ à la bataille de Badr ?",
+      "answer": 313,
+      "tolerance": 7,
+      "unit": "hommes",
+      "expl": "Environ trois cent treize hommes, avec deux chevaux et soixante-dix chameaux, face à près de mille Mecquois. « Allah vous a secourus à Badr alors que vous étiez humiliés » (3:123).",
+      "src": [
+        "Bukhari ; Coran 3:123"
+      ]
+    },
+    {
+      "id": "sir-t2-0070",
+      "concept": "sir.batailles.badr-anges",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que promit Allah aux croyants qui L'imploraient avant la bataille de Badr ?",
+      "choices": [
+        "Le renfort de mille anges",
+        "Une pluie de pierres",
+        "La fuite immédiate de l'ennemi",
+        "Des armes miraculeuses"
+      ],
+      "answer": 0,
+      "expl": "« Quand vous imploriez le secours de votre Seigneur, Il vous répondit : Je vais vous aider de mille anges se suivant les uns les autres » (8:9). Le Prophète ﷺ avait prié toute la nuit, jusqu'à ce que son manteau tombe de ses épaules.",
+      "src": [
+        "Coran 8:9 ; Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0071",
+      "concept": "sir.batailles.khandaq-vent",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se termina le siège de Médine lors de la bataille du Fossé (an 5) ?",
+      "choices": [
+        "Une grande bataille fut gagnée",
+        "Un vent glacial dispersa les coalisés",
+        "Les coalisés se rendirent",
+        "Une épidémie frappa leur camp"
+      ],
+      "answer": 1,
+      "expl": "Après un mois de siège par environ dix mille coalisés, « Nous envoyâmes contre eux un vent et des armées que vous ne voyiez pas » (33:9). Leurs tentes s'envolèrent, leurs feux s'éteignirent : ils levèrent le camp.",
+      "src": [
+        "Coran 33:9-25"
+      ]
+    },
+    {
+      "id": "sir-t2-0072",
+      "concept": "sir.batailles.khaybar-ali",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À qui le Prophète ﷺ remit-il l'étendard à Khaybar, en disant qu'Allah donnerait la victoire par lui ?",
+      "choices": [
+        "Khālid ibn al-Walīd",
+        "Zubayr",
+        "ʿAlī ibn Abī Ṭālib",
+        "ʿUmar"
+      ],
+      "answer": 2,
+      "expl": "« Je donnerai demain l'étendard à un homme qui aime Allah et Son Messager, et qu'Allah et Son Messager aiment. » Tous l'espéraient ; il le donna à ʿAlī, qui avait mal aux yeux et qu'il guérit par sa salive (Bukhari et Muslim).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0073",
+      "concept": "sir.batailles.hunayn",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que rappelle le Coran à propos du début de la bataille de Ḥunayn (an 8) ?",
+      "choices": [
+        "Ils étaient trois cents",
+        "Ils ne combattirent pas",
+        "L'ennemi se rendit sans combat",
+        "Les musulmans, fiers de leur grand nombre, furent d'abord mis en déroute"
+      ],
+      "answer": 3,
+      "expl": "« À Ḥunayn, quand votre grand nombre vous émerveilla et ne vous servit à rien » (9:25). Surpris dans une embuscade, beaucoup reculèrent ; le Prophète ﷺ resta ferme, et la victoire revint. Une leçon contre l'orgueil.",
+      "src": [
+        "Coran 9:25-26"
+      ],
+      "retired": true
+    },
+    {
+      "id": "sir-t2-0074",
+      "concept": "sir.traites.suhayl",
+      "domain": "sira",
+      "sub": "traites",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quand on écrivit le traité de Ḥudaybiya, quel détail le négociateur mecquois Suhayl ibn ʿAmr refusa-t-il ?",
+      "choices": [
+        "« ar-Raḥmān ar-Raḥīm » et « Messager d'Allah »",
+        "La durée de la trêve, jugée trop longue",
+        "Le lieu de la signature, sous l'arbre",
+        "Le nom de ʿUthmān comme témoin"
+      ],
+      "answer": 0,
+      "expl": "Il exigea « bismika llāhumma » au lieu de la basmala, et « Muḥammad fils de ʿAbdallāh » au lieu de « Messager d'Allah ». Le Prophète ﷺ accepta, et effaça lui-même le titre quand ʿAlī refusa (Bukhari). La paix valait plus que les mots.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0075",
+      "concept": "sir.traites.umm-salama",
+      "domain": "sira",
+      "sub": "traites",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui conseilla le Prophète ﷺ à Ḥudaybiya, quand les Compagnons, déçus, tardaient à sacrifier leurs bêtes ?",
+      "choices": [
+        "Abū Bakr : « Attends demain matin »",
+        "Umm Salama : « Sacrifie sans parler »",
+        "ʿUmar : « Ordonne-le avec fermeté »",
+        "ʿAlī : « Laisse-les décider seuls »"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ entra, attristé, chez Umm Salama. Elle lui conseilla de donner l'exemple sans un mot. Il le fit, et les Compagnons se précipitèrent pour l'imiter (Bukhari). Un conseil de femme qui débloqua une crise.",
+      "src": [
+        "Bukhari"
+      ],
+      "retired": true
+    },
+    {
+      "id": "sir-t2-0076",
+      "concept": "sir.traites.abu-jandal",
+      "domain": "sira",
+      "sub": "traites",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que se passa-t-il avec Abū Jandal, fils de Suhayl, au moment de la signature du traité de Ḥudaybiya ?",
+      "choices": [
+        "Il signa le traité au nom de son père",
+        "Il fut libéré et resta à Médine",
+        "Musulman enchaîné, il fut rendu aux Mecquois",
+        "Il s'enfuit vers l'Abyssinie"
+      ],
+      "answer": 2,
+      "expl": "Abū Jandal arriva, enchaîné, implorant protection. Une clause exigeait de rendre tout Mecquois venu sans permission. Le Prophète ﷺ dut le rendre, en lui promettant une issue. Plus tard, ces réfugiés formèrent un groupe qui fit abroger la clause par Quraysh elle-même.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0077",
+      "concept": "sir.traites.duree",
+      "domain": "sira",
+      "sub": "traites",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Pour combien d'années la trêve de Ḥudaybiya fut-elle conclue ?",
+      "answer": 10,
+      "unit": "ans",
+      "expl": "Une trêve de dix ans, avec le retour de l'ʿumra l'année suivante. Quraysh la rompit au bout de deux ans en attaquant les alliés des musulmans, ce qui mena à la conquête de La Mecque."
+    },
+    {
+      "id": "sir-t2-0078",
+      "concept": "sir.conquete.annee",
+      "domain": "sira",
+      "sub": "conquete",
+      "tier": 2,
+      "type": "qcm",
+      "q": "En quelle année de l'Hégire, et pendant quel mois, eut lieu la conquête de La Mecque ?",
+      "choices": [
+        "L'an 2, pendant le Ramadan",
+        "L'an 10, en dhū l-ḥijja",
+        "L'an 6, en dhū l-qaʿda",
+        "L'an 8, pendant le Ramadan"
+      ],
+      "answer": 3,
+      "expl": "En Ramadan de l'an 8 (630), le Prophète ﷺ entra à La Mecque, huit ans après l'avoir quittée. Il y entra la tête inclinée sur sa monture, par humilité."
+    },
+    {
+      "id": "sir-t2-0079",
+      "concept": "sir.conquete.armee",
+      "domain": "sira",
+      "sub": "conquete",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Avec environ combien d'hommes le Prophète ﷺ marcha-t-il sur La Mecque ?",
+      "answer": 10000,
+      "tolerance": 500,
+      "unit": "hommes",
+      "expl": "Environ dix mille hommes, alors qu'il en avait trois cents à Badr six ans plus tôt. Il fit allumer dix mille feux la veille pour impressionner et éviter le combat. La ville se rendit presque sans effusion de sang."
+    },
+    {
+      "id": "sir-t2-0080",
+      "concept": "sir.conquete.hind",
+      "domain": "sira",
+      "sub": "conquete",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'advint-il de Hind bint ʿUtba, qui avait mutilé le corps de Ḥamza à Uḥud ?",
+      "choices": [
+        "Elle se convertit, et le Prophète ﷺ l'accepta",
+        "Elle fut exécutée après la conquête",
+        "Elle s'enfuit en Abyssinie",
+        "Elle fut exilée de La Mecque"
+      ],
+      "answer": 0,
+      "expl": "Lors de la conquête, elle vint voilée prêter serment parmi les femmes, puis se fit reconnaître. Le Prophète ﷺ l'accepta. Elle brisa ensuite ses idoles. Le pardon de la conquête n'avait presque aucune limite.",
+      "src": [
+        "Ibn Saʿd ; Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0081",
+      "concept": "sir.fin.arafa-khutba",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Lors du sermon du pèlerinage d'adieu, que déclara le Prophète ﷺ à propos des vies et des biens ?",
+      "choices": [
+        "Ils appartiennent tous au calife",
+        "Sacrés comme ce jour, ce mois, cette ville",
+        "Ils peuvent être pris en temps de guerre",
+        "Ils doivent être partagés également"
+      ],
+      "answer": 1,
+      "expl": "« Votre sang et vos biens vous sont sacrés comme ce jour-ci, dans ce mois-ci, dans cette ville-ci » (Bukhari et Muslim). Il recommanda aussi : « Craignez Allah au sujet des femmes. » Puis il demanda : « Ai-je transmis ? » La foule répondit : « Oui ! »",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0082",
+      "concept": "sir.fin.umar-abu-bakr",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit Abū Bakr à la foule, alors que ʿUmar refusait de croire à la mort du Prophète ﷺ ?",
+      "choices": [
+        "« Il reviendra comme Mūsā »",
+        "« Partons tous en Syrie »",
+        "« Quiconque adorait Muḥammad, Muḥammad est mort ; quiconque adore Allah, Allah est vivant et ne meurt pas »",
+        "« Attendons trois jours »"
+      ],
+      "answer": 2,
+      "expl": "Puis il récita : « Muḥammad n'est qu'un messager ; des messagers sont passés avant lui. S'il mourait ou s'il était tué, retourneriez-vous sur vos talons ? » (3:144). ʿUmar raconta qu'il tomba à genoux, comme s'il entendait ce verset pour la première fois (Bukhari).",
+      "src": [
+        "Bukhari ; Coran 3:144"
+      ],
+      "retired": true
+    },
+    {
+      "id": "sir-t2-0083",
+      "concept": "sir.fin.heritage",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Prophète ﷺ à propos de l'héritage des prophètes ?",
+      "choices": [
+        "« Tout revient à mes filles »",
+        "« Tout revient au calife »",
+        "« Partagez tout entre les tribus »",
+        "« Nous ne laissons pas d'héritage ; ce que nous laissons est aumône »"
+      ],
+      "answer": 3,
+      "expl": "Il mourut sans richesse : sa cotte de mailles était même gagée chez un juif contre de l'orge (Bukhari). « Les prophètes ne laissent en héritage ni dinar ni dirham ; ils laissent la science » (Abū Dāwūd).",
+      "src": [
+        "Bukhari et Muslim ; Abū Dāwūd"
+      ],
+      "retired": true
+    },
+    {
+      "id": "sir-t2-0084",
+      "concept": "sir.fin.annees-medine",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Combien d'années le Prophète ﷺ vécut-il à Médine, de l'Hégire à sa mort ?",
+      "answer": 10,
+      "unit": "ans",
+      "expl": "Dix ans, de 622 à 632, après treize ans de mission à La Mecque. En une décennie, une petite communauté persécutée devint le cœur de toute l'Arabie."
+    },
+    {
+      "id": "sir-t2-0085",
+      "concept": "sir.fin.chez-aisha",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Où le Prophète ﷺ passa-t-il ses derniers jours, et où fut-il enterré ?",
+      "choices": [
+        "Dans la chambre de ʿĀʾisha",
+        "Dans la maison d'Abū Bakr",
+        "Au cimetière d'al-Baqīʿ",
+        "À La Mecque, chez Khadīja"
+      ],
+      "answer": 0,
+      "expl": "Malade, il demandait chaque jour : « Où serai-je demain ? » Ses épouses comprirent et lui permirent de rester chez ʿĀʾisha. Il mourut la tête contre sa poitrine, et fut enterré à l'endroit même, aujourd'hui dans la mosquée du Prophète.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0086",
+      "concept": "sir.famille.fatima-ali",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui épousa Fāṭima, la fille cadette du Prophète ﷺ ?",
+      "choices": [
+        "ʿUthmān ibn ʿAffān",
+        "ʿAlī ibn Abī Ṭālib",
+        "ʿUmar ibn al-Khaṭṭāb",
+        "Zayd ibn Ḥāritha"
+      ],
+      "answer": 1,
+      "expl": "Fāṭima épousa ʿAlī vers l'an 2. Leur vie fut modeste : elle moulait le grain jusqu'à en avoir les mains abîmées. De leur union naquirent al-Ḥasan et al-Ḥusayn, que le Prophète ﷺ appelait « mes deux fleurs de ce monde » (Bukhari).",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0087",
+      "concept": "sir.famille.dhu-nnurayn",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi ʿUthmān est-il surnommé « Dhū n-Nūrayn », celui aux deux lumières ?",
+      "choices": [
+        "Il vit deux fois l'ange Jibrīl",
+        "Il compila deux copies du Coran",
+        "Il épousa deux filles du Prophète ﷺ",
+        "Il pria deux fois chaque nuit"
+      ],
+      "answer": 2,
+      "expl": "Après la mort de Ruqayya, le Prophète ﷺ lui donna en mariage sa sœur Umm Kulthūm. Aucun autre homme n'a épousé deux filles d'un prophète."
+    },
+    {
+      "id": "sir-t2-0088",
+      "concept": "sir.famille.aisha-savante",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel rôle ʿĀʾisha joua-t-elle après la mort du Prophète ﷺ ?",
+      "choices": [
+        "Elle se retira loin de Médine, sans parler",
+        "Elle devint commandante des armées",
+        "Elle partit vivre à La Mecque, sans enseigner",
+        "Une grande savante, transmettant des milliers de hadiths"
+      ],
+      "answer": 3,
+      "expl": "Les Compagnons la consultaient sur les questions difficiles. Abū Mūsā disait : « Chaque fois que nous avions un doute, nous trouvions chez ʿĀʾisha une science à ce sujet » (Tirmidhi). Elle corrigeait même certains Compagnons.",
+      "src": [
+        "Tirmidhi"
+      ]
+    },
+    {
+      "id": "sir-t2-0089",
+      "concept": "sir.famille.mariya",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était la mère d'Ibrāhīm, le fils du Prophète ﷺ mort en bas âge ?",
+      "choices": [
+        "Māriya la Copte",
+        "Khadīja bint Khuwaylid",
+        "ʿĀʾisha",
+        "Ṣafiyya"
+      ],
+      "answer": 0,
+      "expl": "Māriya fut offerte par le gouverneur d'Égypte, al-Muqawqis. Elle donna naissance à Ibrāhīm, qui mourut vers dix-huit mois. Le Prophète ﷺ recommanda : « Traitez bien les Coptes, car ils ont un lien de parenté (avec nous) » (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0090",
+      "concept": "sir.caractere.bedouin",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ réagit-il quand un bédouin urina dans la mosquée ?",
+      "choices": [
+        "Il le fit sortir de force de la mosquée",
+        "« Laissez-le », puis il lui expliqua avec douceur",
+        "Il le punit devant tout le monde",
+        "Il ferma la mosquée aux bédouins"
+      ],
+      "answer": 1,
+      "expl": "Les Compagnons voulurent le rudoyer. « Laissez-le, versez sur son urine un seau d'eau : vous avez été envoyés pour faciliter, non pour compliquer » (Bukhari). Puis il lui expliqua avec douceur ce qu'est une mosquée.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0091",
+      "concept": "sir.caractere.convoi-juif",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi le Prophète ﷺ se leva-t-il au passage d'un convoi funèbre juif ?",
+      "choices": [
+        "Par erreur",
+        "Pour saluer la famille seulement",
+        "« N'est-ce pas une âme ? »",
+        "Pour le suivre jusqu'au cimetière juif"
+      ],
+      "answer": 2,
+      "expl": "On lui fit remarquer que c'était un juif. Il répondit : « N'est-ce pas une âme ? » (Bukhari). Le respect de la dignité humaine ne dépend pas de la religion.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0092",
+      "concept": "sir.caractere.hud-cheveux",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qui, selon le Prophète ﷺ, lui avait fait blanchir les cheveux ?",
+      "choices": [
+        "Les batailles et les blessures",
+        "La mort de ses enfants",
+        "Les nuits de prière",
+        "La sourate Hūd et ses sœurs"
+      ],
+      "answer": 3,
+      "expl": "Abū Bakr lui fit remarquer qu'il avait blanchi. Il répondit : « Hūd, al-Wāqiʿa, al-Mursalāt, ʿAmma yatasāʾalūn et at-Takwīr m'ont fait blanchir » (Tirmidhi). Il n'avait pourtant qu'une vingtaine de cheveux blancs.",
+      "src": [
+        "Tirmidhi"
+      ]
+    },
+    {
+      "id": "sir-t2-0093",
+      "concept": "sir.medine.fiche-chrono",
+      "domain": "sira",
+      "sub": "medine",
+      "tier": 2,
+      "type": "fiche",
+      "q": "Les dix années de Médine",
+      "points": [
+        "An 1 : Hégire, mosquée, fraternité Anṣār-Muhājirūn",
+        "An 2 : changement de qibla, Ramadan prescrit, Badr",
+        "An 3 : Uḥud · An 5 : le Fossé",
+        "An 6 : Ḥudaybiya · An 7 : Khaybar, lettres aux rois",
+        "An 8 : conquête de La Mecque, Ḥunayn · An 9 : Tabūk",
+        "An 10 : pèlerinage d'adieu · An 11 : décès"
+      ],
+      "expl": "En dix ans, la communauté passe de quelques centaines de réfugiés à toute l'Arabie. Chaque année a son événement clé."
+    },
+    {
+      "id": "sir-t2-0094",
+      "concept": "sir.naissance-jeunesse.amina",
+      "domain": "sira",
+      "sub": "naissance-jeunesse",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quel âge le Prophète ﷺ perdit-il sa mère Āmina, et où ?",
+      "choices": [
+        "À sa naissance, à La Mecque",
+        "Vers douze ans, en Syrie",
+        "Vers six ans, à al-Abwāʾ",
+        "Vers vingt ans, à Médine"
+      ],
+      "answer": 2,
+      "expl": "Āmina l'avait emmené voir ses oncles maternels à Yathrib. Sur le chemin du retour, elle mourut à al-Abwāʾ. Des années plus tard, le Prophète ﷺ se rendit sur sa tombe et pleura, faisant pleurer ceux qui l'entouraient (Muslim).",
+      "src": [
+        "Muslim ; Ibn Isḥāq"
+      ]
+    },
+    {
+      "id": "sir-t2-0095",
+      "concept": "sir.naissance-jeunesse.mariage-khadija",
+      "domain": "sira",
+      "sub": "naissance-jeunesse",
+      "tier": 2,
+      "type": "nombre",
+      "q": "Quel âge avait le Prophète ﷺ lorsqu'il épousa Khadīja, selon la tradition la plus connue ?",
+      "answer": 25,
+      "unit": "ans",
+      "expl": "Vingt-cinq ans. Khadīja, veuve et commerçante respectée, l'avait employé et admirait son honnêteté. C'est elle qui demanda sa main, par l'intermédiaire de son amie Nafīsa. Selon la tradition, elle avait quarante ans."
+    },
+    {
+      "id": "sir-t2-0096",
+      "concept": "sir.mecque.bilal-libere",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui racheta et affranchit Bilāl, torturé par son maître Umayya ibn Khalaf ?",
+      "choices": [
+        "ʿUmar",
+        "Le Prophète ﷺ lui-même",
+        "Khadīja",
+        "Abū Bakr"
+      ],
+      "answer": 3,
+      "expl": "Abū Bakr dépensa sa fortune pour racheter des esclaves persécutés à cause de leur foi, dont Bilāl. ʿUmar disait : « Abū Bakr est notre maître, et il a affranchi notre maître » (Bukhari), en parlant de Bilāl.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0097",
+      "concept": "sir.mecque.musab",
+      "domain": "sira",
+      "sub": "mecque",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel Compagnon le Prophète ﷺ envoya-t-il à Yathrib pour enseigner l'islam avant l'Hégire ?",
+      "choices": [
+        "Muṣʿab ibn ʿUmayr",
+        "Abū Bakr",
+        "Bilāl",
+        "Zayd ibn Thābit"
+      ],
+      "answer": 0,
+      "expl": "Après le premier serment d'ʿAqaba, Muṣʿab, jeune Mecquois élégant qui avait renoncé au luxe, partit enseigner le Coran à Médine. Grâce à lui, de nombreux Anṣār se convertirent. Il tomba martyr à Uḥud, si pauvre que son linceul ne couvrait pas tout son corps (Bukhari).",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0098",
+      "concept": "sir.hijra.abu-bakr-joie",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment Abū Bakr réagit-il quand le Prophète ﷺ lui annonça qu'il l'accompagnerait dans l'Hégire ?",
+      "choices": [
+        "Il voulut emmener toute sa famille",
+        "Il pleura de joie",
+        "Il refusa par peur",
+        "Il demanda du temps pour réfléchir"
+      ],
+      "answer": 1,
+      "expl": "ʿĀʾisha raconte : « Je n'avais jamais vu quelqu'un pleurer de joie avant ce jour-là » (Ibn Isḥāq). Abū Bakr avait préparé deux chamelles depuis des mois, dans l'espoir de cet honneur.",
+      "src": [
+        "Ibn Isḥāq ; Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0099",
+      "concept": "sir.batailles.badr-date",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quelle date eut lieu la bataille de Badr ?",
+      "choices": [
+        "Le 10 dhū l-ḥijja de l'an 5",
+        "Le 27 rajab de l'an 3",
+        "Le 17 Ramadan de l'an 2",
+        "Le 1er muḥarram de l'an 1"
+      ],
+      "answer": 2,
+      "expl": "Badr eut lieu le 17 Ramadan de l'an 2, le premier Ramadan jeûné par les musulmans. Le Coran l'appelle « le jour du discernement (yawm al-furqān), le jour où les deux troupes se rencontrèrent » (8:41).",
+      "src": [
+        "Coran 8:41"
+      ]
+    },
+    {
+      "id": "sir-t2-0100",
+      "concept": "sir.batailles.khalid-sayf",
+      "domain": "sira",
+      "sub": "batailles",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel surnom le Prophète ﷺ donna-t-il à Khālid ibn al-Walīd après la bataille de Muʾta ?",
+      "choices": [
+        "Al-Fārūq",
+        "Aṣ-Ṣiddīq",
+        "Asad Allāh, « le lion d'Allah »",
+        "Sayf Allāh, « l'épée d'Allah »"
+      ],
+      "answer": 3,
+      "expl": "À Muʾta (an 8), les trois chefs nommés tombèrent l'un après l'autre. Khālid prit le commandement et sauva l'armée par une retraite habile. Le Prophète ﷺ annonça : « Puis l'étendard fut pris par une épée parmi les épées d'Allah » (Bukhari). Ḥamza, lui, était surnommé « le lion d'Allah ».",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0101",
+      "concept": "sir.conquete.ikrima",
+      "domain": "sira",
+      "sub": "conquete",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'arriva-t-il à ʿIkrima, fils d'Abū Jahl, qui s'enfuit après la conquête de La Mecque ?",
+      "choices": [
+        "Pardonné, il revint et se convertit",
+        "Il mourut en exil au Yémen",
+        "Il fut capturé et emprisonné",
+        "Il devint chef des hypocrites"
+      ],
+      "answer": 0,
+      "expl": "Son épouse Umm Ḥakīm, devenue musulmane, alla le chercher jusqu'à la côte avec la promesse de sécurité. Le Prophète ﷺ dit à ses Compagnons : « ʿIkrima arrive : ne dites pas de mal de son père, cela blesse les vivants » (al-Ḥākim). Il mourut martyr quelques années plus tard.",
+      "src": [
+        "al-Ḥākim ; Ibn Isḥāq"
+      ]
+    },
+    {
+      "id": "sir-t2-0102",
+      "concept": "sir.conquete.jour-misericorde",
+      "domain": "sira",
+      "sub": "conquete",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quand un Compagnon cria « Aujourd'hui est le jour du carnage », que répliqua le Prophète ﷺ ?",
+      "choices": [
+        "« Aujourd'hui est le jour de Badr »",
+        "« Aujourd'hui est le jour de la miséricorde »",
+        "« Aujourd'hui est le jour de la vengeance »",
+        "« Taisez-vous tous »"
+      ],
+      "answer": 1,
+      "expl": "Saʿd ibn ʿUbāda lança : « Aujourd'hui est le jour du carnage ! » Le Prophète ﷺ lui retira l'étendard et dit : « Aujourd'hui est le jour de la miséricorde, le jour où Allah honore Quraysh » (Bukhari, sens rapporté).",
+      "src": [
+        "Bukhari ; Ibn Hishām"
+      ]
+    },
+    {
+      "id": "sir-t2-0103",
+      "concept": "sir.fin.fatima-secret",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que confia le Prophète ﷺ à Fāṭima pendant sa dernière maladie, qui la fit pleurer puis sourire ?",
+      "choices": [
+        "Qu'elle deviendrait calife après lui",
+        "Qu'elle partirait vivre à La Mecque",
+        "Sa mort, puis qu'elle le rejoindrait la première",
+        "Qu'elle aurait sept enfants"
+      ],
+      "answer": 2,
+      "expl": "Il lui parla en secret : elle pleura. Il lui parla encore : elle sourit. Après sa mort, elle expliqua : il lui avait annoncé sa mort, puis qu'elle le rejoindrait la première et serait la maîtresse des femmes du Paradis (Bukhari et Muslim). Elle mourut six mois après lui.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0104",
+      "concept": "sir.fin.usama",
+      "domain": "sira",
+      "sub": "fin",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle armée le Prophète ﷺ prépara-t-il juste avant sa mort, et qui en était le chef ?",
+      "choices": [
+        "Vers La Mecque, sous Khālid",
+        "Vers la Perse, sous Saʿd",
+        "Vers l'Égypte, sous ʿAmr",
+        "Vers la Syrie, sous le jeune Usāma"
+      ],
+      "answer": 3,
+      "expl": "Il confia le commandement à Usāma, environ dix-huit ans, fils de son affranchi Zayd, malgré la présence d'Abū Bakr et ʿUmar dans les rangs. Certains s'en étonnèrent ; il confirma son choix. Abū Bakr fit partir l'armée dès son élection.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "sir-t2-0105",
+      "concept": "sir.famille.umm-habiba",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qui était Umm Ḥabība, épouse du Prophète ﷺ ?",
+      "choices": [
+        "La fille d'Abū Sufyān, réfugiée en Abyssinie",
+        "La fille d'un roi de Perse",
+        "Une servante venue d'Égypte",
+        "La fille de ʿUmar ibn al-Khaṭṭāb"
+      ],
+      "answer": 0,
+      "expl": "Ramla, dite Umm Ḥabība, avait émigré en Abyssinie avec son premier mari. Restée seule, elle épousa le Prophète ﷺ ; le Négus conclut le mariage à distance. Quand son père Abū Sufyān vint à Médine, elle replia le tapis du Prophète ﷺ pour qu'il ne s'y assoie pas, lui encore idolâtre.",
+      "src": [
+        "Ibn Saʿd"
+      ]
+    },
+    {
+      "id": "sir-t2-0106",
+      "concept": "sir.famille.zaynab-jahsh",
+      "domain": "sira",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pour quelle qualité Zaynab bint Jaḥsh, épouse du Prophète ﷺ, était-elle connue ?",
+      "choices": [
+        "Sa beauté remarquée de tous",
+        "Sa générosité : elle donnait tout",
+        "Sa voix pour réciter le Coran",
+        "Sa richesse héritée de son père"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ dit à ses épouses : « La première d'entre vous à me rejoindre sera celle qui a les bras les plus longs. » Elles mesuraient leurs bras ; c'était Zaynab, la plus généreuse, qui tannait le cuir et donnait le fruit de son travail (Muslim).",
+      "src": [
+        "Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0107",
+      "concept": "sir.caractere.natte",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Sur quoi le Prophète ﷺ dormait-il, au point que ʿUmar pleura en le voyant ?",
+      "choices": [
+        "Sur un lit de plumes royal",
+        "Sur un tapis persan épais",
+        "Sur une natte qui marquait son côté",
+        "Sur un coussin de soie"
+      ],
+      "answer": 2,
+      "expl": "ʿUmar vit les traces de la natte sur son côté et pleura en pensant aux rois de Perse et de Byzance. Le Prophète ﷺ répondit : « N'es-tu pas satisfait qu'ils aient ce monde, et nous l'au-delà ? » (Bukhari).",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0108",
+      "concept": "sir.caractere.serviteurs",
+      "domain": "sira",
+      "sub": "caractere",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que recommandait le Prophète ﷺ envers les serviteurs et employés ?",
+      "choices": [
+        "Les payer une fois par an seulement",
+        "Les garder loin de la famille",
+        "Les faire travailler jour et nuit",
+        "Les nourrir et vêtir comme soi, sans surcharge"
+      ],
+      "answer": 3,
+      "expl": "« Vos serviteurs sont vos frères qu'Allah a placés sous votre autorité : nourrissez-les de ce que vous mangez, habillez-les de ce que vous portez, ne les chargez pas au-delà de leurs forces » (Bukhari). Anas le servit dix ans sans jamais entendre de reproche.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "sir-t2-0109",
+      "concept": "sir.revelation.jibril-vraie-forme",
+      "domain": "sira",
+      "sub": "revelation",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Combien de fois le Prophète ﷺ vit-il Jibrīl sous sa forme réelle, selon ʿĀʾisha ?",
+      "choices": [
+        "Deux fois",
+        "Une seule fois",
+        "Chaque jour",
+        "Jamais"
+      ],
+      "answer": 0,
+      "expl": "Il le vit deux fois sous sa forme d'origine, avec six cents ailes couvrant l'horizon : au début de la révélation, et lors du voyage nocturne, près du lotus de la limite (53:13-14). Le reste du temps, Jibrīl venait sous forme humaine, souvent sous les traits du Compagnon Diḥya.",
+      "src": [
+        "Muslim ; Coran 53:13-14"
+      ]
+    },
+    {
+      "id": "sir-t2-0110",
+      "concept": "sir.hijra.arrivee-quba",
+      "domain": "sira",
+      "sub": "hijra",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel jour de la semaine le Prophète ﷺ arriva-t-il à Qubāʾ, aux portes de Médine ?",
+      "choices": [
+        "Un samedi",
+        "Un mercredi",
+        "Un lundi",
+        "Un vendredi"
+      ],
+      "answer": 2,
+      "expl": "Il arriva à Qubāʾ un lundi du mois de rabīʿ al-awwal, y resta quelques jours et y fonda la première mosquée de l'islam, avant d'entrer à Médine un vendredi. Le lundi est aussi le jour de sa naissance, de sa première révélation et de sa mort.",
+      "src": [
+        "Bukhari ; Muslim (le lundi)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "pack": "arabe-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "ara-t3-0001",
+      "concept": "ara.lecture.fatiha-1",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 3,
+      "type": "paires",
+      "q": "La Fātiḥa mot à mot (1) : associe chaque mot à son sens.",
+      "pairs": [
+        [
+          "al-ḥamdu",
+          "la louange"
+        ],
+        [
+          "Rabbi",
+          "Seigneur (de)"
+        ],
+        [
+          "al-ʿālamīn",
+          "les mondes"
+        ],
+        [
+          "Māliki",
+          "Maître (de)"
+        ],
+        [
+          "yawmi d-dīn",
+          "le Jour de la Rétribution"
+        ]
+      ],
+      "expl": "Comprendre la Fātiḥa mot à mot transforme la prière : on sait ce qu'on dit dix-sept fois par jour.",
+      "src": [
+        "Coran 1:2-4"
+      ],
+      "tags": [
+        "sourate:1"
+      ],
+      "pron": {
+        "al-ḥamdu": "al-ham-dou",
+        "Rabbi": "rab-bi",
+        "al-ʿālamīn": "al-ʿâ-la-mîn",
+        "Māliki": "mâ-li-ki",
+        "yawmi d-dīn": "yaw-mid-dîn"
+      }
+    },
+    {
+      "id": "ara-t3-0002",
+      "concept": "ara.lecture.fatiha-2",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 3,
+      "type": "paires",
+      "q": "La Fātiḥa mot à mot (2) : associe chaque mot à son sens.",
+      "pairs": [
+        [
+          "iyyāka",
+          "Toi seul"
+        ],
+        [
+          "naʿbudu",
+          "nous adorons"
+        ],
+        [
+          "nastaʿīn",
+          "nous implorons le secours"
+        ],
+        [
+          "ihdinā",
+          "guide-nous"
+        ],
+        [
+          "aṣ-ṣirāṭa l-mustaqīm",
+          "le chemin droit"
+        ]
+      ],
+      "expl": "« Iyyāka » est placé avant le verbe pour insister : c'est Toi, et Toi seul.",
+      "src": [
+        "Coran 1:5-6"
+      ],
+      "tags": [
+        "sourate:1"
+      ],
+      "pron": {
+        "iyyāka": "iy-yâ-ka",
+        "naʿbudu": "naʿ-bou-dou",
+        "nastaʿīn": "nas-ta-ʿîn",
+        "ihdinā": "ih-di-nâ",
+        "aṣ-ṣirāṭa l-mustaqīm": "as-si-râ-tal-mous-ta-qîm"
+      }
+    },
+    {
+      "id": "ara-t3-0003",
+      "concept": "ara.lecture.fatiha-3",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 3,
+      "type": "paires",
+      "q": "La Fātiḥa mot à mot (3) : associe chaque mot à son sens.",
+      "pairs": [
+        [
+          "alladhīna",
+          "ceux que"
+        ],
+        [
+          "anʿamta ʿalayhim",
+          "Tu as comblés de faveurs"
+        ],
+        [
+          "ghayri",
+          "non (pas)"
+        ],
+        [
+          "al-maghḍūbi ʿalayhim",
+          "ceux qui ont encouru la colère"
+        ],
+        [
+          "aḍ-ḍāllīn",
+          "les égarés"
+        ]
+      ],
+      "expl": "Le dernier verset décrit trois chemins : celui des gens comblés, à suivre, et deux à éviter.",
+      "src": [
+        "Coran 1:7"
+      ],
+      "tags": [
+        "sourate:1"
+      ],
+      "pron": {
+        "alladhīna": "al-la-dhî-na",
+        "anʿamta ʿalayhim": "an-ʿam-ta ʿa-lay-him",
+        "ghayri": "ghay-ri",
+        "al-maghḍūbi ʿalayhim": "al-magh-doû-bi ʿa-lay-him",
+        "aḍ-ḍāllīn": "wa lad-dâl-lîn"
+      }
+    },
+    {
+      "id": "ara-t3-0004",
+      "concept": "ara.lecture.bismi",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le premier mot de la basmala, « bismi » ?",
+      "choices": [
+        "Dis",
+        "Au nom de",
+        "Gloire à",
+        "Louange à"
+      ],
+      "answer": 1,
+      "expl": "« Bismi » est composé de « bi » (par, avec) et « ism » (nom) : « au nom de, avec le nom de ». L'alif de « ism » disparaît à l'écrit dans la basmala, d'où la forme بِسْمِ. On commence tout acte « avec » le nom d'Allah.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "بِسْمِ",
+        "tr": "bismi",
+        "pr": "bis-mi",
+        "fr": "au nom de"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t3-0005",
+      "concept": "ara.lecture.mot-dalin",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment se lit le dernier mot de la Fātiḥa ?",
+      "choices": [
+        "al-mustaqīm",
+        "ar-raḥīm",
+        "aḍ-ḍāllīn",
+        "al-ʿālamīn"
+      ],
+      "answer": 2,
+      "expl": "Aḍ-ḍāllīn (ad-dâl-lîn), « les égarés », avec un ḍād doublé et une longue prolongation sur l'alif, car il est suivi d'une lettre doublée. Le ḍād, lettre propre à l'arabe, est difficile à prononcer : on l'apprend à l'oreille.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "الضَّالِّينَ",
+        "tr": "aḍ-ḍāllīn",
+        "pr": "ad-dâl-lîn",
+        "fr": "les égarés"
+      },
+      "tags": [
+        "ar-question",
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "ara-t3-0006",
+      "concept": "ara.voyelles.solaires",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 3,
+      "type": "paires",
+      "q": "Avec l'article « al- », certaines lettres « avalent » le l. Associe chaque mot à sa prononciation.",
+      "pairs": [
+        [
+          "الشَّمْس (le soleil)",
+          "ash-shams"
+        ],
+        [
+          "الْقَمَر (la lune)",
+          "al-qamar"
+        ],
+        [
+          "الرَّحْمٰن",
+          "ar-Raḥmān"
+        ],
+        [
+          "الْكِتَاب",
+          "al-kitāb"
+        ]
+      ],
+      "expl": "Devant les lettres dites « solaires » (t, th, d, dh, r, z, s, sh, ṣ, ḍ, ṭ, ẓ, l, n), le l de l'article ne se prononce pas et la lettre suivante est doublée : ash-shams. Devant les lettres « lunaires », il se prononce : al-qamar. D'où « as-salāmu ʿalaykum » et non « al-salām ».",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t3-0007",
+      "concept": "ara.voyelles.solaire-salam",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 3,
+      "type": "vf",
+      "q": "Dans « as-salāmu ʿalaykum », le l de l'article ne se prononce pas, car le sīn est une lettre solaire.",
+      "answer": true,
+      "expl": "On écrit al-salām (السَّلَام) mais on dit « as-salām ». C'est la même chose pour an-nūr, ad-dīn, ar-rasūl. Avec qamar (lune), qalb ou kitāb, on garde le « al ».",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t3-0008",
+      "concept": "ara.voyelles.hamza",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'est-ce que la hamza (ء) ?",
+      "choices": [
+        "Une voyelle longue",
+        "Un « h » soufflé",
+        "Une lettre muette",
+        "Un coup de glotte"
+      ],
+      "answer": 3,
+      "expl": "La hamza note l'arrêt de la voix dans la gorge. Elle peut s'écrire seule (ء) ou sur un support : alif (أ, إ), wāw (ؤ) ou yāʾ (ئ). Elle apparaît dans Qurʾān, muʾmin ou samāʾ (ciel).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ء",
+        "tr": "hamza",
+        "pr": "ham-za",
+        "fr": "le coup de glotte"
+      }
+    },
+    {
+      "id": "ara-t3-0009",
+      "concept": "ara.voyelles.alif-wasla",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que se passe-t-il avec l'alif de « Allāh » ou de l'article « al » quand ils suivent un autre mot, comme dans « bismi Llāh » ?",
+      "choices": [
+        "Il ne se prononce pas : on enchaîne directement (alif de liaison, waṣla)",
+        "Il se prononce très fort",
+        "Il devient un « o »",
+        "Il double la lettre suivante"
+      ],
+      "answer": 0,
+      "expl": "L'alif waṣla ne se prononce qu'en début de phrase. En liaison, il disparaît à l'oral : on dit « bismi-llāh », « al-ḥamdu li-llāh ». C'est pourquoi la translittération écrit souvent « Llāh » après un autre mot.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "retired": true
+    },
+    {
+      "id": "ara-t3-0010",
+      "concept": "ara.racines.h-m-d",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe ces mots de la racine ḥ-m-d (louer) à leur sens.",
+      "pairs": [
+        [
+          "Ḥamd",
+          "La louange"
+        ],
+        [
+          "Muḥammad",
+          "Celui qui est loué abondamment"
+        ],
+        [
+          "Aḥmad",
+          "Le plus digne de louange"
+        ],
+        [
+          "Maḥmūd",
+          "Loué"
+        ],
+        [
+          "Al-Ḥamīd",
+          "Le Digne de louange (nom d'Allah)"
+        ]
+      ],
+      "expl": "Le nom du Prophète ﷺ vient de la même racine que « al-ḥamdu li-Llāh ». Sa communauté est d'ailleurs appelée dans certains textes « les gens qui louent beaucoup » (al-ḥammādūn).",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t3-0011",
+      "concept": "ara.racines.a-b-d",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe ces mots de la racine ʿ-b-d (adorer, servir) à leur sens.",
+      "pairs": [
+        [
+          "ʿAbd",
+          "Serviteur, adorateur"
+        ],
+        [
+          "ʿIbāda",
+          "Adoration"
+        ],
+        [
+          "Maʿbūd",
+          "Celui qui est adoré"
+        ],
+        [
+          "ʿAbd Allāh",
+          "Serviteur d'Allah (prénom)"
+        ]
+      ],
+      "expl": "Le Prophète ﷺ a dit que les prénoms les plus aimés d'Allah sont ʿAbd Allāh et ʿAbd ar-Raḥmān. Les prénoms en « ʿAbd + nom d'Allah » (ʿAbd al-Karīm, ʿAbd al-Laṭīf…) sont très répandus au Maroc.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Muslim"
+      ]
+    },
+    {
+      "id": "ara-t3-0012",
+      "concept": "ara.racines.schemes",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque schème (forme de mot) à ce qu'il exprime, avec un exemple.",
+      "pairs": [
+        [
+          "mafʿal (masjid, maktab)",
+          "Le lieu où se fait l'action"
+        ],
+        [
+          "fāʿil (kātib, ʿālim)",
+          "Celui qui fait l'action"
+        ],
+        [
+          "mafʿūl (maktūb, maḥmūd)",
+          "Ce qui subit l'action"
+        ],
+        [
+          "fiʿāl / fuʿūl (kitāb, sujūd)",
+          "Le nom de l'action ou de l'objet"
+        ]
+      ],
+      "expl": "En combinant une racine et un schème, on fabrique des dizaines de mots : sajada (il s'est prosterné) donne sājid (celui qui se prosterne), masjid (lieu de prosternation), sujūd (prosternation). C'est la grande logique de l'arabe.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t3-0013",
+      "concept": "ara.racines.f-t-h",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel mot N'appartient PAS à la racine f-t-ḥ (ouvrir) ?",
+      "choices": [
+        "Al-Fattāḥ",
+        "Fiqh",
+        "Al-Fātiḥa",
+        "Miftāḥ (clé)"
+      ],
+      "answer": 1,
+      "expl": "Al-Fātiḥa (l'Ouvrante), miftāḥ (la clé, « l'outil pour ouvrir »), al-Fattāḥ (Celui qui ouvre, nom d'Allah) et fatḥ (conquête, ouverture) viennent de f-t-ḥ. Fiqh vient de f-q-h, comprendre en profondeur.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t3-0014",
+      "concept": "ara.racines.d-r-s",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie « madrasa », mot de la racine d-r-s (étudier) ?",
+      "choices": [
+        "La leçon",
+        "Le livre",
+        "Le lieu où l'on étudie, l'école",
+        "L'élève"
+      ],
+      "answer": 2,
+      "expl": "Avec le schème mafʿala (lieu), d-r-s donne madrasa, l'école. De la même racine : dars (la leçon), mudarris (l'enseignant). En France, on dit « médersa » pour les écoles traditionnelles du Maghreb, comme la Bou Inania à Fès.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "retired": true
+    },
+    {
+      "id": "ara-t3-0015",
+      "concept": "ara.vocabulaire.famille",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque mot arabe à son sens.",
+      "pairs": [
+        [
+          "Umm",
+          "Mère"
+        ],
+        [
+          "Ab",
+          "Père"
+        ],
+        [
+          "Akh",
+          "Frère"
+        ],
+        [
+          "Ukht",
+          "Sœur"
+        ],
+        [
+          "Ibn / Bint",
+          "Fils / Fille"
+        ]
+      ],
+      "expl": "On retrouve ces mots dans les noms : Ibn Baṭṭūṭa (fils de Baṭṭūṭa), Umm Salama (mère de Salama), Abū Bakr (« père de Bakr », avec la forme abū).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "pron": {
+        "Umm": "oumm",
+        "Ab": "ab",
+        "Akh": "akh",
+        "Ukht": "oukht",
+        "Ibn / Bint": "ibn / bint"
+      }
+    },
+    {
+      "id": "ara-t3-0016",
+      "concept": "ara.vocabulaire.nombres",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque nombre arabe à sa valeur.",
+      "pairs": [
+        [
+          "Wāḥid",
+          "1"
+        ],
+        [
+          "Ithnān",
+          "2"
+        ],
+        [
+          "Thalātha",
+          "3"
+        ],
+        [
+          "Arbaʿa",
+          "4"
+        ],
+        [
+          "Khamsa",
+          "5"
+        ]
+      ],
+      "expl": "« Khamsa » a donné le nom de la « main de Fatma » au Maghreb (cinq doigts), un objet qui n'a, en islam, aucun pouvoir protecteur.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "pron": {
+        "Wāḥid": "wâ-hid",
+        "Ithnān": "ith-nân",
+        "Thalātha": "tha-lâ-tha",
+        "Arbaʿa": "ar-ba-ʿa",
+        "Khamsa": "kham-sa"
+      }
+    },
+    {
+      "id": "ara-t3-0017",
+      "concept": "ara.vocabulaire.sabaa",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment dit-on « sept » en arabe, nombre très présent dans les rites (sept tours, sept cieux) ?",
+      "choices": [
+        "Tisʿa",
+        "Sitta",
+        "ʿAshara",
+        "Sabʿa"
+      ],
+      "answer": 3,
+      "expl": "Sabʿa (sab-ʿa), sept. Sitta = six, tisʿa = neuf, ʿashara = dix. Le Coran parle des sept cieux, et la Fātiḥa est appelée « as-sabʿ al-mathānī », les sept versets répétés.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    }
+  ]
+}

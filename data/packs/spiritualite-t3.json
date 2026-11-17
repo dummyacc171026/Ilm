@@ -1,0 +1,277 @@
+{
+  "pack": "spiritualite-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "spi-t3-0001",
+      "concept": "spi.intention.combien-petite",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle parole célèbre est attribuée au savant ʿAbd Allāh ibn al-Mubārak sur l'intention ?",
+      "choices": [
+        "« Seules les grandes actions comptent »",
+        "« Une intention rend grandes de petites actions »",
+        "« L'intention n'a aucune importance »",
+        "« Les petites actions ne valent rien »"
+      ],
+      "answer": 1,
+      "expl": "Ibn al-Mubārak (m. 797), savant, commerçant généreux et combattant, résumait ainsi l'enseignement du hadith des intentions. Un verre d'eau offert avec une intention pure peut peser plus qu'une grande fortune donnée pour la renommée."
+    },
+    {
+      "id": "spi-t3-0002",
+      "concept": "spi.intention.muhasaba",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle parole est attribuée à ʿUmar ibn al-Khaṭṭāb à propos de l'examen de soi (muḥāsaba) ?",
+      "choices": [
+        "« Comptez les fautes des autres »",
+        "« Oubliez le passé »",
+        "« Demandez-vous des comptes avant qu'on vous en demande, et pesez vos actes avant qu'ils soient pesés »",
+        "« Ne pensez jamais à vos actes »"
+      ],
+      "answer": 2,
+      "expl": "Les maîtres spirituels recommandent un petit bilan quotidien : qu'ai-je fait de bien, où me suis-je trompé, que puis-je améliorer demain ? Ce n'est pas de la culpabilité, mais un chemin de progrès.",
+      "src": [
+        "Coran 59:18"
+      ],
+      "retired": true
+    },
+    {
+      "id": "spi-t3-0003",
+      "concept": "spi.repentir.maiz",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'apprend-on du hadith de la femme de Ghāmid, qui vint d'elle-même avouer sa faute grave au Prophète ﷺ ?",
+      "choices": [
+        "Elle fut chassée de Médine",
+        "Son aveu ne servit à rien, elle fut rejetée",
+        "Elle fut oubliée de tous",
+        "Son repentir suffirait pour tout un peuple"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ tenta plusieurs fois de la renvoyer, laissant la porte du repentir discret ouverte. Quand Khālid l'insulta, il dit : « Doucement, ô Khālid ! Elle s'est repentie d'un repentir qui, s'il était partagé, suffirait à un collecteur d'impôts injuste. » La miséricorde dépasse la faute.",
+      "src": [
+        "Hadith de Burayda — Muslim"
+      ],
+      "note": "Les savants rappellent qu'il est préférable de se couvrir et de se repentir en privé."
+    },
+    {
+      "id": "spi-t3-0004",
+      "concept": "spi.repentir.adam-iblis",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle différence essentielle les savants voient-ils entre la faute d'Adam et celle d'Iblīs ?",
+      "choices": [
+        "Adam se repentit, Iblīs persista par orgueil",
+        "Ils commirent exactement la même faute",
+        "Iblīs se repentit, Adam non",
+        "Ni l'un ni l'autre ne fut pardonné"
+      ],
+      "answer": 0,
+      "expl": "Adam dit : « Seigneur, nous avons fait du tort à nous-mêmes. » Iblīs dit : « Parce que Tu m'as égaré… » Le croyant qui faute suit le chemin d'Adam, pas celui d'Iblīs : il ne se justifie pas, il revient.",
+      "src": [
+        "Coran 7:23",
+        "Coran 7:16"
+      ]
+    },
+    {
+      "id": "spi-t3-0005",
+      "concept": "spi.vertus.yaqin",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le yaqīn, degré élevé de la foi ?",
+      "choices": [
+        "L'éloquence",
+        "La certitude intérieure, qui ne laisse place à aucun doute",
+        "La richesse",
+        "La célébrité"
+      ],
+      "answer": 1,
+      "expl": "Le Coran distingue la science certaine (ʿilm al-yaqīn), la vision certaine (ʿayn al-yaqīn) et la réalité certaine (ḥaqq al-yaqīn). Le Prophète ﷺ demandait à Allah « une certitude qui nous rende légères les épreuves de ce monde ».",
+      "src": [
+        "Coran 102:5-7",
+        "Hadith d'Ibn ʿUmar — Tirmidhi"
+      ],
+      "retired": true
+    },
+    {
+      "id": "spi-t3-0006",
+      "concept": "spi.vertus.wara",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'est-ce que le waraʿ, vertu recherchée par les pieux ?",
+      "choices": [
+        "La colère",
+        "L'avarice",
+        "Le scrupule qui fait éviter même ce qui est douteux",
+        "La paresse"
+      ],
+      "answer": 2,
+      "expl": "Le waraʿ découle du hadith : « Laisse ce qui te fait douter. » On raconte que Abū Bakr vomit une nourriture apprise d'origine douteuse. Les savants mettent en garde contre l'excès de scrupule qui tourne à l'obsession.",
+      "src": [
+        "Hadith d'al-Ḥasan ibn ʿAlī — Tirmidhi & Nasai"
+      ],
+      "retired": true
+    },
+    {
+      "id": "spi-t3-0007",
+      "concept": "spi.maladies-coeur.tul-amal",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle maladie du cœur le Prophète ﷺ illustra-t-il en traçant un carré, une ligne qui en sortait, et des petits traits autour ?",
+      "choices": [
+        "La peur de la mort qui paralyse",
+        "L'avarice qui empêche de donner",
+        "La colère qui détruit les liens",
+        "Les longs espoirs qui dépassent la vie"
+      ],
+      "answer": 3,
+      "expl": "Le carré représentait le terme de la vie, la ligne qui en sort les espoirs de l'homme qui vont au-delà, et les petits traits les épreuves qui le frappent. Se rappeler que la vie est courte pousse à ne pas remettre le bien à plus tard.",
+      "src": [
+        "Hadith d'Ibn Masʿūd — Bukhari"
+      ]
+    },
+    {
+      "id": "spi-t3-0008",
+      "concept": "spi.maladies-coeur.ghill",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel secret valut à un Anṣārī d'être annoncé trois fois par le Prophète ﷺ comme « un homme du Paradis » ?",
+      "choices": [
+        "Aucune rancune en se couchant",
+        "Il priait toute la nuit",
+        "Il jeûnait chaque jour",
+        "Il donnait tout son argent"
+      ],
+      "answer": 0,
+      "expl": "ʿAbd Allāh ibn ʿAmr passa trois nuits chez lui et ne vit rien d'extraordinaire dans ses adorations. L'homme lui confia : « Je ne trouve dans mon cœur aucune tromperie envers un musulman, ni jalousie pour un bien qu'Allah lui a donné. » ʿAbd Allāh dit : « C'est cela qui t'a fait atteindre ce rang. »",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Ahmad"
+      ]
+    },
+    {
+      "id": "spi-t3-0009",
+      "concept": "spi.amour.umar-moi",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quand ʿUmar dit au Prophète ﷺ : « Tu m'es plus cher que tout, sauf moi-même », que lui répondit-il ?",
+      "choices": [
+        "Il ne répondit pas",
+        "« Non, par Celui qui tient mon âme, pas avant que je te sois plus cher que toi-même »",
+        "« C'est suffisant »",
+        "« Aime-toi d'abord »"
+      ],
+      "answer": 1,
+      "expl": "ʿUmar réfléchit puis dit : « Maintenant, par Allah, tu m'es plus cher que moi-même. — Maintenant, ô ʿUmar. » Cet amour n'est pas une émotion forcée : il naît de la connaissance de ce que le Prophète ﷺ a apporté.",
+      "src": [
+        "Hadith d'ʿAbd Allāh ibn Hishām — Bukhari"
+      ],
+      "retired": true
+    },
+    {
+      "id": "spi-t3-0010",
+      "concept": "spi.amour.bilal-mort",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disait Bilāl sur son lit de mort, alors que sa femme pleurait ?",
+      "choices": [
+        "« Quel malheur, je vais tout perdre »",
+        "« Ne pleure pas, je reviendrai »",
+        "« Quelle joie ! Demain je retrouverai les bien-aimés »",
+        "« Partage mes biens entre les pauvres »"
+      ],
+      "answer": 2,
+      "expl": "Selon les récits, sa femme disait : « Quel chagrin ! », et Bilāl répondait : « Quelle joie ! » L'amour du Prophète ﷺ transformait même la mort en rendez-vous."
+    },
+    {
+      "id": "spi-t3-0011",
+      "concept": "spi.tasawwuf.qushayri",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel livre d'al-Qushayrī (m. 1072) est un classique du soufisme sunnite, souvent cité au Maroc ?",
+      "choices": [
+        "Al-Muwaṭṭaʾ",
+        "Al-Muqaddima d'Ibn Khaldūn",
+        "Ṣaḥīḥ Muslim",
+        "Ar-Risāla al-Qushayriyya"
+      ],
+      "answer": 3,
+      "expl": "Al-Qushayrī, ash'arite et chaféite, voulut montrer que le soufisme authentique s'accorde avec la Charia. Sa Risāla présente les maîtres anciens et les étapes du chemin : repentir, crainte, espoir, patience, gratitude, amour."
+    },
+    {
+      "id": "spi-t3-0012",
+      "concept": "spi.tasawwuf.stations",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque étape (maqām) du chemin spirituel à son sens.",
+      "pairs": [
+        [
+          "Tawba",
+          "Le repentir, point de départ"
+        ],
+        [
+          "Zuhd",
+          "Le détachement du monde"
+        ],
+        [
+          "Tawakkul",
+          "La confiance totale en Allah"
+        ],
+        [
+          "Riḍā",
+          "La satisfaction face au décret"
+        ],
+        [
+          "Maḥabba",
+          "L'amour d'Allah"
+        ]
+      ],
+      "expl": "Les maîtres décrivent le chemin comme une série de « stations » que le cœur traverse avec l'aide d'Allah. Ibn ʿĀshir énumère dans son poème les étapes de la voie d'al-Junayd : repentir, crainte, vigilance, et suivi de la Sunna.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ]
+    },
+    {
+      "id": "spi-t3-0013",
+      "concept": "spi.tasawwuf.zawiya-role",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel rôle les zāwiyas ont-elles joué dans l'histoire du Maroc, au-delà de la spiritualité ?",
+      "choices": [
+        "Enseignement, accueil, médiation, résistance",
+        "Uniquement des lieux de danse",
+        "Des casernes pour l'armée du sultan",
+        "Des marchés aux épices"
+      ],
+      "answer": 0,
+      "expl": "Les zāwiyas étaient des centres d'enseignement du Coran et du fiqh, des refuges pour les voyageurs, des lieux de solidarité. Au XVIe siècle, le mouvement jazūlite mobilisa contre les Portugais, et la zāwiya de Dila fut un grand foyer de savoir au XVIIe siècle."
+    }
+  ]
+}

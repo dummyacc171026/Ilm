@@ -1,0 +1,2919 @@
+{
+  "pack": "croyance-t1",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "cro-t1-0001",
+      "concept": "cro.tawhid.sens-shahada",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie la phrase « Lā ilāha illā Allāh » ?",
+      "choices": [
+        "Il n'y a de divinité digne d'adoration qu'Allah",
+        "Allah est le plus grand",
+        "Gloire et pureté à Allah",
+        "Au nom d'Allah, le Tout Miséricordieux"
+      ],
+      "answer": 0,
+      "expl": "C'est la première moitié de la shahāda et le cœur de l'islam : le tawḥīd, l'unicité d'Allah. Elle commence par une négation (« pas de divinité… ») puis affirme (« … sauf Allah ») : on retire toute adoration à ce qui n'est pas Allah, pour la Lui réserver entièrement.",
+      "src": [
+        "Coran 47:19"
+      ],
+      "ar": {
+        "text": "لَا إِلٰهَ إِلَّا اللّٰه",
+        "tr": "lā ilāha illā Allāh",
+        "fr": "il n'y a de divinité qu'Allah",
+        "pr": "lâ i-lâ-ha il-lal-lâh"
+      },
+      "extra": "La seconde moitié de la shahāda est « Muḥammadun rasūlu Allāh » : Muḥammad est le Messager d'Allah."
+    },
+    {
+      "id": "cro-t1-0002",
+      "concept": "cro.piliers-foi.liste",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquels font partie des six piliers de la foi (arkān al-īmān) ?",
+      "choices": [
+        "Croire aux anges",
+        "Croire au Jour dernier",
+        "Jeûner le mois de Ramadan",
+        "Croire au destin, bon ou mauvais",
+        "Accomplir le pèlerinage",
+        "Croire aux livres révélés"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "expl": "Dans le célèbre hadith de Jibrīl, le Prophète ﷺ définit la foi : croire en Allah, en Ses anges, en Ses livres, en Ses messagers, au Jour dernier, et au destin, dans son bien comme dans son mal. Le jeûne et le pèlerinage sont des piliers de l'islam (la pratique), pas de la foi (la croyance).",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ]
+    },
+    {
+      "id": "cro-t1-0003",
+      "concept": "cro.piliers-foi.liste",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien y a-t-il de piliers de la foi (arkān al-īmān) ?",
+      "answer": 6,
+      "expl": "Six : la foi en Allah, en Ses anges, en Ses livres, en Ses messagers, au Jour dernier et au destin. À ne pas confondre avec les cinq piliers de l'islam (shahāda, prière, zakat, jeûne, pèlerinage).",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ]
+    },
+    {
+      "id": "cro-t1-0004",
+      "concept": "cro.bases.trois-degres",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Dans le hadith de Jibrīl, remets dans l'ordre les trois degrés de la religion, tels que l'ange les demande au Prophète ﷺ.",
+      "items": [
+        "L'islam (la soumission, les actes)",
+        "L'īmān (la foi, la croyance)",
+        "L'iḥsān (l'excellence)"
+      ],
+      "expl": "Jibrīl, venu sous l'apparence d'un homme, interroge le Prophète ﷺ sur l'islam, puis sur l'īmān, puis sur l'iḥsān. Les savants y voient trois cercles : les actes visibles, la croyance du cœur, et le sommet, l'excellence dans l'adoration. Le Prophète ﷺ conclut : « C'était Jibrīl, venu vous enseigner votre religion. »",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "extra": "Ce hadith est le deuxième des 40 hadiths de l'imam an-Nawawī.",
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0005",
+      "concept": "cro.bases.ihsan",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ définit-il l'iḥsān dans le hadith de Jibrīl ?",
+      "choices": [
+        "Adorer Allah comme si tu Le voyais ; car si tu ne Le vois pas, Lui te voit",
+        "Donner l'aumône en secret, sans que la main gauche sache ce que donne la droite",
+        "Prier la nuit pendant que les gens dorment",
+        "Être bon envers ses parents et ses voisins"
+      ],
+      "answer": 0,
+      "expl": "L'iḥsān, c'est l'excellence : vivre son adoration avec la conscience vive du regard d'Allah. Les autres réponses sont de belles œuvres, mais la définition donnée par le Prophète ﷺ porte sur l'état du cœur dans l'adoration.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "ar": {
+        "text": "أَنْ تَعْبُدَ اللّٰهَ كَأَنَّكَ تَرَاهُ",
+        "tr": "an taʿbuda Allāha ka-annaka tarāh",
+        "fr": "que tu adores Allah comme si tu Le voyais",
+        "pr": "an taʿ-bou-dal-lâ-ha ka-an-na-ka ta-râh"
+      },
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0006",
+      "concept": "cro.tawhid.ikhlas",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le Coran, Allah n'engendre pas et n'a pas été engendré.",
+      "answer": true,
+      "expl": "C'est le troisième verset de la sourate al-Ikhlāṣ : « Il n'engendre pas et n'a pas été engendré, et nul n'est égal à Lui. » Allah est unique, sans père, sans fils, sans égal. C'est pour cela qu'en islam, ʿĪsā (Jésus) est un immense prophète, mais pas le fils de Dieu.",
+      "src": [
+        "Coran 112:3-4"
+      ],
+      "ar": {
+        "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+        "tr": "lam yalid wa lam yūlad",
+        "fr": "Il n'engendre pas et n'a pas été engendré",
+        "pr": "lam ya-lid wa lam yoû-lad"
+      },
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cro-t1-0007",
+      "concept": "cro.bases.sens-islam",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie, au sens premier, le mot « islam » ?",
+      "choices": [
+        "Se soumettre à Allah",
+        "Se rassembler pour prier",
+        "Se purifier avant l'adoration",
+        "Rechercher la science utile"
+      ],
+      "answer": 0,
+      "expl": "« Islam » vient de la racine arabe s-l-m, qui donne l'idée de soumission, d'abandon confiant, et aussi de paix. Être muslim, c'est se remettre à Allah avec amour et confiance, et trouver ainsi la paix du cœur. Le mot « salām » (paix) a la même racine.",
+      "src": [
+        "Coran 3:19"
+      ]
+    },
+    {
+      "id": "cro-t1-0008",
+      "concept": "cro.bases.sens-islam",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les mots « islam » et « salām » (paix) viennent de la même racine arabe.",
+      "answer": true,
+      "expl": "Oui : tous deux viennent de la racine s-l-m. Cela dit quelque chose de beau sur la religion : la soumission à Allah est un chemin vers la paix intérieure. C'est aussi pour cela que les musulmans se saluent par « as-salāmu ʿalaykum », « que la paix soit sur vous ».",
+      "extra": "Dans le Coran, le Paradis est appelé « Dār as-Salām », la demeure de la paix."
+    },
+    {
+      "id": "cro-t1-0009",
+      "concept": "cro.bases.sens-iman",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Le mot « īmān » (la foi) est de la même famille que quel mot arabe ?",
+      "choices": [
+        "ʿilm, le savoir",
+        "amn, la sécurité",
+        "ṣabr, la patience",
+        "ḥubb, l'amour"
+      ],
+      "answer": 1,
+      "expl": "« Īmān » vient de la racine a-m-n, qui évoque la sécurité et la confiance. Croire, c'est faire confiance à Allah et à ce qu'Il a révélé, et s'en trouver apaisé. Le savoir, la patience et l'amour accompagnent la foi, mais ne sont pas sa racine."
+    },
+    {
+      "id": "cro-t1-0010",
+      "concept": "cro.bases.trois-degres",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque degré de la religion à ce qui le décrit dans le hadith de Jibrīl.",
+      "pairs": [
+        [
+          "L'islam",
+          "Les cinq piliers : shahāda, prière, zakat, jeûne, pèlerinage"
+        ],
+        [
+          "L'īmān",
+          "Les six piliers de la foi, dans le cœur"
+        ],
+        [
+          "L'iḥsān",
+          "Adorer Allah comme si on Le voyait"
+        ]
+      ],
+      "expl": "Le Prophète ﷺ répond à Jibrīl en trois temps. L'islam, ce sont les actes d'adoration visibles ; l'īmān, ce que le cœur croit ; l'iḥsān, la qualité de présence avec laquelle on adore. Les trois forment une seule religion, qui s'approfondit comme des cercles.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0011",
+      "concept": "cro.bases.muslim-muamin-muhsin",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque mot à la personne qu'il désigne.",
+      "pairs": [
+        [
+          "Muslim",
+          "Celui qui se soumet à Allah par les actes"
+        ],
+        [
+          "Muʾmin",
+          "Celui qui croit de tout son cœur"
+        ],
+        [
+          "Muḥsin",
+          "Celui qui adore avec excellence"
+        ]
+      ],
+      "expl": "Ces trois mots correspondent aux trois degrés du hadith de Jibrīl : islam, īmān, iḥsān. Ils ne s'excluent pas : on peut être les trois à la fois, et chacun cherche à progresser d'un degré à l'autre, sans jamais juger celui qui est encore en chemin.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "extra": "Le mot muḥsin est cité dans le Coran : « Allah est avec ceux qui font le bien » (29:69)."
+    },
+    {
+      "id": "cro-t1-0012",
+      "concept": "cro.bases.ihsan",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie littéralement le mot « iḥsān » ?",
+      "choices": [
+        "Donner la zakat chaque année",
+        "Faire le pèlerinage à La Mecque",
+        "Faire le bien, faire au mieux",
+        "Jeûner en secret, loin des regards"
+      ],
+      "answer": 2,
+      "expl": "« Iḥsān » vient de la racine ḥ-s-n : ce qui est beau et bien fait. Dans la religion, c'est faire toute chose au mieux, car Allah voit chacun de nos actes. C'est le sommet des trois degrés cités dans le hadith de Jibrīl.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0013",
+      "concept": "cro.bases.hadith-jibril-islam",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans le hadith de Jibrīl, quelle liste le Prophète ﷺ donne-t-il en réponse à « Qu'est-ce que l'islam ? »",
+      "choices": [
+        "Dire la vérité, tenir ses promesses, respecter ses parents, aider les voisins",
+        "Prier, lire le Coran, faire l'aumône, jeûner le lundi",
+        "Croire en Allah, aux anges, aux livres, aux messagers, au Jour dernier et au destin",
+        "Témoigner de la shahāda, prier, donner la zakat, jeûner Ramadan, faire le pèlerinage si on le peut"
+      ],
+      "answer": 3,
+      "expl": "Pour l'islam, le Prophète ﷺ cite les cinq piliers : la shahāda, la prière, la zakat, le jeûne de Ramadan et le pèlerinage pour qui en a la possibilité. La liste des six croyances (Allah, anges, livres, messagers, Jour dernier, destin) est celle de la foi (īmān), qu'il donne en réponse à la deuxième question.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0014",
+      "concept": "cro.bases.hadith-jibril-scene",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "vf",
+      "q": "Dans le hadith de Jibrīl, personne parmi les Compagnons présents ne connaissait l'homme venu poser les questions.",
+      "answer": true,
+      "expl": "Les Compagnons racontent qu'un homme aux vêtements très blancs et aux cheveux très noirs s'est assis près du Prophète ﷺ. Il ne portait aucune trace de voyage et aucun d'eux ne le connaissait. Plus tard, le Prophète ﷺ leur a dit que c'était Jibrīl, venu leur enseigner leur religion.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0015",
+      "concept": "cro.bases.hadith-jibril-fin",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "trou",
+      "q": "À la fin du hadith de Jibrīl, le Prophète ﷺ dit : « C'était Jibrīl, venu vous enseigner ___. »",
+      "choices": [
+        "votre religion",
+        "la prière",
+        "la langue arabe",
+        "le Coran"
+      ],
+      "answer": 0,
+      "expl": "« Atākum yuʿallimukum dīnakum » : il est venu vous enseigner votre religion. Par ses trois questions, Jibrīl a résumé l'ensemble de l'enseignement : islam, īmān, iḥsān. Les Compagnons ont ainsi appris que ce dialogue était une leçon donnée pour toute la communauté.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0016",
+      "concept": "cro.bases.trois-degres",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de degrés de la religion (islam, īmān, …) Jibrīl demande-t-il au Prophète ﷺ de définir ?",
+      "answer": 3,
+      "expl": "Trois : l'islam, l'īmān et l'iḥsān. Ensuite, Jibrīl l'interroge aussi sur l'Heure (le Jour dernier) et ses signes. Le Prophète ﷺ répond que, sur l'Heure, celui qu'on interroge n'en sait pas plus que celui qui interroge : seul Allah la connaît.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0017",
+      "concept": "cro.bases.foi-augmente",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon l'avis le plus répandu chez les savants du sunnisme, la foi peut augmenter et diminuer.",
+      "answer": true,
+      "expl": "Le Coran dit que la foi des croyants augmente quand les versets d'Allah leur sont récités. Beaucoup de savants, dont l'imam Mālik selon les récits, ont donc enseigné que la foi croît par l'obéissance et le dhikr, et faiblit par la négligence. C'est un encouragement : on peut toujours la nourrir.",
+      "src": [
+        "Coran 8:2"
+      ],
+      "note": "Les ash'arites discutent la manière : pour beaucoup, la certitude du cœur est une, et ce sont ses fruits et sa force (les actes, l'attention) qui varient. Tous s'accordent pour dire qu'elle se cultive."
+    },
+    {
+      "id": "cro-t1-0018",
+      "concept": "cro.bases.foi-augmente",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "D'après la sourate al-Anfāl (8:2), qu'est-ce qui fait augmenter la foi des croyants ?",
+      "choices": [
+        "Posséder plus de biens chaque année",
+        "Entendre les versets d'Allah récités",
+        "Voyager loin de chez eux",
+        "Débattre longuement avec les autres"
+      ],
+      "answer": 1,
+      "expl": "Le verset décrit les vrais croyants comme ceux dont le cœur frémit quand on mentionne Allah, et dont la foi grandit lorsque Ses versets leur sont récités. C'est pour cela qu'on dit que le Coran « nourrit » le cœur : le réciter et l'écouter, c'est renouveler sa foi.",
+      "src": [
+        "Coran 8:2"
+      ],
+      "tags": [
+        "sourate:8"
+      ]
+    },
+    {
+      "id": "cro-t1-0019",
+      "concept": "cro.bases.foi-composantes",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon la formule classique transmise par les savants du sunnisme, de quoi la foi est-elle faite ?",
+      "choices": [
+        "Seulement de paroles prononcées",
+        "Seulement d'actes visibles par tous",
+        "Du cœur, de la langue et des actes",
+        "D'une simple connaissance intellectuelle"
+      ],
+      "answer": 2,
+      "expl": "La formule classique dit : croyance du cœur, parole de la langue, actes des membres. La foi n'est donc ni un simple savoir, ni une simple apparence : elle vit dans le cœur, s'exprime par les mots et se traduit en gestes. C'est le chemin du juste milieu entre l'indifférence et la dureté.",
+      "note": "Pour les ash'arites, l'essence de la foi est la conviction du cœur (taṣdīq) ; les actes en sont les fruits et la perfection. On n'accuse pas pour autant de sortie de l'islam celui qui est faible dans les actes."
+    },
+    {
+      "id": "cro-t1-0020",
+      "concept": "cro.bases.fitra",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que la fiṭra ?",
+      "choices": [
+        "Le livre où sont écrites les actions",
+        "Le nom de l'un des anges gardiens",
+        "L'aumône donnée à la fin de Ramadan",
+        "La nature originelle tournée vers Allah"
+      ],
+      "answer": 3,
+      "expl": "La fiṭra est la disposition naturelle, pure, avec laquelle chaque être humain est créé : un penchant à reconnaître son Créateur et à aimer le bien. Le Coran invite à rester fidèle à cette nature. Ne pas confondre avec la zakāt al-fiṭr, l'aumône de fin de Ramadan, qui n'a que la racine en commun.",
+      "src": [
+        "Coran 30:30"
+      ],
+      "tags": [
+        "sourate:30"
+      ]
+    },
+    {
+      "id": "cro-t1-0021",
+      "concept": "cro.bases.fitra",
+      "domain": "croyance",
+      "sub": "bases",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le hadith, chaque enfant naît sur la fiṭra.",
+      "answer": true,
+      "expl": "Le Prophète ﷺ a dit que chaque enfant naît sur la fiṭra, puis que ses parents le font évoluer vers une religion ou une autre. L'idée est belle : le cœur humain naît ouvert, sans faute, et il lui reste le chemin du retour vers son Créateur, à tout âge de la vie.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "extra": "Beaucoup de convertis racontent leur chemin comme un « retour » à cette nature première."
+    },
+    {
+      "id": "cro-t1-0022",
+      "concept": "cro.tawhid.trois-aspects",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque aspect de l'unicité d'Allah à son sens.",
+      "pairs": [
+        [
+          "Sa seigneurie (rubūbiyya)",
+          "Allah seul crée, possède et dirige tout"
+        ],
+        [
+          "Son adoration (ulūhiyya)",
+          "Allah seul mérite d'être adoré"
+        ],
+        [
+          "Ses noms et attributs",
+          "Allah seul a les noms et qualités parfaits"
+        ]
+      ],
+      "expl": "On présente souvent le tawḥīd en trois aspects : Allah est unique comme Seigneur (Il crée et gouverne), unique comme Dieu digne d'adoration, et unique dans Ses noms et attributs, qui n'ont pas d'équivalent. Ces trois facettes se tiennent : reconnaître Sa seigneurie conduit à Lui réserver l'adoration.",
+      "note": "Cette présentation en trois aspects est la plus courante dans l'enseignement actuel. Les théologiens ash'arites, dont as-Sanūsī, présentent plutôt l'unicité de l'Essence, des attributs et des actes ; le fond est le même.",
+      "src": [
+        "Coran 1:2",
+        "Coran 1:5",
+        "Coran 112:1"
+      ]
+    },
+    {
+      "id": "cro-t1-0023",
+      "concept": "cro.tawhid.rabb",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie « Rabb » dans l'expression « Rabb al-ʿālamīn » (la Fātiḥa) ?",
+      "choices": [
+        "Le Seigneur qui crée, possède et prend soin des mondes",
+        "Le Créateur qui s'est retiré du monde après la création",
+        "Le Juge du seul Jour dernier",
+        "Un titre réservé aux prophètes"
+      ],
+      "answer": 0,
+      "expl": "« Rabb » désigne le Seigneur, le Maître, celui qui crée, fait grandir et prend soin. Allah est le Rabb de tous les mondes : Il ne s'est pas retiré après avoir créé, Il continue de nourrir, guider et gouverner chaque être. C'est la première phrase que l'on récite dans chaque prière.",
+      "src": [
+        "Coran 1:2"
+      ],
+      "ar": {
+        "text": "رَبِّ الْعَالَمِينَ",
+        "tr": "Rabbi l-ʿālamīn",
+        "fr": "Seigneur des mondes",
+        "pr": "rab-bil-ʿâ-la-mîn"
+      },
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cro-t1-0024",
+      "concept": "cro.tawhid.ressemblance",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Rien n'est ___ à Lui, et Il est l'Audient, le Voyant. »",
+      "choices": [
+        "caché",
+        "semblable",
+        "proche",
+        "égal en âge"
+      ],
+      "answer": 1,
+      "expl": "Ce verset (42:11) pose une règle fondamentale : Allah ne ressemble à aucune de Ses créatures, même si Son ouïe et Sa vue sont affirmées. On n'imagine pas Allah comme une créature ; on Le reconnaît avec respect, en acceptant que Son essence dépasse notre compréhension.",
+      "src": [
+        "Coran 42:11"
+      ],
+      "ar": {
+        "text": "لَيْسَ كَمِثْلِهِ شَيْءٌ",
+        "tr": "laysa ka-mithlihi shayʾ",
+        "fr": "Rien n'est semblable à Lui",
+        "pr": "lay-sa ka-mith-li-hi chayʾ"
+      },
+      "tags": [
+        "sourate:42"
+      ]
+    },
+    {
+      "id": "cro-t1-0025",
+      "concept": "cro.tawhid.ressemblance",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "vf",
+      "q": "Puisqu'Allah est l'Audient et le Voyant, Il entend et voit comme les créatures, avec des oreilles et des yeux.",
+      "answer": false,
+      "expl": "Faux : le Coran affirme qu'Allah entend et voit, mais aussi que rien n'est semblable à Lui. Son ouïe et Sa vue sont parfaites et ne ressemblent pas aux nôtres. Cette retenue, appelée tanzīh, protège l'esprit de toute représentation qui ferait d'Allah une créature.",
+      "src": [
+        "Coran 42:11"
+      ],
+      "note": "Les écoles de théologie expliquent différemment le détail des attributs, mais toutes s'accordent sur le principe : Allah ne ressemble à rien."
+    },
+    {
+      "id": "cro-t1-0026",
+      "concept": "cro.tawhid.ikhlas",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "trou",
+      "q": "Sourate al-Ikhlāṣ : « Dis : Il est Allah, ___ ».",
+      "choices": [
+        "le Seigneur de tout",
+        "le Plus Grand",
+        "Unique",
+        "le Tout Miséricordieux"
+      ],
+      "answer": 2,
+      "expl": "Le premier verset de la sourate al-Ikhlāṣ affirme que Allah est Aḥad, Unique, et sans partage. Cette sourate courte est le résumé le plus pur du tawḥīd, et on la récite souvent dans la prière.",
+      "src": [
+        "Coran 112:1"
+      ],
+      "ar": {
+        "text": "قُلْ هُوَ اللّٰهُ أَحَدٌ",
+        "tr": "qul huwa Allāhu aḥad",
+        "fr": "Dis : Il est Allah, Unique",
+        "pr": "qoul hou-wal-lâ-hou a-had"
+      },
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cro-t1-0027",
+      "concept": "cro.tawhid.ikhlas-samad",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans la sourate al-Ikhlāṣ, que signifie « aṣ-Ṣamad » ?",
+      "choices": [
+        "Le Très Haut au-dessus du Trône",
+        "Le Créateur des cieux et de la terre",
+        "Celui qui pardonne les péchés",
+        "Celui dont tous ont besoin"
+      ],
+      "answer": 3,
+      "expl": "Aṣ-Ṣamad est le Maître souverain vers qui toute la création se tourne dans ses besoins, tandis que Lui n'a besoin de rien ni de personne. C'est le deuxième verset de la sourate : après l'unicité, on affirme la parfaite indépendance d'Allah.",
+      "src": [
+        "Coran 112:2"
+      ],
+      "ar": {
+        "text": "اللّٰهُ الصَّمَدُ",
+        "tr": "Allāhu ṣ-ṣamad",
+        "fr": "Allah, aṣ-Ṣamad",
+        "pr": "al-lâ-hous-sa-mad"
+      },
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cro-t1-0028",
+      "concept": "cro.tawhid.ikhlas-versets",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre les versets de la sourate al-Ikhlāṣ (sens).",
+      "items": [
+        "Dis : Il est Allah, Unique",
+        "Allah, aṣ-Ṣamad (celui vers qui tous se tournent)",
+        "Il n'engendre pas et n'a pas été engendré",
+        "Et nul n'est égal à Lui"
+      ],
+      "expl": "La sourate avance par étapes : l'unicité d'Allah, Sa perfection et Son indépendance, l'absence de filiation, puis l'absence d'égal. Elle est courte, facile à mémoriser, et contient l'essentiel de la croyance.",
+      "src": [
+        "Coran 112:1-4"
+      ],
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cro-t1-0029",
+      "concept": "cro.tawhid.ikhlas-versets",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de versets compte la sourate al-Ikhlāṣ ?",
+      "answer": 4,
+      "expl": "Quatre versets, en numérotation Ḥafṣ. C'est l'une des plus courtes sourates du Coran, mais le Prophète ﷺ a dit qu'elle équivaut au tiers du Coran, tant son contenu est essentiel : l'unicité d'Allah.",
+      "src": [
+        "Coran 112:1-4"
+      ],
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cro-t1-0030",
+      "concept": "cro.tawhid.ikhlas-versets",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquelles de ces affirmations figurent dans la sourate al-Ikhlāṣ ?",
+      "choices": [
+        "Allah est Unique",
+        "Allah n'engendre pas",
+        "Allah a été engendré",
+        "Allah a des égaux",
+        "Allah est aṣ-Ṣamad"
+      ],
+      "answers": [
+        0,
+        1,
+        4
+      ],
+      "expl": "La sourate affirme qu'Allah est Unique, qu'Il est aṣ-Ṣamad, qu'Il n'engendre pas, qu'Il n'a pas été engendré et que nul n'est égal à Lui. Les deux affirmations fausses sont exactement ce qu'elle nie.",
+      "src": [
+        "Coran 112:1-4"
+      ],
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cro-t1-0031",
+      "concept": "cro.tawhid.ikhlas-tiers",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le Prophète ﷺ, la sourate al-Ikhlāṣ équivaut à quelle part du Coran ?",
+      "choices": [
+        "Un quart",
+        "Un tiers",
+        "La moitié",
+        "Les deux tiers"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ a dit que « Qul huwa Allāhu aḥad » équivaut au tiers du Coran. Les savants expliquent que le Coran traite surtout de l'unicité d'Allah, des récits et des lois, et que cette sourate contient entièrement le premier thème.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari"
+      ],
+      "tags": [
+        "sourate:112"
+      ]
+    },
+    {
+      "id": "cro-t1-0032",
+      "concept": "cro.tawhid.ilah",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans « lā ilāha illā Allāh », que signifie le mot « ilāh » ?",
+      "choices": [
+        "Ce qui est adoré",
+        "Le Créateur seulement",
+        "Le messager envoyé",
+        "Le livre révélé"
+      ],
+      "answer": 0,
+      "expl": "« Ilāh » désigne ce qu'on adore, ce vers quoi on se tourne avec amour, crainte et espoir. La phrase affirme donc qu'il n'y a rien de digne d'adoration en dehors d'Allah. Elle ne dit pas seulement qu'Il est le Créateur : elle réserve à Lui seul l'adoration.",
+      "src": [
+        "Coran 47:19"
+      ]
+    },
+    {
+      "id": "cro-t1-0033",
+      "concept": "cro.tawhid.associes",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les polythéistes de La Mecque contemporains du Prophète ﷺ niaient qu'Allah ait créé les cieux et la terre.",
+      "answer": false,
+      "expl": "Faux : le Coran rapporte que, si on leur demandait qui avait créé les cieux et la terre, ils répondaient « Allah ». Leur erreur n'était donc pas sur la création, mais sur l'adoration : ils adoraient aussi d'autres que Lui. Le tawḥīd demande de réserver l'adoration à Allah seul.",
+      "src": [
+        "Coran 31:25"
+      ],
+      "tags": [
+        "sourate:31"
+      ]
+    },
+    {
+      "id": "cro-t1-0034",
+      "concept": "cro.tawhid.associes",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment appelle-t-on le fait d'associer quelqu'un ou quelque chose à Allah dans l'adoration ?",
+      "choices": [
+        "Le tawḥīd",
+        "Le shirk",
+        "La taqwā",
+        "Le dhikr"
+      ],
+      "answer": 1,
+      "expl": "Le shirk consiste à donner à une créature une part de ce qui n'appartient qu'à Allah. Le Coran l'appelle une grave injustice, car il met à l'égal du Créateur ce qui est créé. Le tawḥīd est son contraire : l'affirmation de l'unicité d'Allah.",
+      "src": [
+        "Coran 31:13"
+      ],
+      "tags": [
+        "sourate:31"
+      ]
+    },
+    {
+      "id": "cro-t1-0035",
+      "concept": "cro.tawhid.pas-de-fils",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon l'islam, ʿĪsā (Jésus) est un prophète de grande dignité, mais n'est pas le fils d'Allah.",
+      "answer": true,
+      "expl": "C'est exact. Le Coran honore ʿĪsā, fils de Maryam, comme Messie et messager, et affirme qu'il ne convient pas à Allah de S'attribuer un fils. Cette affirmation n'enlève rien au respect porté à Jésus et à sa mère, que le Coran présente comme exemplaires.",
+      "src": [
+        "Coran 19:35"
+      ],
+      "tags": [
+        "prophete:isa",
+        "sourate:19"
+      ]
+    },
+    {
+      "id": "cro-t1-0036",
+      "concept": "cro.tawhid.shahada-parties",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelles sont les deux parties de la shahāda ?",
+      "choices": [
+        "Il n'y a de divinité qu'Allah, et la zakat est un devoir",
+        "Allah est le plus grand, et la prière est obligatoire",
+        "Il n'y a de divinité qu'Allah, et Muḥammad est Son messager",
+        "Allah est le Miséricordieux, et le Coran est Sa parole"
+      ],
+      "answer": 2,
+      "expl": "La shahāda comporte deux témoignages : l'unicité d'Allah, puis la mission de Muḥammad ﷺ comme Son messager. On entre dans l'islam en les prononçant avec sincérité, et on les redit dans chaque prière.",
+      "src": [
+        "Coran 47:19",
+        "Coran 48:29"
+      ],
+      "ar": {
+        "text": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ",
+        "tr": "ashhadu an lā ilāha illā Allāh wa ashhadu anna Muḥammadan rasūlu Allāh",
+        "fr": "Je témoigne qu'il n'y a de divinité qu'Allah et que Muḥammad est le messager d'Allah",
+        "pr": "ach-ha-dou an lâ i-lâ-ha il-lal-lâh, wa ach-ha-dou an-na mou-ham-ma-dan ra-soû-loul-lâh"
+      }
+    },
+    {
+      "id": "cro-t1-0037",
+      "concept": "cro.tawhid.shahada-parties",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de témoignages la shahāda comporte-t-elle ?",
+      "answer": 2,
+      "expl": "Deux : « Lā ilāha illā Allāh » (il n'y a de divinité qu'Allah) et « Muḥammadun rasūlu Allāh » (Muḥammad est le messager d'Allah). Les deux sont indissociables : l'un affirme l'objet de l'adoration, l'autre la voie par laquelle Allah nous l'a enseignée.",
+      "src": [
+        "Coran 47:19",
+        "Coran 48:29"
+      ]
+    },
+    {
+      "id": "cro-t1-0038",
+      "concept": "cro.tawhid.adoration-seul",
+      "domain": "croyance",
+      "sub": "tawhid",
+      "tier": 1,
+      "type": "trou",
+      "q": "Sourate al-Fātiḥa : « C'est Toi seul que nous adorons, et c'est Toi seul dont nous implorons ___ ».",
+      "choices": [
+        "la richesse",
+        "la victoire",
+        "le pardon",
+        "le secours"
+      ],
+      "answer": 3,
+      "expl": "Ce verset résume le tawḥīd en pratique : on adore Allah seul et on ne demande de l'aide qu'à Lui. Nous le répétons dans chaque rak'a de prière, ce qui renouvelle notre engagement plusieurs fois par jour.",
+      "src": [
+        "Coran 1:5"
+      ],
+      "ar": {
+        "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "tr": "iyyāka naʿbudu wa iyyāka nastaʿīn",
+        "fr": "C'est Toi seul que nous adorons, et c'est Toi seul dont nous implorons le secours",
+        "pr": "iy-yâ-ka naʿ-bou-dou wa iy-yâ-ka nas-ta-ʿîn"
+      },
+      "tags": [
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cro-t1-0039",
+      "concept": "cro.piliers-foi.difference",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est la différence entre les piliers de la foi et les piliers de l'islam ?",
+      "choices": [
+        "Foi : croyances du cœur ; islam : actes d'adoration",
+        "Foi : les actes ; islam : les croyances du cœur",
+        "Les piliers de la foi ne concernent que les prophètes",
+        "Il n'y en a aucune, ce sont exactement les mêmes"
+      ],
+      "answer": 0,
+      "expl": "Le hadith de Jibrīl distingue les deux listes. L'īmān compte six piliers : croire en Allah, aux anges, aux livres, aux messagers, au Jour dernier et au destin. L'islam compte cinq piliers : la shahāda, la prière, la zakat, le jeûne de Ramadan et le pèlerinage. Les deux se complètent.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ]
+    },
+    {
+      "id": "cro-t1-0040",
+      "concept": "cro.piliers-foi.difference",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien y a-t-il de piliers de l'islam ?",
+      "answer": 5,
+      "expl": "Cinq : la shahāda, la prière, la zakat, le jeûne de Ramadan et le pèlerinage pour celui qui le peut. Ils forment la dimension visible de la religion, à côté des six piliers de la foi qui sont ceux du cœur.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ]
+    },
+    {
+      "id": "cro-t1-0041",
+      "concept": "cro.piliers-foi.liste",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 1,
+      "type": "vf",
+      "q": "Croire au destin (al-qadar), bon ou mauvais, fait partie des six piliers de la foi.",
+      "answer": true,
+      "expl": "Oui : c'est le sixième pilier cité dans le hadith de Jibrīl. Croire au destin, c'est savoir que rien n'échappe à la science et à la volonté d'Allah. Cela apaise le cœur : on agit de son mieux, puis on s'en remet à Lui.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0042",
+      "concept": "cro.piliers-foi.qadar-jibril",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 1,
+      "type": "trou",
+      "q": "Dans le hadith de Jibrīl : « … et que tu croies au destin, ___ ».",
+      "choices": [
+        "uniquement ce qui est agréable",
+        "son bien comme son mal",
+        "sauf ce qui est douloureux",
+        "si tu le comprends"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ cite le destin en dernier, « son bien comme son mal ». Le croyant accepte que tout vient d'Allah et de Sa sagesse, y compris les épreuves, tout en continuant à agir et à demander à Allah le meilleur.",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0043",
+      "concept": "cro.piliers-foi.coran-2-285",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 1,
+      "type": "trou",
+      "q": "Sourate al-Baqara (2:285) : « Tous ont cru en Allah, en Ses anges, en Ses livres et en ___ ».",
+      "choices": [
+        "Ses serviteurs",
+        "Ses signes",
+        "Ses messagers",
+        "Son Trône"
+      ],
+      "answer": 2,
+      "expl": "Le verset nomme quatre piliers : Allah, les anges, les livres et les messagers. Il ajoute qu'on ne fait aucune différence entre eux, c'est-à-dire qu'on croit à tous les messagers. C'est l'un des deux derniers versets de la sourate al-Baqara.",
+      "src": [
+        "Coran 2:285"
+      ],
+      "ar": {
+        "text": "وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ",
+        "tr": "wa malāʾikatihi wa kutubihi wa rusulih",
+        "fr": "Ses anges, Ses livres et Ses messagers",
+        "pr": "wa ma-lâ-ʾi-ka-ti-hi wa kou-tou-bi-hi wa rou-sou-lih"
+      },
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0044",
+      "concept": "cro.piliers-foi.coran-4-136",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans le verset 4:136, quel pilier est cité en plus d'Allah, de Ses anges, de Ses livres et de Ses messagers ?",
+      "choices": [
+        "Le jeûne",
+        "La prière",
+        "Le pèlerinage",
+        "Le Jour dernier"
+      ],
+      "answer": 3,
+      "expl": "Le verset 4:136 invite les croyants à croire en Allah, en Son messager et aux livres, puis il cite les piliers un à un, y compris le Jour dernier. On retrouve ainsi presque toute la liste des piliers de la foi dans le Coran lui-même.",
+      "src": [
+        "Coran 4:136"
+      ],
+      "ar": {
+        "text": "وَالْيَوْمِ الْآخِرِ",
+        "tr": "wa l-yawmi l-ākhir",
+        "fr": "et le Jour dernier",
+        "pr": "wal-yaw-mil-â-khir"
+      },
+      "tags": [
+        "sourate:4"
+      ]
+    },
+    {
+      "id": "cro-t1-0045",
+      "concept": "cro.piliers-foi.coran-2-285",
+      "domain": "croyance",
+      "sub": "piliers-foi",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a dit que les deux derniers versets de la sourate al-Baqara suffisent à celui qui les récite pendant la nuit.",
+      "answer": true,
+      "expl": "C'est un hadith authentique : celui qui récite ces deux versets, qui commencent par « āmana r-rasūl », pendant la nuit, ils lui suffisent. Les savants l'ont compris comme une protection et une récompense qui lui tiennent lieu de beaucoup d'autres actes.",
+      "src": [
+        "Hadith d'Abū Masʿūd al-Badrī — Bukhari & Muslim"
+      ],
+      "note": "Les savants précisent différemment ce que ces versets « suffisent » : protection, veille de la nuit ou récompense. Tous s'accordent sur leur grande valeur.",
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0046",
+      "concept": "cro.noms-attributs.allah",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que désigne le nom « Allah » ?",
+      "choices": [
+        "Un titre donné aux anges les plus proches",
+        "Un surnom donné au Prophète ﷺ",
+        "Le nom propre de Dieu, l'Unique",
+        "Un dieu parmi d'autres, propre aux Arabes"
+      ],
+      "answer": 2,
+      "expl": "« Allah » est le nom propre de Dieu, le plus grand de Ses noms, qui renvoie à Son Essence et rassemble tous Ses attributs de perfection. Il n'a ni pluriel ni féminin. Ce n'est pas un « dieu des Arabes » : c'est le Dieu unique, Celui d'Ibrāhīm, de Mūsā et de ʿĪsā.",
+      "src": [
+        "Coran 20:14"
+      ],
+      "ar": {
+        "text": "اللّٰه",
+        "tr": "Allāh",
+        "pr": "al-lâh",
+        "fr": "Allah, Dieu"
+      },
+      "tags": [
+        "nom:allah"
+      ]
+    },
+    {
+      "id": "cro-t1-0047",
+      "concept": "cro.noms-attributs.allah",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les chrétiens arabophones appellent eux aussi Dieu « Allah ».",
+      "answer": true,
+      "expl": "C'est vrai : en arabe, « Allah » est simplement le mot pour Dieu, et les Bibles arabes l'emploient. Cela rappelle que l'islam se présente non comme une religion nouvelle, mais comme le message du même Dieu unique adressé à tous les prophètes.",
+      "tags": [
+        "nom:allah"
+      ]
+    },
+    {
+      "id": "cro-t1-0048",
+      "concept": "cro.noms-attributs.sens-1",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe ces noms d'Allah (sourate al-Ḥashr) à leur sens.",
+      "pairs": [
+        [
+          "ar-Raḥmān",
+          "Le Tout Miséricordieux"
+        ],
+        [
+          "al-Malik",
+          "Le Roi, le Souverain"
+        ],
+        [
+          "al-Quddūs",
+          "Le Saint, le Pur de tout défaut"
+        ],
+        [
+          "as-Salām",
+          "La Paix, Celui qui est exempt de tout mal"
+        ]
+      ],
+      "expl": "Ces quatre noms apparaissent dans la fin de la sourate al-Ḥashr, qui énumère de nombreux noms d'Allah. Les retenir avec leur sens aide à prier avec le cœur : quand on dit « Yā Raḥmān », on s'adresse à la miséricorde même.",
+      "src": [
+        "Coran 59:22-23"
+      ],
+      "tags": [
+        "nom:ar-rahman",
+        "nom:al-malik",
+        "nom:al-quddus",
+        "nom:as-salam"
+      ]
+    },
+    {
+      "id": "cro-t1-0049",
+      "concept": "cro.noms-attributs.rahman-rahim",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle racine commune ont les noms ar-Raḥmān et ar-Raḥīm ?",
+      "choices": [
+        "ʿ-l-m, l'idée de savoir",
+        "ḥ-k-m, l'idée de sagesse",
+        "s-l-m, l'idée de paix",
+        "r-ḥ-m, l'idée de miséricorde"
+      ],
+      "answer": 3,
+      "expl": "Les deux noms viennent de r-ḥ-m, qui donne raḥma, la miséricorde. Ils ouvrent chaque sourate (sauf une) dans la basmala, ce qui montre que tout dans le Coran commence par la miséricorde d'Allah. Les autres racines donnent al-ʿAlīm, al-Ḥakīm et as-Salām.",
+      "ar": {
+        "text": "الرَّحْمٰنِ الرَّحِيمِ",
+        "tr": "ar-Raḥmāni r-Raḥīm",
+        "pr": "ar-rah-mâ-nir-ra-hîm",
+        "fr": "le Tout Miséricordieux, le Très Miséricordieux"
+      },
+      "tags": [
+        "nom:ar-rahman",
+        "nom:ar-rahim"
+      ]
+    },
+    {
+      "id": "cro-t1-0050",
+      "concept": "cro.noms-attributs.rahman-rahim",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Au nom d'Allah, le Tout Miséricordieux, le ___. »",
+      "choices": [
+        "Très Miséricordieux",
+        "Très Sage",
+        "Pardonneur",
+        "Roi des rois"
+      ],
+      "answer": 0,
+      "expl": "C'est la basmala, que l'on prononce au début de la Fātiḥa, avant de manger, de lire ou d'entreprendre une chose utile. Elle cite deux noms de miséricorde : ar-Raḥmān, Sa miséricorde immense qui englobe toute la création, et ar-Raḥīm, Sa miséricorde particulière envers les croyants.",
+      "src": [
+        "Coran 1:1"
+      ],
+      "ar": {
+        "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "tr": "bismi Llāhi r-Raḥmāni r-Raḥīm",
+        "pr": "bis-mil-lâ-hir-rah-mâ-nir-ra-hîm",
+        "fr": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux"
+      },
+      "tags": [
+        "nom:ar-rahim",
+        "sourate:1"
+      ]
+    },
+    {
+      "id": "cro-t1-0051",
+      "concept": "cro.noms-attributs.rahman-rahim",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le nom « ar-Raḥmān » ne s'emploie que pour Allah.",
+      "answer": true,
+      "expl": "Oui : les savants s'accordent à dire qu'on ne nomme personne d'autre ar-Raḥmān. Le Coran le place presque au même rang que le nom Allah : « Invoquez Allah, ou invoquez le Tout Miséricordieux ; quel que soit le nom par lequel vous L'invoquez, Il a les plus beaux noms. »",
+      "src": [
+        "Coran 17:110"
+      ],
+      "tags": [
+        "nom:ar-rahman"
+      ]
+    },
+    {
+      "id": "cro-t1-0052",
+      "concept": "cro.noms-attributs.quddus",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le nom al-Quddūs ?",
+      "choices": [
+        "Le Vivant qui ne meurt pas",
+        "Le Saint, le Pur, exempt de tout défaut",
+        "Le Juste qui rend à chacun son dû",
+        "Le Proche qui répond"
+      ],
+      "answer": 1,
+      "expl": "Al-Quddūs vient de la racine q-d-s, la sainteté et la pureté (comme dans Bayt al-Maqdis, Jérusalem). Allah est au-dessus de toute imperfection. Dans le rukūʿ et le sujūd, on peut d'ailleurs dire : « Subbūḥun Quddūs », Très Glorifié, Très Saint.",
+      "src": [
+        "Coran 59:23"
+      ],
+      "ar": {
+        "text": "الْقُدُّوس",
+        "tr": "al-Quddūs",
+        "pr": "al-qoud-doûs",
+        "fr": "le Saint, le Pur"
+      },
+      "tags": [
+        "nom:al-quddus"
+      ]
+    },
+    {
+      "id": "cro-t1-0053",
+      "concept": "cro.noms-attributs.salam",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le nom d'Allah as-Salām ?",
+      "choices": [
+        "Celui qui ouvre les portes du bien",
+        "Le Premier avant toute chose",
+        "La Paix, exempt de tout défaut",
+        "Le Fort qui ne peut être vaincu"
+      ],
+      "answer": 2,
+      "expl": "As-Salām est Celui qui est parfaitement préservé de tout mal et source de toute paix. Après chaque prière obligatoire, le Prophète ﷺ disait : « Allāhumma anta s-Salām wa minka s-salām », Ô Allah, Tu es la Paix et de Toi vient la paix.",
+      "src": [
+        "Coran 59:23",
+        "Hadith de Thawbān — Muslim"
+      ],
+      "ar": {
+        "text": "السَّلَام",
+        "tr": "as-Salām",
+        "pr": "as-sa-lâm",
+        "fr": "la Paix"
+      },
+      "tags": [
+        "nom:as-salam"
+      ]
+    },
+    {
+      "id": "cro-t1-0054",
+      "concept": "cro.noms-attributs.ghafur",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel nom d'Allah signifie « le Pardonneur », Celui qui couvre les fautes ?",
+      "choices": [
+        "al-Wadūd",
+        "al-ʿAlīm",
+        "al-Khāliq",
+        "al-Ghafūr"
+      ],
+      "answer": 3,
+      "expl": "Al-Ghafūr vient de gh-f-r, qui veut dire couvrir : Allah couvre les fautes et en efface les traces. Le Coran invite à ne jamais désespérer : « Allah pardonne tous les péchés ; Il est le Pardonneur, le Très Miséricordieux. » Al-Wadūd est le Bien-Aimant, al-ʿAlīm l'Omniscient, al-Khāliq le Créateur.",
+      "src": [
+        "Coran 39:53"
+      ],
+      "ar": {
+        "text": "الْغَفُور",
+        "tr": "al-Ghafūr",
+        "pr": "al-gha-foûr",
+        "fr": "le Pardonneur"
+      },
+      "tags": [
+        "nom:al-ghafur"
+      ]
+    },
+    {
+      "id": "cro-t1-0055",
+      "concept": "cro.noms-attributs.wadud",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le nom al-Wadūd ?",
+      "choices": [
+        "Celui qui aime Ses serviteurs",
+        "Celui qui est loin de Ses créatures",
+        "Celui qui punit sans aucun délai",
+        "Celui qui ignore les détails"
+      ],
+      "answer": 0,
+      "expl": "Al-Wadūd vient de wudd, l'amour affectueux. Allah aime ceux qui reviennent à Lui, et Il mérite d'être aimé plus que tout. Le Coran l'associe au pardon : « Et c'est Lui le Pardonneur, le Bien-Aimant. » C'est une image très douce de la relation entre Allah et le croyant.",
+      "src": [
+        "Coran 85:14"
+      ],
+      "ar": {
+        "text": "الْوَدُود",
+        "tr": "al-Wadūd",
+        "pr": "al-wa-doûd",
+        "fr": "le Bien-Aimant"
+      },
+      "tags": [
+        "nom:al-wadud"
+      ]
+    },
+    {
+      "id": "cro-t1-0056",
+      "concept": "cro.noms-attributs.sens-2",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe ces noms d'Allah liés au savoir, à la sagesse et à la création à leur sens.",
+      "pairs": [
+        [
+          "al-ʿAlīm",
+          "L'Omniscient, qui sait tout"
+        ],
+        [
+          "al-Ḥakīm",
+          "Le Sage, dont chaque acte a une raison"
+        ],
+        [
+          "ar-Razzāq",
+          "Celui qui pourvoit à la subsistance"
+        ],
+        [
+          "al-Khāliq",
+          "Le Créateur"
+        ]
+      ],
+      "expl": "Al-ʿAlīm sait tout, le visible et le caché ; al-Ḥakīm agit toujours avec sagesse ; ar-Razzāq nourrit toutes les créatures ; al-Khāliq les a créées de rien. Méditer ces noms rassure : rien ne Lui échappe, et Il ne laisse aucune créature sans subsistance.",
+      "src": [
+        "Coran 59:24",
+        "Coran 51:58"
+      ],
+      "tags": [
+        "nom:al-alim",
+        "nom:al-hakim",
+        "nom:ar-razzaq",
+        "nom:al-khaliq"
+      ]
+    },
+    {
+      "id": "cro-t1-0057",
+      "concept": "cro.noms-attributs.alim-hakim",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "vf",
+      "q": "Dans le Coran, les noms al-ʿAlīm (l'Omniscient) et al-Ḥakīm (le Sage) sont souvent cités ensemble à la fin des versets.",
+      "answer": true,
+      "expl": "C'est vrai : « wa Llāhu ʿalīmun ḥakīm », « Allah est Omniscient et Sage », revient de nombreuses fois, par exemple à la fin du verset sur les bénéficiaires de la zakat. L'association est parlante : Allah sait tout, et c'est avec ce savoir parfait qu'Il décide avec sagesse.",
+      "src": [
+        "Coran 9:60"
+      ],
+      "ar": {
+        "text": "وَاللّٰهُ عَلِيمٌ حَكِيمٌ",
+        "tr": "wa Llāhu ʿalīmun ḥakīm",
+        "pr": "wal-lâ-hou ʿa-lî-moun ha-kîm",
+        "fr": "et Allah est Omniscient et Sage"
+      },
+      "tags": [
+        "nom:al-alim",
+        "nom:al-hakim"
+      ]
+    },
+    {
+      "id": "cro-t1-0058",
+      "concept": "cro.noms-attributs.razzaq",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le verset 51:58, qui est « le Grand Pourvoyeur, le Détenteur de la force » ?",
+      "choices": [
+        "Le Prophète ﷺ",
+        "Allah, ar-Razzāq",
+        "L'ange Mīkāʾīl",
+        "Le roi Sulaymān"
+      ],
+      "answer": 1,
+      "expl": "« C'est Allah qui est le Grand Pourvoyeur (ar-Razzāq), le Détenteur de la force, l'Inébranlable. » Mīkāʾīl est chargé de la pluie, mais il agit sur l'ordre d'Allah ; la subsistance vient d'Allah seul. Cela libère le cœur de l'angoisse du lendemain, sans dispenser de travailler.",
+      "src": [
+        "Coran 51:58"
+      ],
+      "ar": {
+        "text": "الرَّزَّاق",
+        "tr": "ar-Razzāq",
+        "pr": "ar-raz-zâq",
+        "fr": "le Grand Pourvoyeur"
+      },
+      "tags": [
+        "nom:ar-razzaq",
+        "sourate:51"
+      ]
+    },
+    {
+      "id": "cro-t1-0059",
+      "concept": "cro.noms-attributs.khaliq",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "trou",
+      "q": "« C'est Lui Allah, le ___, Celui qui donne un commencement à toute chose, le Formateur. »",
+      "choices": [
+        "Pardonneur",
+        "Juge",
+        "Créateur",
+        "Roi"
+      ],
+      "answer": 2,
+      "expl": "Le verset 59:24 cite trois noms liés à la création : al-Khāliq (le Créateur), al-Bāriʾ (Celui qui fait exister) et al-Muṣawwir (Celui qui donne forme). Tout ce qui existe, de l'atome aux galaxies, a été voulu et façonné par Lui.",
+      "src": [
+        "Coran 59:24"
+      ],
+      "ar": {
+        "text": "هُوَ اللّٰهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ",
+        "tr": "huwa Llāhu l-khāliqu l-bāriʾu l-muṣawwir",
+        "pr": "hou-wal-lâ-houl-khâ-li-qoul-bâ-ri-ʾoul-mou-saw-wir",
+        "fr": "C'est Lui Allah, le Créateur, Celui qui fait exister, le Formateur"
+      },
+      "tags": [
+        "nom:al-khaliq",
+        "sourate:59"
+      ]
+    },
+    {
+      "id": "cro-t1-0060",
+      "concept": "cro.noms-attributs.sami-basir",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifient les noms as-Samīʿ et al-Baṣīr ?",
+      "choices": [
+        "Le Premier et le Dernier de tout",
+        "Le Vivant et l'Immuable, sans fin",
+        "Le Fort et le Puissant",
+        "Celui qui entend tout, qui voit tout"
+      ],
+      "answer": 3,
+      "expl": "As-Samīʿ entend toute parole, même le murmure d'une invocation secrète ; al-Baṣīr voit tout, même ce qui est caché. Son ouïe et Sa vue ne ressemblent pas aux nôtres. Le croyant se rappelle ainsi qu'il n'est jamais seul et que chaque doua est entendue.",
+      "src": [
+        "Coran 42:11"
+      ],
+      "ar": {
+        "text": "السَّمِيعُ الْبَصِيرُ",
+        "tr": "as-Samīʿu l-Baṣīr",
+        "pr": "as-sa-mî-ʿoul-ba-sîr",
+        "fr": "l'Audient, le Voyant"
+      },
+      "tags": [
+        "nom:as-sami",
+        "nom:al-basir"
+      ]
+    },
+    {
+      "id": "cro-t1-0061",
+      "concept": "cro.noms-attributs.hayy-qayyum",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie « al-Ḥayy al-Qayyūm » ?",
+      "choices": [
+        "Le Vivant, qui subsiste par Lui-même",
+        "Le Puissant, qui domine Ses ennemis",
+        "Le Pardonneur, qui accepte le repentir",
+        "Le Généreux, qui donne sans compter"
+      ],
+      "answer": 0,
+      "expl": "Al-Ḥayy est le Vivant d'une vie parfaite, sans début ni fin ; al-Qayyūm est Celui qui n'a besoin de rien et dont tout dépend à chaque instant. Ces deux noms ouvrent le verset du Trône (Āyat al-Kursī), le plus grand verset du Coran selon le Prophète ﷺ.",
+      "src": [
+        "Coran 2:255",
+        "Coran 3:2"
+      ],
+      "ar": {
+        "text": "الْحَيُّ الْقَيُّومُ",
+        "tr": "al-Ḥayyu l-Qayyūm",
+        "pr": "al-hay-youl-qay-yoûm",
+        "fr": "le Vivant, Celui qui subsiste par Lui-même"
+      },
+      "tags": [
+        "nom:al-hayy",
+        "nom:al-qayyum",
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0062",
+      "concept": "cro.noms-attributs.hayy-qayyum",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "trou",
+      "q": "Āyat al-Kursī : « Ni ___ ni sommeil ne Le saisissent. »",
+      "choices": [
+        "oubli",
+        "somnolence",
+        "fatigue",
+        "lassitude"
+      ],
+      "answer": 1,
+      "expl": "Le verset du Trône dit d'Allah : « Ni somnolence ni sommeil ne Le saisissent. » C'est la conséquence de Son nom al-Qayyūm : Celui qui maintient l'univers ne s'absente jamais, pas même un instant. Beaucoup récitent ce verset avant de dormir, en confiant leur nuit à Celui qui ne dort pas.",
+      "src": [
+        "Coran 2:255"
+      ],
+      "ar": {
+        "text": "لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ",
+        "tr": "lā taʾkhudhuhu sinatun wa lā nawm",
+        "pr": "lâ taʾ-khou-dhou-hou si-na-toun wa lâ nawm",
+        "fr": "ni somnolence ni sommeil ne Le saisissent"
+      },
+      "tags": [
+        "nom:al-qayyum",
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "cro-t1-0063",
+      "concept": "cro.noms-attributs.malik",
+      "domain": "croyance",
+      "sub": "noms-attributs",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le nom al-Malik ?",
+      "choices": [
+        "Le Témoin de toute chose",
+        "Le Patient, qui attend",
+        "Le Roi, le Souverain absolu",
+        "Le Gardien de l'Enfer"
+      ],
+      "answer": 2,
+      "expl": "Al-Malik est le Roi dont la royauté est réelle, totale et éternelle ; les rois de la terre ne possèdent que ce qu'Il leur prête pour un temps. Attention : Mālik (avec un ā long) est aussi le nom de l'ange gardien de l'Enfer cité dans le Coran, à ne pas confondre.",
+      "src": [
+        "Coran 59:23"
+      ],
+      "ar": {
+        "text": "الْمَلِك",
+        "tr": "al-Malik",
+        "pr": "al-ma-lik",
+        "fr": "le Roi"
+      },
+      "tags": [
+        "nom:al-malik"
+      ]
+    },
+    {
+      "id": "cro-t1-0064",
+      "concept": "cro.anges.creation",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De quoi les anges ont-ils été créés, selon le hadith ?",
+      "choices": [
+        "De feu sans fumée",
+        "D'argile",
+        "D'eau",
+        "De lumière"
+      ],
+      "answer": 3,
+      "expl": "ʿĀʾisha rapporte que le Prophète ﷺ a dit : « Les anges ont été créés de lumière, les djinns d'un feu sans fumée, et Adam de ce qui vous a été décrit », c'est-à-dire de terre. Les anges sont donc une création à part, invisible à nos yeux ordinaires.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ],
+      "ar": {
+        "text": "مَلَائِكَة",
+        "tr": "malāʾika",
+        "pr": "ma-lâ-ʾi-ka",
+        "fr": "les anges"
+      }
+    },
+    {
+      "id": "cro-t1-0065",
+      "concept": "cro.anges.creation",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque créature à ce dont elle a été créée.",
+      "pairs": [
+        [
+          "Les anges",
+          "La lumière"
+        ],
+        [
+          "Les djinns",
+          "Un feu sans fumée"
+        ],
+        [
+          "Adam",
+          "La terre (l'argile)"
+        ]
+      ],
+      "expl": "Le hadith rapporté par ʿĀʾisha résume l'origine des trois grandes catégories de créatures douées de conscience. Le Coran précise ailleurs que l'homme a été créé d'argile et les djinns d'un feu ardent.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim",
+        "Coran 55:14-15"
+      ],
+      "tags": [
+        "prophete:adam"
+      ]
+    },
+    {
+      "id": "cro-t1-0066",
+      "concept": "cro.anges.obeissance",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les anges peuvent désobéir à Allah, comme les humains.",
+      "answer": false,
+      "expl": "Faux : le Coran décrit des anges « qui ne désobéissent jamais à Allah en ce qu'Il leur commande et qui font ce qu'on leur ordonne ». Ils n'ont pas de passions qui les tirent vers le mal. L'être humain, lui, a reçu le libre choix : c'est ce qui donne tant de valeur à son obéissance.",
+      "src": [
+        "Coran 66:6"
+      ]
+    },
+    {
+      "id": "cro-t1-0067",
+      "concept": "cro.anges.sexe",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les anges ne sont ni des hommes ni des femmes.",
+      "answer": true,
+      "expl": "C'est exact : les anges n'ont pas de sexe, ne mangent pas et ne se marient pas. Le Coran reproche aux polythéistes de les avoir imaginés comme des « filles » d'Allah. Leurs représentations féminines ou en bébés ailés viennent d'autres cultures.",
+      "src": [
+        "Coran 43:19"
+      ]
+    },
+    {
+      "id": "cro-t1-0068",
+      "concept": "cro.anges.grands-anges",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque ange à sa mission.",
+      "pairs": [
+        [
+          "Jibrīl",
+          "Apporter la révélation aux prophètes"
+        ],
+        [
+          "Mīkāʾīl",
+          "La pluie et la subsistance"
+        ],
+        [
+          "Isrāfīl",
+          "Souffler dans la Trompe"
+        ],
+        [
+          "L'ange de la mort",
+          "Prendre les âmes au moment fixé"
+        ]
+      ],
+      "expl": "Ce sont les quatre anges les plus connus. Jibrīl et Mīkāʾīl sont nommés dans le Coran ; l'ange de la mort y est désigné par sa mission ; Isrāfīl est connu par la tradition. Tous agissent uniquement sur l'ordre d'Allah.",
+      "src": [
+        "Coran 2:98",
+        "Coran 32:11"
+      ],
+      "note": "Le nom « ʿAzrāʾīl » souvent donné à l'ange de la mort ne figure ni dans le Coran ni dans les hadiths authentiques ; on dit plutôt « malak al-mawt », l'ange de la mort."
+    },
+    {
+      "id": "cro-t1-0069",
+      "concept": "cro.anges.jibril",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel ange a apporté le Coran au Prophète ﷺ ?",
+      "choices": [
+        "Jibrīl",
+        "Mīkāʾīl",
+        "Isrāfīl",
+        "Mālik"
+      ],
+      "answer": 0,
+      "expl": "C'est Jibrīl (Gabriel), appelé aussi « l'Esprit fidèle » (ar-Rūḥ al-Amīn) : « C'est lui qui l'a fait descendre sur ton cœur, avec la permission d'Allah. » Mīkāʾīl est chargé de la pluie, Isrāfīl de la Trompe, Mālik garde l'Enfer.",
+      "src": [
+        "Coran 2:97",
+        "Coran 26:193"
+      ],
+      "ar": {
+        "text": "جِبْرِيل",
+        "tr": "Jibrīl",
+        "pr": "jib-rîl",
+        "fr": "Gabriel"
+      }
+    },
+    {
+      "id": "cro-t1-0070",
+      "concept": "cro.anges.scribes",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que font les « Kirām Kātibīn », les nobles scribes ?",
+      "choices": [
+        "Ils questionnent le mort dans la tombe",
+        "Ils écrivent les actes de chaque personne",
+        "Ils gardent les portes du Paradis",
+        "Ils portent le Trône"
+      ],
+      "answer": 1,
+      "expl": "Le Coran dit : « Veillent sur vous des gardiens, de nobles scribes, qui savent ce que vous faites. » Ces anges notent nos actions, bonnes et mauvaises. C'est une invitation à la conscience de soi, et une bonne nouvelle : la moindre bonne action est enregistrée.",
+      "src": [
+        "Coran 82:10-12"
+      ],
+      "ar": {
+        "text": "كِرَامًا كَاتِبِينَ",
+        "tr": "kirāman kātibīn",
+        "pr": "ki-râ-man kâ-ti-bîn",
+        "fr": "de nobles scribes"
+      },
+      "tags": [
+        "sourate:82"
+      ]
+    },
+    {
+      "id": "cro-t1-0071",
+      "concept": "cro.anges.scribes",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien d'anges scribes, l'un à droite et l'autre à gauche, recueillent les paroles et les actes de chaque personne ?",
+      "answer": 2,
+      "expl": "Deux : « quand les deux recueillants, assis à droite et à gauche, recueillent… ». Selon les savants, celui de droite note les bonnes actions et celui de gauche les mauvaises. Le Prophète ﷺ a enseigné qu'une bonne intention est déjà inscrite comme une bonne action.",
+      "src": [
+        "Coran 50:17-18"
+      ],
+      "tags": [
+        "sourate:50"
+      ]
+    },
+    {
+      "id": "cro-t1-0072",
+      "concept": "cro.anges.munkar-nakir",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment s'appellent les deux anges qui interrogent le défunt dans la tombe ?",
+      "choices": [
+        "Jibrīl et Mīkāʾīl",
+        "Raqīb et ʿAtīd",
+        "Munkar et Nakīr",
+        "Hārūt et Mārūt"
+      ],
+      "answer": 2,
+      "expl": "Munkar et Nakīr demandent au défunt : « Qui est ton Seigneur ? Quelle est ta religion ? Qui est cet homme qui a été envoyé parmi vous ? » Le croyant, affermi par Allah, répond sans peine. Hārūt et Mārūt sont cités à propos de Babylone ; Raqīb et ʿAtīd sont associés aux scribes.",
+      "src": [
+        "Hadith d'Abū Hurayra — Tirmidhi"
+      ],
+      "ar": {
+        "text": "مُنْكَر وَنَكِير",
+        "tr": "Munkar wa Nakīr",
+        "pr": "moun-kar wa na-kîr",
+        "fr": "Munkar et Nakīr"
+      }
+    },
+    {
+      "id": "cro-t1-0073",
+      "concept": "cro.anges.malik-ridwan",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel ange, nommé dans le Coran, est le gardien de l'Enfer ?",
+      "choices": [
+        "Riḍwān",
+        "Isrāfīl",
+        "Mīkāʾīl",
+        "Mālik"
+      ],
+      "answer": 3,
+      "expl": "Le Coran rapporte que les gens de l'Enfer appellent : « Ô Mālik ! » C'est le chef des gardiens de l'Enfer. La tradition nomme Riḍwān le gardien du Paradis, nom qui évoque la satisfaction (riḍā) d'Allah ; ce nom vient de récits plus que du Coran.",
+      "src": [
+        "Coran 43:77"
+      ],
+      "tags": [
+        "sourate:43"
+      ]
+    },
+    {
+      "id": "cro-t1-0074",
+      "concept": "cro.anges.israfil",
+      "domain": "croyance",
+      "sub": "anges",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel ange soufflera dans la Trompe pour annoncer la fin du monde et la Résurrection ?",
+      "choices": [
+        "Isrāfīl",
+        "Jibrīl",
+        "Munkar",
+        "Riḍwān"
+      ],
+      "answer": 0,
+      "expl": "Le Coran annonce qu'on soufflera dans la Trompe : au premier souffle, toutes les créatures s'évanouiront ; au second, elles se relèveront. Selon la tradition, c'est l'ange Isrāfīl qui en est chargé. C'est l'un des quatre grands anges avec Jibrīl, Mīkāʾīl et l'ange de la mort.",
+      "src": [
+        "Coran 39:68"
+      ],
+      "ar": {
+        "text": "إِسْرَافِيل",
+        "tr": "Isrāfīl",
+        "pr": "is-râ-fîl",
+        "fr": "Isrāfīl"
+      }
+    },
+    {
+      "id": "cro-t1-0075",
+      "concept": "cro.livres.liste",
+      "domain": "croyance",
+      "sub": "livres",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque livre révélé au prophète qui l'a reçu.",
+      "pairs": [
+        [
+          "La Tawrāt (Torah)",
+          "Mūsā (Moïse)"
+        ],
+        [
+          "Le Zabūr (Psaumes)",
+          "Dāwūd (David)"
+        ],
+        [
+          "L'Injīl (Évangile)",
+          "ʿĪsā (Jésus)"
+        ],
+        [
+          "Le Coran",
+          "Muḥammad ﷺ"
+        ],
+        [
+          "Les Ṣuḥuf (Feuillets)",
+          "Ibrāhīm (Abraham)"
+        ]
+      ],
+      "expl": "Croire aux livres révélés, c'est croire qu'Allah a guidé l'humanité par des Écritures à travers l'histoire. Le Coran nomme ces livres et ceux qui les ont reçus. Il se présente comme le dernier d'entre eux, qui confirme le message des précédents.",
+      "src": [
+        "Coran 4:163",
+        "Coran 5:46",
+        "Coran 87:19"
+      ],
+      "tags": [
+        "prophete:musa",
+        "prophete:dawud",
+        "prophete:isa",
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "cro-t1-0076",
+      "concept": "cro.livres.zabur",
+      "domain": "croyance",
+      "sub": "livres",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel livre a été donné au prophète Dāwūd (David) ?",
+      "choices": [
+        "Les Ṣuḥuf (les Feuillets)",
+        "Le Zabūr (les Psaumes)",
+        "La Tawrāt (la Torah)",
+        "L'Injīl (l'Évangile)"
+      ],
+      "answer": 1,
+      "expl": "« Et Nous avons donné le Zabūr à Dāwūd. » Le Zabūr correspond aux Psaumes. Dāwūd était connu pour sa belle voix : les montagnes et les oiseaux glorifiaient Allah avec lui. La Tawrāt a été donnée à Mūsā et l'Injīl à ʿĪsā.",
+      "src": [
+        "Coran 4:163"
+      ],
+      "ar": {
+        "text": "الزَّبُور",
+        "tr": "az-Zabūr",
+        "pr": "az-za-boûr",
+        "fr": "les Psaumes"
+      },
+      "tags": [
+        "prophete:dawud"
+      ]
+    },
+    {
+      "id": "cro-t1-0077",
+      "concept": "cro.livres.suhuf",
+      "domain": "croyance",
+      "sub": "livres",
+      "tier": 1,
+      "type": "qcm",
+      "q": "À quels prophètes le Coran attribue-t-il des « Feuillets » (Ṣuḥuf) ?",
+      "choices": [
+        "Dāwūd et Sulaymān",
+        "Yaḥyā et ʿĪsā",
+        "Ibrāhīm et Mūsā",
+        "Nūḥ et Hūd"
+      ],
+      "answer": 2,
+      "expl": "La sourate al-Aʿlā se termine ainsi : « Ceci se trouve dans les Feuillets anciens, les Feuillets d'Ibrāhīm et de Mūsā. » Ces Ṣuḥuf ne nous sont pas parvenus, mais le Coran en rappelle le contenu : la vie dernière est meilleure et plus durable.",
+      "src": [
+        "Coran 87:18-19"
+      ],
+      "ar": {
+        "text": "صُحُف",
+        "tr": "ṣuḥuf",
+        "pr": "sou-houf",
+        "fr": "feuillets"
+      },
+      "tags": [
+        "prophete:ibrahim",
+        "prophete:musa",
+        "sourate:87"
+      ]
+    },
+    {
+      "id": "cro-t1-0078",
+      "concept": "cro.livres.injil",
+      "domain": "croyance",
+      "sub": "livres",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel livre a été révélé à ʿĪsā (Jésus) ?",
+      "choices": [
+        "La Tawrāt (la Torah)",
+        "Le Zabūr (les Psaumes)",
+        "Les Ṣuḥuf (les Feuillets)",
+        "L'Injīl (l'Évangile)"
+      ],
+      "answer": 3,
+      "expl": "« Et Nous lui avons donné l'Évangile, où il y a guide et lumière, pour confirmer ce qu'il y avait avant lui de la Torah. » Pour les musulmans, l'Injīl est le message révélé à ʿĪsā lui-même. Les quatre évangiles actuels sont des récits écrits après lui.",
+      "src": [
+        "Coran 5:46"
+      ],
+      "ar": {
+        "text": "الْإِنْجِيل",
+        "tr": "al-Injīl",
+        "pr": "al-in-jîl",
+        "fr": "l'Évangile"
+      },
+      "tags": [
+        "prophete:isa"
+      ]
+    },
+    {
+      "id": "cro-t1-0079",
+      "concept": "cro.livres.ordre",
+      "domain": "croyance",
+      "sub": "livres",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre chronologique les prophètes qui ont reçu ces livres.",
+      "items": [
+        "Mūsā, la Tawrāt",
+        "Dāwūd, le Zabūr",
+        "ʿĪsā, l'Injīl",
+        "Muḥammad ﷺ, le Coran"
+      ],
+      "expl": "Mūsā a vécu bien avant Dāwūd, roi d'Israël ; ʿĪsā vient ensuite, puis Muḥammad ﷺ, environ six siècles après lui. Le Coran, dernier livre, vient clore cette longue chaîne de révélations.",
+      "tags": [
+        "prophete:musa",
+        "prophete:dawud",
+        "prophete:isa",
+        "prophete:muhammad"
+      ]
+    },
+    {
+      "id": "cro-t1-0080",
+      "concept": "cro.livres.muhaymin",
+      "domain": "croyance",
+      "sub": "livres",
+      "tier": 1,
+      "type": "qcm",
+      "q": "D'après le verset 5:48, quel rôle le Coran a-t-il envers les livres révélés avant lui ?",
+      "choices": [
+        "Il les confirme et prédomine sur eux",
+        "Il les remplace sans rien en dire",
+        "Il les contredit entièrement",
+        "Il n'en parle jamais"
+      ],
+      "answer": 0,
+      "expl": "« Et sur toi Nous avons fait descendre le Livre avec la vérité, pour confirmer le Livre qui était là avant lui et pour prédominer sur lui (muhaymin). » Le Coran reconnaît l'origine divine des Écritures précédentes, et il sert de référence pour juger ce qui y a été conservé.",
+      "src": [
+        "Coran 5:48"
+      ],
+      "ar": {
+        "text": "وَمُهَيْمِنًا عَلَيْهِ",
+        "tr": "wa muhayminan ʿalayh",
+        "pr": "wa mou-hay-mi-nan ʿa-layh",
+        "fr": "et prédominant sur lui"
+      },
+      "tags": [
+        "sourate:5"
+      ]
+    },
+    {
+      "id": "cro-t1-0081",
+      "concept": "cro.livres.dernier",
+      "domain": "croyance",
+      "sub": "livres",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le Coran est, pour les musulmans, le dernier livre révélé par Allah.",
+      "answer": true,
+      "expl": "Oui : Muḥammad ﷺ étant le sceau des prophètes, aucun livre ne vient après le Coran. C'est pourquoi Allah a garanti Lui-même sa préservation, alors que les livres précédents étaient confiés à la garde de leurs communautés.",
+      "src": [
+        "Coran 33:40",
+        "Coran 15:9"
+      ]
+    },
+    {
+      "id": "cro-t1-0082",
+      "concept": "cro.livres.liste",
+      "domain": "croyance",
+      "sub": "livres",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquels sont des livres révélés cités dans le Coran ?",
+      "choices": [
+        "La Tawrāt",
+        "Le Zabūr",
+        "Le Talmud",
+        "L'Injīl",
+        "Le Coran",
+        "Le Muwaṭṭaʾ"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "La Tawrāt, le Zabūr, l'Injīl et le Coran sont des livres révélés. Le Talmud est un ensemble de commentaires rabbiniques ; le Muwaṭṭaʾ est un recueil de hadiths et de fiqh composé par l'imam Mālik, un livre humain très important, mais pas une révélation.",
+      "src": [
+        "Coran 3:3",
+        "Coran 4:163"
+      ]
+    },
+    {
+      "id": "cro-t1-0083",
+      "concept": "cro.messagers.nabi-rasul",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon la définition la plus répandue, quelle est la différence entre un nabī (prophète) et un rasūl (messager) ?",
+      "choices": [
+        "Le rasūl est un ange, le nabī un homme",
+        "Le rasūl transmet un message ; tout rasūl est nabī",
+        "Il n'y a aucune différence entre les deux",
+        "Le nabī est supérieur au rasūl"
+      ],
+      "answer": 1,
+      "expl": "Le nabī reçoit la révélation ; le rasūl reçoit en plus la mission de la transmettre à un peuple, souvent avec une loi ou un livre. Tout messager est donc un prophète, mais tous les prophètes ne sont pas des messagers. Muḥammad ﷺ est les deux à la fois.",
+      "ar": {
+        "text": "نَبِيّ وَرَسُول",
+        "tr": "nabiyy wa rasūl",
+        "pr": "na-biyy wa ra-soûl",
+        "fr": "prophète et messager"
+      },
+      "note": "Les savants ont proposé plusieurs définitions précises de la différence ; celle-ci est la plus courante."
+    },
+    {
+      "id": "cro-t1-0084",
+      "concept": "cro.messagers.nabi-rasul",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 1,
+      "type": "vf",
+      "q": "Tout messager (rasūl) est un prophète (nabī), mais tout prophète n'est pas un messager.",
+      "answer": true,
+      "expl": "C'est la règle retenue par la majorité des savants. La prophétie (nubuwwa) est le fait de recevoir la révélation ; la mission de messager (risāla) ajoute la charge de la transmettre à un peuple. Les messagers sont donc moins nombreux que les prophètes."
+    },
+    {
+      "id": "cro-t1-0085",
+      "concept": "cro.messagers.sceau",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Muḥammad n'a jamais été le père de l'un de vos hommes, mais le messager d'Allah et le ___ des prophètes. »",
+      "choices": [
+        "plus jeune",
+        "guide",
+        "sceau",
+        "premier"
+      ],
+      "answer": 2,
+      "expl": "Le verset 33:40 appelle Muḥammad ﷺ « Khātam an-Nabiyyīn », le sceau des prophètes : il clôt la prophétie, comme un sceau ferme une lettre. Il n'y aura pas de prophète après lui. C'est un point de croyance sur lequel les musulmans s'accordent.",
+      "src": [
+        "Coran 33:40"
+      ],
+      "ar": {
+        "text": "وَخَاتَمَ النَّبِيِّينَ",
+        "tr": "wa khātama n-nabiyyīn",
+        "pr": "wa khâ-ta-man-na-biy-yîn",
+        "fr": "et le sceau des prophètes"
+      },
+      "tags": [
+        "prophete:muhammad",
+        "sourate:33"
+      ]
+    },
+    {
+      "id": "cro-t1-0086",
+      "concept": "cro.messagers.tawhid-commun",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel message tous les messagers ont-ils apporté, selon le Coran ?",
+      "choices": [
+        "Construire un temple à La Mecque",
+        "Jeûner le mois de Ramadan",
+        "Parler la langue arabe",
+        "Adorer Allah seul"
+      ],
+      "answer": 3,
+      "expl": "« Nous n'avons envoyé avant toi aucun messager sans lui révéler : Point de divinité en dehors de Moi ; adorez-Moi donc. » Les lois ont pu varier selon les époques, mais le cœur du message, le tawḥīd, est resté le même de Nūḥ à Muḥammad ﷺ.",
+      "src": [
+        "Coran 21:25",
+        "Coran 16:36"
+      ]
+    },
+    {
+      "id": "cro-t1-0087",
+      "concept": "cro.messagers.croire-tous",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 1,
+      "type": "vf",
+      "q": "Un musulman croit en tous les prophètes envoyés par Allah, sans en rejeter aucun.",
+      "answer": true,
+      "expl": "Oui : le Coran fait dire aux croyants « Nous ne faisons aucune distinction entre Ses messagers », c'est-à-dire qu'on n'en accepte pas certains pour en rejeter d'autres. Croire en Muḥammad ﷺ inclut donc croire en Ibrāhīm, Mūsā, ʿĪsā et tous les autres.",
+      "src": [
+        "Coran 2:285"
+      ]
+    },
+    {
+      "id": "cro-t1-0088",
+      "concept": "cro.messagers.vingt-cinq",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de prophètes sont cités nommément dans le Coran ?",
+      "answer": 25,
+      "expl": "Vingt-cinq, d'Adam à Muḥammad ﷺ, parmi eux Nūḥ, Ibrāhīm, Mūsā, ʿĪsā, Yūsuf et Yūnus. Mais il y en a eu beaucoup plus : le Coran dit qu'Allah a envoyé des messagers dont Il ne nous a pas raconté l'histoire.",
+      "src": [
+        "Coran 4:164",
+        "Coran 40:78"
+      ],
+      "retired": true
+    },
+    {
+      "id": "cro-t1-0089",
+      "concept": "cro.messagers.premier",
+      "domain": "croyance",
+      "sub": "messagers",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qui est, selon la croyance musulmane, le premier prophète ?",
+      "choices": [
+        "Adam",
+        "Nūḥ (Noé)",
+        "Ibrāhīm (Abraham)",
+        "Idrīs (Hénoch)"
+      ],
+      "answer": 0,
+      "expl": "Adam est le premier homme et le premier prophète : Allah lui a parlé et l'a instruit. Nūḥ est appelé, dans le hadith de l'intercession, le premier des messagers envoyés aux habitants de la terre. Ibrāhīm et Idrīs sont venus après.",
+      "src": [
+        "Coran 2:31-37"
+      ],
+      "note": "Les savants distinguent Adam, premier prophète, et Nūḥ, premier messager envoyé à un peuple qui avait dévié.",
+      "tags": [
+        "prophete:adam"
+      ]
+    },
+    {
+      "id": "cro-t1-0090",
+      "concept": "cro.au-dela.mort",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Toute âme ___ la mort. »",
+      "choices": [
+        "fuira",
+        "oubliera",
+        "goûtera",
+        "craindra"
+      ],
+      "answer": 2,
+      "expl": "Le Coran le rappelle plusieurs fois : la mort est la seule certitude partagée par tous. Le verbe « goûter » dit qu'elle est un passage, non une fin. Le verset poursuit : c'est au Jour de la Résurrection que chacun recevra son entière rétribution.",
+      "src": [
+        "Coran 3:185"
+      ],
+      "ar": {
+        "text": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ",
+        "tr": "kullu nafsin dhāʾiqatu l-mawt",
+        "pr": "koul-lou naf-sin dhâ-ʾi-qa-toul-mawt",
+        "fr": "toute âme goûtera la mort"
+      },
+      "tags": [
+        "sourate:3"
+      ]
+    },
+    {
+      "id": "cro-t1-0091",
+      "concept": "cro.au-dela.tombe",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "multi",
+      "q": "Quelles questions les deux anges posent-ils au défunt dans la tombe ?",
+      "choices": [
+        "Qui est ton Seigneur ?",
+        "Quelle est ta religion ?",
+        "Combien de prières as-tu faites ?",
+        "Qui est cet homme envoyé parmi vous ?",
+        "Quelle langue parlais-tu ?"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Selon les hadiths, le défunt est interrogé sur son Seigneur, sa religion et son prophète. Le croyant répond : « Mon Seigneur est Allah, ma religion est l'islam, et c'est Muḥammad, le Messager d'Allah. » Le Coran dit qu'Allah affermit les croyants par une parole ferme, ici-bas et dans l'au-delà.",
+      "src": [
+        "Coran 14:27",
+        "Hadith d'al-Barāʾ ibn ʿĀzib — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t1-0092",
+      "concept": "cro.au-dela.tombe",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le verset « Allah affermit les croyants par une parole ferme dans la vie d'ici-bas et dans l'au-delà » a été expliqué par le Prophète ﷺ comme concernant l'interrogatoire de la tombe.",
+      "answer": true,
+      "expl": "C'est ce que rapporte al-Barāʾ ibn ʿĀzib : ce verset (14:27) concerne la tombe, où le croyant, aidé par Allah, témoigne qu'il n'y a de divinité qu'Allah et que Muḥammad est Son messager. La meilleure préparation, c'est de vivre avec ces paroles dans le cœur.",
+      "src": [
+        "Coran 14:27",
+        "Hadith d'al-Barāʾ ibn ʿĀzib — Bukhari & Muslim"
+      ],
+      "tags": [
+        "sourate:14"
+      ]
+    },
+    {
+      "id": "cro-t1-0093",
+      "concept": "cro.au-dela.etapes",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre ces étapes de l'au-delà.",
+      "items": [
+        "La mort",
+        "L'interrogatoire dans la tombe",
+        "La Résurrection",
+        "Le Rassemblement de toutes les créatures",
+        "Le passage sur le Pont (aṣ-Ṣirāṭ)"
+      ],
+      "expl": "Après la mort vient la vie de la tombe (le barzakh), avec l'interrogatoire. Puis, au son de la Trompe, les créatures sont ressuscitées et rassemblées pour le Jugement. Enfin chacun traverse le Pont tendu au-dessus de l'Enfer, qui mène au Paradis."
+    },
+    {
+      "id": "cro-t1-0094",
+      "concept": "cro.au-dela.qiyama",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie « Yawm al-Qiyāma » ?",
+      "choices": [
+        "Le jour du vendredi, chaque semaine",
+        "Le jour de l'Aïd, après Ramadan",
+        "Le premier jour du Ramadan",
+        "Le Jour de la Résurrection"
+      ],
+      "answer": 3,
+      "expl": "Qiyāma vient de qāma, se lever : c'est le Jour où les morts se relèvent de leurs tombes pour être jugés. Le Coran lui donne de nombreux noms, comme le Jour dernier, le Jour de la Rétribution (Yawm ad-Dīn) ou l'Heure (as-Sāʿa).",
+      "src": [
+        "Coran 75:1"
+      ],
+      "ar": {
+        "text": "يَوْمُ الْقِيَامَةِ",
+        "tr": "yawmu l-qiyāma",
+        "pr": "yaw-moul-qi-yâ-ma",
+        "fr": "le Jour de la Résurrection"
+      },
+      "tags": [
+        "sourate:75"
+      ]
+    },
+    {
+      "id": "cro-t1-0095",
+      "concept": "cro.au-dela.mizan",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que le Mīzān au Jour du Jugement ?",
+      "choices": [
+        "La Balance des actions",
+        "Le pont au-dessus de l'Enfer",
+        "Le bassin du Prophète ﷺ",
+        "Le livre des actes"
+      ],
+      "answer": 0,
+      "expl": "Le Coran annonce : « Nous placerons les balances exactes au Jour de la Résurrection ; aucune âme ne sera lésée en rien. » Même une action du poids d'un grain de moutarde sera prise en compte. La justice d'Allah est parfaite, et Sa miséricorde la dépasse.",
+      "src": [
+        "Coran 21:47"
+      ],
+      "ar": {
+        "text": "الْمِيزَان",
+        "tr": "al-mīzān",
+        "pr": "al-mî-zân",
+        "fr": "la Balance"
+      },
+      "tags": [
+        "sourate:21"
+      ]
+    },
+    {
+      "id": "cro-t1-0096",
+      "concept": "cro.au-dela.mizan",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a parlé de deux paroles légères sur la langue mais lourdes dans la Balance : « Subḥāna Llāhi wa bi-ḥamdih, subḥāna Llāhi l-ʿaẓīm ».",
+      "answer": true,
+      "expl": "C'est un hadith authentique, le dernier du Ṣaḥīḥ d'al-Bukhārī : deux paroles légères sur la langue, lourdes dans la Balance, aimées du Tout Miséricordieux. Une belle façon de remplir sa balance en quelques secondes, à tout moment de la journée.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ، سُبْحَانَ اللّٰهِ الْعَظِيمِ",
+        "tr": "subḥāna Llāhi wa bi-ḥamdih, subḥāna Llāhi l-ʿaẓīm",
+        "pr": "soub-hâ-nal-lâ-hi wa bi-ham-dih, soub-hâ-nal-lâ-hil-ʿa-zîm",
+        "fr": "Gloire et louange à Allah, gloire à Allah l'Immense"
+      }
+    },
+    {
+      "id": "cro-t1-0097",
+      "concept": "cro.au-dela.atome",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Quiconque fait un bien du poids d'un ___ le verra. »",
+      "choices": [
+        "nuage",
+        "atome",
+        "grain de blé",
+        "rocher"
+      ],
+      "answer": 1,
+      "expl": "Les derniers versets de la sourate az-Zalzala disent : « Quiconque fait un bien du poids d'un atome le verra, et quiconque fait un mal du poids d'un atome le verra. » Aucun sourire, aucune aide discrète n'est perdu : tout compte auprès d'Allah.",
+      "src": [
+        "Coran 99:7-8"
+      ],
+      "ar": {
+        "text": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "tr": "fa-man yaʿmal mithqāla dharratin khayran yarah",
+        "pr": "fa-man yaʿ-mal mith-qâ-la dhar-ra-tin khay-ran ya-rah",
+        "fr": "quiconque fait un bien du poids d'un atome le verra"
+      },
+      "tags": [
+        "sourate:99"
+      ]
+    },
+    {
+      "id": "cro-t1-0098",
+      "concept": "cro.au-dela.sirat",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que le Ṣirāṭ ?",
+      "choices": [
+        "La porte principale du Paradis",
+        "Le nom de l'ange de la mort",
+        "Le Pont tendu au-dessus de l'Enfer",
+        "La Balance où l'on pèse les actes"
+      ],
+      "answer": 2,
+      "expl": "Les hadiths authentiques décrivent le Ṣirāṭ comme un pont tendu au-dessus de l'Enfer. Les gens le traversent selon leurs œuvres : certains comme l'éclair, d'autres comme le vent, d'autres plus lentement. La foi et les bonnes actions sont la lumière qui permet de passer.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الصِّرَاط",
+        "tr": "aṣ-ṣirāṭ",
+        "pr": "as-si-râṭ",
+        "fr": "le Pont"
+      }
+    },
+    {
+      "id": "cro-t1-0099",
+      "concept": "cro.au-dela.hawd",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que promet le Prophète ﷺ à propos de celui qui boit à son Bassin (al-Ḥawḍ) ?",
+      "choices": [
+        "Il deviendra un ange",
+        "Il retournera sur terre",
+        "Il connaîtra l'avenir",
+        "Il n'aura plus jamais soif"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ a décrit son Bassin : son eau est plus blanche que le lait, son parfum meilleur que le musc, et celui qui y boit n'aura plus jamais soif. Il y accueillera les croyants de sa communauté au Jour du Jugement.",
+      "src": [
+        "Hadith de ʿAbd Allāh ibn ʿAmr — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْحَوْض",
+        "tr": "al-ḥawḍ",
+        "pr": "al-hawḍ",
+        "fr": "le Bassin"
+      }
+    },
+    {
+      "id": "cro-t1-0100",
+      "concept": "cro.au-dela.shafaa",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Au Jour du Jugement, vers qui les gens se tourneront-ils finalement pour la grande intercession, après être allés voir d'autres prophètes ?",
+      "choices": [
+        "Muḥammad ﷺ",
+        "Ibrāhīm",
+        "Mūsā",
+        "Nūḥ ou ʿĪsā"
+      ],
+      "answer": 0,
+      "expl": "Selon le long hadith de l'intercession, les gens iront voir Adam, puis Nūḥ, Ibrāhīm, Mūsā et ʿĪsā, et chacun les renverra vers un autre. Ils viendront enfin à Muḥammad ﷺ, qui se prosternera et à qui Allah accordera l'intercession. C'est la « station louable » (al-maqām al-maḥmūd).",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim",
+        "Coran 17:79"
+      ],
+      "tags": [
+        "prophete:muhammad"
+      ]
+    },
+    {
+      "id": "cro-t1-0101",
+      "concept": "cro.au-dela.livre-actes",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "vf",
+      "q": "Recevoir le livre de ses actes dans la main droite est, selon le Coran, un signe de réussite.",
+      "answer": true,
+      "expl": "Le Coran décrit la joie de celui qui reçoit son livre dans la main droite : « Tenez, lisez mon livre ! » Celui qui le reçoit dans la main gauche, au contraire, regrette. On comprend pourquoi la droite est associée au bien dans les gestes de la Sunna.",
+      "src": [
+        "Coran 69:19-25"
+      ],
+      "tags": [
+        "sourate:69"
+      ]
+    },
+    {
+      "id": "cro-t1-0102",
+      "concept": "cro.au-dela.paradis",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon un hadith qudsī, qu'a préparé Allah pour Ses serviteurs vertueux au Paradis ?",
+      "choices": [
+        "Un retour sur terre avec plus de richesses",
+        "Ce qu'aucun œil n'a vu ni aucune oreille entendu",
+        "Une vie semblable à celle d'ici-bas, sans fin",
+        "Un repos éternel, sans aucun plaisir"
+      ],
+      "answer": 1,
+      "expl": "Allah dit : « J'ai préparé pour Mes serviteurs vertueux ce qu'aucun œil n'a vu, ce qu'aucune oreille n'a entendu et ce qui n'est jamais venu à l'esprit d'un être humain. » Les descriptions du Coran (jardins, rivières) ne sont qu'une approche ; la réalité dépasse notre imagination.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim",
+        "Coran 32:17"
+      ],
+      "ar": {
+        "text": "الْجَنَّة",
+        "tr": "al-janna",
+        "pr": "al-jan-na",
+        "fr": "le Paradis (littéralement : le jardin)"
+      }
+    },
+    {
+      "id": "cro-t1-0103",
+      "concept": "cro.au-dela.enfer-sortie",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon la croyance sunnite, un croyant entré en Enfer à cause de ses péchés peut en sortir et entrer au Paradis.",
+      "answer": true,
+      "expl": "Oui : des hadiths authentiques rapportent qu'Allah fera sortir de l'Enfer quiconque a dans le cœur un atome de foi, par l'intercession et par Sa miséricorde. Les sunnites refusent donc de dire qu'un croyant pécheur est éternellement perdu ; on ne désespère jamais de la miséricorde d'Allah.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t1-0104",
+      "concept": "cro.au-dela.vocabulaire",
+      "domain": "croyance",
+      "sub": "au-dela",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque mot arabe à son sens.",
+      "pairs": [
+        [
+          "al-Janna",
+          "Le Paradis"
+        ],
+        [
+          "Jahannam",
+          "L'Enfer"
+        ],
+        [
+          "aṣ-Ṣirāṭ",
+          "Le Pont"
+        ],
+        [
+          "al-Mīzān",
+          "La Balance"
+        ],
+        [
+          "al-Ḥawḍ",
+          "Le Bassin"
+        ]
+      ],
+      "expl": "Ces mots reviennent souvent dans les sermons et les livres. Al-Janna veut dire « le jardin » ; Jahannam est l'un des noms de l'Enfer ; le Ṣirāṭ est le pont à traverser ; le Mīzān pèse les actes ; le Ḥawḍ est le bassin où le Prophète ﷺ accueille sa communauté."
+    },
+    {
+      "id": "cro-t1-0105",
+      "concept": "cro.destin.definition",
+      "domain": "croyance",
+      "sub": "destin",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie croire au destin (al-qadar) ?",
+      "choices": [
+        "Croire que les étoiles décident de notre vie",
+        "Croire que l'homme n'a aucune responsabilité",
+        "Allah sait et a tout écrit ; rien n'échappe à Sa volonté",
+        "Croire que tout arrive par pur hasard"
+      ],
+      "answer": 2,
+      "expl": "Croire au qadar, c'est reconnaître que la science d'Allah englobe tout, qu'Il a tout inscrit, et que rien ne se produit dans l'univers sans Sa volonté et Sa création. Cela n'abolit pas la responsabilité humaine, et cela donne une grande sérénité face aux épreuves.",
+      "src": [
+        "Coran 54:49",
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "ar": {
+        "text": "الْقَدَر",
+        "tr": "al-qadar",
+        "pr": "al-qa-dar",
+        "fr": "le destin, la prédestination"
+      }
+    },
+    {
+      "id": "cro-t1-0106",
+      "concept": "cro.destin.responsabilite",
+      "domain": "croyance",
+      "sub": "destin",
+      "tier": 1,
+      "type": "vf",
+      "q": "Puisque tout est écrit, l'être humain n'a pas besoin de faire d'efforts.",
+      "answer": false,
+      "expl": "Faux. Quand les Compagnons ont demandé s'il fallait alors s'en remettre à ce qui est écrit, le Prophète ﷺ a répondu : « Agissez, car chacun est facilité pour ce pour quoi il a été créé. » On fait sa part avec sérieux, et on s'en remet à Allah pour le résultat.",
+      "src": [
+        "Hadith de ʿAlī ibn Abī Ṭālib — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t1-0107",
+      "concept": "cro.destin.responsabilite",
+      "domain": "croyance",
+      "sub": "destin",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon la croyance sunnite, l'être humain est responsable de ses choix, même si Allah sait tout à l'avance.",
+      "answer": true,
+      "expl": "Oui : Allah sait tout, mais Son savoir n'oblige personne. L'homme a une volonté réelle et choisit ses actes ; c'est pour cela qu'il est jugé. Les ash'arites parlent d'« acquisition » (kasb) : Allah crée l'acte, l'homme le choisit et l'acquiert.",
+      "note": "La manière d'articuler destin et liberté a donné lieu à de longs débats ; le sunnisme tient les deux vérités ensemble, sans nier ni l'une ni l'autre."
+    },
+    {
+      "id": "cro-t1-0108",
+      "concept": "cro.destin.nawawi19",
+      "domain": "croyance",
+      "sub": "destin",
+      "tier": 1,
+      "type": "trou",
+      "q": "Dans le conseil du Prophète ﷺ à Ibn ʿAbbās : « Les calames ont été levés et les feuilles ont ___. »",
+      "choices": [
+        "été brûlées",
+        "été perdues",
+        "été cachées",
+        "séché"
+      ],
+      "answer": 3,
+      "expl": "Ce hadith (19e des 40 de an-Nawawī) enseigne que si toute la communauté se réunissait pour te faire du bien ou du mal, elle ne pourrait que ce qu'Allah a écrit pour toi. « Les calames ont été levés et les feuilles ont séché » : le destin est fixé, ce qui libère de la peur des gens.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Tirmidhi"
+      ],
+      "tags": [
+        "nawawi:19"
+      ]
+    },
+    {
+      "id": "cro-t1-0109",
+      "concept": "cro.destin.nawawi19",
+      "domain": "croyance",
+      "sub": "destin",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Par quel conseil commence le hadith adressé au jeune Ibn ʿAbbās (Nawawī 19) ?",
+      "choices": [
+        "« Préserve Allah, Il te préservera »",
+        "« Ne te mets pas en colère »",
+        "« Dis : je crois en Allah, puis sois droit »",
+        "« Laisse ce qui te fait douter »"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ dit au jeune Ibn ʿAbbās : « Ô garçon, je vais t'enseigner des paroles : préserve Allah, Il te préservera ; préserve Allah, tu Le trouveras devant toi. » Préserver Allah, c'est respecter Ses limites. Les autres phrases sont d'autres hadiths célèbres des 40 de an-Nawawī.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Tirmidhi"
+      ],
+      "ar": {
+        "text": "احْفَظِ اللّٰهَ يَحْفَظْكَ",
+        "tr": "iḥfaẓi Llāha yaḥfaẓk",
+        "pr": "ih-fa-zil-lâ-ha yah-faẓk",
+        "fr": "préserve Allah, Il te préservera"
+      },
+      "tags": [
+        "nawawi:19"
+      ]
+    },
+    {
+      "id": "cro-t1-0110",
+      "concept": "cro.destin.qaddara",
+      "domain": "croyance",
+      "sub": "destin",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le hadith, que dire face à un événement contrariant, au lieu de « Ah, si seulement j'avais fait… » ?",
+      "choices": [
+        "« Je ne ferai plus jamais d'effort »",
+        "« Qaddara Llāhu wa mā shāʾa faʿal »",
+        "« C'est entièrement la faute des autres »",
+        "« Je n'ai vraiment pas de chance »"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ a dit : si quelque chose t'atteint, ne dis pas « si j'avais fait ceci… », car « si » ouvre la porte au Shayṭān ; dis plutôt : Allah l'a décrété, et Il fait ce qu'Il veut. Cela n'empêche pas de tirer des leçons, mais cela protège des regrets qui rongent.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "ar": {
+        "text": "قَدَّرَ اللّٰهُ وَمَا شَاءَ فَعَلَ",
+        "tr": "qaddara Llāhu wa mā shāʾa faʿal",
+        "pr": "qad-da-ral-lâ-hou wa mâ châ-ʾa fa-ʿal",
+        "fr": "Allah l'a décrété, et Il fait ce qu'Il veut"
+      }
+    },
+    {
+      "id": "cro-t1-0111",
+      "concept": "cro.ghayb.djinns",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De quoi les djinns ont-ils été créés, selon le Coran ?",
+      "choices": [
+        "D'argile sèche",
+        "De vent et de poussière",
+        "D'une flamme sans fumée",
+        "De lumière pure"
+      ],
+      "answer": 2,
+      "expl": "« Et Il a créé les djinns d'une flamme de feu sans fumée. » Les djinns sont des êtres réels, invisibles pour nous, doués de raison et de libre choix, comme les humains. Les anges, eux, ont été créés de lumière, et Adam d'argile.",
+      "src": [
+        "Coran 55:15"
+      ],
+      "ar": {
+        "text": "الْجِنّ",
+        "tr": "al-jinn",
+        "pr": "al-jinn",
+        "fr": "les djinns"
+      },
+      "tags": [
+        "sourate:55"
+      ]
+    },
+    {
+      "id": "cro-t1-0112",
+      "concept": "cro.ghayb.djinns",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 1,
+      "type": "vf",
+      "q": "Parmi les djinns, il y a des croyants et des non-croyants.",
+      "answer": true,
+      "expl": "Oui : la sourate al-Jinn rapporte les paroles de djinns qui ont écouté le Coran et ont cru, et qui disent : « Parmi nous, il y a les musulmans, et il y a les injustes. » Comme les humains, ils seront jugés selon leurs choix.",
+      "src": [
+        "Coran 72:1-2",
+        "Coran 72:14"
+      ],
+      "tags": [
+        "sourate:72"
+      ]
+    },
+    {
+      "id": "cro-t1-0113",
+      "concept": "cro.ghayb.iblis",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le Coran, à quelle catégorie de créatures appartenait Iblīs ?",
+      "choices": [
+        "Aux anges",
+        "Aux humains",
+        "Aux animaux",
+        "Aux djinns"
+      ],
+      "answer": 3,
+      "expl": "Le Coran dit clairement : « Il était du nombre des djinns, et il désobéit à l'ordre de son Seigneur. » C'est pour cela qu'il a pu refuser de se prosterner devant Adam, alors que les anges, eux, n'ont pas de désobéissance. Son orgueil (« je suis meilleur que lui ») est à l'origine de sa chute.",
+      "src": [
+        "Coran 18:50",
+        "Coran 7:12"
+      ],
+      "ar": {
+        "text": "إِبْلِيس",
+        "tr": "Iblīs",
+        "pr": "ib-lîs",
+        "fr": "Iblīs, le Diable"
+      },
+      "tags": [
+        "sourate:18"
+      ]
+    },
+    {
+      "id": "cro-t1-0114",
+      "concept": "cro.ghayb.ruh",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Ils t'interrogent au sujet de l'âme (ar-rūḥ). Dis : l'âme relève de l'ordre de mon Seigneur, et on ne vous a donné que peu de ___. »",
+      "choices": [
+        "science",
+        "temps",
+        "patience",
+        "force"
+      ],
+      "answer": 0,
+      "expl": "Ce verset (17:85) rappelle que l'âme est un mystère qu'Allah s'est réservé : nous en savons peu de chose. C'est une invitation à l'humilité intellectuelle : la science humaine, aussi grande soit-elle, reste limitée devant la création.",
+      "src": [
+        "Coran 17:85"
+      ],
+      "ar": {
+        "text": "الرُّوح",
+        "tr": "ar-rūḥ",
+        "pr": "ar-roûh",
+        "fr": "l'âme, l'esprit"
+      },
+      "tags": [
+        "sourate:17"
+      ]
+    },
+    {
+      "id": "cro-t1-0115",
+      "concept": "cro.ghayb.seul-allah",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le Coran, nul dans les cieux et sur la terre ne connaît l'invisible (al-ghayb), à part Allah.",
+      "answer": true,
+      "expl": "« Nul de ceux qui sont dans les cieux et sur la terre ne connaît l'Inconnaissable, à part Allah. » Même les prophètes ne savaient de l'invisible que ce qu'Allah leur révélait. Le ghayb désigne tout ce qui échappe à nos sens : l'avenir, l'au-delà, les anges…",
+      "src": [
+        "Coran 27:65"
+      ],
+      "ar": {
+        "text": "الْغَيْب",
+        "tr": "al-ghayb",
+        "pr": "al-ghayb",
+        "fr": "l'invisible"
+      },
+      "tags": [
+        "sourate:27"
+      ]
+    },
+    {
+      "id": "cro-t1-0116",
+      "concept": "cro.ghayb.voyance",
+      "domain": "croyance",
+      "sub": "ghayb",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit l'islam des voyants, devins et horoscopes ?",
+      "choices": [
+        "Il les autorise pour le mariage seulement",
+        "Il interdit d'y recourir",
+        "Il les autorise s'ils sont gratuits",
+        "Il les recommande pour prendre des décisions"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ a dit : « Celui qui va voir un devin et l'interroge sur quelque chose, sa prière n'est pas acceptée pendant quarante nuits. » Consulter la voyance, c'est prêter à une créature une connaissance qui n'appartient qu'à Allah. Pour une décision, on fait plutôt la prière de consultation (istikhāra).",
+      "src": [
+        "Hadith d'une épouse du Prophète — Muslim"
+      ]
+    },
+    {
+      "id": "cro-t1-0117",
+      "concept": "cro.shirk.luqman",
+      "domain": "croyance",
+      "sub": "shirk",
+      "tier": 1,
+      "type": "trou",
+      "q": "Luqmān dit à son fils : « Ne donne pas d'associé à Allah, car l'association est vraiment une ___ énorme. »",
+      "choices": [
+        "erreur de calcul",
+        "maladresse",
+        "injustice",
+        "fatigue"
+      ],
+      "answer": 2,
+      "expl": "Les conseils de Luqmān à son fils (sourate 31) commencent par le tawḥīd. Le shirk est appelé une injustice (ẓulm) car il donne à une créature ce qui revient au Créateur seul. C'est un père qui parle avec amour : le premier cadeau qu'il veut transmettre, c'est la foi.",
+      "src": [
+        "Coran 31:13"
+      ],
+      "ar": {
+        "text": "إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+        "tr": "inna sh-shirka la-ẓulmun ʿaẓīm",
+        "pr": "in-nach-chir-ka la-zoul-moun ʿa-zîm",
+        "fr": "l'association est vraiment une injustice énorme"
+      },
+      "tags": [
+        "sourate:31"
+      ]
+    },
+    {
+      "id": "cro-t1-0118",
+      "concept": "cro.shirk.4-48",
+      "domain": "croyance",
+      "sub": "shirk",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que nous enseigne le verset 4:48 sur le shirk ?",
+      "choices": [
+        "Un péché léger, effacé par une seule prière",
+        "Le seul péché que le repentir n'efface jamais",
+        "Il ne concerne que les anciens peuples",
+        "Le péché le plus grave, non pardonné à qui meurt dessus"
+      ],
+      "answer": 3,
+      "expl": "Le verset dit : « Allah ne pardonne pas qu'on Lui donne un associé ; en dehors de cela, Il pardonne à qui Il veut. » Les savants précisent qu'il s'agit de celui qui meurt sans s'en être repenti : de son vivant, le repentir sincère efface même le shirk, comme l'ont montré tant de Compagnons, anciens polythéistes.",
+      "src": [
+        "Coran 4:48",
+        "Coran 39:53"
+      ],
+      "tags": [
+        "sourate:4"
+      ]
+    },
+    {
+      "id": "cro-t1-0119",
+      "concept": "cro.shirk.repentir",
+      "domain": "croyance",
+      "sub": "shirk",
+      "tier": 1,
+      "type": "vf",
+      "q": "Celui qui a pratiqué le shirk puis s'en repent sincèrement de son vivant peut être pardonné.",
+      "answer": true,
+      "expl": "Oui : la plupart des Compagnons, comme ʿUmar ou Khālid ibn al-Walīd, avaient été polythéistes avant l'islam. Le Coran invite ceux qui ont commis des excès à ne pas désespérer de la miséricorde d'Allah, qui pardonne tous les péchés à celui qui revient à Lui.",
+      "src": [
+        "Coran 39:53",
+        "Coran 25:68-70"
+      ]
+    },
+    {
+      "id": "cro-t1-0120",
+      "concept": "cro.shirk.amulettes",
+      "domain": "croyance",
+      "sub": "shirk",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon l'enseignement islamique, d'où vient la protection contre le mauvais œil et le mal ?",
+      "choices": [
+        "D'Allah seul, qu'on invoque",
+        "D'une main de Fatma accrochée au mur",
+        "D'un fer à cheval porté sur soi",
+        "D'un fil rouge noué au poignet"
+      ],
+      "answer": 0,
+      "expl": "Croire qu'un objet protège par lui-même revient à lui prêter un pouvoir qui appartient à Allah ; le Prophète ﷺ a mis en garde contre les amulettes. La protection se demande à Allah : réciter al-Falaq et an-Nās, Āyat al-Kursī et les invocations du matin et du soir.",
+      "src": [
+        "Hadith d'Ibn Masʿūd — Abu Dawud",
+        "Coran 113:1-5"
+      ],
+      "note": "Les malikites autorisent la ruqya (récitation du Coran et d'invocations sur un malade). Porter sur soi des versets écrits est discuté : certains savants l'ont permis, d'autres l'ont déconseillé."
+    },
+    {
+      "id": "cro-t1-0121",
+      "concept": "cro.shirk.superstitions",
+      "domain": "croyance",
+      "sub": "shirk",
+      "tier": 1,
+      "type": "vf",
+      "q": "En islam, un chat noir, un chiffre ou un oiseau peut porter malheur.",
+      "answer": false,
+      "expl": "Faux : le Prophète ﷺ a dit : « Pas de contagion par elle-même, pas de mauvais présage (ṭiyara). » Les superstitions donnent aux choses un pouvoir qu'elles n'ont pas. Le Prophète ﷺ aimait au contraire le bon augure : une parole agréable entendue au bon moment.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "cro-t1-0122",
+      "concept": "cro.shirk.ne-pas-juger",
+      "domain": "croyance",
+      "sub": "shirk",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Face à un proche dont certaines pratiques te semblent contraires au tawḥīd, quelle attitude l'islam enseigne-t-il ?",
+      "choices": [
+        "Faire semblant d'approuver pour éviter le sujet",
+        "Expliquer avec douceur, laisser le jugement à Allah",
+        "Le traiter publiquement de mécréant",
+        "Rompre tout contact avec lui"
+      ],
+      "answer": 1,
+      "expl": "Le Coran demande d'appeler au chemin d'Allah « par la sagesse et la bonne exhortation ». On peut expliquer, mais juger le cœur des gens et les déclarer mécréants n'est pas notre rôle : beaucoup de pratiques viennent de l'ignorance ou de la coutume, et seul Allah connaît les cœurs.",
+      "src": [
+        "Coran 16:125"
+      ],
+      "tags": [
+        "sourate:16"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1111 @@
+{
+  "pack": "vivre-t2",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "viv-t2-0001",
+      "concept": "viv.conversion.certificat",
+      "domain": "vivre",
+      "sub": "conversion",
+      "tier": 2,
+      "type": "qcm",
+      "q": "À quoi sert un certificat de conversion délivré par une mosquée ?",
+      "choices": [
+        "Obtenir une réduction dans les magasins",
+        "Faire reconnaître sa conversion, pour un visa ou un mariage",
+        "Être dispensé de la prière du vendredi au travail",
+        "Recevoir un nouveau passeport"
+      ],
+      "answer": 1,
+      "expl": "Devant Allah, la shahāda sincère suffit. Mais certaines démarches demandent une preuve : le visa pour La Mecque, un mariage au Maroc devant les adouls, ou des funérailles musulmanes. Les grandes mosquées délivrent ce certificat après une shahāda devant témoins."
+    },
+    {
+      "id": "viv-t2-0002",
+      "concept": "viv.conversion.bedouin",
+      "domain": "vivre",
+      "sub": "conversion",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ réagit-il quand un Bédouin, nouveau venu, urina dans la mosquée ?",
+      "choices": [
+        "Il le punit sévèrement",
+        "Il ferma la mosquée",
+        "Il empêcha les Compagnons de le brusquer, fit verser de l'eau et lui expliqua avec douceur",
+        "Il le chassa"
+      ],
+      "answer": 2,
+      "expl": "Les Compagnons voulurent l'interrompre ; il dit : « Laissez-le », puis fit verser un seau d'eau et expliqua à l'homme que les mosquées ne sont pas faites pour cela. Il ajouta : « Vous avez été envoyés pour faciliter, non pour rendre difficile. » Un modèle d'accueil des nouveaux.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim",
+        "Hadith d'Abū Hurayra — Bukhari"
+      ],
+      "retired": true
+    },
+    {
+      "id": "viv-t2-0003",
+      "concept": "viv.premiers-pas.fatiha-apprendre",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle méthode est conseillée à un nouveau musulman pour apprendre la Fātiḥa ?",
+      "choices": [
+        "L'apprendre seul dans un livre, sans l'entendre",
+        "Attendre d'avoir appris l'arabe en entier",
+        "La lire une fois par semaine seulement",
+        "L'écouter, la répéter verset par verset, la faire vérifier"
+      ],
+      "answer": 3,
+      "expl": "On apprend la Fātiḥa par l'oreille : écouter un récitateur, répéter un verset à la fois, s'aider de la translittération, puis réciter à un proche ou à l'imam qui corrige. En quelques jours ou semaines, elle est acquise. En attendant, on prie avec ce qu'on sait."
+    },
+    {
+      "id": "viv-t2-0004",
+      "concept": "viv.premiers-pas.langue-dua",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "vf",
+      "q": "En dehors de la prière, on peut invoquer Allah et faire du dhikr dans sa propre langue.",
+      "answer": true,
+      "expl": "Allah comprend toutes les langues. Les invocations personnelles, la gratitude, les demandes peuvent se dire en français, en darija ou en toute autre langue. Seules les paroles obligatoires de la prière se disent en arabe."
+    },
+    {
+      "id": "viv-t2-0005",
+      "concept": "viv.premiers-pas.cours",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle aide un nouveau musulman peut-il chercher pour apprendre sa religion ?",
+      "choices": [
+        "Cours à la mosquée, enseignant de confiance, livres sérieux",
+        "Uniquement des vidéos trouvées au hasard",
+        "Aucune aide : il faut tout apprendre seul, en silence",
+        "Seulement des forums anonymes"
+      ],
+      "answer": 0,
+      "expl": "Beaucoup de mosquées proposent des cours d'initiation. Il est conseillé d'apprendre auprès de personnes de confiance, à l'enseignement équilibré, et de se méfier des discours qui jugent, font peur ou isolent de sa famille. Le Prophète ﷺ enseignait par étapes et avec douceur."
+    },
+    {
+      "id": "viv-t2-0006",
+      "concept": "viv.premiers-pas.tout-changer",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "vf",
+      "q": "Il est conseillé à un nouveau musulman de tout changer d'un coup dans sa vie (vêtements, amis, travail) dès le premier jour.",
+      "answer": false,
+      "expl": "Faux : on commence par l'essentiel (la foi, la prière), puis on avance par étapes, à son rythme. Les Compagnons ont été transformés en vingt-trois ans, pas en un jour. Couper brutalement avec sa famille ou ses amis n'est pas demandé ; au contraire, la bonté envers eux est une forme de daʿwa."
+    },
+    {
+      "id": "viv-t2-0007",
+      "concept": "viv.famille.funerailles",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Un musulman peut-il assister aux funérailles de ses parents non musulmans ?",
+      "choices": [
+        "Non, c'est strictement interdit",
+        "Oui, présent et consolant, sans autre rite",
+        "Oui, en participant à tous les rites",
+        "Seulement si l'enterrement est musulman"
+      ],
+      "answer": 1,
+      "expl": "La présence, le respect et la consolation sont permis et recommandés par bonté filiale. Le Prophète ﷺ obtint d'Allah la permission de visiter la tombe de sa mère, et y pleura. On ne fait pas la prière funéraire musulmane pour un non-musulman.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "viv-t2-0008",
+      "concept": "viv.famille.heritage",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "vf",
+      "q": "Selon le hadith, le musulman n'hérite pas du non-musulman, ni le non-musulman du musulman.",
+      "answer": true,
+      "expl": "« Le musulman n'hérite pas du mécréant, ni le mécréant du musulman. » Mais on peut faire des dons de son vivant, ou un legs (waṣiyya) dans la limite du tiers des biens, à un parent non musulman. En France, la loi civile s'applique par ailleurs à la succession.",
+      "src": [
+        "Hadith d'Usāma ibn Zayd — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "viv-t2-0009",
+      "concept": "viv.famille.repas",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment se comporter lors d'un repas familial où l'on sert du porc ou de l'alcool ?",
+      "choices": [
+        "Quitter la table immédiatement",
+        "Faire un sermon à toute la famille",
+        "Refuser poliment, sans faire la leçon",
+        "Manger quand même pour faire plaisir"
+      ],
+      "answer": 2,
+      "expl": "On peut prévenir à l'avance, apporter un plat, ou simplement se servir de ce qui est licite. La fermeté sur l'interdit se combine avec la douceur dans la manière. Beaucoup de familles s'adaptent quand elles voient le respect."
+    },
+    {
+      "id": "viv-t2-0010",
+      "concept": "viv.famille.enfants",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que recommande le Coran aux parents quant à l'éducation religieuse de leur famille ?",
+      "choices": [
+        "Laisser chacun découvrir seul plus tard",
+        "Imposer la religion par la force",
+        "Confier toute l'éducation à l'imam",
+        "Commander la prière, et y être constant soi-même"
+      ],
+      "answer": 3,
+      "expl": "« Et commande à ta famille la prière, et sois-y constant. » L'exemple compte plus que les discours : des enfants qui voient leurs parents prier avec joie apprennent naturellement. Le Prophète ﷺ recommandait de commencer à sept ans, avec douceur.",
+      "src": [
+        "Coran 20:132"
+      ],
+      "tags": [
+        "sourate:20"
+      ]
+    },
+    {
+      "id": "viv-t2-0011",
+      "concept": "viv.france.loi-2004",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que prévoit la loi française de 2004 sur les signes religieux ?",
+      "choices": [
+        "Pas de signes ostensibles pour les élèves du public",
+        "L'interdiction du voile dans la rue et partout",
+        "La fermeture des écoles privées",
+        "L'interdiction des fêtes religieuses"
+      ],
+      "answer": 0,
+      "expl": "La loi de 2004 interdit aux élèves des établissements publics du primaire et du secondaire de porter des signes manifestant ostensiblement une appartenance religieuse (voile, kippa, grande croix). Elle ne s'applique pas à l'université ni dans la rue."
+    },
+    {
+      "id": "viv-t2-0012",
+      "concept": "viv.france.cimetiere",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Où sont souvent enterrés les musulmans en France ?",
+      "choices": [
+        "Toujours dans le jardin familial",
+        "Dans des carrés musulmans, ou au pays d'origine",
+        "Dans le jardin des mosquées de chaque ville",
+        "Uniquement en Arabie saoudite"
+      ],
+      "answer": 1,
+      "expl": "Beaucoup de communes ont des carrés musulmans, où les tombes sont orientées vers la qibla. De nombreuses familles marocaines préfèrent rapatrier le corps au Maroc. L'incinération n'est pas permise en islam."
+    },
+    {
+      "id": "viv-t2-0013",
+      "concept": "viv.france.ramadan-annonce",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment est généralement annoncé le début de Ramadan en France ?",
+      "choices": [
+        "Par la mairie de chaque ville",
+        "Par un calendrier officiel fixé depuis 1905",
+        "Par les institutions, après la « nuit du doute »",
+        "Par l'ambassade d'Arabie saoudite"
+      ],
+      "answer": 2,
+      "expl": "La veille, lors de la « nuit du doute », la Grande Mosquée de Paris et d'autres instances annoncent le début du mois, en se fondant sur l'observation ou le calcul astronomique. Selon les mosquées, le début peut varier d'un jour : on suit généralement sa mosquée."
+    },
+    {
+      "id": "viv-t2-0014",
+      "concept": "viv.france.cfcm",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle instance représentative du culte musulman a été créée en France en 2003 ?",
+      "choices": [
+        "Le CNRS",
+        "La CNIL",
+        "Le CSA",
+        "Le CFCM"
+      ],
+      "answer": 3,
+      "expl": "Le CFCM, créé en 2003, devait être l'interlocuteur des pouvoirs publics pour les questions pratiques du culte (aumôneries, carrés musulmans, abattage). D'autres structures ont été mises en place ensuite. L'islam en France est très divers dans ses courants et ses origines."
+    },
+    {
+      "id": "viv-t2-0015",
+      "concept": "viv.france.aid-travail",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que peut faire un salarié musulman en France pour le jour de l'Aïd ?",
+      "choices": [
+        "Demander un congé à l'avance",
+        "Ne pas venir sans prévenir",
+        "Travailler deux fois plus la veille",
+        "Rien, c'est interdit"
+      ],
+      "answer": 0,
+      "expl": "L'Aïd n'est pas un jour férié en France, mais on peut poser un jour de congé. Une circulaire permet aussi aux agents publics de demander une autorisation d'absence pour les grandes fêtes religieuses, sous réserve des nécessités du service."
+    },
+    {
+      "id": "viv-t2-0016",
+      "concept": "viv.idees-recues.charia",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que signifie le mot « charia » (sharīʿa) ?",
+      "choices": [
+        "Uniquement le code pénal",
+        "La voie : les règles de vie islamiques",
+        "Un livre de lois écrit par un roi",
+        "Le nom d'une ville sainte"
+      ],
+      "answer": 1,
+      "expl": "Sharīʿa signifie au sens premier « la voie qui mène à la source d'eau ». Elle englobe l'adoration, la morale, la famille, le commerce. Réduire la charia aux peines, qui en sont une petite partie encadrée de nombreuses conditions, est une idée reçue.",
+      "src": [
+        "Coran 45:18"
+      ]
+    },
+    {
+      "id": "viv-t2-0017",
+      "concept": "viv.idees-recues.fatwa",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Qu'est-ce qu'une fatwa ?",
+      "choices": [
+        "Une déclaration de guerre",
+        "Une prière spéciale",
+        "Un avis juridique donné par un savant en réponse à une question",
+        "Une condamnation à mort"
+      ],
+      "answer": 2,
+      "expl": "Une fatwa est simplement une réponse savante à une question : « Puis-je prier dans le train ? », « Comment calculer ma zakat ? ». Elle n'a rien d'obligatoire pour qui suit un autre avis valable. Au Maroc, le Conseil supérieur des oulémas est chargé des fatwas officielles.",
+      "retired": true
+    },
+    {
+      "id": "viv-t2-0018",
+      "concept": "viv.idees-recues.adorer-muhammad",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "vf",
+      "q": "Les musulmans adorent Muḥammad ﷺ.",
+      "answer": false,
+      "expl": "Faux : les musulmans adorent Allah seul. Muḥammad ﷺ est Son serviteur et Son messager, aimé et respecté, mais jamais adoré. Le terme ancien « mahométan » est donc inexact. La shahāda le dit : « Muḥammad est le serviteur et le messager d'Allah. »",
+      "src": [
+        "Coran 3:144",
+        "Coran 18:110"
+      ]
+    },
+    {
+      "id": "viv-t2-0019",
+      "concept": "viv.idees-recues.science",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel est le premier mot révélé du Coran, souvent cité pour montrer l'importance du savoir en islam ?",
+      "choices": [
+        "« Ṣallū » : priez !",
+        "« Qātilū » : combattez !",
+        "« Ṣūmū » : jeûnez !",
+        "« Iqraʾ » : lis !"
+      ],
+      "answer": 3,
+      "expl": "Le premier mot révélé est « Lis ! », suivi de la mention du calame. Le Coran invite sans cesse à réfléchir, observer et raisonner. La civilisation musulmane a produit des siècles de recherche en mathématiques, médecine et astronomie.",
+      "src": [
+        "Coran 96:1-5"
+      ]
+    },
+    {
+      "id": "viv-t2-0020",
+      "concept": "viv.idees-recues.jesus",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "vf",
+      "q": "Les musulmans ne fêtent pas Noël parce qu'ils n'aiment pas Jésus.",
+      "answer": false,
+      "expl": "Faux : les musulmans aiment et respectent profondément ʿĪsā (Jésus), cité dans le Coran plus souvent que Muḥammad ﷺ par son nom. Ils ne célèbrent pas Noël parce que ses rites sont liés à la croyance en sa divinité, que l'islam ne partage pas."
+    },
+    {
+      "id": "viv-t2-0021",
+      "concept": "viv.autres-religions.funeraille-juif",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que fit le Prophète ﷺ quand passa devant lui le cortège funèbre d'un juif ?",
+      "choices": [
+        "Il se leva : « N'est-ce pas une âme ? »",
+        "Il détourna le regard",
+        "Il continua de parler à ses Compagnons",
+        "Il partit vers la mosquée"
+      ],
+      "answer": 0,
+      "expl": "On lui fit remarquer que c'était le convoi d'un juif ; il répondit : « N'est-ce pas une âme ? » Le respect de la dignité humaine dépasse les différences de religion.",
+      "src": [
+        "Hadith de Sahl ibn Ḥunayf — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "viv-t2-0022",
+      "concept": "viv.autres-religions.meilleure-maniere",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment le Coran demande-t-il de discuter avec les gens du Livre ?",
+      "choices": [
+        "En se moquant",
+        "De la meilleure manière",
+        "Avec violence",
+        "En refusant tout dialogue"
+      ],
+      "answer": 1,
+      "expl": "« Et ne discutez avec les gens du Livre que de la meilleure façon… et dites : nous croyons en ce qu'on a fait descendre vers nous et vers vous. » Le dialogue respectueux est une méthode coranique.",
+      "src": [
+        "Coran 29:46"
+      ],
+      "tags": [
+        "sourate:29"
+      ]
+    },
+    {
+      "id": "viv-t2-0023",
+      "concept": "viv.autres-religions.pas-pareils",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 2,
+      "type": "vf",
+      "q": "Le Coran affirme que les gens du Livre ne sont pas tous pareils, et qu'il y a parmi eux des gens droits qui prient la nuit.",
+      "answer": true,
+      "expl": "« Ils ne sont pas tous pareils. Parmi les gens du Livre, il y a une communauté droite qui récite les versets d'Allah aux heures de la nuit en se prosternant. » Le Coran refuse les généralisations.",
+      "src": [
+        "Coran 3:113-114"
+      ],
+      "tags": [
+        "sourate:3"
+      ]
+    },
+    {
+      "id": "viv-t2-0024",
+      "concept": "viv.autres-religions.juifs-maroc",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel rôle le sultan Mohammed V joua-t-il pour les Juifs marocains pendant la Seconde Guerre mondiale, selon la mémoire collective ?",
+      "choices": [
+        "Il les envoya tous en exil en Amérique",
+        "Il ne s'en occupa pas du tout",
+        "Il refusa de les livrer face aux lois de Vichy",
+        "Il les obligea à se convertir"
+      ],
+      "answer": 2,
+      "expl": "Sous le protectorat, le régime de Vichy imposa des lois antijuives. Mohammed V est resté dans la mémoire juive marocaine comme celui qui les protégea en affirmant qu'ils étaient ses sujets. Le Maroc a une très ancienne présence juive, avec les mellahs de Fès, Marrakech ou Essaouira."
+    },
+    {
+      "id": "viv-t2-0025",
+      "concept": "viv.autres-religions.insulter",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Coran à propos d'insulter les divinités des autres ?",
+      "choices": [
+        "Les insulter publiquement",
+        "Les détruire partout",
+        "Les ignorer totalement",
+        "Ne pas les insulter"
+      ],
+      "answer": 3,
+      "expl": "« N'injuriez pas ceux qu'ils invoquent en dehors d'Allah, car par agressivité ils injurieraient Allah sans savoir. » Respecter les croyances des autres, sans les partager, est une règle coranique.",
+      "src": [
+        "Coran 6:108"
+      ],
+      "tags": [
+        "sourate:6"
+      ]
+    },
+    {
+      "id": "viv-t2-0026",
+      "concept": "viv.foi-quotidien.sobh-protection",
+      "domain": "vivre",
+      "sub": "foi-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith de celui qui prie la prière de l'aube (Ṣubḥ) ?",
+      "choices": [
+        "Il est sous la protection d'Allah",
+        "Il peut dormir toute la journée",
+        "Il est dispensé des autres prières",
+        "Il devient riche"
+      ],
+      "answer": 0,
+      "expl": "« Celui qui prie le Ṣubḥ est sous la protection d'Allah. » Commencer la journée par la prière de l'aube, c'est la placer sous la garde d'Allah. Un bon réveil vaut mieux que bien des alarmes.",
+      "src": [
+        "Hadith de Jundub ibn ʿAbd Allāh — Muslim"
+      ]
+    },
+    {
+      "id": "viv-t2-0027",
+      "concept": "viv.foi-quotidien.temps",
+      "domain": "vivre",
+      "sub": "foi-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Selon le hadith, quels sont les deux bienfaits dont beaucoup de gens sont lésés ?",
+      "choices": [
+        "Le pouvoir et les voyages",
+        "La santé et le temps libre",
+        "L'argent et la célébrité",
+        "La beauté et la force"
+      ],
+      "answer": 1,
+      "expl": "« Il y a deux bienfaits dont beaucoup de gens sont lésés : la santé et le temps libre. » On ne mesure leur valeur que quand on les perd. Un peu de dhikr dans les transports ou cinq minutes de lecture transforment un temps perdu en temps gagné.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari"
+      ]
+    },
+    {
+      "id": "viv-t2-0028",
+      "concept": "viv.foi-quotidien.petite-action",
+      "domain": "vivre",
+      "sub": "foi-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos des petites bonnes actions ?",
+      "choices": [
+        "Les petites actions ne sont pas récompensées",
+        "Il faut attendre d'être riche pour faire le bien",
+        "Ne méprise aucune bonne action, ne serait-ce qu'accueillir ton frère avec un visage souriant",
+        "Seules les grandes actions comptent"
+      ],
+      "answer": 2,
+      "expl": "« Ne méprise en rien le bien, ne serait-ce que d'accueillir ton frère avec un visage avenant. » Un sourire, un message de soutien, un service rendu : la journée est pleine d'occasions.",
+      "src": [
+        "Hadith d'Abū Dharr — Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "viv-t2-0029",
+      "concept": "viv.foi-quotidien.coran-quotidien",
+      "domain": "vivre",
+      "sub": "foi-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle habitude simple aide à garder un lien quotidien avec le Coran ?",
+      "choices": [
+        "Tout le Coran en une nuit, une fois par an",
+        "Uniquement pendant le mois de Ramadan",
+        "Seulement à la mosquée le vendredi",
+        "Une petite portion chaque jour, avec la traduction"
+      ],
+      "answer": 3,
+      "expl": "Les actes les plus aimés d'Allah sont les plus réguliers, même peu nombreux. Quelques versets par jour, avec leur sens, nourrissent davantage qu'une lecture rapide et rare. Beaucoup lisent une page après le Ṣubḥ.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "viv-t2-0030",
+      "concept": "viv.conversion.tous-convertis",
+      "domain": "vivre",
+      "sub": "conversion",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel point commun avaient les premiers musulmans, comme Abū Bakr, Khadīja ou ʿUmar ?",
+      "choices": [
+        "Ils étaient tous de Médine",
+        "Ils étaient tous riches",
+        "Ils étaient tous des convertis",
+        "Ils parlaient tous persan"
+      ],
+      "answer": 2,
+      "expl": "Les plus grands Compagnons ont tous embrassé l'islam à l'âge adulte, après une vie dans l'idolâtrie. Être converti n'est pas être un musulman « de seconde zone » : c'est suivre le chemin des premiers."
+    },
+    {
+      "id": "viv-t2-0031",
+      "concept": "viv.conversion.culture",
+      "domain": "vivre",
+      "sub": "conversion",
+      "tier": 2,
+      "type": "vf",
+      "q": "Pour devenir musulman, il faut adopter la culture arabe ou marocaine.",
+      "answer": false,
+      "expl": "L'islam est universel : « Nous avons fait de vous des peuples et des tribus pour que vous vous connaissiez » (49:13). Salmān est resté perse, Bilāl abyssin, Ṣuhayb « le Romain ». On garde sa langue, sa culture et ses coutumes, tant qu'elles ne contredisent pas la foi.",
+      "src": [
+        "Coran 49:13"
+      ]
+    },
+    {
+      "id": "viv-t2-0032",
+      "concept": "viv.premiers-pas.mosquee-premiere",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quels conseils simples pour une première visite à la mosquée ?",
+      "choices": [
+        "Arriver en avance pour réserver sa place",
+        "Apporter un cadeau pour l'imam",
+        "Parler fort pour se présenter à tous",
+        "Ablutions, chaussures retirées, deux rak'at, calme"
+      ],
+      "answer": 3,
+      "expl": "On entre pied droit en invoquant, on range ses chaussures, on prie la salutation de la mosquée, et l'on n'hésite pas à dire qu'on est nouveau : les fidèles aiment aider. Le Prophète ﷺ accueillait avec patience ceux qui ne connaissaient pas encore les usages."
+    },
+    {
+      "id": "viv-t2-0033",
+      "concept": "viv.premiers-pas.waswas",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faire si l'on est assailli de doutes obsessionnels (« ai-je bien fait mes ablutions ? », « ma prière compte-t-elle ? ») ?",
+      "choices": [
+        "Les ignorer, sans recommencer",
+        "Recommencer chaque prière trois fois",
+        "Refaire ses ablutions à chaque doute",
+        "Consulter un imam avant chaque prière"
+      ],
+      "answer": 0,
+      "expl": "Ces doutes répétés (waswās) viennent de Satan pour décourager. Les savants conseillent de ne pas leur céder : celui qui a l'habitude de douter ne tient pas compte de son doute. « Allah veut pour vous la facilité » (2:185).",
+      "src": [
+        "Coran 2:185"
+      ]
+    },
+    {
+      "id": "viv-t2-0034",
+      "concept": "viv.premiers-pas.dhikr-simple",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Par quel dhikr simple un nouveau musulman peut-il commencer, avant même de tout savoir ?",
+      "choices": [
+        "Rien avant d'avoir étudié",
+        "« Subḥāna llāh, al-ḥamdu lillāh, lā ilāha illā llāh, Allāhu akbar »",
+        "Réciter tout le Coran",
+        "Apprendre les 99 Noms d'un coup"
+      ],
+      "answer": 1,
+      "expl": "Ces quatre paroles sont « les plus aimées d'Allah » (Muslim) et s'apprennent en une minute. Un peu de dhikr régulier vaut mieux que beaucoup en une fois.",
+      "src": [
+        "Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "viv-t2-0035",
+      "concept": "viv.famille.cadeau-noel",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Peut-on accepter un cadeau offert par sa famille non musulmane à Noël ?",
+      "choices": [
+        "Non, il faut le refuser fermement",
+        "Seulement s'il est cher",
+        "Oui : accepter un cadeau entretient les liens",
+        "Seulement s'il est halal et emballé"
+      ],
+      "answer": 2,
+      "expl": "Le Prophète ﷺ acceptait les cadeaux des non-musulmans, comme ceux du gouverneur d'Égypte (Bukhari). Accepter un présent, remercier, faire plaisir à ses proches, tout cela fait partie de la bonté demandée envers eux (60:8).",
+      "src": [
+        "Bukhari ; Coran 60:8"
+      ]
+    },
+    {
+      "id": "viv-t2-0036",
+      "concept": "viv.famille.mariage-civil",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "En France, que faut-il faire avant un mariage religieux musulman ?",
+      "choices": [
+        "Partir au Maroc pour se marier",
+        "Faire une fête de sept jours",
+        "Aller voir un notaire seulement",
+        "Se marier civilement à la mairie"
+      ],
+      "answer": 3,
+      "expl": "En France, le mariage religieux ne peut légalement pas précéder le mariage civil. Le mariage civil protège aussi juridiquement les époux, notamment l'épouse. Pour l'islam, l'essentiel du contrat (consentement, dot, tuteur, témoins) peut être réuni le même jour."
+    },
+    {
+      "id": "viv-t2-0037",
+      "concept": "viv.famille.belle-famille",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelle attitude adopter face à une belle-famille musulmane dont certaines coutumes ne sont pas religieuses ?",
+      "choices": [
+        "Distinguer religion et coutume, avec respect",
+        "Adopter toutes les coutumes sans question",
+        "Rejeter toutes leurs traditions",
+        "Éviter la belle-famille"
+      ],
+      "answer": 0,
+      "expl": "Beaucoup de pratiques familiales sont culturelles (cuisine, fêtes, façons de parler), d'autres religieuses. Les respecter avec affection renforce les liens, sans confondre la culture et la religion. On peut poser des questions avec humour et curiosité."
+    },
+    {
+      "id": "viv-t2-0038",
+      "concept": "viv.france.absences-fetes",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que prévoit la fonction publique en France pour les grandes fêtes religieuses comme l'Aïd ?",
+      "choices": [
+        "Un jour férié national pour tous",
+        "Des absences possibles, selon le service",
+        "Rien, c'est interdit",
+        "Un congé payé obligatoire d'une semaine"
+      ],
+      "answer": 1,
+      "expl": "Une circulaire permet d'accorder des autorisations d'absence pour les principales fêtes religieuses (Aïd al-Fiṭr, Aïd al-Aḍḥā, et d'autres pour chaque culte). Dans le privé, on peut poser un jour de congé : prévenir à l'avance aide beaucoup."
+    },
+    {
+      "id": "viv-t2-0039",
+      "concept": "viv.france.jumua-travail",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que faire si son travail empêche d'assister à la prière du vendredi ?",
+      "choices": [
+        "Quitter son travail immédiatement",
+        "Ne plus jamais prier le vendredi",
+        "Chercher un arrangement, sinon prier ẓuhr",
+        "Prier le vendredi au bureau en groupe"
+      ],
+      "answer": 2,
+      "expl": "La prière du vendredi est obligatoire pour l'homme qui le peut. On essaie de s'organiser (pause déjeuner, mosquée proche, télétravail). Si c'est vraiment impossible, on prie ẓuhr à la place, sans culpabiliser : « Allah n'impose à aucune âme plus que ce qu'elle peut » (2:286).",
+      "src": [
+        "Coran 2:286"
+      ]
+    },
+    {
+      "id": "viv-t2-0040",
+      "concept": "viv.idees-recues.tuer-ame",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le Coran de celui qui tue une personne innocente ?",
+      "choices": [
+        "« Il sera pardonné s'il paie une amende »",
+        "« C'est un péché léger »",
+        "« Cela dépend de sa religion »",
+        "« Comme s'il avait tué tous les hommes »"
+      ],
+      "answer": 3,
+      "expl": "« Quiconque tue une personne non coupable d'un meurtre ou d'une corruption sur la terre, c'est comme s'il avait tué tous les hommes ; et quiconque lui fait don de la vie, c'est comme s'il faisait don de la vie à tous les hommes » (5:32). Le terrorisme est une trahison de l'islam.",
+      "src": [
+        "Coran 5:32"
+      ]
+    },
+    {
+      "id": "viv-t2-0041",
+      "concept": "viv.idees-recues.allah-misericorde",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel attribut d'Allah ouvre 113 des 114 sourates du Coran ?",
+      "choices": [
+        "La miséricorde",
+        "La puissance",
+        "La justice",
+        "La science"
+      ],
+      "answer": 0,
+      "expl": "Toutes les sourates sauf at-Tawba commencent par la basmala, qui nomme deux fois la miséricorde. Le hadith qudsī dit : « Ma miséricorde précède Ma colère » (Bukhari). L'image d'un Dieu d'abord vengeur ne correspond pas au Coran.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "viv-t2-0042",
+      "concept": "viv.idees-recues.femmes-savantes",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quelles femmes ont marqué l'histoire du savoir en islam ?",
+      "choices": [
+        "Cléopâtre et Néfertiti",
+        "ʿĀʾisha, et Fāṭima al-Fihriyya",
+        "Jeanne d'Arc et Marie Curie",
+        "Aucune femme"
+      ],
+      "answer": 1,
+      "expl": "ʿĀʾisha a transmis plus de 2 000 hadiths et corrigeait les Compagnons ; Fāṭima al-Fihriyya fonda à Fès en 859 la plus ancienne université encore en activité. Des milliers de femmes savantes sont répertoriées dans les dictionnaires biographiques."
+    },
+    {
+      "id": "viv-t2-0043",
+      "concept": "viv.autres-religions.najran",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que fit le Prophète ﷺ quand une délégation chrétienne de Najrān vint à Médine et voulut prier ?",
+      "choices": [
+        "Il les obligea à se convertir",
+        "Il refusa de les recevoir",
+        "Il les laissa prier dans sa mosquée",
+        "Il les fit sortir de la ville"
+      ],
+      "answer": 2,
+      "expl": "Selon Ibn Isḥāq, les chrétiens de Najrān prièrent dans la mosquée du Prophète ﷺ, tournés vers l'est, et il dit : « Laissez-les. » Ils débattirent ensuite de ʿĪsā, dans le respect.",
+      "src": [
+        "Ibn Isḥāq (sīra)"
+      ]
+    },
+    {
+      "id": "viv-t2-0044",
+      "concept": "viv.autres-religions.umar-eglise",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Pourquoi le calife ʿUmar refusa-t-il de prier dans l'église du Saint-Sépulcre à Jérusalem ?",
+      "choices": [
+        "Parce qu'il n'aimait pas les chrétiens",
+        "Parce que l'église était fermée",
+        "Parce qu'il était pressé de partir",
+        "Pour qu'on n'en fasse pas une mosquée plus tard"
+      ],
+      "answer": 3,
+      "expl": "Invité par le patriarche Sophrone à prier dans l'église, ʿUmar préféra prier à l'extérieur, craignant que les musulmans ne s'en emparent en disant : « ʿUmar a prié ici. » Une mosquée porte aujourd'hui son nom à cet endroit. Il garantit aussi aux chrétiens la sécurité de leurs églises."
+    },
+    {
+      "id": "viv-t2-0045",
+      "concept": "viv.foi-quotidien.sport-intention",
+      "domain": "vivre",
+      "sub": "foi-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Le sport ou le travail peuvent-ils devenir une adoration ?",
+      "choices": [
+        "Oui, avec une bonne intention",
+        "Non, seule la prière compte",
+        "Seulement le vendredi",
+        "Seulement pour les imams"
+      ],
+      "answer": 0,
+      "expl": "« Les actes ne valent que par les intentions. » Le Prophète ﷺ dit même : « Votre corps a un droit sur vous » (Bukhari). Courir pour être en forme, travailler pour nourrir les siens : tout cela peut être récompensé.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "viv-t2-0046",
+      "concept": "viv.foi-quotidien.telephone",
+      "domain": "vivre",
+      "sub": "foi-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel conseil la Sunna donne-t-elle pour garder la foi vivante dans une vie très connectée ?",
+      "choices": [
+        "Jeter son téléphone à la poubelle",
+        "Préserver des moments sans distraction",
+        "Ne jamais utiliser Internet",
+        "Regarder tout ce qui passe"
+      ],
+      "answer": 1,
+      "expl": "« Fait partie du bon islam de la personne le fait de délaisser ce qui ne la regarde pas » (Tirmidhi). Le temps est une richesse dont on rendra compte. On peut utiliser son téléphone pour le bien : cette app en est un exemple.",
+      "src": [
+        "Tirmidhi"
+      ]
+    },
+    {
+      "id": "viv-t2-0047",
+      "concept": "viv.premiers-pas.fiche-annee1",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "fiche",
+      "q": "La première année de musulman",
+      "points": [
+        "Mois 1-3 : shahāda, ablutions, prière avec la Fātiḥa",
+        "Mois 3-6 : les cinq prières régulières, quelques sourates courtes",
+        "Premier Ramadan : jeûner à son rythme, demander conseil",
+        "Toute l'année : un ami musulman, un cours, de la douceur envers soi",
+        "Toujours : la bonté envers sa famille, quelle que soit sa religion"
+      ],
+      "expl": "Personne ne devient un « musulman parfait » en un jour. Les Compagnons ont appris pendant des années, verset après verset."
+    },
+    {
+      "id": "viv-t2-0048",
+      "concept": "viv.premiers-pas.premier-ramadan",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Quel conseil donner à quelqu'un pour son premier Ramadan ?",
+      "choices": [
+        "Suḥūr, eau la nuit, sans viser la perfection",
+        "Jeûner sans suḥūr pour plus de mérite",
+        "Ne pas dormir de tout le mois",
+        "Faire un régime strict en plus"
+      ],
+      "answer": 0,
+      "expl": "Le suḥūr est une bénédiction (Bukhari). Le malade est dispensé et rattrape ; celui qui rompt par oubli continue son jeûne. Le premier Ramadan est un apprentissage : l'essentiel est la sincérité et la régularité.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "viv-t2-0049",
+      "concept": "viv.premiers-pas.erreur-priere",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Une erreur de débutant dans la prière (oublier une phrase, hésiter) la rend-elle nulle ?",
+      "choices": [
+        "Oui, il faut tout recommencer",
+        "Non, le plus souvent : on continue",
+        "Oui, il faut refaire ses ablutions",
+        "Oui, et la journée est perdue"
+      ],
+      "answer": 1,
+      "expl": "Le Prophète ﷺ lui-même s'est trompé dans le nombre d'unités, puis a fait la prosternation de l'oubli (Bukhari). Seul l'oubli d'un pilier demande de le rattraper. Mieux vaut une prière imparfaite qu'une prière abandonnée.",
+      "src": [
+        "Bukhari et Muslim"
+      ]
+    },
+    {
+      "id": "viv-t2-0050",
+      "concept": "viv.premiers-pas.sources-fiables",
+      "domain": "vivre",
+      "sub": "premiers-pas",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Où apprendre sa religion de façon fiable quand on débute ?",
+      "choices": [
+        "Sur des vidéos au hasard",
+        "Sur les réseaux sociaux, au fil des vidéos",
+        "Auprès d'imams reconnus et de livres sérieux",
+        "Seul, sans aucun guide"
+      ],
+      "answer": 2,
+      "expl": "Ibn Sīrīn disait : « Cette science est une religion : regardez bien de qui vous prenez votre religion » (Muslim, introduction). Des cours en mosquée, un enseignant de confiance et des ouvrages reconnus protègent des avis extrêmes.",
+      "src": [
+        "Muslim, introduction"
+      ]
+    },
+    {
+      "id": "viv-t2-0051",
+      "concept": "viv.famille.parent-malade",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Peut-on rendre visite à un proche non musulman malade ?",
+      "choices": [
+        "Non, c'est interdit",
+        "Seulement s'il est mourant, et en silence",
+        "Seulement à l'hôpital",
+        "Oui : le Prophète ﷺ visita un garçon juif"
+      ],
+      "answer": 3,
+      "expl": "Un jeune garçon juif qui le servait tomba malade ; le Prophète ﷺ alla le voir (Bukhari). La visite aux malades est un acte de bonté universel, a fortiori envers ses parents.",
+      "src": [
+        "Bukhari"
+      ]
+    },
+    {
+      "id": "viv-t2-0052",
+      "concept": "viv.famille.repas-fetes",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Peut-on participer au repas familial de Noël quand on est musulman ?",
+      "choices": [
+        "Beaucoup l'admettent, sans alcool, porc ni rites",
+        "Non, jamais, c'est interdit par tous",
+        "Oui, en participant à tout",
+        "Seulement si le repas est au Maroc"
+      ],
+      "answer": 0,
+      "expl": "La bonté envers les parents est un ordre (31:15 ; 60:8). Partager un moment familial n'est pas adopter les croyances d'une fête. Les avis divergent ; beaucoup conseillent d'être présent, avec ses limites, et d'inviter aussi sa famille pour l'Aïd.",
+      "note": "Certains savants déconseillent toute participation aux fêtes religieuses d'autres cultes."
+    },
+    {
+      "id": "viv-t2-0053",
+      "concept": "viv.idees-recues.versets-guerre",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment comprendre les versets du Coran qui parlent de combat ?",
+      "choices": [
+        "Ils s'appliquent partout et toujours",
+        "Dans leur contexte défensif, avec des limites",
+        "Ils n'existent pas dans le Coran",
+        "Ils sont abrogés par la laïcité"
+      ],
+      "answer": 1,
+      "expl": "« Combattez dans le chemin d'Allah ceux qui vous combattent, et ne transgressez pas. Allah n'aime pas les transgresseurs » (2:190). Les versets de guerre visent des agresseurs précis, et la paix est préférée : « S'ils inclinent vers la paix, incline vers elle » (8:61).",
+      "src": [
+        "Coran 2:190 ; 8:61"
+      ]
+    },
+    {
+      "id": "viv-t2-0054",
+      "concept": "viv.idees-recues.diversite",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Dans quel pays vit la plus grande population musulmane au monde ?",
+      "choices": [
+        "L'Égypte",
+        "Le Maroc",
+        "L'Indonésie",
+        "L'Arabie saoudite"
+      ],
+      "answer": 2,
+      "expl": "L'Indonésie compte environ 240 millions de musulmans. Seuls environ 20 % des musulmans du monde sont arabes ; les plus grandes communautés vivent en Asie (Indonésie, Pakistan, Inde, Bangladesh)."
+    },
+    {
+      "id": "viv-t2-0055",
+      "concept": "viv.autres-religions.bonte",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que dit le verset 60:8 à propos des non-musulmans qui ne combattent pas les musulmans ?",
+      "choices": [
+        "Il faut les éviter",
+        "Il faut les combattre",
+        "Il faut les ignorer",
+        "« Allah ne vous défend pas d'être bons et justes envers eux »"
+      ],
+      "answer": 3,
+      "expl": "« Allah ne vous défend pas d'être bienfaisants et équitables envers ceux qui ne vous ont pas combattus pour la religion et ne vous ont pas chassés de vos demeures. Allah aime les équitables » (60:8). Collègues, voisins, amis, famille : la bonté est la règle.",
+      "src": [
+        "Coran 60:8"
+      ],
+      "retired": true
+    },
+    {
+      "id": "viv-t2-0056",
+      "concept": "viv.foi-quotidien.couple-priere",
+      "domain": "vivre",
+      "sub": "foi-quotidien",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Que recommande la Sunna au couple qui veut grandir ensemble dans la foi ?",
+      "choices": [
+        "Se réveiller pour prier, apprendre ensemble",
+        "Prier chacun de son côté sans parler",
+        "Laisser l'un décider pour l'autre",
+        "Attendre d'avoir des enfants"
+      ],
+      "answer": 0,
+      "expl": "« Qu'Allah fasse miséricorde à un homme qui se lève la nuit pour prier et réveille sa femme… et à une femme qui se lève la nuit et réveille son mari » (Abū Dāwūd). Le couple est une équipe : ni juge ni maître, mais compagnon de route.",
+      "src": [
+        "Abū Dāwūd (ḥasan)"
+      ]
+    },
+    {
+      "id": "viv-t2-0057",
+      "concept": "viv.conversion.age",
+      "domain": "vivre",
+      "sub": "conversion",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Y a-t-il un âge limite pour embrasser l'islam ?",
+      "choices": [
+        "Oui, avant quarante ans",
+        "Non : à tout âge, péchés effacés",
+        "Oui, avant le mariage",
+        "Oui, avant la retraite"
+      ],
+      "answer": 1,
+      "expl": "Des Compagnons se convertirent très âgés, comme Abū Quḥāfa, le père d'Abū Bakr, le jour de la conquête de La Mecque. Tant que la vie continue, la porte reste ouverte."
+    },
+    {
+      "id": "viv-t2-0058",
+      "concept": "viv.france.dons-zakat",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment verser sa zakāt quand on vit en France ?",
+      "choices": [
+        "À l'État français, en même temps que les impôts",
+        "À la mosquée pour la décoration",
+        "À des personnes dans le besoin ou des associations sérieuses",
+        "À sa propre famille, parents et enfants"
+      ],
+      "answer": 2,
+      "expl": "La zakāt va aux huit catégories citées par le Coran (9:60) : pauvres, nécessiteux, endettés, voyageurs en détresse… On peut la donner soi-même à des proches éloignés ou voisins dans le besoin, ou passer par une association de confiance.",
+      "src": [
+        "Coran 9:60"
+      ]
+    },
+    {
+      "id": "viv-t2-0059",
+      "concept": "viv.famille.enfants-deux-cultures",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 2,
+      "type": "qcm",
+      "q": "Comment aider des enfants qui grandissent entre deux cultures, française et marocaine ?",
+      "choices": [
+        "Choisir une seule culture",
+        "Interdire le français à la maison",
+        "Éviter de parler de religion",
+        "Valoriser les deux héritages, avec amour"
+      ],
+      "answer": 3,
+      "expl": "Deux cultures sont une richesse : langues, fêtes, cuisine, familles. La foi se transmet d'abord par l'exemple et la tendresse : « Celui qui n'est pas miséricordieux envers nos petits n'est pas des nôtres » (Tirmidhi).",
+      "src": [
+        "Tirmidhi"
+      ]
+    },
+    {
+      "id": "viv-t2-0060",
+      "concept": "viv.idees-recues.fatalisme",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 2,
+      "type": "qcm",
+      "q": "L'islam pousse-t-il au fatalisme (« c'est écrit, donc je ne fais rien ») ?",
+      "choices": [
+        "Non : « Attache ta chamelle, puis place ta confiance en Allah »",
+        "Oui, il faut tout laisser au destin",
+        "Oui, l'effort est inutile",
+        "Seulement pour la santé"
+      ],
+      "answer": 0,
+      "expl": "Un bédouin demanda s'il devait laisser sa chamelle libre en faisant confiance à Allah. « Attache-la, et place ta confiance en Allah » (Tirmidhi). La confiance en Allah va avec l'effort, le travail et les soins médicaux.",
+      "src": [
+        "Tirmidhi"
+      ],
+      "retired": true
+    }
+  ]
+}

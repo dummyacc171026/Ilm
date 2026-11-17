@@ -1,0 +1,1091 @@
+{
+  "pack": "spiritualite-t1",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "spi-t1-0001",
+      "concept": "spi.repentir.conditions",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Lequel de ces éléments n'est PAS une condition du repentir sincère (tawba) pour un péché envers Allah ?",
+      "choices": [
+        "Raconter son péché publiquement",
+        "Regretter sincèrement",
+        "Arrêter le péché",
+        "Être résolu à ne pas recommencer"
+      ],
+      "answer": 0,
+      "expl": "Les savants donnent trois conditions : regretter, arrêter, et se promettre de ne pas recommencer. Si le péché concerne les droits d'une personne, on ajoute une quatrième : réparer ou demander pardon. Au contraire, il ne faut pas exposer ses péchés : Allah aime cacher les fautes de Ses serviteurs, et le repentir est un secret entre Lui et nous.",
+      "src": [
+        "An-Nawawī, Riyāḍ aṣ-ṣāliḥīn",
+        "Hadith d'Abū Hurayra (ne pas exposer ses fautes) — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "التَّوْبَة",
+        "tr": "at-tawba",
+        "fr": "le repentir, le retour vers Allah",
+        "pr": "at-taw-ba"
+      }
+    },
+    {
+      "id": "spi-t1-0002",
+      "concept": "spi.repentir.ne-pas-desesperer",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "trou",
+      "q": "Allah dit : « Ô Mes serviteurs qui avez commis des excès à votre propre détriment, ne désespérez pas de la ___ d'Allah. »",
+      "choices": [
+        "miséricorde",
+        "justice",
+        "puissance",
+        "colère"
+      ],
+      "answer": 0,
+      "expl": "Le verset continue : « Allah pardonne tous les péchés. C'est Lui le Pardonneur, le Très Miséricordieux. » Pour beaucoup de savants, c'est le verset le plus porteur d'espoir du Coran : aucune faute n'est trop grande pour celui qui revient sincèrement vers Allah.",
+      "src": [
+        "Coran 39:53"
+      ],
+      "ar": {
+        "text": "لَا تَقْنَطُوا مِنْ رَحْمَةِ اللّٰهِ",
+        "tr": "lā taqnaṭū min raḥmati Allāh",
+        "fr": "ne désespérez pas de la miséricorde d'Allah",
+        "pr": "lâ taq-na-toû min rah-ma-til-lâh"
+      },
+      "tags": [
+        "sourate:39"
+      ]
+    },
+    {
+      "id": "spi-t1-0003",
+      "concept": "spi.intention.coeurs",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon un hadith, Allah ne regarde ni vos corps ni vos apparences, mais Il regarde vos cœurs et vos actes.",
+      "answer": true,
+      "expl": "Ce hadith rappelle que ce qui compte auprès d'Allah, ce n'est pas l'apparence, la richesse ou l'origine, mais la sincérité du cœur et les actes. Un même vêtement, une même prière peuvent avoir une valeur très différente selon ce qu'il y a dans le cœur.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0004",
+      "concept": "spi.vertus.tawakkul",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le tawakkul ?",
+      "choices": [
+        "Se fier à Allah tout en faisant des efforts",
+        "Ne rien faire et attendre qu'Allah agisse",
+        "Compter seulement sur ses propres forces",
+        "Demander aux gens de tout faire pour soi"
+      ],
+      "answer": 0,
+      "expl": "Un homme demanda au Prophète ﷺ s'il devait laisser sa chamelle libre en comptant sur Allah. Il répondit : « Attache-la, et place ta confiance en Allah. » Le tawakkul, c'est agir de son mieux, puis s'en remettre à Allah pour le résultat, le cœur apaisé.",
+      "src": [
+        "Hadith d'Anas — Tirmidhi (ḥasan)",
+        "Coran 65:3"
+      ],
+      "ar": {
+        "text": "التَّوَكُّل",
+        "tr": "at-tawakkul",
+        "fr": "la confiance en Allah",
+        "pr": "at-ta-wak-koul"
+      }
+    },
+    {
+      "id": "spi-t1-0005",
+      "concept": "spi.tasawwuf.trois-piliers-maroc",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 1,
+      "type": "trou",
+      "q": "Dans son célèbre poème, Ibn ʿĀshir résume la tradition religieuse marocaine : la croyance d'al-Ashʿarī, le fiqh de Mālik, et la voie spirituelle d'___.",
+      "choices": [
+        "al-Junayd",
+        "al-Ghazālī",
+        "al-Bukhārī",
+        "Ibn Rushd"
+      ],
+      "answer": 0,
+      "expl": "Ibn ʿĀshir (mort en 1631 à Fès) écrit dans al-Murshid al-Muʿīn : « Fī ʿaqdi l-Ashʿarī wa fiqhi Mālik, wa fī ṭarīqati l-Junaydi s-sālik. » Al-Junayd de Bagdad (mort en 910) incarne un soufisme sobre, entièrement attaché au Coran et à la Sunna. Ces trois repères — croyance, pratique, spiritualité — correspondent à l'islam, l'īmān et l'iḥsān du hadith de Jibrīl.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ],
+      "extra": "Al-Junayd disait : « Notre voie est liée au Coran et à la Sunna. »"
+    },
+    {
+      "id": "spi-t1-0006",
+      "concept": "spi.intention.ikhlas",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie l'ikhlāṣ (sincérité) dans l'adoration ?",
+      "choices": [
+        "Agir pour être admiré",
+        "Agir sans réfléchir",
+        "Agir pour Allah seul",
+        "Agir seulement en public"
+      ],
+      "answer": 2,
+      "expl": "L'ikhlāṣ (ikh-lâs), c'est purifier son intention pour qu'elle soit tournée vers Allah seul. « Il ne leur a été commandé que d'adorer Allah, en Lui vouant un culte sincère. » La sourate 112 porte ce nom, car elle exprime la pureté du tawḥīd.",
+      "src": [
+        "Coran 98:5"
+      ],
+      "ar": {
+        "text": "الْإِخْلَاص",
+        "tr": "al-ikhlāṣ",
+        "pr": "al-ikh-lâs",
+        "fr": "la sincérité"
+      }
+    },
+    {
+      "id": "spi-t1-0007",
+      "concept": "spi.intention.intention-bien",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le hadith, que se passe-t-il quand quelqu'un a l'intention de faire une bonne action mais ne la fait pas ?",
+      "choices": [
+        "Rien n'est inscrit",
+        "Une mauvaise action lui est inscrite",
+        "Il doit se repentir",
+        "Une bonne action complète lui est inscrite"
+      ],
+      "answer": 3,
+      "expl": "« Celui qui a l'intention d'une bonne action et ne la fait pas, Allah la lui inscrit comme une bonne action complète ; s'il la fait, Il l'inscrit de dix à sept cents fois et plus. » Et pour une mauvaise intention non réalisée, rien n'est compté contre lui. Quelle générosité !",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0008",
+      "concept": "spi.intention.riya",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment appelle-t-on le fait d'accomplir une adoration pour être vu et admiré des gens ?",
+      "choices": [
+        "Le riyāʾ",
+        "Le ṣabr",
+        "Le dhikr",
+        "Le zuhd"
+      ],
+      "answer": 0,
+      "expl": "Le riyāʾ (ri-yâʾ) consiste à prier, donner ou jeûner pour l'image qu'on renvoie. Le Prophète ﷺ l'a appelé « le petit shirk », car on y associe le regard des gens à celui d'Allah. Le remède : cacher certaines bonnes actions, et renouveler son intention.",
+      "src": [
+        "Hadith de Maḥmūd ibn Labīd — Ahmad"
+      ],
+      "ar": {
+        "text": "الرِّيَاء",
+        "tr": "ar-riyāʾ",
+        "pr": "ar-ri-yâʾ",
+        "fr": "l'ostentation"
+      }
+    },
+    {
+      "id": "spi-t1-0009",
+      "concept": "spi.intention.renouveler",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 1,
+      "type": "vf",
+      "q": "Si une pensée d'ostentation traverse l'esprit pendant une bonne action, on ne doit pas abandonner l'action, mais corriger son intention.",
+      "answer": true,
+      "expl": "Les savants conseillent de ne pas laisser le Shayṭān nous faire abandonner le bien sous prétexte de risque d'ostentation. On continue l'action et on rectifie son intention pour Allah. Al-Fuḍayl ibn ʿIyāḍ disait : délaisser une action à cause des gens, c'est aussi de l'ostentation."
+    },
+    {
+      "id": "spi-t1-0010",
+      "concept": "spi.repentir.chameau",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "qcm",
+      "q": "À quoi le Prophète ﷺ a-t-il comparé la joie d'Allah devant le repentir de Son serviteur ?",
+      "choices": [
+        "Un roi qui gagne une grande bataille",
+        "Un voyageur qui retrouve sa chamelle perdue",
+        "Un marchand qui fait fortune",
+        "Un père dont le fils rentre de voyage"
+      ],
+      "answer": 1,
+      "expl": "Un homme perd sa chamelle, portant son eau et sa nourriture, dans le désert ; désespéré, il s'endort, puis la retrouve à son réveil. Fou de joie, il s'écrie : « Ô Allah, Tu es mon serviteur et je suis Ton seigneur ! » Allah se réjouit encore plus du retour de Son serviteur.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0011",
+      "concept": "spi.repentir.meilleurs",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le hadith, qui sont les meilleurs parmi ceux qui commettent des fautes ?",
+      "choices": [
+        "Ceux qui ne regrettent rien",
+        "Ceux qui se comparent aux pires",
+        "Ceux qui se repentent",
+        "Ceux qui cachent leurs fautes aux autres"
+      ],
+      "answer": 2,
+      "expl": "« Tous les fils d'Adam commettent des fautes, et les meilleurs de ceux qui commettent des fautes sont ceux qui se repentent. » Personne n'est parfait ; la grandeur est de revenir, encore et encore.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Tirmidhi"
+      ]
+    },
+    {
+      "id": "spi-t1-0012",
+      "concept": "spi.repentir.cent",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon un hadith, un homme qui avait tué cent personnes fut pardonné par Allah parce qu'il était sincèrement parti vers une terre de gens vertueux pour se repentir.",
+      "answer": true,
+      "expl": "Il mourut en chemin ; les anges de la miséricorde et ceux du châtiment se disputèrent son âme. On mesura la distance, et il était plus proche de la terre des gens de bien : Allah lui pardonna. Aucun péché n'est trop grand pour le repentir sincère.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0013",
+      "concept": "spi.repentir.istighfar-prophete",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Combien de fois par jour le Prophète ﷺ disait-il demander pardon à Allah, selon le hadith ?",
+      "choices": [
+        "Une seule fois",
+        "Trois fois",
+        "Mille fois, du matin au soir",
+        "Plus de soixante-dix fois"
+      ],
+      "answer": 3,
+      "expl": "« Par Allah, je demande pardon à Allah et je me repens à Lui plus de soixante-dix fois par jour. » Lui, le meilleur des hommes, le faisait par humilité et gratitude ; à plus forte raison nous. « Astaghfiru Llāh wa atūbu ilayh » est une habitude facile.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari",
+        "Hadith d'al-Agharr al-Muzanī — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0014",
+      "concept": "spi.repentir.main-tendue",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le hadith, Allah tend Sa main la nuit pour que se repente celui qui a fauté le jour, et le jour pour celui qui a fauté la nuit.",
+      "answer": true,
+      "expl": "« Allah tend Sa main la nuit pour que se repente le pécheur du jour, et Il tend Sa main le jour pour que se repente le pécheur de la nuit, jusqu'à ce que le soleil se lève de son couchant. » La porte est toujours ouverte.",
+      "src": [
+        "Hadith d'Abū Mūsā al-Ashʿarī — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0015",
+      "concept": "spi.vertus.trois-sabr",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "multi",
+      "q": "Selon la classification des savants, quels sont les trois types de patience (ṣabr) ?",
+      "choices": [
+        "La patience dans l'obéissance à Allah",
+        "La patience pour s'abstenir des péchés",
+        "La patience pour se venger",
+        "La patience face aux épreuves",
+        "La patience pour devenir riche"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Les savants distinguent la patience pour accomplir les adorations (se lever pour le Ṣubḥ), la patience pour résister aux tentations, et la patience devant les épreuves (maladie, deuil). « Les patients recevront leur pleine récompense, sans compter. »",
+      "src": [
+        "Coran 39:10"
+      ]
+    },
+    {
+      "id": "spi-t1-0016",
+      "concept": "spi.vertus.premier-choc",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le hadith, à quel moment la vraie patience se montre-t-elle ?",
+      "choices": [
+        "Au premier choc",
+        "Une semaine après l'épreuve",
+        "Quand tout est oublié",
+        "Quand les gens nous regardent"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ passa près d'une femme qui pleurait sur une tombe et lui conseilla la patience ; elle le repoussa sans le reconnaître. Quand elle vint s'excuser, il dit : « La patience, c'est au premier choc. » La réaction immédiate révèle la foi.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0017",
+      "concept": "spi.vertus.shukr",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Si vous êtes reconnaissants, très certainement J'___ pour vous. »",
+      "choices": [
+        "changerai",
+        "augmenterai",
+        "diminuerai",
+        "oublierai"
+      ],
+      "answer": 1,
+      "expl": "« La-in shakartum la-azīdannakum » : la gratitude attire davantage de bienfaits. Le shukr se vit par le cœur (reconnaître), la langue (dire al-ḥamdu li-Llāh) et les actes (utiliser les bienfaits dans le bien).",
+      "src": [
+        "Coran 14:7"
+      ],
+      "ar": {
+        "text": "لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+        "tr": "la-in shakartum la-azīdannakum",
+        "pr": "la-ʾin cha-kar-toum la-ʾa-zî-dan-na-koum",
+        "fr": "si vous êtes reconnaissants, J'augmenterai pour vous"
+      },
+      "tags": [
+        "sourate:14"
+      ]
+    },
+    {
+      "id": "spi-t1-0018",
+      "concept": "spi.vertus.rida",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le hadith, qui a goûté la saveur de la foi ?",
+      "choices": [
+        "Celui qui a fait le pèlerinage dix fois",
+        "Celui qui connaît le Coran par cœur",
+        "Celui qui agrée Allah, l'islam et Muḥammad ﷺ",
+        "Celui qui jeûne toute l'année"
+      ],
+      "answer": 2,
+      "expl": "Ce hadith décrit le riḍā (ri-dâ), la satisfaction intérieure envers Allah et Ses choix. Ce n'est pas l'absence de tristesse, mais la confiance profonde que ce qu'Allah décide est sage, même quand on ne le comprend pas.",
+      "src": [
+        "Hadith d'al-ʿAbbās ibn ʿAbd al-Muṭṭalib — Muslim"
+      ],
+      "ar": {
+        "text": "الرِّضَا",
+        "tr": "ar-riḍā",
+        "pr": "ar-ri-dâ",
+        "fr": "la satisfaction"
+      }
+    },
+    {
+      "id": "spi-t1-0019",
+      "concept": "spi.vertus.khawf-raja",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "À quoi les savants comparent-ils souvent la crainte (khawf) et l'espoir (rajāʾ) dans le cœur du croyant ?",
+      "choices": [
+        "Aux deux roues d'un char",
+        "Aux deux yeux du visage",
+        "Aux deux rives d'un fleuve",
+        "Aux deux ailes d'un oiseau"
+      ],
+      "answer": 3,
+      "expl": "Trop de crainte mène au désespoir, trop d'espoir à la négligence. Le croyant vole entre les deux, porté par l'amour d'Allah. Allah dit dans un hadith qudsī : « Je suis tel que Mon serviteur pense de Moi. » Bien penser d'Allah est essentiel.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0020",
+      "concept": "spi.vertus.croyant-etonnant",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le hadith, l'affaire du croyant est étonnante : tout est bien pour lui, dans la joie comme dans l'épreuve.",
+      "answer": true,
+      "expl": "« L'affaire du croyant est étonnante ! Tout ce qui lui arrive est un bien pour lui… S'il lui arrive un bonheur, il remercie, et c'est un bien ; s'il lui arrive un malheur, il patiente, et c'est un bien. » Gratitude et patience transforment chaque situation.",
+      "src": [
+        "Hadith de Ṣuhayb ar-Rūmī — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0021",
+      "concept": "spi.maladies-coeur.avarice",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Contre quel défaut le Prophète ﷺ a-t-il mis en garde en disant qu'il avait perdu les peuples précédents ?",
+      "choices": [
+        "L'avarice",
+        "La paresse",
+        "La colère",
+        "La gourmandise"
+      ],
+      "answer": 0,
+      "expl": "« Préservez-vous de l'avarice, car elle a fait périr ceux qui étaient avant vous : elle les a poussés à verser le sang et à violer ce qui leur était sacré. » Le remède est de donner régulièrement, même peu : la générosité guérit le cœur attaché aux biens.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim",
+        "Coran 59:9"
+      ]
+    },
+    {
+      "id": "spi-t1-0022",
+      "concept": "spi.maladies-coeur.jalousie-remede",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quel conseil du Prophète ﷺ aide à lutter contre la jalousie et l'insatisfaction ?",
+      "choices": [
+        "Regarder ceux qui ont plus que soi",
+        "Regarder ceux qui ont moins que soi",
+        "Ne regarder personne du tout",
+        "Tout comparer avec ses voisins"
+      ],
+      "answer": 1,
+      "expl": "« Regardez ceux qui sont en dessous de vous, et ne regardez pas ceux qui sont au-dessus : c'est plus à même de vous éviter de mépriser les bienfaits d'Allah. » Une vraie médecine contre la comparaison permanente des réseaux sociaux.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0023",
+      "concept": "spi.maladies-coeur.hasad",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Qu'est-ce que le ḥasad (la jalousie blâmable) ?",
+      "choices": [
+        "Admirer quelqu'un",
+        "Remercier Allah pour ses bienfaits",
+        "Souhaiter que l'autre perde le bienfait qu'il a",
+        "Souhaiter avoir le même bien que quelqu'un, sans lui vouloir de mal"
+      ],
+      "answer": 2,
+      "expl": "Le ḥasad, c'est ne pas supporter le bonheur des autres et souhaiter qu'il disparaisse. C'est un défaut grave, à l'origine de la jalousie d'Iblīs envers Adam et des frères de Yūsuf. Souhaiter le même bien sans vouloir de mal à l'autre (la ghibṭa) est permis.",
+      "ar": {
+        "text": "الْحَسَد",
+        "tr": "al-ḥasad",
+        "pr": "al-ha-sad",
+        "fr": "la jalousie"
+      }
+    },
+    {
+      "id": "spi-t1-0024",
+      "concept": "spi.maladies-coeur.dhikr-coeur",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 1,
+      "type": "trou",
+      "q": "« N'est-ce point par l'évocation d'Allah que se ___ les cœurs ? »",
+      "choices": [
+        "réjouissent",
+        "durcissent",
+        "réveillent",
+        "tranquillisent"
+      ],
+      "answer": 3,
+      "expl": "« Alā bi-dhikri Llāhi taṭmaʾinnu l-qulūb. » Le dhikr est le premier remède des maladies du cœur : il apaise l'anxiété, adoucit la dureté et éloigne les mauvaises pensées.",
+      "src": [
+        "Coran 13:28"
+      ],
+      "ar": {
+        "text": "أَلَا بِذِكْرِ اللّٰهِ تَطْمَئِنُّ الْقُلُوبُ",
+        "tr": "alā bi-dhikri Llāhi taṭmaʾinnu l-qulūb",
+        "pr": "a-lâ bi-dhik-ril-lâ-hi tat-ma-ʾin-noul-qou-loûb",
+        "fr": "n'est-ce point par le rappel d'Allah que se tranquillisent les cœurs ?"
+      },
+      "tags": [
+        "sourate:13"
+      ]
+    },
+    {
+      "id": "spi-t1-0025",
+      "concept": "spi.amour.plus-cher",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Aucun de vous ne croit vraiment tant que je ne lui suis pas plus cher que son père, son enfant et tous les ___. »",
+      "choices": [
+        "gens",
+        "biens",
+        "jours",
+        "livres"
+      ],
+      "answer": 0,
+      "expl": "Ce hadith montre que l'amour du Prophète ﷺ fait partie de la foi. ʿUmar dit un jour : « Tu m'es plus cher que tout, sauf moi-même. » Le Prophète ﷺ répondit : « Pas encore, ô ʿUmar. » ʿUmar réfléchit et dit : « Maintenant, même plus que moi-même. »",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim",
+        "Hadith d'ʿAbd Allāh ibn Hishām — Bukhari"
+      ]
+    },
+    {
+      "id": "spi-t1-0026",
+      "concept": "spi.amour.suivre",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le Coran, comment prouver son amour pour Allah ?",
+      "choices": [
+        "En s'isolant du monde",
+        "En suivant le Prophète ﷺ",
+        "En jeûnant sans cesse",
+        "En devenant riche"
+      ],
+      "answer": 1,
+      "expl": "« Dis : si vous aimez vraiment Allah, suivez-moi, Allah vous aimera alors et vous pardonnera vos péchés. » L'amour se prouve par les actes : imiter le Prophète ﷺ dans sa bonté, sa prière et son caractère.",
+      "src": [
+        "Coran 3:31"
+      ],
+      "tags": [
+        "sourate:3"
+      ]
+    },
+    {
+      "id": "spi-t1-0027",
+      "concept": "spi.amour.avec-aime",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 1,
+      "type": "vf",
+      "q": "Selon le hadith, l'homme sera, au Jour de la Résurrection, avec ceux qu'il aime.",
+      "answer": true,
+      "expl": "Un homme demanda quand viendrait l'Heure ; le Prophète ﷺ lui demanda ce qu'il avait préparé. « Rien de plus que mon amour pour Allah et Son messager. — Tu seras avec ceux que tu aimes. » Anas dit que rien ne réjouit autant les Compagnons que cette parole.",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0028",
+      "concept": "spi.amour.salat-ibrahimiyya",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 1,
+      "type": "trou",
+      "q": "Dans le tashahhud : « Allāhumma ṣalli ʿalā Muḥammad wa ʿalā āli Muḥammad, kamā ṣallayta ʿalā ___ … »",
+      "choices": [
+        "Mūsā",
+        "Nūḥ",
+        "Ibrāhīm",
+        "ʿĪsā"
+      ],
+      "answer": 2,
+      "expl": "C'est la prière abrahamique (aṣ-ṣalāt al-ibrāhīmiyya), enseignée par le Prophète ﷺ à ses Compagnons qui demandaient comment prier sur lui. On la récite à la fin de chaque prière, et à tout moment pour multiplier les bénédictions sur lui.",
+      "src": [
+        "Hadith de Kaʿb ibn ʿUjra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ",
+        "tr": "Allāhumma ṣalli ʿalā Muḥammadin wa ʿalā āli Muḥammadin kamā ṣallayta ʿalā Ibrāhīm",
+        "pr": "al-lâ-houm-ma sal-li ʿa-lâ mou-ham-ma-din wa ʿa-lâ â-li mou-ham-ma-din ka-mâ sal-lay-ta ʿa-lâ ib-râ-hîm",
+        "fr": "Ô Allah, prie sur Muḥammad et sur la famille de Muḥammad, comme Tu as prié sur Ibrāhīm"
+      },
+      "tags": [
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "spi-t1-0029",
+      "concept": "spi.tasawwuf.tazkiya",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit le Coran de celui qui purifie son âme ?",
+      "choices": [
+        "« Il n'a plus besoin de prier »",
+        "« Il devient un ange »",
+        "« Il connaît l'invisible »",
+        "« A réussi celui qui la purifie »"
+      ],
+      "answer": 3,
+      "expl": "« A réussi celui qui la purifie, et est perdu celui qui la corrompt. » La purification de l'âme (tazkiya), c'est le cœur du tasawwuf : se débarrasser de l'orgueil, de la jalousie, de l'avarice, et cultiver la sincérité et l'amour d'Allah.",
+      "src": [
+        "Coran 91:9-10"
+      ],
+      "ar": {
+        "text": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا",
+        "tr": "qad aflaḥa man zakkāhā",
+        "pr": "qad af-la-ha man zak-kâ-hâ",
+        "fr": "a réussi celui qui la purifie"
+      },
+      "tags": [
+        "sourate:91"
+      ]
+    },
+    {
+      "id": "spi-t1-0030",
+      "concept": "spi.tasawwuf.ihsan",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 1,
+      "type": "vf",
+      "q": "Les savants du tasawwuf présentent leur voie comme la recherche de l'iḥsān, le troisième degré du hadith de Jibrīl.",
+      "answer": true,
+      "expl": "Si le fiqh correspond à l'islam (les actes) et la ʿaqīda à l'īmān (la croyance), le tasawwuf vise l'iḥsān : adorer Allah comme si on Le voyait. C'est ainsi que l'a résumé Ibn ʿĀshir, avec la voie d'al-Junayd, dans la tradition marocaine.",
+      "src": [
+        "Hadith de Jibrīl — Muslim",
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ]
+    },
+    {
+      "id": "spi-t1-0031",
+      "concept": "spi.intention.fiche-ikhlas",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 1,
+      "type": "fiche",
+      "q": "L'ikhlāṣ : agir pour Allah seul",
+      "points": [
+        "Riyāʾ : agir pour être vu, le « petit shirk »",
+        "Remède : cacher certaines bonnes actions",
+        "Renouveler son intention souvent"
+      ],
+      "expl": "La sincérité, c'est faire le bien pour Allah, pas pour être vu. Un petit acte sincère vaut plus qu'un grand acte fait par ostentation. C'est le secret de toute l'adoration.",
+      "src": [
+        "Coran 98:5",
+        "Hadith de Maḥmūd ibn Labīd — Ahmad"
+      ],
+      "ar": {
+        "text": "الْإِخْلَاص",
+        "tr": "al-ikhlāṣ",
+        "pr": "al-ikh-lâs",
+        "fr": "la sincérité"
+      }
+    },
+    {
+      "id": "spi-t1-0032",
+      "concept": "spi.repentir.fiche-tawba",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "fiche",
+      "q": "La tawba : revenir à Allah",
+      "points": [
+        "Regretter sincèrement",
+        "Arrêter le péché",
+        "Décider de ne pas recommencer",
+        "Si on a lésé quelqu'un : réparer"
+      ],
+      "expl": "Personne n'est parfait : « Tous les fils d'Ādam pèchent, et les meilleurs pécheurs sont ceux qui se repentent. » Allah aime ceux qui reviennent vers Lui, et Sa miséricorde dépasse tous les péchés.",
+      "src": [
+        "Hadith d'Anas — Tirmidhi",
+        "Coran 39:53"
+      ],
+      "ar": {
+        "text": "أَسْتَغْفِرُ اللّٰهَ وَأَتُوبُ إِلَيْهِ",
+        "tr": "astaghfiru Llāha wa atūbu ilayh",
+        "pr": "as-tagh-fi-rou l-lâ-ha wa a-toû-bou i-layh",
+        "fr": "Je demande pardon à Allah et je reviens à Lui"
+      }
+    },
+    {
+      "id": "spi-t1-0033",
+      "concept": "spi.repentir.fiche-zumar",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Le verset de l'espoir",
+      "points": [
+        "Sourate az-Zumar (39), verset 53",
+        "« Allah pardonne tous les péchés »"
+      ],
+      "expl": "Ce verset est considéré par beaucoup de savants comme le plus porteur d'espoir du Coran. Aucun péché, si grand soit-il, ne ferme la porte du retour à Allah.",
+      "src": [
+        "Coran 39:53"
+      ],
+      "ar": {
+        "text": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللّٰهِ",
+        "tr": "qul yā ʿibādiya lladhīna asrafū ʿalā anfusihim lā taqnaṭū min raḥmati Llāh",
+        "pr": "qoul yâ ʿi-bâ-di-yal-la-dhî-na as-ra-foû ʿa-lâ an-fou-si-him lâ taq-na-toû min rah-ma-til-lâh",
+        "fr": "Dis : « Ô Mes serviteurs qui avez commis des excès à votre propre détriment, ne désespérez pas de la miséricorde d'Allah »"
+      }
+    },
+    {
+      "id": "spi-t1-0034",
+      "concept": "spi.vertus.fiche-sabr-shukr",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Patience et gratitude : les deux ailes du croyant",
+      "points": [
+        "Ṣabr : patience dans l'épreuve, dans l'obéissance, face au péché",
+        "Shukr : gratitude du cœur, de la langue et des actes",
+        "« Si vous êtes reconnaissants, J'augmenterai pour vous » (14:7)"
+      ],
+      "expl": "Le Prophète ﷺ s'émerveillait du croyant : s'il lui arrive un bien, il remercie, et c'est un bien pour lui ; s'il lui arrive un mal, il patiente, et c'est encore un bien pour lui. Tout devient bénéfique.",
+      "src": [
+        "Hadith de Ṣuhayb — Muslim",
+        "Coran 14:7"
+      ]
+    },
+    {
+      "id": "spi-t1-0035",
+      "concept": "spi.dhikr.fiche-dhikr",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Le dhikr : se souvenir d'Allah",
+      "points": [
+        "Subḥāna Llāh (gloire à Allah)",
+        "Al-ḥamdu li-Llāh (louange à Allah)",
+        "Lā ilāha illa Llāh (pas de divinité sauf Allah)",
+        "Allāhu akbar (Allah est le plus grand)",
+        "Astaghfiru Llāh (je demande pardon à Allah)"
+      ],
+      "expl": "Le dhikr, c'est se souvenir d'Allah par le cœur et par la langue. « C'est par le rappel d'Allah que les cœurs s'apaisent. » On peut le faire partout : en marchant, en conduisant, en cuisinant.",
+      "src": [
+        "Coran 13:28"
+      ],
+      "ar": {
+        "text": "أَلَا بِذِكْرِ اللّٰهِ تَطْمَئِنُّ الْقُلُوبُ",
+        "tr": "alā bi-dhikri Llāhi taṭmaʾinnu l-qulūb",
+        "pr": "a-lâ bi-dhik-ril-lâ-hi tat-maʾ-in-noul-qou-loûb",
+        "fr": "N'est-ce point par le rappel d'Allah que les cœurs s'apaisent ?"
+      }
+    },
+    {
+      "id": "spi-t1-0036",
+      "concept": "spi.tasawwuf.fiche-junayd",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Le soufisme au Maroc : la voie d'al-Junayd",
+      "points": [
+        "Al-Junayd (m. 910), « le maître de la communauté »",
+        "Le but : purifier le cœur (tazkiya) et atteindre l'iḥsān",
+        "« Notre voie est liée au Coran et à la Sunna »",
+        "Ibn ʿĀshir le résume dans son poème appris au Maroc"
+      ],
+      "expl": "Le Maroc suit trois piliers : le fiqh de Mālik, la croyance d'al-Ashʿarī et la spiritualité d'al-Junayd de Bagdad. Al-Junayd enseignait une spiritualité sobre, toujours attachée au Coran et à la Sunna.",
+      "src": [
+        "Ibn ʿĀshir, al-Murshid al-Muʿīn"
+      ]
+    },
+    {
+      "id": "spi-t1-0037",
+      "concept": "spi.intention.riya",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le riyāʾ ?",
+      "choices": [
+        "Prier en groupe",
+        "Faire l'aumône en secret",
+        "Prier la nuit",
+        "Faire une bonne action pour être vu et admiré"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ craignait pour sa communauté le « petit shirk » : le riyāʾ. L'acte fait pour les gens n'a pas de récompense auprès d'Allah.",
+      "src": [
+        "Hadith de Maḥmūd ibn Labīd — Ahmad"
+      ],
+      "retired": true
+    },
+    {
+      "id": "spi-t1-0038",
+      "concept": "spi.intention.sept-ombre",
+      "domain": "spiritualite",
+      "sub": "intention",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Parmi les sept qu'Allah abritera de Son ombre au Jour dernier, il y a celui qui donne l'aumône…",
+      "choices": [
+        "Si discrètement que sa main gauche l'ignore",
+        "Devant toute la mosquée réunie pour l'exemple",
+        "Une seule fois dans sa vie",
+        "Seulement pendant Ramadan"
+      ],
+      "answer": 0,
+      "expl": "Parmi les sept : un dirigeant juste, un jeune qui a grandi dans l'adoration, un homme attaché aux mosquées, deux personnes qui s'aiment pour Allah, celui qui refuse une tentation par crainte d'Allah, celui qui donne en secret, celui qui pleure seul en se souvenant d'Allah.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0039",
+      "concept": "spi.repentir.joie-allah",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon un hadith, Allah se réjouit du repentir de Son serviteur plus que…",
+      "choices": [
+        "Un enfant qui reçoit un cadeau",
+        "Un voyageur qui retrouve sa monture perdue dans le désert",
+        "Un roi qui gagne une bataille",
+        "Un marchand qui fait fortune"
+      ],
+      "answer": 1,
+      "expl": "L'homme avait perdu son chameau avec ses vivres en plein désert et s'attendait à mourir. En le retrouvant, il s'écria de joie : « Ô Allah, Tu es mon serviteur et je suis Ton Seigneur ! » Allah se réjouit encore plus de notre retour.",
+      "src": [
+        "Hadith d'Anas — Bukhari & Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "spi-t1-0040",
+      "concept": "spi.repentir.sayyid-istighfar",
+      "domain": "spiritualite",
+      "sub": "repentir",
+      "tier": 1,
+      "type": "vf",
+      "q": "Il existe une formule appelée « le maître de la demande de pardon » (sayyid al-istighfār).",
+      "answer": true,
+      "expl": "Elle commence par « Allāhumma anta rabbī, lā ilāha illā ant… ». Le Prophète ﷺ a dit que celui qui la dit le matin avec conviction et meurt ce jour-là entre au Paradis.",
+      "src": [
+        "Hadith de Shaddād ibn Aws — Bukhari"
+      ]
+    },
+    {
+      "id": "spi-t1-0041",
+      "concept": "spi.vertus.tawakkul-chameau",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "« Attache ton chameau et place ta confiance en Allah. » Que nous apprend ce hadith ?",
+      "choices": [
+        "Ne jamais attacher ses biens",
+        "Compter uniquement sur soi-même et ses forces",
+        "Prendre les moyens, puis s'en remettre à Allah",
+        "Vendre son chameau pour prier"
+      ],
+      "answer": 2,
+      "expl": "Le tawakkul n'est pas la passivité : on fait ce qu'on peut (réviser, travailler, se soigner), puis on confie le résultat à Allah avec un cœur apaisé.",
+      "src": [
+        "Hadith d'Anas — Tirmidhi"
+      ]
+    },
+    {
+      "id": "spi-t1-0042",
+      "concept": "spi.vertus.qanaa",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le Prophète ﷺ, la vraie richesse, c'est…",
+      "choices": [
+        "L'or et l'argent",
+        "Les terres et les maisons",
+        "Les enfants nombreux",
+        "La richesse de l'âme"
+      ],
+      "answer": 3,
+      "expl": "« La richesse ne vient pas de l'abondance des biens, mais la vraie richesse est celle de l'âme. » Celui qui se contente est riche, même avec peu.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "spi-t1-0043",
+      "concept": "spi.dhikr.deux-paroles",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 1,
+      "type": "trou",
+      "q": "« Deux paroles légères sur la langue, lourdes dans la balance, aimées du Tout-Miséricordieux : Subḥāna Llāhi wa bi-ḥamdih, Subḥāna Llāhi l-___. »",
+      "choices": [
+        "ʿaẓīm",
+        "karīm",
+        "raḥīm",
+        "ʿalīm"
+      ],
+      "answer": 0,
+      "expl": "C'est le dernier hadith du Ṣaḥīḥ d'al-Bukhārī. Quelques secondes suffisent pour les dire, et leur poids est immense.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ، سُبْحَانَ اللّٰهِ الْعَظِيمِ",
+        "tr": "subḥāna Llāhi wa bi-ḥamdih, subḥāna Llāhi l-ʿaẓīm",
+        "pr": "soub-hâ-nal-lâ-hi wa bi-ham-dih, soub-hâ-nal-lâ-hil-ʿa-dhîm",
+        "fr": "Gloire et louange à Allah, gloire à Allah l'Immense"
+      }
+    },
+    {
+      "id": "spi-t1-0044",
+      "concept": "spi.dhikr.vivant-mort",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 1,
+      "type": "qcm",
+      "q": "À quoi le Prophète ﷺ a-t-il comparé celui qui se souvient d'Allah et celui qui ne s'en souvient pas ?",
+      "choices": [
+        "Au savant et à l'ignorant",
+        "Au vivant et au mort",
+        "Au riche et au pauvre",
+        "Au jour et à la nuit"
+      ],
+      "answer": 1,
+      "expl": "« L'exemple de celui qui se souvient de son Seigneur et de celui qui ne s'en souvient pas est celui du vivant et du mort. » Le dhikr, c'est la vie du cœur.",
+      "src": [
+        "Hadith d'Abū Mūsā — Bukhari"
+      ]
+    },
+    {
+      "id": "spi-t1-0045",
+      "concept": "spi.dhikr.la-hawla",
+      "domain": "spiritualite",
+      "sub": "dhikr",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle formule est appelée « un trésor parmi les trésors du Paradis » ?",
+      "choices": [
+        "Māshāʾa Llāh",
+        "Inshāʾa Llāh",
+        "Lā ḥawla wa lā quwwata illā bi-Llāh",
+        "Bismillāh"
+      ],
+      "answer": 2,
+      "expl": "« Il n'y a de force ni de puissance qu'en Allah. » On reconnaît que tout dépend de Lui. Utile face à une difficulté.",
+      "src": [
+        "Hadith d'Abū Mūsā — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ",
+        "tr": "lā ḥawla wa lā quwwata illā bi-Llāh",
+        "pr": "lâ haw-la wa lâ qouw-wa-ta il-lâ bil-lâh",
+        "fr": "Il n'y a de force ni de puissance qu'en Allah"
+      },
+      "retired": true
+    },
+    {
+      "id": "spi-t1-0046",
+      "concept": "spi.maladies-coeur.coeur-morceau",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 1,
+      "type": "qcm",
+      "q": "« Il y a dans le corps un morceau de chair : s'il est sain, tout le corps est sain… » De quoi s'agit-il ?",
+      "choices": [
+        "Le cerveau",
+        "La langue",
+        "L'estomac",
+        "Le cœur"
+      ],
+      "answer": 3,
+      "expl": "Ce hadith montre que tout part du cœur : l'intention, l'amour, la crainte. Purifier le cœur, c'est le travail de toute une vie.",
+      "src": [
+        "Hadith d'an-Nuʿmān ibn Bashīr — Bukhari & Muslim"
+      ],
+      "tags": [
+        "nawawi:6"
+      ]
+    },
+    {
+      "id": "spi-t1-0047",
+      "concept": "spi.maladies-coeur.duniya",
+      "domain": "spiritualite",
+      "sub": "maladies-coeur",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment le Prophète ﷺ conseillait-il de vivre en ce monde ?",
+      "choices": [
+        "Comme un étranger ou un voyageur de passage",
+        "Comme si on y restait pour toujours",
+        "En s'isolant de tout",
+        "En accumulant le plus possible"
+      ],
+      "answer": 0,
+      "expl": "Il dit à Ibn ʿUmar : « Sois en ce monde comme un étranger ou un voyageur de passage. » On profite du monde sans s'y attacher, les yeux sur l'au-delà.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari"
+      ],
+      "tags": [
+        "nawawi:40"
+      ]
+    },
+    {
+      "id": "spi-t1-0048",
+      "concept": "spi.amour.aimer-allah",
+      "domain": "spiritualite",
+      "sub": "amour",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Selon le Coran, comment prouve-t-on son amour pour Allah ?",
+      "choices": [
+        "En évitant les gens",
+        "En suivant le Prophète ﷺ",
+        "En le disant souvent",
+        "En portant des vêtements particuliers"
+      ],
+      "answer": 1,
+      "expl": "« Dis : si vous aimez Allah, suivez-moi, Allah vous aimera et vous pardonnera vos péchés. » L'amour se prouve par les actes.",
+      "src": [
+        "Coran 3:31"
+      ]
+    },
+    {
+      "id": "spi-t1-0049",
+      "concept": "spi.tasawwuf.ihsan",
+      "domain": "spiritualite",
+      "sub": "tasawwuf",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment le hadith de Jibrīl définit-il l'iḥsān ?",
+      "choices": [
+        "Faire beaucoup d'aumônes en public",
+        "Prier toute la nuit sans dormir",
+        "Adorer Allah comme si tu Le voyais",
+        "Connaître tout le Coran par cœur"
+      ],
+      "answer": 2,
+      "expl": "L'iḥsān est le plus haut degré de la religion : la présence du cœur. C'est l'objectif de la spiritualité musulmane (tasawwuf).",
+      "src": [
+        "Hadith de Jibrīl — Muslim"
+      ],
+      "tags": [
+        "nawawi:2"
+      ]
+    },
+    {
+      "id": "spi-t1-0050",
+      "concept": "spi.vertus.sabr-recompense",
+      "domain": "spiritualite",
+      "sub": "vertus",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment le Coran décrit-il la récompense des patients ?",
+      "choices": [
+        "En argent",
+        "Le double",
+        "Sans compter",
+        "En années de vie"
+      ],
+      "answer": 2,
+      "expl": "« Les patients recevront leur pleine récompense sans compter » (39:10). Chaque épreuve endurée avec patience devient un trésor.",
+      "src": [
+        "Coran 39:10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1853 @@
+{
+  "pack": "arabe-t1",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "ara-t1-0001",
+      "concept": "ara.expressions.quand",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque expression au moment où on la dit.",
+      "pairs": [
+        [
+          "In shāʾ Allāh",
+          "En parlant d'un projet futur"
+        ],
+        [
+          "Mā shāʾ Allāh",
+          "Devant une belle chose"
+        ],
+        [
+          "Jazāk Allāhu khayran",
+          "Pour remercier quelqu'un"
+        ],
+        [
+          "Bismillāh",
+          "Avant de commencer quelque chose"
+        ]
+      ],
+      "expl": "« In shāʾ Allāh » (si Allah le veut) rappelle que l'avenir appartient à Allah (Coran 18:23-24). « Mā shāʾ Allāh » (c'est ce qu'Allah a voulu) s'emploie pour admirer sans jalousie. « Jazāk Allāhu khayran » (qu'Allah te récompense en bien) est le plus beau des mercis. « Bismillāh » (au nom d'Allah) ouvre chaque action.",
+      "src": [
+        "Coran 18:23-24",
+        "Coran 18:39",
+        "Hadith d'Usāma ibn Zayd — Tirmidhi (jazāk Allāhu khayran)"
+      ]
+    },
+    {
+      "id": "ara-t1-0002",
+      "concept": "ara.expressions.bismillah",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie cette expression ?",
+      "choices": [
+        "Au nom d'Allah",
+        "Allah est le plus grand",
+        "Si Allah le veut",
+        "Gloire à Allah"
+      ],
+      "answer": 0,
+      "expl": "« Bismillāh » se compose de « bi » (par, au), « ism » (nom) et « Allāh ». La formule complète, « Bismillāhi r-raḥmāni r-raḥīm » (au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux), ouvre toutes les sourates du Coran sauf une : at-Tawba.",
+      "src": [
+        "Coran 1:1",
+        "Coran 27:30"
+      ],
+      "ar": {
+        "text": "بِسْمِ اللّٰهِ",
+        "tr": "bismillāh",
+        "fr": "au nom d'Allah",
+        "pr": "bis-mil-lâh"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0003",
+      "concept": "ara.alphabet.nombre",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de lettres compte l'alphabet arabe ?",
+      "answer": 28,
+      "expl": "L'alphabet arabe compte 28 lettres, toutes des consonnes (trois servent aussi de voyelles longues : alif, wāw, yāʾ). La plupart changent légèrement de forme selon leur place dans le mot : au début, au milieu, à la fin ou isolées.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "note": "Certains comptent 29 lettres en ajoutant la hamza comme lettre à part."
+    },
+    {
+      "id": "ara-t1-0004",
+      "concept": "ara.alphabet.sens",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Dans quel sens s'écrit et se lit l'arabe ?",
+      "choices": [
+        "De droite à gauche",
+        "De gauche à droite",
+        "De haut en bas",
+        "Dans les deux sens"
+      ],
+      "answer": 0,
+      "expl": "L'arabe s'écrit de droite à gauche : c'est pour cela qu'un Coran s'ouvre « à l'envers » pour un lecteur français, la première page étant à droite. Les chiffres, eux, s'écrivent de gauche à droite.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t1-0005",
+      "concept": "ara.vocabulaire.halal",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le mot « ḥalāl » ?",
+      "choices": [
+        "Permis, licite",
+        "Interdit, illicite",
+        "Obligatoire",
+        "Pur, propre"
+      ],
+      "answer": 0,
+      "expl": "« Ḥalāl » désigne ce qui est permis par Allah, et ce n'est pas seulement la viande : un gain honnête, une relation dans le mariage, un jeu innocent sont halal. Son contraire est « ḥarām », l'interdit. Entre les deux, il y a le déconseillé (makrūh) et le recommandé (mandūb).",
+      "src": [
+        "Coran 2:168"
+      ],
+      "ar": {
+        "text": "حَلَال",
+        "tr": "ḥalāl",
+        "fr": "permis",
+        "pr": "ha-lâl"
+      }
+    },
+    {
+      "id": "ara-t1-0006",
+      "concept": "ara.alphabet.ba",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Bāʾ (b)",
+        "Tāʾ (t)",
+        "Thāʾ (th)",
+        "Nūn (n)"
+      ],
+      "answer": 0,
+      "expl": "C'est le bāʾ, deuxième lettre de l'alphabet : une barque avec un point en dessous. Le tāʾ a deux points au-dessus, le thāʾ trois points au-dessus, et le nūn, plus arrondi, un point au-dessus. Ce sont les points qui font toute la différence !",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ب",
+        "tr": "bāʾ",
+        "fr": "la lettre b",
+        "pr": "bâ"
+      },
+      "tags": [
+        "ar-question"
+      ],
+      "extra": "Le bāʾ est la première lettre du Coran : « Bismillāh… »."
+    },
+    {
+      "id": "ara-t1-0007",
+      "concept": "ara.alphabet.ordre-debut",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "ordre",
+      "q": "Remets dans l'ordre les premières lettres de l'alphabet arabe.",
+      "items": [
+        "Alif",
+        "Bāʾ",
+        "Tāʾ",
+        "Thāʾ",
+        "Jīm",
+        "Ḥāʾ",
+        "Khāʾ"
+      ],
+      "expl": "L'alphabet arabe commence par alif, bāʾ, tāʾ, thāʾ, jīm, ḥāʾ, khāʾ. Les lettres sont regroupées par forme : bāʾ, tāʾ et thāʾ ont la même barque, jīm, ḥāʾ et khāʾ le même crochet ; seuls les points changent.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t1-0008",
+      "concept": "ara.alphabet.famille-barque",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "multi",
+      "q": "Lesquelles de ces lettres partagent la même forme de base (la « barque ») et ne se distinguent que par leurs points ?",
+      "choices": [
+        "Bāʾ",
+        "Tāʾ",
+        "Jīm",
+        "Thāʾ",
+        "Mīm",
+        "Wāw"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Bāʾ (un point dessous), tāʾ (deux points dessus) et thāʾ (trois points dessus) ont la même forme. Au début ou au milieu d'un mot, nūn et yāʾ prennent aussi cette forme. Apprendre l'alphabet par familles le rend beaucoup plus facile.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t1-0009",
+      "concept": "ara.alphabet.points-thaa",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "nombre",
+      "q": "Combien de points porte la lettre thāʾ (ث) ?",
+      "answer": 3,
+      "expl": "Trois points au-dessus. Le shīn (ش) a aussi trois points au-dessus. Les points, appelés nuqaṭ, ont été ajoutés à l'écriture arabe dans les premiers siècles de l'islam pour éviter les erreurs de lecture.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t1-0010",
+      "concept": "ara.voyelles.trois",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque voyelle brève à son son.",
+      "pairs": [
+        [
+          "Fatḥa (petit trait au-dessus)",
+          "a"
+        ],
+        [
+          "Kasra (petit trait en dessous)",
+          "i"
+        ],
+        [
+          "Ḍamma (petit wāw au-dessus)",
+          "ou"
+        ]
+      ],
+      "expl": "L'arabe a trois voyelles brèves, notées par de petits signes au-dessus ou en dessous des lettres. Dans la plupart des textes, elles ne sont pas écrites ; le Coran, lui, est toujours entièrement vocalisé pour éviter toute erreur.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t1-0011",
+      "concept": "ara.voyelles.fatha",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment se lit cette syllabe ?",
+      "choices": [
+        "bi",
+        "bou",
+        "b",
+        "ba"
+      ],
+      "answer": 3,
+      "expl": "Le petit trait au-dessus de la lettre est la fatḥa (fat-ha), qui donne le son « a ». بَ se lit donc « ba ». Avec un trait en dessous (kasra), on lirait « bi » ; avec un petit wāw au-dessus (ḍamma), « bou ».",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "بَ",
+        "tr": "ba",
+        "pr": "ba",
+        "fr": "la syllabe ba"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0012",
+      "concept": "ara.voyelles.kasra",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment se lit cette syllabe ?",
+      "choices": [
+        "bi",
+        "ba",
+        "bou",
+        "b (sans voyelle)"
+      ],
+      "answer": 0,
+      "expl": "Le petit trait sous la lettre est la kasra (kas-ra), qui donne le son « i ». بِ se lit « bi », comme au début de « bismillāh ».",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "بِ",
+        "tr": "bi",
+        "pr": "bi",
+        "fr": "la syllabe bi"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0013",
+      "concept": "ara.voyelles.damma",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment se lit cette syllabe ?",
+      "choices": [
+        "b (sans voyelle)",
+        "bou",
+        "ba",
+        "bi"
+      ],
+      "answer": 1,
+      "expl": "Le petit signe en forme de wāw au-dessus de la lettre est la ḍamma (dam-ma), qui donne le son « ou ». بُ se lit « bou ».",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "بُ",
+        "tr": "bu",
+        "pr": "bou",
+        "fr": "la syllabe bou"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0014",
+      "concept": "ara.voyelles.coran-vocalise",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 1,
+      "type": "vf",
+      "q": "Dans le Coran imprimé, toutes les voyelles sont écrites, alors que dans un journal arabe elles ne le sont généralement pas.",
+      "answer": true,
+      "expl": "Un lecteur arabophone devine les voyelles d'après le contexte. Pour le Coran, chaque voyelle compte et peut changer le sens ; il est donc toujours entièrement vocalisé. C'est une bonne nouvelle pour les débutants : on peut apprendre à le lire lettre par lettre.",
+      "src": [
+        "Grammaire arabe classique"
+      ]
+    },
+    {
+      "id": "ara-t1-0015",
+      "concept": "ara.expressions.salla",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie la formule « ṣallā Llāhu ʿalayhi wa sallam » (ﷺ) dite après le nom du Prophète ?",
+      "choices": [
+        "Qu'Allah soit satisfait de lui",
+        "Gloire à lui, le Très-Haut",
+        "Qu'Allah prie sur lui et le salue",
+        "Qu'Allah lui pardonne"
+      ],
+      "answer": 2,
+      "expl": "On la dit ou on l'écrit (ﷺ) à chaque mention du Prophète Muḥammad. Le Coran l'ordonne : « Allah et Ses anges prient sur le Prophète ; ô vous qui croyez, priez sur lui et saluez-le. » Celui qui prie une fois sur lui, Allah prie dix fois sur lui.",
+      "src": [
+        "Coran 33:56",
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "ar": {
+        "text": "صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ",
+        "tr": "ṣallā Llāhu ʿalayhi wa sallam",
+        "pr": "sal-lal-lâ-hou ʿa-lay-hi wa sal-lam",
+        "fr": "qu'Allah prie sur lui et le salue"
+      }
+    },
+    {
+      "id": "ara-t1-0016",
+      "concept": "ara.expressions.formules-respect",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque formule à la personne après laquelle on la dit.",
+      "pairs": [
+        [
+          "ʿAlayhi s-salām",
+          "Après le nom d'un prophète (Mūsā, ʿĪsā…)"
+        ],
+        [
+          "Raḍiya Llāhu ʿanhu",
+          "Après le nom d'un Compagnon"
+        ],
+        [
+          "Subḥānahu wa taʿālā",
+          "Après le nom d'Allah"
+        ],
+        [
+          "Raḥimahu Llāh",
+          "Après le nom d'un défunt ou d'un savant"
+        ]
+      ],
+      "expl": "- « Sur lui la paix » : pour les prophètes\n- « qu'Allah soit satisfait de lui » (raḍiya Llāhu ʿanhā pour une femme) : pour les Compagnons\n- « gloire à Lui, le Très-Haut » : pour Allah\n- « qu'Allah lui fasse miséricorde » : pour les défunts",
+      "pron": {
+        "ʿAlayhi s-salām": "ʿa-lay-his-sa-lâm",
+        "Raḍiya Llāhu ʿanhu": "ra-di-yal-lâ-hou ʿan-hou",
+        "Subḥānahu wa taʿālā": "soub-hâ-na-hou wa ta-ʿâ-lâ",
+        "Raḥimahu Llāh": "ra-hi-ma-houl-lâh"
+      }
+    },
+    {
+      "id": "ara-t1-0017",
+      "concept": "ara.expressions.barak",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que veut dire « Bāraka Llāhu fīk » ?",
+      "choices": [
+        "Que la paix soit sur toi",
+        "Allah est le plus grand",
+        "Si Allah le veut",
+        "Qu'Allah te bénisse"
+      ],
+      "answer": 3,
+      "expl": "« Bāraka Llāhu fīk » (ba-râ-kal-lâ-hou fîk) est une façon de remercier ou de féliciter. Au Maroc on entend aussi « Allāh ybārek fīk ». On peut y répondre « wa fīka bāraka Llāh », et toi aussi, qu'Allah te bénisse.",
+      "ar": {
+        "text": "بَارَكَ اللّٰهُ فِيكَ",
+        "tr": "bāraka Llāhu fīk",
+        "pr": "bâ-ra-kal-lâ-hou fîk",
+        "fr": "qu'Allah te bénisse"
+      }
+    },
+    {
+      "id": "ara-t1-0018",
+      "concept": "ara.expressions.jazak",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que dit-on pour remercier quelqu'un à la manière de la Sunna ?",
+      "choices": [
+        "« Jazāka Llāhu khayran »",
+        "« Allāhu akbar »",
+        "« Bismillāh »",
+        "« Astaghfiru Llāh »"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ a dit que celui à qui l'on fait du bien et qui dit « Jazāka Llāhu khayran » a remercié de la meilleure manière. On confie la récompense à Allah, qui donne mieux que nous.",
+      "src": [
+        "Hadith d'Usāma ibn Zayd — Tirmidhi"
+      ],
+      "ar": {
+        "text": "جَزَاكَ اللّٰهُ خَيْرًا",
+        "tr": "jazāka Llāhu khayran",
+        "pr": "ja-zâ-kal-lâ-hou khay-ran",
+        "fr": "qu'Allah te récompense par le bien"
+      }
+    },
+    {
+      "id": "ara-t1-0019",
+      "concept": "ara.expressions.inshallah",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quand dit-on « In shāʾa Llāh » ?",
+      "choices": [
+        "Après avoir éternué",
+        "Pour une chose qu'on compte faire",
+        "En entrant à la mosquée",
+        "En voyant quelque chose de beau"
+      ],
+      "answer": 1,
+      "expl": "« Si Allah le veut » : le Coran demande de ne jamais dire « je ferai cela demain » sans ajouter « si Allah le veut ». C'est reconnaître que l'avenir Lui appartient. Ce n'est pas une façon polie de dire non : on s'engage vraiment, en s'en remettant à Allah.",
+      "src": [
+        "Coran 18:23-24"
+      ],
+      "ar": {
+        "text": "إِنْ شَاءَ اللّٰهُ",
+        "tr": "in shāʾa Llāh",
+        "pr": "in châ-ʾal-lâh",
+        "fr": "si Allah le veut"
+      },
+      "tags": [
+        "sourate:18"
+      ]
+    },
+    {
+      "id": "ara-t1-0020",
+      "concept": "ara.expressions.allahu-alam",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie « Allāhu aʿlam », souvent dit par les savants à la fin d'une réponse ?",
+      "choices": [
+        "Allah est miséricordieux",
+        "Allah suffit",
+        "Allah sait mieux",
+        "Allah est le plus grand"
+      ],
+      "answer": 2,
+      "expl": "« Allāhu aʿlam » (al-lâ-hou aʿ-lam) exprime l'humilité : notre savoir est limité, seul Allah sait parfaitement. Les plus grands savants terminaient ainsi leurs fatwas. Dire « je ne sais pas » ou « Allah sait mieux » fait partie du savoir.",
+      "ar": {
+        "text": "اللّٰهُ أَعْلَمُ",
+        "tr": "Allāhu aʿlam",
+        "pr": "al-lâ-hou aʿ-lam",
+        "fr": "Allah sait mieux"
+      }
+    },
+    {
+      "id": "ara-t1-0021",
+      "concept": "ara.expressions.fetes",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque vœu à son occasion.",
+      "pairs": [
+        [
+          "ʿĪd mubārak",
+          "Les deux fêtes de l'Aïd"
+        ],
+        [
+          "Ramaḍān karīm",
+          "Le début du mois de Ramadan"
+        ],
+        [
+          "Taqabbala Llāhu minnā wa minkum",
+          "Après le jeûne ou la prière de l'Aïd"
+        ],
+        [
+          "Ḥajj mabrūr",
+          "Au retour du pèlerinage"
+        ]
+      ],
+      "expl": "« Fête bénie », « Ramadan généreux », « qu'Allah accepte de nous et de vous », « pèlerinage agréé ». Les Compagnons se disaient « taqabbala Llāhu minnā wa minkum » le jour de l'Aïd.",
+      "pron": {
+        "ʿĪd mubārak": "ʿîd mou-bâ-rak",
+        "Ramaḍān karīm": "ra-ma-dân ka-rîm",
+        "Taqabbala Llāhu minnā wa minkum": "ta-qab-ba-lal-lâ-hou min-nâ wa min-koum",
+        "Ḥajj mabrūr": "hajj mab-roûr"
+      }
+    },
+    {
+      "id": "ara-t1-0022",
+      "concept": "ara.expressions.tawakkaltu",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie « Tawakkaltu ʿalā Llāh » ?",
+      "choices": [
+        "Je demande pardon à Allah",
+        "Je cherche refuge auprès d'Allah",
+        "Je témoigne qu'il n'y a de divinité qu'Allah",
+        "Je place ma confiance en Allah"
+      ],
+      "answer": 3,
+      "expl": "On le dit avant d'entreprendre quelque chose, en sortant de chez soi, avant un examen ou un voyage : on fait sa part, puis on confie le résultat à Allah. C'est l'expression du tawakkul (ta-wak-koul).",
+      "ar": {
+        "text": "تَوَكَّلْتُ عَلَى اللّٰهِ",
+        "tr": "tawakkaltu ʿalā Llāh",
+        "pr": "ta-wak-kal-tou ʿa-lal-lâh",
+        "fr": "je place ma confiance en Allah"
+      }
+    },
+    {
+      "id": "ara-t1-0023",
+      "concept": "ara.vocabulaire.statuts",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe chaque statut du fiqh à son sens.",
+      "pairs": [
+        [
+          "Ḥarām",
+          "Interdit"
+        ],
+        [
+          "Farḍ",
+          "Obligatoire"
+        ],
+        [
+          "Sunna",
+          "Recommandé, selon l'exemple du Prophète ﷺ"
+        ],
+        [
+          "Makrūh",
+          "Déconseillé"
+        ],
+        [
+          "Mubāḥ",
+          "Permis, neutre"
+        ]
+      ],
+      "expl": "Ces cinq mots forment l'échelle des actes en fiqh. La plupart des actes de la vie quotidienne sont mubāḥ : manger, dormir, travailler, et deviennent récompensés par une bonne intention.",
+      "pron": {
+        "Ḥarām": "ha-râm",
+        "Farḍ": "fard",
+        "Sunna": "soun-na",
+        "Makrūh": "mak-roûh",
+        "Mubāḥ": "mou-bâh"
+      }
+    },
+    {
+      "id": "ara-t1-0024",
+      "concept": "ara.vocabulaire.adoration",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe ces mots de l'adoration à leur sens.",
+      "pairs": [
+        [
+          "ʿIbāda",
+          "L'adoration"
+        ],
+        [
+          "Duʿāʾ",
+          "L'invocation"
+        ],
+        [
+          "Dhikr",
+          "Le rappel d'Allah"
+        ],
+        [
+          "Dīn",
+          "La religion"
+        ],
+        [
+          "Umma",
+          "La communauté des croyants"
+        ]
+      ],
+      "expl": "La ʿibāda ne se limite pas aux rites : tout acte fait pour Allah en fait partie. Le Prophète ﷺ a dit que le duʿāʾ est l'adoration même.",
+      "src": [
+        "Hadith d'an-Nuʿmān ibn Bashīr — Abu Dawud & Tirmidhi"
+      ],
+      "pron": {
+        "ʿIbāda": "ʿi-bâ-da",
+        "Duʿāʾ": "dou-ʿâʾ",
+        "Dhikr": "dhikr",
+        "Dīn": "dîn",
+        "Umma": "oum-ma"
+      }
+    },
+    {
+      "id": "ara-t1-0025",
+      "concept": "ara.vocabulaire.vertus",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe ces mots des vertus et de l'au-delà à leur sens.",
+      "pairs": [
+        [
+          "Taqwā",
+          "La conscience d'Allah, la piété"
+        ],
+        [
+          "Ṣabr",
+          "La patience"
+        ],
+        [
+          "Shukr",
+          "La gratitude"
+        ],
+        [
+          "Janna",
+          "Le Paradis (le jardin)"
+        ],
+        [
+          "Nār",
+          "Le Feu, l'Enfer"
+        ]
+      ],
+      "expl": "Le Prophète ﷺ disait que l'affaire du croyant est étonnante : dans l'aisance il remercie (shukr), dans l'épreuve il patiente (ṣabr), et c'est un bien pour lui dans les deux cas.",
+      "src": [
+        "Hadith de Ṣuhayb — Muslim"
+      ],
+      "pron": {
+        "Taqwā": "taq-wâ",
+        "Ṣabr": "sabr",
+        "Shukr": "choukr",
+        "Janna": "jan-na",
+        "Nār": "nâr"
+      }
+    },
+    {
+      "id": "ara-t1-0026",
+      "concept": "ara.vocabulaire.taqwa",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le mot « taqwā », très fréquent dans le Coran ?",
+      "choices": [
+        "La conscience d'Allah qui guide nos actes",
+        "La prière faite en groupe à la mosquée",
+        "Le jeûne volontaire du lundi et du jeudi",
+        "La lecture du Coran à voix haute"
+      ],
+      "answer": 0,
+      "expl": "La taqwā (taq-wâ), souvent traduite par piété ou crainte d'Allah, est une vigilance du cœur, comme celui qui marche avec précaution sur un chemin plein d'épines. Le Prophète ﷺ a montré sa poitrine trois fois en disant : « La taqwā est ici. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ],
+      "ar": {
+        "text": "التَّقْوَى",
+        "tr": "at-taqwā",
+        "pr": "at-taq-wâ",
+        "fr": "la piété, la conscience d'Allah"
+      }
+    },
+    {
+      "id": "ara-t1-0027",
+      "concept": "ara.vocabulaire.umma",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Comment appelle-t-on la communauté mondiale des musulmans ?",
+      "choices": [
+        "La jamāʿa du vendredi",
+        "L'umma",
+        "La qibla",
+        "La sunna"
+      ],
+      "answer": 1,
+      "expl": "L'umma (oum-ma), de la même racine que umm (mère), désigne la communauté des croyants, au-delà des pays et des origines. Le Prophète ﷺ l'a comparée à un seul corps : quand un membre souffre, tout le corps veille et a de la fièvre.",
+      "src": [
+        "Hadith d'an-Nuʿmān ibn Bashīr — Bukhari & Muslim"
+      ],
+      "ar": {
+        "text": "الْأُمَّة",
+        "tr": "al-umma",
+        "pr": "al-oum-ma",
+        "fr": "la communauté"
+      }
+    },
+    {
+      "id": "ara-t1-0028",
+      "concept": "ara.vocabulaire.haram-ar",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie ce mot ?",
+      "choices": [
+        "Obligatoire",
+        "Recommandé",
+        "Interdit",
+        "Permis"
+      ],
+      "answer": 2,
+      "expl": "Ḥarām (ha-râm) : interdit. Le même mot donne al-Masjid al-Ḥarām, la Mosquée sacrée : ce qui est « ḥarām » est aussi ce qui est inviolable, protégé. Son contraire est ḥalāl, permis.",
+      "ar": {
+        "text": "حَرَام",
+        "tr": "ḥarām",
+        "pr": "ha-râm",
+        "fr": "interdit"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0029",
+      "concept": "ara.vocabulaire.dua-ar",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie ce mot ?",
+      "choices": [
+        "La prière rituelle",
+        "Le jeûne",
+        "Le pèlerinage",
+        "L'invocation"
+      ],
+      "answer": 3,
+      "expl": "Duʿāʾ (dou-ʿâʾ) : l'invocation, la demande adressée à Allah, dans n'importe quelle langue. La prière rituelle se dit ṣalāt. Le duʿāʾ est un dialogue intime, possible à tout moment.",
+      "ar": {
+        "text": "دُعَاء",
+        "tr": "duʿāʾ",
+        "pr": "dou-ʿâʾ",
+        "fr": "l'invocation"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0030",
+      "concept": "ara.alphabet.lettre-alif",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Kāf (k)",
+        "Dāl (d)",
+        "Alif (ā)",
+        "Lām (l)"
+      ],
+      "answer": 2,
+      "expl": "L'alif est un simple trait vertical. Il porte la voyelle longue ā ou sert de support à la hamza. Le lām lui ressemble mais a une boucle en bas qui part vers la gauche.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ا",
+        "tr": "alif",
+        "pr": "a-lif",
+        "fr": "la lettre ā"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0031",
+      "concept": "ara.alphabet.lettre-ta",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Bāʾ (b)",
+        "Thāʾ (th)",
+        "Nūn (n)",
+        "Tāʾ (t)"
+      ],
+      "answer": 3,
+      "expl": "Le tāʾ, c'est la barque du bāʾ avec deux points au-dessus. Retenez : bāʾ un point dessous, tāʾ deux dessus, thāʾ trois dessus.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ت",
+        "tr": "tāʾ",
+        "pr": "tâ",
+        "fr": "la lettre t"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0032",
+      "concept": "ara.alphabet.lettre-tha",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Thāʾ (th)",
+        "Tāʾ (t)",
+        "Bāʾ (b)",
+        "Shīn (ch)"
+      ],
+      "answer": 0,
+      "expl": "Le thāʾ a trois points au-dessus de la barque. Il se prononce comme le « th » anglais de « think », la langue entre les dents.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ث",
+        "tr": "thāʾ",
+        "pr": "thâ",
+        "fr": "la lettre th"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0033",
+      "concept": "ara.alphabet.lettre-jim",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "ʿAyn (ʿ)",
+        "Jīm (j)",
+        "Ḥāʾ (ḥ)",
+        "Khāʾ (kh)"
+      ],
+      "answer": 1,
+      "expl": "Le jīm a la forme d'un crochet avec un point à l'intérieur, en bas. Même forme sans point : ḥāʾ ; avec un point au-dessus : khāʾ. Il se prononce « dj » ou « j » selon les régions.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ج",
+        "tr": "jīm",
+        "pr": "jîm",
+        "fr": "la lettre j"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0034",
+      "concept": "ara.alphabet.lettre-ha",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Khāʾ (kh)",
+        "Dāl (d)",
+        "Ḥāʾ (ḥ)",
+        "Jīm (j)"
+      ],
+      "answer": 2,
+      "expl": "Le ḥāʾ a la forme du jīm, mais sans point. C'est un « h » soufflé du fond de la gorge, comme quand on souffle sur des lunettes pour les nettoyer. On l'entend dans Muḥammad, ḥalāl, raḥma.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ح",
+        "tr": "ḥāʾ",
+        "pr": "hâ",
+        "fr": "la lettre ḥ"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0035",
+      "concept": "ara.alphabet.lettre-kha",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Ḥāʾ (ḥ)",
+        "Jīm (j)",
+        "Ghayn (gh)",
+        "Khāʾ (kh)"
+      ],
+      "answer": 3,
+      "expl": "Le khāʾ a un point au-dessus du crochet. Il se prononce comme la « jota » espagnole ou le « ch » allemand de « Bach ». On l'entend dans khayr (le bien).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "خ",
+        "tr": "khāʾ",
+        "pr": "khâ",
+        "fr": "la lettre kh"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0036",
+      "concept": "ara.alphabet.lettre-dal",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Dāl (d)",
+        "Dhāl (dh)",
+        "Rāʾ (r)",
+        "Kāf (k)"
+      ],
+      "answer": 0,
+      "expl": "Le dāl ressemble à un petit angle ouvert vers la gauche. Avec un point au-dessus, il devient dhāl. Il ne se lie jamais à la lettre suivante.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "د",
+        "tr": "dāl",
+        "pr": "dâl",
+        "fr": "la lettre d"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0037",
+      "concept": "ara.alphabet.lettre-dhal",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Thāʾ (th)",
+        "Dhāl (dh)",
+        "Dāl (d)",
+        "Zāy (z)"
+      ],
+      "answer": 1,
+      "expl": "Le dhāl, c'est le dāl avec un point. Il se prononce comme le « th » anglais de « this ». On l'entend dans dhikr (le rappel d'Allah).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ذ",
+        "tr": "dhāl",
+        "pr": "dhâl",
+        "fr": "la lettre dh"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0038",
+      "concept": "ara.alphabet.lettre-ra",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Dāl (d)",
+        "Wāw (w)",
+        "Rāʾ (r)",
+        "Zāy (z)"
+      ],
+      "answer": 2,
+      "expl": "Le rāʾ est une petite courbe qui descend sous la ligne. Avec un point, c'est le zāy. Le r arabe est roulé, comme en espagnol ou en italien.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ر",
+        "tr": "rāʾ",
+        "pr": "râ",
+        "fr": "la lettre r"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0039",
+      "concept": "ara.alphabet.lettre-zay",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Rāʾ (r)",
+        "Dhāl (dh)",
+        "Nūn (n)",
+        "Zāy (z)"
+      ],
+      "answer": 3,
+      "expl": "Le zāy est un rāʾ surmonté d'un point. Il se prononce « z », comme dans zakāt.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ز",
+        "tr": "zāy",
+        "pr": "zây",
+        "fr": "la lettre z"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0040",
+      "concept": "ara.alphabet.lettre-sin",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Sīn (s)",
+        "Shīn (ch)",
+        "Ṣād (ṣ)",
+        "Thāʾ (th)"
+      ],
+      "answer": 0,
+      "expl": "Le sīn a trois petites dents, sans point. Avec trois points au-dessus, il devient shīn. Il se prononce « s », comme dans salām.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "س",
+        "tr": "sīn",
+        "pr": "sîn",
+        "fr": "la lettre s"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0041",
+      "concept": "ara.alphabet.lettre-shin",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Ḍād (ḍ)",
+        "Shīn (ch)",
+        "Sīn (s)",
+        "Thāʾ (th)"
+      ],
+      "answer": 1,
+      "expl": "Le shīn, ce sont les trois dents du sīn surmontées de trois points. Il se prononce « ch », comme dans shahāda.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ش",
+        "tr": "shīn",
+        "pr": "chîn",
+        "fr": "la lettre ch"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0042",
+      "concept": "ara.alphabet.lettre-sad",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Sīn (s)",
+        "Ṭāʾ (ṭ)",
+        "Ṣād (ṣ)",
+        "Ḍād (ḍ)"
+      ],
+      "answer": 2,
+      "expl": "Le ṣād a une boucle allongée suivie d'une petite dent. C'est un « s » emphatique, prononcé avec la langue en arrière et la bouche arrondie, comme dans ṣalāt.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ص",
+        "tr": "ṣād",
+        "pr": "sâd",
+        "fr": "la lettre ṣ"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0043",
+      "concept": "ara.alphabet.lettre-dad",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Ṣād (ṣ)",
+        "Ẓāʾ (ẓ)",
+        "Shīn (ch)",
+        "Ḍād (ḍ)"
+      ],
+      "answer": 3,
+      "expl": "Le ḍād est un ṣād avec un point au-dessus. C'est un « d » emphatique si propre à l'arabe que l'on appelle cette langue « la langue du ḍād ».",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ض",
+        "tr": "ḍād",
+        "pr": "dâd",
+        "fr": "la lettre ḍ"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0044",
+      "concept": "ara.alphabet.lettre-ta",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Ṭāʾ (ṭ)",
+        "Ẓāʾ (ẓ)",
+        "Ṣād (ṣ)",
+        "Kāf (k)"
+      ],
+      "answer": 0,
+      "expl": "Le ṭāʾ a une boucle et un trait vertical. C'est un « t » emphatique, plus sourd. Avec un point au-dessus, il devient ẓāʾ.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ط",
+        "tr": "ṭāʾ",
+        "pr": "tâ",
+        "fr": "la lettre ṭ"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0045",
+      "concept": "ara.alphabet.lettre-za",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Zāy (z)",
+        "Ẓāʾ (ẓ)",
+        "Ṭāʾ (ṭ)",
+        "Ḍād (ḍ)"
+      ],
+      "answer": 1,
+      "expl": "Le ẓāʾ est le ṭāʾ avec un point. C'est un « dh » emphatique, comme dans ẓulm (l'injustice).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ظ",
+        "tr": "ẓāʾ",
+        "pr": "zâ",
+        "fr": "la lettre ẓ"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0046",
+      "concept": "ara.alphabet.lettre-ayn",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Hamza (ʾ)",
+        "Jīm (j)",
+        "ʿAyn (ʿ)",
+        "Ghayn (gh)"
+      ],
+      "answer": 2,
+      "expl": "Le ʿayn ressemble à un petit « c » posé sur un crochet. Son son n'existe pas en français : on serre le fond de la gorge, comme un début de « a » étranglé. On l'entend dans ʿilm (le savoir) et ʿArafa.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ع",
+        "tr": "ʿayn",
+        "pr": "ʿayn",
+        "fr": "la lettre ʿ"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0047",
+      "concept": "ara.alphabet.lettre-ghayn",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "ʿAyn (ʿ)",
+        "Khāʾ (kh)",
+        "Fāʾ (f)",
+        "Ghayn (gh)"
+      ],
+      "answer": 3,
+      "expl": "Le ghayn est un ʿayn avec un point au-dessus. Il se prononce comme le « r » grasseyé parisien, comme dans Maghrib.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "غ",
+        "tr": "ghayn",
+        "pr": "ghayn",
+        "fr": "la lettre gh"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0048",
+      "concept": "ara.alphabet.lettre-fa",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Fāʾ (f)",
+        "Qāf (q)",
+        "Wāw (w)",
+        "Ghayn (gh)"
+      ],
+      "answer": 0,
+      "expl": "Le fāʾ a une petite boucle avec un point au-dessus. Dans l'écriture orientale, le qāf a deux points ; mais attention, au Maroc, l'écriture maghrébine met le point du fāʾ en dessous et un seul point sur le qāf !",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ف",
+        "tr": "fāʾ",
+        "pr": "fâ",
+        "fr": "la lettre f"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0049",
+      "concept": "ara.alphabet.lettre-qaf",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Wāw (w)",
+        "Qāf (q)",
+        "Fāʾ (f)",
+        "Kāf (k)"
+      ],
+      "answer": 1,
+      "expl": "Le qāf a une boucle plus profonde que le fāʾ et deux points au-dessus (un seul dans l'écriture maghrébine). C'est un « k » prononcé tout au fond de la gorge, comme dans Qurʾān.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ق",
+        "tr": "qāf",
+        "pr": "qâf",
+        "fr": "la lettre q"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0050",
+      "concept": "ara.alphabet.lettre-kaf",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Qāf (q)",
+        "Dāl (d)",
+        "Kāf (k)",
+        "Lām (l)"
+      ],
+      "answer": 2,
+      "expl": "Le kāf a une forme anguleuse avec un petit signe à l'intérieur. Il se prononce « k », comme dans kitāb (livre).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ك",
+        "tr": "kāf",
+        "pr": "kâf",
+        "fr": "la lettre k"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0051",
+      "concept": "ara.alphabet.lettre-lam",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Alif (ā)",
+        "Kāf (k)",
+        "Nūn (n)",
+        "Lām (l)"
+      ],
+      "answer": 3,
+      "expl": "Le lām est un grand trait vertical qui se termine par une boucle vers la gauche. On le trouve dans l'article « al- » et dans le nom Allāh.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ل",
+        "tr": "lām",
+        "pr": "lâm",
+        "fr": "la lettre l"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0052",
+      "concept": "ara.alphabet.lettre-mim",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Mīm (m)",
+        "Hāʾ (h)",
+        "Fāʾ (f)",
+        "Wāw (w)"
+      ],
+      "answer": 0,
+      "expl": "Le mīm est une petite boucle ronde avec une queue qui descend. Il se prononce « m », comme dans Muḥammad et Maryam.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "م",
+        "tr": "mīm",
+        "pr": "mîm",
+        "fr": "la lettre m"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0053",
+      "concept": "ara.alphabet.lettre-nun",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Zāy (z)",
+        "Nūn (n)",
+        "Bāʾ (b)",
+        "Tāʾ (t)"
+      ],
+      "answer": 1,
+      "expl": "Le nūn est une coupe arrondie, plus profonde que le bāʾ, avec un point au-dessus. Une sourate porte son nom (sourate 68, Nūn).",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ن",
+        "tr": "nūn",
+        "pr": "noûn",
+        "fr": "la lettre n"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0054",
+      "concept": "ara.alphabet.lettre-ha",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Mīm (m)",
+        "Wāw (w)",
+        "Hāʾ (h)",
+        "Fāʾ (f)"
+      ],
+      "answer": 2,
+      "expl": "Le hāʾ isolé ressemble à un petit cercle. C'est un « h » léger, simplement expiré, comme en anglais « hello ». Ne pas confondre avec le ḥāʾ, soufflé du fond de la gorge.",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ه",
+        "tr": "hāʾ",
+        "pr": "hâ",
+        "fr": "la lettre h"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0055",
+      "concept": "ara.alphabet.lettre-waw",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Rāʾ (r)",
+        "Fāʾ (f)",
+        "Mīm (m)",
+        "Wāw (w)"
+      ],
+      "answer": 3,
+      "expl": "Le wāw a une petite tête ronde et une queue qui descend. Il se prononce « w » ou porte le son long « oû ». Seul, il veut dire « et ».",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "و",
+        "tr": "wāw",
+        "pr": "wâw",
+        "fr": "la lettre w"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0056",
+      "concept": "ara.alphabet.lettre-ya",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle est cette lettre ?",
+      "choices": [
+        "Yāʾ (y)",
+        "Nūn (n)",
+        "Bāʾ (b)",
+        "Tāʾ (t)"
+      ],
+      "answer": 0,
+      "expl": "Le yāʾ a deux points en dessous (dans sa forme isolée orientale). Il se prononce « y » ou porte le son long « î ».",
+      "src": [
+        "Grammaire arabe classique"
+      ],
+      "ar": {
+        "text": "ي",
+        "tr": "yāʾ",
+        "pr": "yâ",
+        "fr": "la lettre y"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0057",
+      "concept": "ara.expressions.alhamdulillah",
+      "domain": "arabe",
+      "sub": "expressions",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie cette expression ?",
+      "choices": [
+        "Je demande pardon à Allah",
+        "Louange à Allah",
+        "Au nom d'Allah",
+        "Si Allah le veut"
+      ],
+      "answer": 1,
+      "expl": "Al-ḥamdu li-Llāh (al-ham-dou lil-lâh) : « louange à Allah ». On la dit après avoir mangé, en éternuant, quand on demande « comment ça va ? », et en toute circonstance. C'est le début de la Fātiḥa.",
+      "ar": {
+        "text": "الْحَمْدُ لِلّٰهِ",
+        "tr": "al-ḥamdu li-Llāh",
+        "pr": "al-ham-dou lil-lâh",
+        "fr": "louange à Allah"
+      },
+      "tags": [
+        "ar-question"
+      ]
+    },
+    {
+      "id": "ara-t1-0058",
+      "concept": "ara.vocabulaire.mots-francais",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "paires",
+      "q": "Ces mots français viennent de l'arabe. Associe chacun à son mot arabe d'origine.",
+      "pairs": [
+        [
+          "Café",
+          "qahwa"
+        ],
+        [
+          "Coton",
+          "quṭn"
+        ],
+        [
+          "Zéro",
+          "ṣifr"
+        ],
+        [
+          "Sirop",
+          "sharāb, boisson"
+        ],
+        [
+          "Matelas",
+          "maṭraḥ, ce qu'on jette au sol"
+        ]
+      ],
+      "expl": "On estime à plusieurs centaines le nombre de mots français d'origine arabe. Apprendre l'arabe, c'est aussi redécouvrir sa propre langue ! Le mot « toubib » vient de ṭabīb (médecin) et « bled » de balad (pays)."
+    },
+    {
+      "id": "ara-t1-0059",
+      "concept": "ara.vocabulaire.toubib",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "qcm",
+      "q": "De quel mot arabe vient le mot familier « toubib » (médecin) ?",
+      "choices": [
+        "ṭibāʿa",
+        "ṭāʾir",
+        "ṭabīb",
+        "ṭayyib"
+      ],
+      "answer": 2,
+      "expl": "Ṭabīb (ta-bîb) veut dire médecin, de ṭibb, la médecine. Le mot est entré dans le français au XIXe siècle par l'Afrique du Nord, comme « bled » (balad, pays), « kif-kif » (kayf kayf, pareil) ou « clebs » (kalb, chien)."
+    },
+    {
+      "id": "ara-t1-0060",
+      "concept": "ara.alphabet.fiche-alphabet",
+      "domain": "arabe",
+      "sub": "alphabet",
+      "tier": 1,
+      "type": "fiche",
+      "q": "L'alphabet arabe en 5 idées",
+      "points": [
+        "28 lettres, de droite à gauche",
+        "Formes : isolée, début, milieu, fin",
+        "Familles : ب ت ث (même forme, points différents)",
+        "6 lettres ne s'attachent jamais à la suivante : ا د ذ ر ز و",
+        "Les voyelles courtes sont des petits signes"
+      ],
+      "expl": "L'arabe a 28 lettres et s'écrit de droite à gauche. Les lettres s'attachent entre elles et changent un peu de forme selon leur place dans le mot. Bonne nouvelle : beaucoup de lettres ne diffèrent que par leurs points."
+    },
+    {
+      "id": "ara-t1-0061",
+      "concept": "ara.voyelles.fiche-signes",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Les petits signes de lecture",
+      "points": [
+        "Fatḥa ـَ : « a »",
+        "Kasra ـِ : « i »",
+        "Ḍamma ـُ : « ou »",
+        "Sukūn ـْ : pas de voyelle",
+        "Shadda ـّ : lettre doublée",
+        "Tanwīn ـً ـٍ ـٌ : « an », « in », « oun »"
+      ],
+      "expl": "Dans le Coran, chaque lettre porte un petit signe qui indique comment la prononcer. Les connaître permet de lire n'importe quel mot du muṣḥaf."
+    },
+    {
+      "id": "ara-t1-0062",
+      "concept": "ara.racines.fiche-racines",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 1,
+      "type": "fiche",
+      "q": "Le secret des racines",
+      "points": [
+        "ك ت ب (k-t-b), écrire : kitāb (livre), kātib (écrivain), maktab (bureau)",
+        "س ل م (s-l-m), paix/soumission : islām, muslim, salām",
+        "س ج د (s-j-d), se prosterner : sujūd, masjid (lieu de prosternation)",
+        "ع ل م (ʿ-l-m), savoir : ʿilm, ʿālim, ʿulamāʾ"
+      ],
+      "expl": "La plupart des mots arabes viennent d'une racine de trois lettres qui porte une idée. En connaissant la racine, on devine le sens de nombreux mots du Coran."
+    },
+    {
+      "id": "ara-t1-0063",
+      "concept": "ara.voyelles.shadda",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie la shadda ( ّ ) sur une lettre ?",
+      "choices": [
+        "La lettre est doublée",
+        "La lettre est muette",
+        "La voyelle est longue",
+        "Le mot est au pluriel"
+      ],
+      "answer": 0,
+      "expl": "Par exemple dans « Allāh » (اللّٰه), le lām porte une shadda. Dans « Muḥammad » (مُحَمَّد), le mīm est doublé : mou-ham-mad."
+    },
+    {
+      "id": "ara-t1-0064",
+      "concept": "ara.voyelles.sukun",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le sukūn ( ْ ), le petit rond au-dessus d'une lettre ?",
+      "choices": [
+        "La lettre est en majuscule",
+        "La lettre n'a pas de voyelle",
+        "La lettre se prononce « o »",
+        "La lettre est doublée"
+      ],
+      "answer": 1,
+      "expl": "Dans « bismi » (بِسْمِ), le sīn porte un sukūn : on dit « bis-mi », sans voyelle après le s."
+    },
+    {
+      "id": "ara-t1-0065",
+      "concept": "ara.voyelles.tanwin",
+      "domain": "arabe",
+      "sub": "voyelles",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifient les voyelles doublées ( ً ٍ ٌ ), appelées tanwīn ?",
+      "choices": [
+        "Elles marquent une question",
+        "Elles se lisent deux fois plus fort",
+        "Elles ajoutent un son « n » : an, in, oun",
+        "Elles allongent la voyelle"
+      ],
+      "answer": 2,
+      "expl": "Par exemple « kitābun » (كِتَابٌ), « un livre ». Le tanwīn marque souvent l'indéfini."
+    },
+    {
+      "id": "ara-t1-0066",
+      "concept": "ara.lecture.al",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que signifie le petit mot « al- » (ال) au début d'un mot ?",
+      "choices": [
+        "« Un » ou « une »",
+        "« Et » ou « ou »",
+        "« De » ou « à »",
+        "« Le » ou « la »"
+      ],
+      "answer": 3,
+      "expl": "Al-Qurʾān : le Coran ; al-ḥamd : la louange. Devant certaines lettres (dites « solaires »), le l se fond dans la lettre suivante : ash-shams (le soleil), ar-Raḥmān."
+    },
+    {
+      "id": "ara-t1-0067",
+      "concept": "ara.lecture.wa",
+      "domain": "arabe",
+      "sub": "lecture",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que veut dire la petite lettre « wa » (وَ) attachée au début d'un mot ?",
+      "choices": [
+        "« Et »",
+        "« Le »",
+        "« Pas »",
+        "« Ô »"
+      ],
+      "answer": 0,
+      "expl": "Dans « wa ʿalaykumu s-salām », « wa » veut dire « et » : « et sur vous la paix ». C'est un des mots les plus fréquents du Coran."
+    },
+    {
+      "id": "ara-t1-0068",
+      "concept": "ara.racines.ktb",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Quelle idée commune partagent kitāb, kātib et maktaba ?",
+      "choices": [
+        "Lire",
+        "Écrire",
+        "Parler",
+        "Apprendre"
+      ],
+      "answer": 1,
+      "expl": "- Kitāb : livre\n- kātib : celui qui écrit\n- maktaba : bibliothèque, librairie\n\nAu Maroc, on dit aussi « maktūb » : c'est écrit, c'est le destin."
+    },
+    {
+      "id": "ara-t1-0069",
+      "concept": "ara.racines.sjd",
+      "domain": "arabe",
+      "sub": "racines",
+      "tier": 1,
+      "type": "qcm",
+      "q": "Que veut dire « masjid » (mosquée), d'après sa racine ?",
+      "choices": [
+        "Le lieu où l'on se rassemble",
+        "Le lieu où l'on étudie",
+        "Le lieu où l'on se prosterne",
+        "Le lieu où l'on se lave"
+      ],
+      "answer": 2,
+      "expl": "Racine s-j-d : se prosterner.\n\n- Sajada : il s'est prosterné\n- sujūd : la prosternation\n- masjid : lieu de prosternation\n\nLe mot français « mosquée » vient de masjid, via l'espagnol mezquita."
+    },
+    {
+      "id": "ara-t1-0070",
+      "concept": "ara.vocabulaire.priere-mots",
+      "domain": "arabe",
+      "sub": "vocabulaire",
+      "tier": 1,
+      "type": "paires",
+      "q": "Associe ces mots de la prière à leur sens.",
+      "pairs": [
+        [
+          "Qibla",
+          "Direction de La Mecque"
+        ],
+        [
+          "Rakʿa",
+          "Unité de prière"
+        ],
+        [
+          "Rukūʿ",
+          "Inclinaison"
+        ],
+        [
+          "Sujūd",
+          "Prosternation"
+        ]
+      ],
+      "expl": "Ces mots reviennent tout le temps quand on apprend à prier. Les connaître permet de suivre une explication de l'imam ou d'un livre."
+    }
+  ]
+}

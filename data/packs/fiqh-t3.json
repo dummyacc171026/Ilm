@@ -1,0 +1,447 @@
+{
+  "pack": "fiqh-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "fiq-t3-0001",
+      "concept": "fiq.statuts.mukallaf",
+      "domain": "fiqh",
+      "sub": "statuts",
+      "tier": 3,
+      "type": "qcm",
+      "q": "À quelles conditions une personne est-elle « mukallafa », c'est-à-dire tenue d'appliquer les obligations religieuses ?",
+      "choices": [
+        "Riche, marié et en bonne santé",
+        "Pubère, sain d'esprit, ayant reçu le message",
+        "Arabe et né dans une famille musulmane",
+        "Savant et capable de lire l'arabe"
+      ],
+      "answer": 1,
+      "expl": "« La plume est levée pour trois : le dormeur jusqu'à son réveil, l'enfant jusqu'à sa puberté, et le fou jusqu'à ce qu'il retrouve la raison. » Celui qui n'est pas responsable n'est pas jugé sur ses actes, même si l'enfant est récompensé pour le bien qu'il fait.",
+      "src": [
+        "Hadith de ʿĀʾisha — Abu Dawud & Nasai"
+      ]
+    },
+    {
+      "id": "fiq-t3-0002",
+      "concept": "fiq.principes.qawaid",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque grande règle du fiqh à son sens.",
+      "pairs": [
+        [
+          "Al-umūr bi-maqāṣidihā",
+          "Les actes valent par leurs intentions"
+        ],
+        [
+          "Al-yaqīn lā yazūl bi-sh-shakk",
+          "La certitude n'est pas levée par le doute"
+        ],
+        [
+          "Al-mashaqqa tajlib at-taysīr",
+          "La difficulté entraîne la facilité"
+        ],
+        [
+          "Aḍ-ḍarar yuzāl",
+          "Le préjudice doit être supprimé"
+        ],
+        [
+          "Al-ʿāda muḥakkama",
+          "La coutume fait règle"
+        ]
+      ],
+      "expl": "Les savants ont résumé le fiqh en cinq grandes règles, appuyées sur le Coran et la Sunna. Elles permettent de répondre à des situations nouvelles. Chez les malikites, la règle du doute s'applique avec la nuance vue pour les ablutions."
+    },
+    {
+      "id": "fiq-t3-0003",
+      "concept": "fiq.principes.maqasid",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelles sont les cinq finalités essentielles (maqāṣid) que la Charia vise à préserver, selon al-Ghazālī et ash-Shāṭibī ?",
+      "choices": [
+        "Les mosquées, les livres, les écoles, les marchés et les armées",
+        "Le jeûne, la prière, la zakat, le pèlerinage et la shahāda",
+        "La religion, la vie, la raison, la descendance et les biens",
+        "L'argent, le pouvoir, la célébrité, la force et la beauté"
+      ],
+      "answer": 2,
+      "expl": "Toutes les règles servent ces cinq valeurs : on interdit l'alcool pour protéger la raison, le meurtre pour protéger la vie, le vol pour protéger les biens. Beaucoup y ajoutent l'honneur. Cette lecture aide à comprendre le « pourquoi » des règles."
+    },
+    {
+      "id": "fiq-t3-0004",
+      "concept": "fiq.principes.darura",
+      "domain": "fiqh",
+      "sub": "principes",
+      "tier": 3,
+      "type": "trou",
+      "q": "Règle du fiqh : « La nécessité rend permis l'___ », mais elle s'évalue à sa juste mesure.",
+      "choices": [
+        "obligatoire",
+        "recommandé",
+        "facultatif",
+        "interdit"
+      ],
+      "answer": 3,
+      "expl": "« Aḍ-ḍarūrāt tubīḥu l-maḥẓūrāt » s'appuie sur le verset 2:173. Mais une seconde règle la limite : « la nécessité s'estime à sa mesure » : celui qui est contraint de manger un aliment interdit n'en prend que le nécessaire.",
+      "src": [
+        "Coran 2:173"
+      ]
+    },
+    {
+      "id": "fiq-t3-0005",
+      "concept": "fiq.sources.istishab",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le principe de l'istiṣḥāb, appliqué par exemple aux aliments et aux objets nouveaux ?",
+      "choices": [
+        "Par défaut, les choses sont permises tant qu'aucune preuve ne les interdit",
+        "Tout est interdit par défaut",
+        "Il faut tout demander au calife",
+        "Seul ce que le Prophète ﷺ a utilisé est permis"
+      ],
+      "answer": 0,
+      "expl": "Pour les choses de la vie courante (aliments, techniques, vêtements), le principe de base est la permission. Pour l'adoration, c'est l'inverse : on ne fait que ce qui est enseigné. D'où la grande liberté laissée dans la vie quotidienne.",
+      "src": [
+        "Coran 2:29"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fiq-t3-0006",
+      "concept": "fiq.sources.istihsan",
+      "domain": "fiqh",
+      "sub": "sources",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle parole célèbre est attribuée à l'imam Mālik à propos de l'istiḥsān (préférence juridique pour une solution plus juste) ?",
+      "choices": [
+        "« Une invention dangereuse »",
+        "« Les neuf dixièmes de la science »",
+        "« Une méthode des Perses »",
+        "« Inutile pour un malikite »"
+      ],
+      "answer": 1,
+      "expl": "L'istiḥsān consiste à s'écarter de l'analogie stricte quand elle mène à un résultat injuste ou trop difficile, au profit de l'intérêt ou de la coutume. Mālik et Abū Ḥanīfa l'utilisaient beaucoup ; ash-Shāfiʿī le critiquait.",
+      "note": "Ash-Shāfiʿī rejetait l'istiḥsān, d'où sa formule : « celui qui pratique l'istiḥsān légifère »."
+    },
+    {
+      "id": "fiq-t3-0007",
+      "concept": "fiq.ecoles.raisons",
+      "domain": "fiqh",
+      "sub": "ecoles",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pourquoi les savants des différentes écoles sont-ils parfois arrivés à des avis différents ?",
+      "choices": [
+        "Par ignorance du Coran",
+        "Par hasard",
+        "Un hadith ne leur était pas parvenu, ils jugeaient différemment son authenticité, ou ils comprenaient différemment un mot ou un texte",
+        "Par rivalité personnelle"
+      ],
+      "answer": 2,
+      "expl": "Les divergences sont le fruit d'efforts sincères : un mot arabe peut avoir deux sens, deux hadiths peuvent sembler s'opposer, un usage local peut éclairer un texte. On attribue à ash-Shāfiʿī : « Mon avis est juste, mais peut être erroné ; l'avis des autres est erroné, mais peut être juste. »",
+      "retired": true
+    },
+    {
+      "id": "fiq-t3-0008",
+      "concept": "fiq.maliki.layth",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Avec quel grand savant d'Égypte l'imam Mālik échangea-t-il des lettres célèbres, pleines de respect malgré leurs désaccords ?",
+      "choices": [
+        "Abū Ḥanīfa",
+        "Al-Bukhārī",
+        "Aḥmad ibn Ḥanbal",
+        "Al-Layth ibn Saʿd"
+      ],
+      "answer": 3,
+      "expl": "Mālik reprochait à al-Layth de ne pas suivre la pratique de Médine ; al-Layth répondit, avec courtoisie, que les Compagnons s'étaient dispersés dans de nombreuses régions. Ash-Shāfiʿī disait qu'al-Layth était plus savant que Mālik, mais que ses élèves n'avaient pas transmis son école."
+    },
+    {
+      "id": "fiq-t3-0009",
+      "concept": "fiq.maliki.usul",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 3,
+      "type": "multi",
+      "q": "Lesquelles font partie des sources et méthodes particulièrement utilisées par l'école malikite ?",
+      "choices": [
+        "La pratique des gens de Médine (ʿamal)",
+        "L'intérêt général (maṣlaḥa mursala)",
+        "Les rêves des savants",
+        "Fermer les portes du mal (sadd adh-dharāʾiʿ)",
+        "La coutume (ʿurf)",
+        "L'avis des astrologues"
+      ],
+      "answers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "expl": "En plus du Coran, de la Sunna, du consensus et de l'analogie, l'école malikite s'appuie largement sur ces principes, ce qui lui donne réalisme et souplesse. C'est une des raisons de sa longévité au Maghreb."
+    },
+    {
+      "id": "fiq-t3-0010",
+      "concept": "fiq.maliki.marocains",
+      "domain": "fiqh",
+      "sub": "maliki",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque ouvrage malikite très étudié au Maroc à sa nature.",
+      "pairs": [
+        [
+          "Mayyāra",
+          "Commentaire du poème d'Ibn ʿĀshir"
+        ],
+        [
+          "Tuḥfat al-ḥukkām (Ibn ʿĀṣim)",
+          "Poème sur la justice et les contrats, très utilisé par les juges"
+        ],
+        [
+          "Ash-Sharḥ al-kabīr (ad-Dardīr)",
+          "Commentaire du Mukhtaṣar de Khalīl"
+        ]
+      ],
+      "expl": "Au Maroc, les étudiants des écoles traditionnelles mémorisaient les poèmes didactiques (Ibn ʿĀshir, la Tuḥfa) puis étudiaient leurs commentaires. Ibn ʿĀṣim était un juge de Grenade du XIVe siècle."
+    },
+    {
+      "id": "fiq-t3-0011",
+      "concept": "fiq.halal-haram.vinaigre",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que devient le vin qui se transforme naturellement en vinaigre, selon la majorité des savants ?",
+      "choices": [
+        "Il devient pur et licite, car sa nature a changé (istiḥāla)",
+        "Il reste interdit pour toujours",
+        "Il devient obligatoire",
+        "Il devient impur pour les femmes seulement"
+      ],
+      "answer": 0,
+      "expl": "Le Prophète ﷺ a dit : « Quel excellent condiment que le vinaigre ! » Les savants considèrent que la transformation complète d'une substance change son statut. Ils déconseillent cependant de transformer volontairement du vin en vinaigre.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fiq-t3-0012",
+      "concept": "fiq.halal-haram.cheval",
+      "domain": "fiqh",
+      "sub": "halal-haram",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disent les écoles de la viande de cheval ?",
+      "choices": [
+        "Tous l'interdisent sans exception",
+        "Majorité : permise ; malikites : déconseillée ou interdite",
+        "Toutes les écoles la recommandent pour l'Aïd",
+        "Elle est obligatoire en temps de guerre"
+      ],
+      "answer": 1,
+      "expl": "Asmāʾ bint Abī Bakr dit : « Nous avons égorgé un cheval du temps du Prophète ﷺ et l'avons mangé. » L'imam Mālik, s'appuyant sur le verset 16:8 qui cite les chevaux comme montures, était réticent. Au Maroc, on n'en mange généralement pas.",
+      "src": [
+        "Hadith d'Asmāʾ bint Abī Bakr — Bukhari & Muslim",
+        "Coran 16:8"
+      ],
+      "note": "Permis chez les chaféites et hanbalites ; déconseillé ou interdit chez les malikites et Abū Ḥanīfa."
+    },
+    {
+      "id": "fiq-t3-0013",
+      "concept": "fiq.finance.six-biens",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quels sont les six biens cités par le hadith sur le ribā, qui s'échangent « à égalité et de main à main » ?",
+      "choices": [
+        "Les chameaux, les moutons, les vaches, les chevaux, les ânes et les chèvres",
+        "La soie, le coton, la laine, le lin, le cuir et le bois",
+        "L'or, l'argent, le blé, l'orge, les dattes et le sel",
+        "Le pain, l'eau, le lait, le miel, l'huile et le riz"
+      ],
+      "answer": 2,
+      "expl": "« L'or contre l'or, l'argent contre l'argent, le blé contre le blé, l'orge contre l'orge, les dattes contre les dattes, le sel contre le sel : à égalité, de main à main. » Les savants ont étendu cette règle par analogie à la monnaie et aux denrées de base, selon des critères qui varient entre écoles.",
+      "src": [
+        "Hadith d'ʿUbāda ibn aṣ-Ṣāmit — Muslim"
+      ]
+    },
+    {
+      "id": "fiq-t3-0014",
+      "concept": "fiq.finance.contrats",
+      "domain": "fiqh",
+      "sub": "finance",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque contrat de la finance islamique à sa description.",
+      "pairs": [
+        [
+          "Qirāḍ (muḍāraba)",
+          "L'un apporte le capital, l'autre le travail ; on partage le bénéfice"
+        ],
+        [
+          "Mushāraka",
+          "Association où chacun apporte du capital et partage profits et pertes"
+        ],
+        [
+          "Murābaḥa",
+          "Vente avec une marge bénéficiaire connue"
+        ],
+        [
+          "Ijāra",
+          "Location"
+        ]
+      ],
+      "expl": "Khadīja confia ses marchandises au jeune Muḥammad ﷺ selon un contrat proche du qirāḍ, le terme malikite pour la muḍāraba. L'idée centrale : le profit doit venir d'un risque et d'un travail partagés, non d'un intérêt garanti."
+    },
+    {
+      "id": "fiq-t3-0015",
+      "concept": "fiq.mariage.polygamie",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le Coran à propos de la polygamie (4:3 et 4:129) ?",
+      "choices": [
+        "Elle est obligatoire",
+        "Elle est sans limite",
+        "Elle est permise sans condition",
+        "Elle est permise jusqu'à quatre épouses à condition d'être juste, et « si vous craignez de ne pas être justes, alors une seule »"
+      ],
+      "answer": 3,
+      "expl": "Le verset 4:3 limite à quatre et pose la justice comme condition ; le verset 4:129 reconnaît qu'on ne peut être parfaitement égal dans les sentiments. Au Maroc, la Moudawana de 2004 soumet la polygamie à l'autorisation du juge et au consentement des épouses ; elle y est devenue rare.",
+      "src": [
+        "Coran 4:3",
+        "Coran 4:129"
+      ],
+      "tags": [
+        "sourate:4"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fiq-t3-0016",
+      "concept": "fiq.mariage.kitabiyya",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disent les savants du mariage entre musulmans et non-musulmans ?",
+      "choices": [
+        "L'homme peut épouser une juive ou chrétienne ; la femme non",
+        "Les deux peuvent épouser qui ils veulent",
+        "Personne ne peut, selon toutes les écoles sans exception",
+        "La femme peut, mais pas l'homme"
+      ],
+      "answer": 0,
+      "expl": "Le verset 5:5 permet à l'homme musulman d'épouser une femme des gens du Livre, et le verset 60:10 fonde l'interdiction pour la femme musulmane. Les malikites déconseillent le premier cas, notamment pour l'éducation des enfants.",
+      "src": [
+        "Coran 5:5",
+        "Coran 60:10"
+      ],
+      "note": "Quelques voix contemporaines discutent la seconde règle, mais le consensus classique est constant."
+    },
+    {
+      "id": "fiq-t3-0017",
+      "concept": "fiq.mariage.allaitement",
+      "domain": "fiqh",
+      "sub": "mariage",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle parenté crée l'allaitement, selon le hadith ?",
+      "choices": [
+        "Aucun interdit de mariage",
+        "Les mêmes interdits que par le sang",
+        "Seulement pendant l'enfance",
+        "Seulement pour les garçons"
+      ],
+      "answer": 1,
+      "expl": "« L'allaitement rend interdit ce que rend interdit la parenté par le sang. » Un enfant allaité par une femme devient son « fils de lait », et le frère de lait de ses enfants. Les écoles divergent sur le nombre de tétées nécessaires : une seule suffit chez les malikites, cinq chez les chaféites.",
+      "src": [
+        "Hadith de ʿĀʾisha — Bukhari & Muslim",
+        "Coran 4:23"
+      ],
+      "note": "Malikites et hanafites : toute tétée dans les deux premières années ; chaféites et hanbalites : cinq tétées."
+    },
+    {
+      "id": "fiq-t3-0018",
+      "concept": "fiq.heritage.parts",
+      "domain": "fiqh",
+      "sub": "heritage",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon le Coran (4:12), quelle part reçoit l'épouse de l'héritage de son mari s'il a des enfants ?",
+      "choices": [
+        "Un huitième",
+        "Un quart",
+        "La moitié",
+        "Un tiers"
+      ],
+      "answer": 0,
+      "expl": "L'épouse reçoit un quart si le défunt n'a pas d'enfant, un huitième s'il en a. Le mari reçoit la moitié de l'héritage de sa femme sans enfant, un quart avec enfants. Ces parts fixes (farāʾiḍ) sont détaillées dans les versets 4:11, 4:12 et 4:176.",
+      "src": [
+        "Coran 4:12"
+      ],
+      "tags": [
+        "sourate:4"
+      ]
+    },
+    {
+      "id": "fiq-t3-0019",
+      "concept": "fiq.heritage.double",
+      "domain": "fiqh",
+      "sub": "heritage",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment les savants expliquent-ils que, dans certains cas, le fils reçoive le double de la fille (4:11) ?",
+      "choices": [
+        "Par erreur de copie",
+        "Parce que les filles n'héritent jamais",
+        "Par les charges financières qui pèsent sur l'homme (dot, entretien de l'épouse et de la famille), alors que la part de la femme lui reste entièrement",
+        "Parce que la femme vaut moins"
+      ],
+      "answer": 2,
+      "expl": "Le fils devra verser une dot et entretenir sa famille, tandis que la fille garde son héritage pour elle seule. Les savants rappellent aussi que dans plusieurs cas la femme hérite autant que l'homme, voire davantage. Le sujet fait aujourd'hui l'objet de débats, notamment au Maroc.",
+      "src": [
+        "Coran 4:11"
+      ],
+      "note": "Question débattue dans la société marocaine contemporaine ; on présente ici l'explication classique.",
+      "tags": [
+        "sourate:4"
+      ],
+      "retired": true
+    },
+    {
+      "id": "fiq-t3-0020",
+      "concept": "fiq.heritage.tiers",
+      "domain": "fiqh",
+      "sub": "heritage",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle limite le Prophète ﷺ fixa-t-il au testament (waṣiyya), quand Saʿd ibn Abī Waqqāṣ voulut léguer presque tous ses biens ?",
+      "choices": [
+        "La moitié",
+        "Tous les biens",
+        "Rien",
+        "Le tiers, « et le tiers c'est beaucoup » ; et pas de testament en faveur d'un héritier"
+      ],
+      "answer": 3,
+      "expl": "« Le tiers, et le tiers c'est beaucoup. Il vaut mieux laisser tes héritiers riches que de les laisser pauvres, tendant la main aux gens. » Le testament sert à aider des non-héritiers ou des œuvres, sans léser les héritiers légaux.",
+      "src": [
+        "Hadith de Saʿd ibn Abī Waqqāṣ — Bukhari & Muslim"
+      ],
+      "retired": true
+    }
+  ]
+}

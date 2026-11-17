@@ -1,0 +1,621 @@
+{
+  "pack": "prophetes-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "pro-t3-0001",
+      "concept": "pro.general.luqman-khidr",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disent la plupart des savants du statut de Luqmān et d'al-Khiḍr ?",
+      "choices": [
+        "Ce sont deux prophètes, selon tous les savants",
+        "Luqmān : un sage ; al-Khiḍr : avis partagés",
+        "Ce sont deux anges descendus sur terre",
+        "Ce sont deux rois de l'ancienne Égypte"
+      ],
+      "answer": 1,
+      "expl": "Le Coran dit d'Allah : « Nous avons donné la sagesse à Luqmān » (31:12), sans le dire prophète. Pour al-Khiḍr, que Mūsā suivit, beaucoup de savants y voient un prophète, puisqu'il agissait sur ordre divin ; d'autres un saint.",
+      "src": [
+        "Coran 31:12",
+        "Coran 18:65"
+      ],
+      "note": "Statuts discutés par les savants."
+    },
+    {
+      "id": "pro-t3-0002",
+      "concept": "pro.general.dhu-l-qarnayn",
+      "domain": "prophetes",
+      "sub": "general",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui était Dhū l-Qarnayn, cité dans la sourate al-Kahf ?",
+      "choices": [
+        "Un prophète envoyé aux habitants de Babylone",
+        "Un ange qui garde les portes du ciel",
+        "Un souverain juste ; son identité est débattue",
+        "Un roi tyrannique puni par un déluge"
+      ],
+      "answer": 2,
+      "expl": "Le Coran raconte ses voyages vers le couchant et le levant, et la muraille qu'il bâtit contre Gog et Magog. Les commentateurs ont proposé plusieurs identifications ; le Coran s'intéresse moins à son nom qu'à sa justice et son humilité : « Ceci est une miséricorde de mon Seigneur. »",
+      "src": [
+        "Coran 18:83-98"
+      ],
+      "tags": [
+        "sourate:18"
+      ]
+    },
+    {
+      "id": "pro-t3-0003",
+      "concept": "pro.adam.habil-qabil",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que raconte le Coran à propos des deux fils d'Adam (appelés Hābīl et Qābīl dans la tradition) ?",
+      "choices": [
+        "Ils fondèrent ensemble la première ville",
+        "L'un devint prophète, l'autre roi du monde",
+        "Ils partirent chacun vers une terre lointaine",
+        "L'un tua l'autre ; un corbeau lui apprit à l'enterrer"
+      ],
+      "answer": 3,
+      "expl": "Le sacrifice de l'un fut accepté, celui de l'autre non ; jaloux, il tua son frère, qui avait refusé de lever la main sur lui. Un corbeau lui montra comment enterrer le corps, et il regretta. Le verset suivant (5:32) pose la sacralité de toute vie humaine.",
+      "src": [
+        "Coran 5:27-32"
+      ],
+      "tags": [
+        "prophete:adam",
+        "sourate:5"
+      ]
+    },
+    {
+      "id": "pro-t3-0004",
+      "concept": "pro.adam.premier-meurtre",
+      "domain": "prophetes",
+      "sub": "adam",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon le hadith, le premier fils d'Adam qui tua porte une part de chaque meurtre injuste commis après lui, car il fut le premier à instaurer le meurtre.",
+      "answer": true,
+      "expl": "« Aucune âme n'est tuée injustement sans que le premier fils d'Adam porte une part de son sang, car il fut le premier à instaurer le meurtre. » Celui qui ouvre une voie mauvaise en porte le poids ; celui qui ouvre une voie bonne en reçoit la récompense.",
+      "src": [
+        "Hadith d'Ibn Masʿūd — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:adam"
+      ]
+    },
+    {
+      "id": "pro-t3-0005",
+      "concept": "pro.nuh.idoles",
+      "domain": "prophetes",
+      "sub": "nuh",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon Ibn ʿAbbās, que représentaient à l'origine les idoles du peuple de Nūḥ (Wadd, Suwāʿ, Yaghūth, Yaʿūq et Nasr) ?",
+      "choices": [
+        "Des hommes pieux statufiés, puis adorés",
+        "Des étoiles que les gens observaient la nuit",
+        "Des animaux sacrés gardés dans un temple",
+        "Des rois cruels que le peuple craignait"
+      ],
+      "answer": 0,
+      "expl": "Le Shayṭān souffla d'abord de dresser des statues de ces hommes vertueux pour garder leur souvenir ; quand cette génération disparut et que le savoir s'oublia, on se mit à les adorer. Une leçon sur la façon dont le shirk s'installe peu à peu.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari",
+        "Coran 71:23"
+      ],
+      "tags": [
+        "prophete:nuh",
+        "sourate:71"
+      ]
+    },
+    {
+      "id": "pro-t3-0006",
+      "concept": "pro.hud-salih.neuf",
+      "domain": "prophetes",
+      "sub": "hud-salih",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Combien d'hommes complotèrent, dans la ville de Thamūd, pour tuer le prophète Ṣāliḥ et sa famille ?",
+      "choices": [
+        "Neuf",
+        "Deux",
+        "Cent",
+        "Quarante"
+      ],
+      "answer": 0,
+      "expl": "« Il y avait dans la ville neuf individus qui semaient le désordre sur la terre et ne faisaient rien de bon. » Ils jurèrent de l'attaquer de nuit ; Allah fit échouer leur complot.",
+      "src": [
+        "Coran 27:48-51"
+      ],
+      "tags": [
+        "prophete:salih"
+      ]
+    },
+    {
+      "id": "pro-t3-0007",
+      "concept": "pro.ibrahim.hospitalite",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment Ibrāhīm accueillit-il ses hôtes, qui étaient en réalité des anges ?",
+      "choices": [
+        "Il leur demanda de partir aussitôt",
+        "Il leur apporta un veau gras rôti",
+        "Il leur offrit de l'eau et des dattes",
+        "Il les conduisit tout de suite à la Kaʿba"
+      ],
+      "answer": 1,
+      "expl": "Sans même savoir qui ils étaient, Ibrāhīm se hâta de leur servir un veau rôti. Quand ils ne mangèrent pas, il prit peur ; ils lui annoncèrent alors la naissance d'Isḥāq. L'hospitalité d'Ibrāhīm est restée proverbiale.",
+      "src": [
+        "Coran 11:69-71",
+        "Coran 51:24-28"
+      ],
+      "tags": [
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "pro-t3-0008",
+      "concept": "pro.ibrahim.dua-mecque",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que demanda Ibrāhīm à Allah pour La Mecque et pour ses enfants (14:35) ?",
+      "choices": [
+        "Une ville riche, aux palais nombreux",
+        "Une armée puissante pour la défendre",
+        "Une ville sûre, ses enfants loin des idoles",
+        "Des fleuves et des jardins verdoyants"
+      ],
+      "answer": 2,
+      "expl": "« Seigneur, fais de cette cité un lieu sûr, et préserve-moi, ainsi que mes enfants, d'adorer les idoles. » Même le « père des prophètes » craignait le shirk pour lui-même et ses descendants.",
+      "src": [
+        "Coran 14:35"
+      ],
+      "tags": [
+        "prophete:ibrahim",
+        "sourate:14"
+      ]
+    },
+    {
+      "id": "pro-t3-0009",
+      "concept": "pro.ibrahim.vetu",
+      "domain": "prophetes",
+      "sub": "ibrahim",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qui sera, selon le hadith, le premier à être vêtu au Jour de la Résurrection ?",
+      "choices": [
+        "Muḥammad ﷺ",
+        "Ādam",
+        "Mūsā",
+        "Ibrāhīm"
+      ],
+      "answer": 3,
+      "expl": "« Les gens seront rassemblés nus et incirconcis, et le premier à être vêtu sera Ibrāhīm. » Les savants y voient un honneur pour celui qui fut dépouillé de ses vêtements avant d'être jeté dans le feu.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "pro-t3-0010",
+      "concept": "pro.lut-ismail-ishaq.jurhum",
+      "domain": "prophetes",
+      "sub": "lut-ismail-ishaq",
+      "tier": 3,
+      "type": "qcm",
+      "q": "De quelle tribu Ismāʿīl apprit-il la langue arabe, à La Mecque ?",
+      "choices": [
+        "La tribu de Jurhum",
+        "La tribu de Quraysh",
+        "La tribu de Thaqīf",
+        "La tribu de Khuzāʿa"
+      ],
+      "answer": 0,
+      "expl": "Selon le long récit d'Ibn ʿAbbās, des gens de Jurhum virent des oiseaux tourner au-dessus de la vallée, devinèrent la présence d'eau et demandèrent à Hājar la permission de s'installer. Ismāʿīl grandit parmi eux, apprit l'arabe et épousa une femme de cette tribu.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari"
+      ],
+      "tags": [
+        "prophete:ismail"
+      ]
+    },
+    {
+      "id": "pro-t3-0011",
+      "concept": "pro.lut-ismail-ishaq.seuil",
+      "domain": "prophetes",
+      "sub": "lut-ismail-ishaq",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifiait le message d'Ibrāhīm à Ismāʿīl : « Change le seuil de ta porte » ?",
+      "choices": [
+        "Qu'il agrandisse la porte de sa maison",
+        "Qu'il quitte la femme qui se plaignait",
+        "Qu'il déménage dans une autre ville",
+        "Qu'il construise un seuil en pierre"
+      ],
+      "answer": 1,
+      "expl": "Ibrāhīm, en visite, trouva l'épouse d'Ismāʿīl qui se plaignait de la pauvreté ; il laissa ce message codé. Plus tard, une seconde épouse remercia Allah malgré la vie simple ; il fit dire : « Garde le seuil de ta porte. » La gratitude au foyer est une bénédiction.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari"
+      ],
+      "tags": [
+        "prophete:ibrahim",
+        "prophete:ismail"
+      ]
+    },
+    {
+      "id": "pro-t3-0012",
+      "concept": "pro.yaqub-yusuf.coupe",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel stratagème Yūsuf employa-t-il pour garder son frère Binyāmīn auprès de lui en Égypte ?",
+      "choices": [
+        "Il le fit arrêter pour une dette",
+        "Il lui offrit un poste à la cour",
+        "Il cacha la coupe du roi dans ses bagages",
+        "Il le retint comme otage de guerre"
+      ],
+      "answer": 2,
+      "expl": "Selon la loi de la famille de Yaʿqūb, le voleur devenait serviteur de sa victime. La coupe retrouvée dans les sacs de Binyāmīn permit à Yūsuf de le garder, préparant les retrouvailles. Le Coran dit : « C'est ainsi que Nous suggérâmes ce stratagème à Yūsuf. »",
+      "src": [
+        "Coran 12:70-76"
+      ],
+      "tags": [
+        "prophete:yusuf",
+        "sourate:12"
+      ]
+    },
+    {
+      "id": "pro-t3-0013",
+      "concept": "pro.yaqub-yusuf.israil",
+      "domain": "prophetes",
+      "sub": "yaqub-yusuf",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Sous quel autre nom le Coran désigne-t-il Yaʿqūb, père des douze tribus ?",
+      "choices": [
+        "Yūsuf",
+        "Isḥāq",
+        "Ismāʿīl",
+        "Isrāʾīl"
+      ],
+      "answer": 3,
+      "expl": "« Toute nourriture était licite aux fils d'Isrāʾīl, sauf ce qu'Isrāʾīl s'était interdit à lui-même » (3:93). L'expression « Banū Isrāʾīl », les fils d'Israël, désigne ses descendants.",
+      "src": [
+        "Coran 3:93"
+      ],
+      "tags": [
+        "prophete:yaqub",
+        "sourate:3"
+      ]
+    },
+    {
+      "id": "pro-t3-0014",
+      "concept": "pro.shuayb-ayyub.reforme",
+      "domain": "prophetes",
+      "sub": "shuayb-ayyub",
+      "tier": 3,
+      "type": "trou",
+      "q": "Shuʿayb dit à son peuple : « Je ne veux que la ___, autant que je le puis, et ma réussite ne dépend que d'Allah. »",
+      "choices": [
+        "réforme",
+        "richesse",
+        "royauté",
+        "vengeance"
+      ],
+      "answer": 0,
+      "expl": "« In urīdu illā l-iṣlāḥa mā staṭaʿt » (11:88). Shuʿayb, surnommé dans la tradition « l'orateur des prophètes », résume l'attitude du réformateur : faire de son mieux, et remettre le résultat à Allah.",
+      "src": [
+        "Coran 11:88"
+      ],
+      "tags": [
+        "prophete:shuayb",
+        "sourate:11"
+      ]
+    },
+    {
+      "id": "pro-t3-0015",
+      "concept": "pro.musa-harun.voir-allah",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que se passa-t-il quand Mūsā demanda à voir Allah ?",
+      "choices": [
+        "Allah lui apparut sous une forme humaine",
+        "La montagne fut pulvérisée, Mūsā s'évanouit",
+        "Un ange lui répondit qu'il était indigne",
+        "Il vit une lumière et devint aveugle"
+      ],
+      "answer": 1,
+      "expl": "« Tu ne Me verras pas ; mais regarde la montagne : si elle tient en place, tu Me verras. » Elle s'effondra, et Mūsā, revenu à lui, se repentit. Les sunnites en déduisent que la vision d'Allah n'est pas possible ici-bas, mais le sera au Paradis pour les croyants.",
+      "src": [
+        "Coran 7:143"
+      ],
+      "tags": [
+        "prophete:musa"
+      ]
+    },
+    {
+      "id": "pro-t3-0016",
+      "concept": "pro.musa-harun.desert",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 3,
+      "type": "multi",
+      "q": "Quels bienfaits Allah accorda-t-Il aux fils d'Israël dans le désert, selon le Coran ?",
+      "choices": [
+        "La manne et les cailles",
+        "L'ombre des nuages",
+        "Des palais d'or",
+        "Douze sources jaillies du rocher",
+        "Des chevaux ailés"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "« Nous vous couvrîmes de l'ombre des nuages, et fîmes descendre sur vous la manne et les cailles » ; et quand Mūsā frappa le rocher, douze sources jaillirent, une par tribu. Malgré cela, beaucoup se plaignirent et réclamèrent des oignons et des lentilles.",
+      "src": [
+        "Coran 2:57",
+        "Coran 2:60-61"
+      ],
+      "tags": [
+        "prophete:musa",
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "pro-t3-0017",
+      "concept": "pro.musa-harun.errance",
+      "domain": "prophetes",
+      "sub": "musa-harun",
+      "tier": 3,
+      "type": "nombre",
+      "q": "Combien d'années les fils d'Israël errèrent-ils dans le désert, après avoir refusé d'entrer dans la Terre sainte ?",
+      "answer": 40,
+      "unit": "ans",
+      "expl": "« Cette terre leur sera interdite pendant quarante ans, durant lesquels ils erreront sur la terre » (5:26). Le temps qu'une génération nouvelle, plus courageuse, remplace celle qui avait eu peur.",
+      "src": [
+        "Coran 5:26"
+      ],
+      "tags": [
+        "prophete:musa",
+        "sourate:5"
+      ]
+    },
+    {
+      "id": "pro-t3-0018",
+      "concept": "pro.dawud-sulayman.brebis",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle affaire deux plaideurs vinrent-ils soumettre à Dāwūd en escaladant son sanctuaire ?",
+      "choices": [
+        "Deux frères se disputaient l'héritage de leur père",
+        "Un voleur avait pris le trésor du temple",
+        "Celui aux 99 brebis voulait l'unique de son frère",
+        "Deux bergers se disputaient un puits"
+      ],
+      "answer": 2,
+      "expl": "Dāwūd jugea l'injustice, puis comprit que c'était une épreuve pour lui-même ; il demanda pardon et se prosterna. Ce passage (38:21-25) enseigne l'humilité du juge et la vigilance envers sa propre conduite.",
+      "src": [
+        "Coran 38:21-25"
+      ],
+      "tags": [
+        "prophete:dawud"
+      ]
+    },
+    {
+      "id": "pro-t3-0019",
+      "concept": "pro.dawud-sulayman.deux-meres",
+      "domain": "prophetes",
+      "sub": "dawud-sulayman",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment Sulaymān trancha-t-il entre deux femmes qui se disputaient un bébé, selon le hadith ?",
+      "choices": [
+        "Il demanda à l'enfant de choisir sa mère",
+        "Il confia l'enfant à la plus âgée",
+        "Il fit témoigner les voisins des deux femmes",
+        "Il proposa de couper l'enfant ; la vraie mère renonça"
+      ],
+      "answer": 3,
+      "expl": "Un loup avait emporté le fils de l'une ; elles se disputaient l'autre. Dāwūd le donna à l'aînée ; Sulaymān demanda un couteau. La cadette s'écria : « Ne fais pas cela, il est à elle ! » Il comprit qu'elle était la mère. La sagesse lit dans les cœurs.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:sulayman",
+        "prophete:dawud"
+      ]
+    },
+    {
+      "id": "pro-t3-0020",
+      "concept": "pro.yunus-autres.yaqtin",
+      "domain": "prophetes",
+      "sub": "yunus-autres",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle plante Allah fit-Il pousser au-dessus de Yūnus après qu'il fut rejeté par le poisson ?",
+      "choices": [
+        "Un plant de courge",
+        "Un palmier dattier",
+        "Un figuier sauvage",
+        "Un olivier"
+      ],
+      "answer": 0,
+      "expl": "« Nous le rejetâmes sur la terre nue, malade, et fîmes pousser au-dessus de lui un arbuste de courge. » Ses larges feuilles l'abritèrent pendant qu'il reprenait des forces. Le Prophète ﷺ aimait la courge, disent les Compagnons.",
+      "src": [
+        "Coran 37:145-146",
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:yunus"
+      ]
+    },
+    {
+      "id": "pro-t3-0021",
+      "concept": "pro.yunus-autres.ne-preferez",
+      "domain": "prophetes",
+      "sub": "yunus-autres",
+      "tier": 3,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a dit : « Il ne convient à personne de dire que je suis meilleur que Yūnus fils de Mattā. »",
+      "answer": true,
+      "expl": "Par humilité et pour protéger l'honneur de Yūnus, qu'on pourrait juger sur son départ précipité, le Prophète ﷺ interdit cette comparaison dévalorisante. Les prophètes ont des rangs, mais on n'en rabaisse aucun.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:yunus"
+      ]
+    },
+    {
+      "id": "pro-t3-0022",
+      "concept": "pro.zakariya-yahya.sayyid",
+      "domain": "prophetes",
+      "sub": "zakariya-yahya",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Par quelles qualités les anges annoncèrent-ils Yaḥyā à Zakariyyā (3:39) ?",
+      "choices": [
+        "Riche, puissant et roi d'Israël",
+        "Noble, chaste, prophète parmi les vertueux",
+        "Guerrier, vainqueur de tous ses ennemis",
+        "Savant, auteur d'un livre de sagesse"
+      ],
+      "answer": 1,
+      "expl": "« Allah t'annonce Yaḥyā, qui confirmera une parole d'Allah (ʿĪsā), noble, chaste et prophète d'entre les gens de bien. » Yaḥyā reconnut et annonça ʿĪsā.",
+      "src": [
+        "Coran 3:39"
+      ],
+      "tags": [
+        "prophete:yahya",
+        "prophete:zakariya",
+        "sourate:3"
+      ]
+    },
+    {
+      "id": "pro-t3-0023",
+      "concept": "pro.isa-maryam.dajjal-lud",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Selon le hadith, où ʿĪsā, à son retour, mettra-t-il fin au Dajjāl ?",
+      "choices": [
+        "Sur le mont Sinaï, en Égypte",
+        "À La Mecque, près de la Kaʿba",
+        "À la porte de Lud, en Palestine",
+        "À Damas, devant la grande mosquée"
+      ],
+      "answer": 2,
+      "expl": "Le long hadith d'an-Nawwās ibn Samʿān décrit la descente de ʿĪsā près du minaret blanc à l'est de Damas, puis sa poursuite du Dajjāl jusqu'à la porte de Lud, où il le tue. Puis viendra une période de paix.",
+      "src": [
+        "Hadith d'an-Nawwās ibn Samʿān — Muslim"
+      ],
+      "tags": [
+        "prophete:isa"
+      ]
+    },
+    {
+      "id": "pro-t3-0024",
+      "concept": "pro.isa-maryam.5-116",
+      "domain": "prophetes",
+      "sub": "isa-maryam",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que répondra ʿĪsā, selon le Coran, quand Allah lui demandera s'il a dit aux gens de l'adorer avec sa mère ?",
+      "choices": [
+        "« Oui, je le leur ai dit, car je suis Ton fils »",
+        "« Je ne me souviens plus de ce que j'ai dit »",
+        "« Ce sont mes disciples qui l'ont inventé, pas moi »",
+        "« Gloire à Toi ! Je ne leur ai dit que : adorez Allah »"
+      ],
+      "answer": 3,
+      "expl": "Ce dialogue (5:116-118) montre ʿĪsā comme un serviteur humble et fidèle. Il se termine par une parole bouleversante, que le Prophète ﷺ répéta toute une nuit en pleurant : « Si Tu les châties, ils sont Tes serviteurs ; et si Tu leur pardonnes, c'est Toi le Puissant, le Sage. »",
+      "src": [
+        "Coran 5:116-118",
+        "Hadith d'Abū Dharr — Nasai"
+      ],
+      "tags": [
+        "prophete:isa",
+        "sourate:5"
+      ]
+    },
+    {
+      "id": "pro-t3-0025",
+      "concept": "pro.muhammad.noms",
+      "domain": "prophetes",
+      "sub": "muhammad",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque nom du Prophète ﷺ cité dans le hadith de Jubayr ibn Muṭʿim à son sens.",
+      "pairs": [
+        [
+          "Aḥmad",
+          "Le plus digne de louange"
+        ],
+        [
+          "Al-Māḥī",
+          "Celui par qui Allah efface la mécréance"
+        ],
+        [
+          "Al-Ḥāshir",
+          "Celui à la suite duquel les gens seront rassemblés"
+        ],
+        [
+          "Al-ʿĀqib",
+          "Celui après qui il n'y a pas de prophète"
+        ]
+      ],
+      "expl": "« J'ai plusieurs noms : je suis Muḥammad, je suis Aḥmad, je suis al-Māḥī… al-Ḥāshir… et al-ʿĀqib. » Chacun exprime une facette de sa mission : la louange, l'effacement de l'idolâtrie, la proximité de l'Heure, la clôture de la prophétie.",
+      "src": [
+        "Hadith de Jubayr ibn Muṭʿim — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:muhammad"
+      ]
+    },
+    {
+      "id": "pro-t3-0026",
+      "concept": "pro.muhammad.brique",
+      "domain": "prophetes",
+      "sub": "muhammad",
+      "tier": 3,
+      "type": "qcm",
+      "q": "À quoi le Prophète ﷺ compara-t-il sa place par rapport aux prophètes précédents ?",
+      "choices": [
+        "À la dernière brique d'une belle maison",
+        "Au sommet d'une haute montagne",
+        "À la plus grande étoile du ciel",
+        "Au roi d'une grande armée"
+      ],
+      "answer": 0,
+      "expl": "« Mon exemple et celui des prophètes avant moi est celui d'un homme qui bâtit une maison, l'embellit et l'achève, sauf l'emplacement d'une brique. Les gens en font le tour, admirent et disent : si seulement cette brique était posée ! Je suis cette brique, et je suis le sceau des prophètes. »",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ],
+      "tags": [
+        "prophete:muhammad"
+      ]
+    }
+  ]
+}

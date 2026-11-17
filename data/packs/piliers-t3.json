@@ -1,0 +1,378 @@
+{
+  "pack": "piliers-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "pil-t3-0001",
+      "concept": "pil.ramadan.prescription",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 3,
+      "type": "qcm",
+      "q": "En quelle année de l'Hégire le jeûne de Ramadan fut-il prescrit ?",
+      "choices": [
+        "En l'an 2, au mois de Shaʿbān",
+        "Dès la première révélation à La Mecque",
+        "En l'an 10",
+        "En l'an 8, après la conquête"
+      ],
+      "answer": 0,
+      "expl": "Le jeûne fut prescrit à Médine en Shaʿbān de l'an 2, l'année de Badr. Le Prophète ﷺ jeûna donc neuf Ramadans au cours de sa vie. Avant cela, le jeûne de ʿĀshūrāʾ était pratiqué, puis il devint facultatif.",
+      "src": [
+        "Coran 2:183",
+        "Hadith de ʿĀʾisha — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t3-0002",
+      "concept": "pil.ramadan.neuf",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 3,
+      "type": "nombre",
+      "q": "Combien de Ramadans le Prophète ﷺ a-t-il jeûnés au cours de sa vie ?",
+      "answer": 9,
+      "expl": "Neuf, de l'an 2 à l'an 10 de l'Hégire, puisqu'il mourut en Rabīʿ al-Awwal de l'an 11. La législation du jeûne s'est donc construite en une décennie, avec des allègements progressifs."
+    },
+    {
+      "id": "pil-t3-0003",
+      "concept": "pil.ramadan.etapes",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment le jeûne a-t-il été prescrit au début, selon le Compagnon Salama ibn al-Akwaʿ ?",
+      "choices": [
+        "Il durait deux mois entiers chaque année",
+        "On pouvait d'abord jeûner ou nourrir un pauvre",
+        "Il fut obligatoire dès le premier jour, sans exception",
+        "Il était réservé aux hommes adultes"
+      ],
+      "answer": 1,
+      "expl": "Le verset 2:184 laissait d'abord le choix (« ceux qui pourraient le supporter ont une compensation »), puis le verset 2:185 rendit le jeûne obligatoire (« quiconque est présent en ce mois, qu'il jeûne »). La fidya est restée pour ceux qui ne peuvent vraiment pas jeûner.",
+      "src": [
+        "Hadith de Salama ibn al-Akwaʿ — Bukhari & Muslim",
+        "Coran 2:184-185"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "pil-t3-0004",
+      "concept": "pil.ramadan.qays",
+      "domain": "piliers",
+      "sub": "ramadan",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que raconte l'histoire de Qays ibn Ṣirma, à l'origine du verset 2:187 ?",
+      "choices": [
+        "Il voyagea pendant Ramadan et rompit son jeûne en chemin",
+        "Il jeûna toute l'année sans jamais s'arrêter",
+        "Endormi avant de manger, il s'évanouit : la règle fut allégée",
+        "Il oublia de jeûner un jour et mangea"
+      ],
+      "answer": 2,
+      "expl": "Aux premiers temps, celui qui s'endormait avant de manger devait attendre le lendemain soir. Qays, rentré épuisé de son travail, s'endormit avant le repas et s'évanouit le lendemain. Le verset vint permettre de manger et boire toute la nuit, jusqu'à l'aube.",
+      "src": [
+        "Hadith d'al-Barāʾ ibn ʿĀzib — Bukhari",
+        "Coran 2:187"
+      ],
+      "tags": [
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "pil-t3-0005",
+      "concept": "pil.jeune-volontaire.interdits",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 3,
+      "type": "multi",
+      "q": "Quels jours est-il interdit de jeûner ?",
+      "choices": [
+        "Le jour de l'Aïd al-Fiṭr",
+        "Le jour de l'Aïd al-Aḍḥā",
+        "Le lundi",
+        "Les jours de tashrīq (11, 12, 13 Dhū l-Ḥijja), sauf exception pour certains pèlerins",
+        "Le jour de ʿArafa pour qui n'est pas pèlerin"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "expl": "Les deux Aïds et les jours de tashrīq sont des jours de fête et de nourriture. Les malikites permettent seulement au pèlerin qui n'a pas trouvé de sacrifice de jeûner les jours de tashrīq. Le jour du doute (30 Shaʿbān) est aussi à éviter selon le hadith d'ʿAmmār.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim",
+        "Hadith de Nubaysha al-Hudhalī — Muslim"
+      ]
+    },
+    {
+      "id": "pil-t3-0006",
+      "concept": "pil.jeune-volontaire.wisal",
+      "domain": "piliers",
+      "sub": "jeune-volontaire",
+      "tier": 3,
+      "type": "vf",
+      "q": "Le Prophète ﷺ a interdit à ses Compagnons de jeûner plusieurs jours d'affilée sans rompre (al-wiṣāl).",
+      "answer": true,
+      "expl": "Les Compagnons voulurent l'imiter ; il leur dit : « Je ne suis pas comme vous : mon Seigneur me nourrit et m'abreuve. » L'islam refuse les excès qui épuisent le corps. Le jeûne se fait de l'aube au coucher du soleil.",
+      "src": [
+        "Hadith d'Ibn ʿUmar — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t3-0007",
+      "concept": "pil.jeune-regles.inhalateur",
+      "domain": "piliers",
+      "sub": "jeune-regles",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disent les savants contemporains de l'inhalateur pour asthmatiques pendant le jeûne ?",
+      "choices": [
+        "Il est obligatoire pour tous les jeûneurs",
+        "Il annule le jeûne de tout le mois",
+        "La question ne s'est jamais posée aux savants",
+        "Les avis divergent ; le malade peut rompre et rattraper"
+      ],
+      "answer": 3,
+      "expl": "L'inhalateur dépose surtout le médicament dans les poumons, mais une partie peut atteindre la gorge. D'où la divergence. Dans tous les cas, la santé passe avant : « Allah veut pour vous la facilité. »",
+      "src": [
+        "Coran 2:185"
+      ],
+      "note": "Question contemporaine ; consulter un savant de confiance selon sa situation."
+    },
+    {
+      "id": "pil-t3-0008",
+      "concept": "pil.jeune-excuses.regles-journee",
+      "domain": "piliers",
+      "sub": "jeune-excuses",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que se passe-t-il si les règles commencent en plein après-midi pendant un jour de Ramadan ?",
+      "choices": [
+        "Le jeûne de ce jour est rompu et devra être rattrapé",
+        "Il faut continuer à jeûner jusqu'au soir pour qu'il compte",
+        "Le jour compte comme jeûné",
+        "Il faut jeûner deux jours de plus"
+      ],
+      "answer": 0,
+      "expl": "Même quelques minutes avant le coucher du soleil, l'arrivée des règles interrompt le jeûne du jour, qui sera rattrapé. À l'inverse, si les règles s'arrêtent avant l'aube, la femme jeûne, même si elle fait le ghusl après l'aube."
+    },
+    {
+      "id": "pil-t3-0009",
+      "concept": "pil.zakat.awsuq",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 3,
+      "type": "qcm",
+      "q": "À partir de quelle quantité de récolte la zakat est-elle due, selon le hadith (cinq awsuq) ?",
+      "choices": [
+        "Dès la toute première graine",
+        "Environ 600 kg de grains",
+        "Environ 1 kg",
+        "Environ 10 tonnes"
+      ],
+      "answer": 1,
+      "expl": "« Il n'y a pas de zakat sur moins de cinq awsuq. » Un wasq vaut soixante ṣāʿ ; cinq awsuq représentent environ 600 à 650 kg. Le taux est ensuite de 10 % ou 5 % selon l'irrigation.",
+      "src": [
+        "Hadith d'Abū Saʿīd al-Khudrī — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t3-0010",
+      "concept": "pil.zakat.rikaz",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle part doit-on donner d'un trésor enfoui datant d'avant l'islam (rikāz), découvert par hasard ?",
+      "choices": [
+        "Le cinquième",
+        "Le quarantième",
+        "La moitié",
+        "Rien du tout"
+      ],
+      "answer": 0,
+      "expl": "« Pour le rikāz, le cinquième. » Le trésor trouvé sans effort de production est taxé plus fortement que l'épargne. Les malikites précisent les conditions de cette règle.",
+      "src": [
+        "Hadith d'Abū Hurayra — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "pil-t3-0011",
+      "concept": "pil.zakat.commerce",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Comment calcule-t-on la zakat sur les marchandises d'un commerçant ?",
+      "choices": [
+        "On donne 10 % de toutes les ventes faites dans l'année",
+        "On donne un article sur dix au pauvre",
+        "2,5 % du stock estimé chaque année, avec l'argent",
+        "On ne paie rien sur les marchandises"
+      ],
+      "answer": 2,
+      "expl": "Les marchandises destinées à la vente sont assimilées à l'argent. Les malikites distinguent le commerçant qui vend en continu (il évalue son stock chaque année) et celui qui stocke en attendant une hausse (il paie à la vente, pour une année).",
+      "note": "Distinction malikite entre le commerçant « mudīr » et le spéculateur « muḥtakir »."
+    },
+    {
+      "id": "pil-t3-0012",
+      "concept": "pil.zakat.dettes",
+      "domain": "piliers",
+      "sub": "zakat",
+      "tier": 3,
+      "type": "vf",
+      "q": "Selon de nombreux savants, dont les malikites pour l'argent, on déduit ses dettes avant de calculer la zakat.",
+      "answer": true,
+      "expl": "Si l'on doit rembourser une dette, on la retire de son épargne avant de voir si l'on atteint le niṣāb. ʿUthmān disait en chaire : « Ceci est le mois de votre zakat ; que celui qui a une dette la paie, puis acquitte la zakat de ce qui reste. »",
+      "src": [
+        "Mālik, al-Muwaṭṭaʾ"
+      ]
+    },
+    {
+      "id": "pil-t3-0013",
+      "concept": "pil.hajj.zamzam",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith à propos de l'eau de Zamzam ?",
+      "choices": [
+        "Qu'il est interdit de la boire",
+        "Qu'elle n'est que pour les pèlerins hommes",
+        "Qu'elle remplace la prière",
+        "« L'eau de Zamzam est pour ce pour quoi on la boit »"
+      ],
+      "answer": 3,
+      "expl": "On boit Zamzam en formulant une invocation : guérison, savoir, pardon. Le Prophète ﷺ en buvait debout lors du pèlerinage, et l'appelait aussi « une nourriture qui rassasie ». Les pèlerins en rapportent pour leur famille.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Ibn Majah",
+        "Hadith d'Abū Dharr — Muslim"
+      ]
+    },
+    {
+      "id": "pil-t3-0014",
+      "concept": "pil.hajj.annule",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'est-ce qui rend le pèlerinage invalide selon tous les savants ?",
+      "choices": [
+        "Manquer ʿArafa, ou un rapport avant elle",
+        "Oublier la talbiya une seule fois",
+        "Prier à l'hôtel plutôt qu'à la mosquée",
+        "Perdre ses sandales pendant le ṭawāf"
+      ],
+      "answer": 0,
+      "expl": "Sans ʿArafa, pas de ḥajj : « Le pèlerinage, c'est ʿArafa. » Le rapport conjugal avant ʿArafa annule le pèlerinage ; on le termine, puis on le refait l'année suivante, avec un sacrifice. Les autres erreurs se réparent souvent par un sacrifice.",
+      "src": [
+        "Hadith d'ʿAbd ar-Raḥmān ibn Yaʿmar — Tirmidhi & Nasai"
+      ]
+    },
+    {
+      "id": "pil-t3-0015",
+      "concept": "pil.hajj.cailloux",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 3,
+      "type": "nombre",
+      "q": "Combien de cailloux lance-t-on sur la grande stèle (Jamrat al-ʿAqaba) le jour de l'Aïd ?",
+      "answer": 7,
+      "expl": "Sept cailloux, en disant Allāhu akbar à chaque jet. Les jours suivants, on lance sept cailloux sur chacune des trois stèles. Ce rite commémore Ibrāhīm repoussant le Shayṭān qui voulait le détourner de l'ordre d'Allah.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ]
+    },
+    {
+      "id": "pil-t3-0016",
+      "concept": "pil.hajj.maqam",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'est-ce que le « Maqām Ibrāhīm », près de la Kaʿba ?",
+      "choices": [
+        "Le puits de Zamzam, creusé pour Hājar",
+        "La pierre où il se tenait pour bâtir la Kaʿba",
+        "La tombe d'Ibrāhīm, sous la Kaʿba",
+        "Une montagne près de La Mecque"
+      ],
+      "answer": 1,
+      "expl": "« Prenez le lieu de station d'Ibrāhīm comme lieu de prière » (2:125). La pierre, protégée par une vitrine dorée, porte selon la tradition les traces de ses pieds. Après le ṭawāf, on prie deux rak'at derrière elle si possible.",
+      "src": [
+        "Coran 2:125"
+      ],
+      "tags": [
+        "prophete:ibrahim",
+        "sourate:2"
+      ]
+    },
+    {
+      "id": "pil-t3-0017",
+      "concept": "pil.hajj.wada",
+      "domain": "piliers",
+      "sub": "hajj",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel ṭawāf accomplit-on juste avant de quitter La Mecque ?",
+      "choices": [
+        "Le ṭawāf de la nuit",
+        "Aucun ṭawāf",
+        "Le ṭawāf d'adieu",
+        "Le ṭawāf de l'arrivée"
+      ],
+      "answer": 2,
+      "expl": "« Que nul ne parte avant que sa dernière action soit à la Maison. » Le Prophète ﷺ en dispensa la femme en période de règles. C'est un moment d'émotion où l'on fait ses adieux à la Kaʿba.",
+      "src": [
+        "Hadith d'Ibn ʿAbbās — Muslim"
+      ]
+    },
+    {
+      "id": "pil-t3-0018",
+      "concept": "pil.udhiya.defunt",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit l'école malikite du sacrifice de l'Aïd fait au nom d'une personne décédée ?",
+      "choices": [
+        "Il est obligatoire pour chaque défunt de la famille",
+        "Il est la seule aumône possible pour un mort",
+        "Il annule le sacrifice fait pour les vivants",
+        "Elle le déconseille sans testament ; l'aumône reste permise"
+      ],
+      "answer": 3,
+      "expl": "Le Prophète ﷺ sacrifia un bélier « pour Muḥammad, la famille de Muḥammad et la communauté de Muḥammad ». Les écoles en tirent des conclusions différentes pour le défunt. L'aumône et l'invocation pour les morts, elles, sont acceptées par tous.",
+      "src": [
+        "Hadith de ʿĀʾisha — Muslim"
+      ],
+      "note": "Hanbalites et hanafites autorisent le sacrifice au nom d'un défunt."
+    },
+    {
+      "id": "pil-t3-0019",
+      "concept": "pil.udhiya.partage-bete",
+      "domain": "piliers",
+      "sub": "udhiya",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disent les écoles à propos du partage d'une vache ou d'un chameau à plusieurs pour le sacrifice ?",
+      "choices": [
+        "Jusqu'à sept selon la majorité ; les malikites ne le retiennent pas",
+        "C'est obligatoire pour toute famille nombreuse qui en a les moyens",
+        "Cela n'est permis qu'avec un mouton",
+        "Aucune école n'en a jamais parlé"
+      ],
+      "answer": 0,
+      "expl": "Jābir rapporte qu'à al-Ḥudaybiya ils sacrifièrent un chameau pour sept et une vache pour sept. Les malikites appliquent ce partage au hady du pèlerinage mais préfèrent, pour l'uḍḥiya, qu'une personne possède sa bête et y associe les membres de son foyer.",
+      "src": [
+        "Hadith de Jābir ibn ʿAbd Allāh — Muslim"
+      ],
+      "note": "Divergence entre la majorité et les malikites."
+    }
+  ]
+}

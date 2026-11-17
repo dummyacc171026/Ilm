@@ -1,0 +1,206 @@
+{
+  "pack": "calendrier-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "cal-t3-0001",
+      "concept": "cal.hegirien.nasi",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle pratique d'avant l'islam, consistant à décaler les mois sacrés selon les intérêts du moment, le Coran a-t-il abolie ?",
+      "choices": [
+        "Le ẓihār",
+        "Le nasīʾ",
+        "L'īlāʾ",
+        "Le ribā"
+      ],
+      "answer": 1,
+      "expl": "« Le report d'un mois sacré à un autre n'est qu'un surcroît de mécréance » (9:37). Les Arabes déplaçaient les mois sacrés pour pouvoir faire la guerre. Lors du pèlerinage d'adieu, le Prophète ﷺ annonça que le temps avait retrouvé sa forme originelle.",
+      "src": [
+        "Coran 9:36-37",
+        "Hadith d'Abū Bakra — Bukhari & Muslim"
+      ],
+      "tags": [
+        "sourate:9"
+      ]
+    },
+    {
+      "id": "cal-t3-0002",
+      "concept": "cal.hegirien.annee-17",
+      "domain": "calendrier",
+      "sub": "hegirien",
+      "tier": 3,
+      "type": "qcm",
+      "q": "En quelle année de l'Hégire ʿUmar adopta-t-il officiellement le calendrier hégirien ?",
+      "choices": [
+        "Vers l'an 17",
+        "En l'an 1",
+        "En l'an 40",
+        "En l'an 100"
+      ],
+      "answer": 0,
+      "expl": "Le calendrier fut instauré environ dix-sept ans après l'Hégire, rétroactivement : on fixa l'an 1 à l'année de l'émigration. Avant, on désignait les années par des événements (« l'année de l'Éléphant », « l'année de la permission »…)."
+    },
+    {
+      "id": "cal-t3-0003",
+      "concept": "cal.aid.sens-id",
+      "domain": "calendrier",
+      "sub": "aid",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que signifie le mot « ʿīd » (fête) en arabe ?",
+      "choices": [
+        "Ce qui brille",
+        "Ce qui nourrit",
+        "Ce qui revient",
+        "Ce qui rassemble"
+      ],
+      "answer": 2,
+      "expl": "L'ʿīd est ce qui revient chaque année avec sa joie. Le Prophète ﷺ, arrivé à Médine où l'on avait deux jours de fête anciens, dit : « Allah vous les a remplacés par deux jours meilleurs : l'Aïd al-Aḍḥā et l'Aïd al-Fiṭr. »",
+      "src": [
+        "Hadith d'Anas ibn Mālik — Abu Dawud & Nasai"
+      ]
+    },
+    {
+      "id": "cal-t3-0004",
+      "concept": "cal.dates.mawlid-maroc",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quand la célébration du Mawlid devint-elle officielle au Maroc ?",
+      "choices": [
+        "Dès l'arrivée d'Idrīs Ier",
+        "Sous le protectorat français",
+        "Après l'indépendance en 1956",
+        "À l'époque mérinide, après Ceuta"
+      ],
+      "answer": 3,
+      "expl": "Le savant Abū l-ʿAbbās al-ʿAzafī de Ceuta encouragea le Mawlid pour que les musulmans aient leur propre fête face aux fêtes chrétiennes célébrées autour d'eux. Le sultan mérinide Abū Yaʿqūb Yūsuf en fit une fête officielle. En Orient, les premières célébrations publiques remontent aux Fatimides et au prince Muẓaffar ad-Dīn d'Irbil.",
+      "note": "Le Mawlid reste un sujet de divergence entre savants ; le Maroc le célèbre officiellement."
+    },
+    {
+      "id": "cal-t3-0005",
+      "concept": "cal.dates.achoura-chiites",
+      "domain": "calendrier",
+      "sub": "dates",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que commémorent les chiites le 10 Muḥarram, jour de ʿĀshūrāʾ ?",
+      "choices": [
+        "Le martyre d'al-Ḥusayn, par un deuil",
+        "La naissance de ʿAlī, par une fête",
+        "La fin du jeûne, par un repas",
+        "La victoire de Badr, par des chants"
+      ],
+      "answer": 0,
+      "expl": "Pour les sunnites, ʿĀshūrāʾ est surtout un jour de jeûne recommandé, en souvenir de la délivrance de Mūsā ; au Maroc, c'est aussi une fête familiale. Pour les chiites, c'est un jour de deuil intense en mémoire d'al-Ḥusayn, que tous les musulmans honorent."
+    },
+    {
+      "id": "cal-t3-0006",
+      "concept": "cal.mosquee.dirar",
+      "domain": "calendrier",
+      "sub": "mosquee",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Qu'est-ce que la « mosquée de la nuisance » (masjid aḍ-ḍirār) mentionnée dans le Coran ?",
+      "choices": [
+        "La première mosquée de Médine",
+        "Un lieu bâti par des hypocrites pour diviser",
+        "Une mosquée détruite par un séisme",
+        "La mosquée des deux qiblas"
+      ],
+      "answer": 1,
+      "expl": "« Ceux qui ont édifié une mosquée pour nuire, par mécréance et pour diviser les croyants… N'y prie jamais » (9:107-108). Le verset suivant loue au contraire la mosquée « fondée sur la piété dès le premier jour », Qubāʾ. Une mosquée se juge à l'intention de ceux qui la bâtissent.",
+      "src": [
+        "Coran 9:107-108"
+      ],
+      "tags": [
+        "sourate:9"
+      ]
+    },
+    {
+      "id": "cal-t3-0007",
+      "concept": "cal.maroc.canon",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle tradition annonçait autrefois, et parfois encore, la rupture du jeûne dans les villes marocaines ?",
+      "choices": [
+        "Une procession aux flambeaux",
+        "Un chant d'enfants dans les rues",
+        "Un coup de canon au coucher du soleil",
+        "Le son d'une cloche"
+      ],
+      "answer": 2,
+      "expl": "Dans de nombreuses villes du monde musulman, du Caire à Rabat, un canon tirait au moment du Maghrib pendant Ramadan. La tradition rapporte qu'elle serait née au Caire par hasard au XVe siècle. Aujourd'hui, la sirène ou l'adhān à la radio l'ont souvent remplacée."
+    },
+    {
+      "id": "cal-t3-0008",
+      "concept": "cal.maroc.imilchil",
+      "domain": "calendrier",
+      "sub": "maroc",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Pour quoi le moussem d'Imilchil, dans le Haut Atlas, est-il connu ?",
+      "choices": [
+        "Un festival de musique gnaoua",
+        "Une course de chameaux dans le désert",
+        "Une foire aux tapis de la ville",
+        "Un rassemblement des Aït Haddidou et ses mariages"
+      ],
+      "answer": 3,
+      "expl": "Autour du tombeau d'un saint local, les familles se retrouvent pour commercer, célébrer et conclure des mariages. La légende des lacs Isli et Tislit raconte deux amants séparés par leurs tribus. Une tradition amazighe très vivante."
+    },
+    {
+      "id": "cal-t3-0009",
+      "concept": "cal.monde.fetes",
+      "domain": "calendrier",
+      "sub": "monde",
+      "tier": 3,
+      "type": "paires",
+      "q": "Associe chaque pays à un nom ou une tradition de fête musulmane.",
+      "pairs": [
+        [
+          "Turquie",
+          "« Şeker Bayramı », la fête du sucre, pour l'Aïd al-Fiṭr"
+        ],
+        [
+          "Sénégal",
+          "« Tabaski », nom de l'Aïd al-Aḍḥā"
+        ],
+        [
+          "Indonésie",
+          "« Mudik », le grand retour au village pour l'Aïd"
+        ],
+        [
+          "Égypte",
+          "Les lanternes de Ramadan (fanous)"
+        ]
+      ],
+      "expl": "Partout, les fêtes musulmanes prennent les couleurs locales : bonbons offerts en Turquie, moutons et boubous neufs au Sénégal, millions de voyageurs sur les routes en Indonésie, lanternes colorées dans les rues du Caire. Au Maroc, on dit « l-ʿīd ṣ-ṣghīr » et « l-ʿīd l-kbīr »."
+    },
+    {
+      "id": "cal-t3-0010",
+      "concept": "cal.monde.touba",
+      "domain": "calendrier",
+      "sub": "monde",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel grand pèlerinage annuel rassemble des millions de fidèles de la confrérie mouride à Touba, au Sénégal ?",
+      "choices": [
+        "Le Grand Magal",
+        "Le Mawlid de Fès",
+        "Le moussem d'Imilchil",
+        "La ʿumra"
+      ],
+      "answer": 0,
+      "expl": "Le Grand Magal commémore l'exil du cheikh Ahmadou Bamba, fondateur de la confrérie mouride, par l'administration coloniale française en 1895. C'est l'un des plus grands rassemblements religieux d'Afrique de l'Ouest.",
+      "note": "Événement d'une confrérie soufie, présenté ici de manière factuelle."
+    }
+  ]
+}

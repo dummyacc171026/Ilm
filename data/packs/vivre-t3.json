@@ -1,0 +1,206 @@
+{
+  "pack": "vivre-t3",
+  "version": 1,
+  "lang": "fr",
+  "questions": [
+    {
+      "id": "viv-t3-0001",
+      "concept": "viv.france.narbonne",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle ville du sud de la France fut sous autorité musulmane pendant environ quarante ans au VIIIe siècle ?",
+      "choices": [
+        "Strasbourg",
+        "Narbonne",
+        "Lyon",
+        "Bordeaux"
+      ],
+      "answer": 1,
+      "expl": "Les troupes d'al-Andalus prirent Narbonne vers 719 et la gardèrent jusque vers 759. Au Xe siècle, une colonie musulmane s'installa aussi à Fraxinet, dans le massif des Maures, en Provence. La présence musulmane en France est donc très ancienne."
+    },
+    {
+      "id": "viv-t3-0002",
+      "concept": "viv.france.toulon",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que se passa-t-il à Toulon pendant l'hiver 1543-1544, dans le cadre de l'alliance entre François Ier et Soliman le Magnifique ?",
+      "choices": [
+        "Une bataille navale y fut perdue",
+        "Le sultan y fit construire une mosquée",
+        "La flotte ottomane y hiverna",
+        "Les Français y firent la paix avec Venise"
+      ],
+      "answer": 2,
+      "expl": "Alliés contre Charles Quint, la France et l'Empire ottoman coopérèrent militairement. Pendant quelques mois, Toulon accueillit des milliers de marins ottomans ; on y entendit l'appel à la prière. Un épisode peu connu de l'histoire franco-musulmane."
+    },
+    {
+      "id": "viv-t3-0003",
+      "concept": "viv.france.soldats",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel rôle les soldats musulmans ont-ils joué dans les guerres mondiales du XXe siècle en France ?",
+      "choices": [
+        "Ils restèrent neutres pendant les deux guerres",
+        "Ils combattirent contre la France",
+        "Ils ne servirent que comme cuisiniers",
+        "Des centaines de milliers combattirent pour la France"
+      ],
+      "answer": 3,
+      "expl": "Tirailleurs marocains, algériens, tunisiens et sénégalais, goumiers et spahis ont combattu en 1914-1918 puis en 1939-1945, comme à Monte Cassino ou lors du débarquement de Provence. La Grande Mosquée de Paris fut bâtie en leur honneur. Beaucoup reposent dans des carrés musulmans militaires."
+    },
+    {
+      "id": "viv-t3-0004",
+      "concept": "viv.france.ima",
+      "domain": "vivre",
+      "sub": "france",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel établissement culturel parisien, inauguré en 1987 et conçu notamment par Jean Nouvel, fait connaître les civilisations arabes ?",
+      "choices": [
+        "L'Institut du monde arabe",
+        "Le Louvre Abu Dhabi",
+        "La Grande Mosquée",
+        "Le musée du quai Branly"
+      ],
+      "answer": 0,
+      "expl": "L'Institut du monde arabe abrite un musée, une bibliothèque et des expositions. Sa façade est composée de moucharabiehs métalliques qui s'ouvrent et se ferment selon la lumière. Le Louvre possède aussi un grand département des arts de l'Islam depuis 2012."
+    },
+    {
+      "id": "viv-t3-0005",
+      "concept": "viv.autres-religions.francois",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle rencontre célèbre eut lieu en 1219, pendant la cinquième croisade, en Égypte ?",
+      "choices": [
+        "Saladin rencontra Richard Cœur de Lion",
+        "François d'Assise reçu par le sultan al-Kāmil",
+        "Le pape rencontra le calife de Bagdad",
+        "Louis IX fut libéré par les Mamelouks"
+      ],
+      "answer": 1,
+      "expl": "François traversa les lignes pour parler au sultan, neveu de Ṣalāḥ ad-Dīn, qui l'écouta et le laissa repartir libre. Cette rencontre est devenue un symbole du dialogue islamo-chrétien, rappelé par le pape François lors de sa visite à Abou Dhabi en 2019."
+    },
+    {
+      "id": "viv-t3-0006",
+      "concept": "viv.autres-religions.jean-paul",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quel événement eut lieu au stade de Casablanca en 1985, à l'invitation du roi Hassan II ?",
+      "choices": [
+        "Un concert de musique gnaoua",
+        "La finale de la Coupe d'Afrique",
+        "Jean-Paul II parla à de jeunes musulmans",
+        "La signature d'un traité de paix"
+      ],
+      "answer": 2,
+      "expl": "C'était la première fois qu'un pape était invité officiellement par un chef d'État musulman pour parler à des jeunes musulmans. Il insista sur la foi commune en un Dieu unique et le respect mutuel. Le pape François visita aussi Rabat en 2019, reçu par Mohammed VI."
+    },
+    {
+      "id": "viv-t3-0007",
+      "concept": "viv.autres-religions.abraham",
+      "domain": "vivre",
+      "sub": "autres-religions",
+      "tier": 3,
+      "type": "vf",
+      "q": "Juifs, chrétiens et musulmans se réfèrent tous à Ibrāhīm (Abraham), d'où l'expression « religions abrahamiques ».",
+      "answer": true,
+      "expl": "Le Coran présente Ibrāhīm comme le modèle du croyant soumis à Dieu, ni juif ni chrétien. Les trois traditions le vénèrent, et sa tombe supposée à Hébron est un lieu saint commun, hélas souvent disputé.",
+      "src": [
+        "Coran 3:67-68"
+      ],
+      "tags": [
+        "prophete:ibrahim"
+      ]
+    },
+    {
+      "id": "viv-t3-0008",
+      "concept": "viv.idees-recues.europe-ancien",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 3,
+      "type": "qcm",
+      "q": "L'islam est-il une religion récente en Europe ?",
+      "choices": [
+        "Oui : arrivé au XXe siècle",
+        "Oui : arrivé avec Internet",
+        "Non : présent depuis l'Antiquité grecque",
+        "Non : présent depuis le VIIIe siècle"
+      ],
+      "answer": 3,
+      "expl": "Al-Andalus a duré près de huit siècles, la Sicile fut musulmane plus de deux siècles, et l'islam est présent dans les Balkans depuis l'époque ottomane. L'immigration du XXe siècle n'est qu'un chapitre récent d'une longue histoire."
+    },
+    {
+      "id": "viv-t3-0009",
+      "concept": "viv.idees-recues.hijab",
+      "domain": "vivre",
+      "sub": "idees-recues",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que disent les savants à propos du voile féminin (ḥijāb) ?",
+      "choices": [
+        "Obligation pour la majorité, acte de foi libre, sans jugement",
+        "Simple coutume arabe ancienne, sans lien religieux",
+        "Obligatoire dès l'âge de trois ans",
+        "Interdit par la plupart des savants"
+      ],
+      "answer": 0,
+      "expl": "Les savants s'appuient sur les versets 24:31 et 33:59. En pratique, chaque femme avance à son rythme dans sa foi ; l'islam rejette autant la contrainte que le mépris envers celles qui le portent ou ne le portent pas encore.",
+      "src": [
+        "Coran 24:31",
+        "Coran 33:59"
+      ],
+      "note": "Quelques voix contemporaines minoritaires contestent son caractère obligatoire."
+    },
+    {
+      "id": "viv-t3-0010",
+      "concept": "viv.famille.conjoint-non-pratiquant",
+      "domain": "vivre",
+      "sub": "famille",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Quelle attitude est conseillée quand l'un des époux souhaite pratiquer davantage que l'autre ?",
+      "choices": [
+        "Exiger qu'il pratique tout dès demain",
+        "Avancer avec douceur, par l'exemple et le partage",
+        "Le menacer de partir s'il ne change pas",
+        "Ne plus jamais en parler"
+      ],
+      "answer": 1,
+      "expl": "Le Coran rappelle : « Pas de contrainte en religion », et le Prophète ﷺ disait : « Facilitez. » Beaucoup de couples se rapprochent en apprenant ensemble, sans jugement. La patience et l'affection sont les meilleurs arguments.",
+      "src": [
+        "Coran 2:256",
+        "Hadith d'Anas ibn Mālik — Bukhari & Muslim"
+      ]
+    },
+    {
+      "id": "viv-t3-0011",
+      "concept": "viv.foi-quotidien.malade-visite",
+      "domain": "vivre",
+      "sub": "foi-quotidien",
+      "tier": 3,
+      "type": "qcm",
+      "q": "Que dit le hadith qudsī à propos de la visite d'un malade ?",
+      "choices": [
+        "« Les malades doivent rester seuls »",
+        "« Seuls les médecins visitent les malades »",
+        "« J'étais malade et tu ne M'as pas visité… »",
+        "« La visite est réservée à la famille »"
+      ],
+      "answer": 2,
+      "expl": "Ce hadith bouleversant montre qu'Allah est « présent » auprès de ceux qui souffrent : en les visitant, on se rapproche de Lui. Il en va de même pour celui qui nourrit l'affamé et abreuve l'assoiffé.",
+      "src": [
+        "Hadith d'Abū Hurayra — Muslim"
+      ]
+    }
+  ]
+}
